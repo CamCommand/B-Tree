@@ -1,0 +1,260 @@
+<div id="bodyContent" class="mw-body-content"> 
+ <div id="siteSub" class="noprint">
+  From Wikipedia, the free encyclopedia
+ </div> 
+ <div id="contentSub"></div> 
+ <div id="jump-to-nav"></div> 
+ <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> 
+ <a class="mw-jump-link" href="#p-search">Jump to search</a> 
+ <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+  <div class="mw-parser-output">
+   <div role="note" class="hatnote navigation-not-searchable">
+    This article is about the cricketer. For the philatelist, see 
+    <a href="/wiki/Gilbert_Collett_(philatelist)" title="Gilbert Collett (philatelist)">Gilbert Collett (philatelist)</a>.
+   </div> 
+   <p class="mw-empty-elt"> </p> 
+   <table class="infobox vcard" style="width:22em">
+    <caption>
+     Gilbert Collett
+    </caption>
+    <tbody>
+     <tr>
+      <th scope="row" style="white-space:nowrap;">Birth name</th>
+      <td>Gilbert Faraday Collett</td>
+     </tr>
+     <tr>
+      <th scope="row" style="white-space:nowrap;">Date of birth</th>
+      <td><span style="display:none">(<span class="bday">1879-07-18</span>)</span>18 July 1879</td>
+     </tr>
+     <tr>
+      <th scope="row" style="white-space:nowrap;">Place of birth</th>
+      <td><a href="/wiki/Gloucester" title="Gloucester">Gloucester</a>, England</td>
+     </tr>
+     <tr>
+      <th scope="row" style="white-space:nowrap;">Date of death</th>
+      <td>25 February 1945<span style="display:none">(1945-02-25)</span> (aged&nbsp;65)</td>
+     </tr>
+     <tr>
+      <th scope="row" style="white-space:nowrap;">Place of death</th>
+      <td><a href="/w/index.php?title=Huddlecote&amp;action=edit&amp;redlink=1" class="new" title="Huddlecote (page does not exist)">Huddlecote</a>, England</td>
+     </tr>
+     <tr>
+      <th scope="row" style="white-space:nowrap;">School</th>
+      <td><a href="/wiki/Cheltenham_College" title="Cheltenham College">Cheltenham College</a></td>
+     </tr>
+     <tr>
+      <th scope="row" style="white-space:nowrap;">University</th>
+      <td><a href="/wiki/Pembroke_College,_Cambridge" title="Pembroke College, Cambridge">Pembroke College, Cambridge</a></td>
+     </tr>
+     <tr>
+      <th scope="row" style="white-space:nowrap;">Occupation(s)</th>
+      <td>Chemical Manufacturer</td>
+     </tr>
+     <tr>
+      <th colspan="2" style="text-align:center;background-color: #b0c4de;">Rugby union career</th>
+     </tr>
+     <tr>
+      <td colspan="2" style="text-align:center">
+       <table class="infobox" style="padding:0;border:none;margin:auto;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent">
+        <tbody>
+         <tr>
+          <th scope="row" style="white-space:nowrap; font-weight: normal;"><b>Position(s)</b></th>
+          <td colspan="3" class="role" style="white-space: nowrap; vertical-align: baseline"> <a href="/wiki/Rugby_union_positions#14._&amp;_11._Wing" title="Rugby union positions">Wing</a></td>
+         </tr>
+         <tr>
+          <th colspan="4" style="text-align:center;background-color: #e0ffff;">Amateur team(s)</th>
+         </tr>
+         <tr>
+          <th scope="row" style="white-space:nowrap; font-weight: normal;"><b>Years</b></th>
+          <td style="white-space: nowrap; vertical-align: baseline"> <b>Team</b></td>
+          <td style="white-space: nowrap; vertical-align: baseline; text-align: right"> <b>Apps</b></td>
+          <td style="white-space: nowrap; vertical-align: baseline; text-align: right"> <b>(Points)</b></td>
+         </tr>
+         <tr>
+          <th scope="row" style="white-space:nowrap; font-weight: normal;"></th>
+          <td style="white-space: nowrap; vertical-align: baseline"> <a href="/wiki/Cambridge_University_R.U.F.C." title="Cambridge University R.U.F.C.">Cambridge University R.U.F.C.</a><br><a href="/w/index.php?title=Cheltenham_RFC&amp;action=edit&amp;redlink=1" class="new" title="Cheltenham RFC (page does not exist)">Cheltenham RFC</a><br><a href="/wiki/Barbarian_F.C." title="Barbarian F.C.">Barbarians</a></td>
+          <td style="white-space: nowrap; vertical-align: baseline; text-align: right"> </td>
+          <td style="white-space: nowrap; vertical-align: baseline; text-align: right"> ()</td>
+         </tr>
+         <tr>
+          <th colspan="4" style="text-align:center;background-color: #e0ffff;">National team(s)</th>
+         </tr>
+         <tr>
+          <th scope="row" style="white-space:nowrap; font-weight: normal;"><b>Years</b></th>
+          <td style="white-space: nowrap; vertical-align: baseline"> <b>Team</b></td>
+          <td style="white-space: nowrap; vertical-align: baseline; text-align: right"> <b>Apps</b></td>
+          <td style="white-space: nowrap; vertical-align: baseline; text-align: right"> <b>(Points)</b></td>
+         </tr>
+         <tr>
+          <th scope="row" style="white-space:nowrap; font-weight: normal;">1903</th>
+          <td style="white-space: nowrap; vertical-align: baseline"> <a href="/wiki/British_and_Irish_Lions" title="British and Irish Lions">British Isles</a></td>
+          <td style="white-space: nowrap; vertical-align: baseline; text-align: right"> 3</td>
+          <td style="white-space: nowrap; vertical-align: baseline; text-align: right"> (0)</td>
+         </tr>
+        </tbody>
+       </table></td>
+     </tr>
+    </tbody>
+   </table> 
+   <p><a href="/wiki/Lieutenant_Colonel" class="mw-redirect" title="Lieutenant Colonel">Lt. Colonel</a> <b>Gilbert Faraday Collett</b> <a href="/wiki/Distinguished_Service_Order" title="Distinguished Service Order">DSO</a> (18 July 1879 – 25 February 1945)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> was an English sportsman who was an international <a href="/wiki/Rugby_union" title="Rugby union">rugby union</a> wing and <a href="/wiki/First-class_cricket" title="First-class cricket">first-class cricketer</a> for <a href="/wiki/Gloucestershire_County_Cricket_Club" title="Gloucestershire County Cricket Club">Gloucestershire County Cricket Club</a>. As a rugby footballer he represented <a href="/wiki/Cambridge_University_R.U.F.C." title="Cambridge University R.U.F.C.">Cambridge University</a> and Cheltenham at club level. Collett also played international rugby for the <a href="/wiki/British_and_Irish_Lions" title="British and Irish Lions">British Isles</a> during the <a href="/wiki/1903_British_Lions_tour_to_South_Africa" title="1903 British Lions tour to South Africa">1903 tour of South Africa</a> but was never selected for the <a href="/wiki/England_national_rugby_union_team" title="England national rugby union team">England national team</a>. </p> 
+   <div id="toc" class="toc">
+    <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+    <div class="toctitle" lang="en" dir="ltr">
+     <h2>Contents</h2>
+     <span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+    </div> 
+    <ul> 
+     <li class="toclevel-1 tocsection-1"><a href="#Personal_history"><span class="tocnumber">1</span> <span class="toctext">Personal history</span></a></li> 
+     <li class="toclevel-1 tocsection-2"><a href="#Rugby_career"><span class="tocnumber">2</span> <span class="toctext">Rugby career</span></a></li> 
+     <li class="toclevel-1 tocsection-3"><a href="#Bibliography"><span class="tocnumber">3</span> <span class="toctext">Bibliography</span></a></li> 
+     <li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li> 
+    </ul> 
+   </div> 
+   <h2><span class="mw-headline" id="Personal_history">Personal history</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gilbert_Collett&amp;action=edit&amp;section=1" title="Edit section: Personal history">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <p>Collett was born in 1879 in Wynstone Place, near Gloucester to John Martin Collett, of Guy's Cliff, Wolton. He was educated at <a href="/wiki/Cheltenham_College" title="Cheltenham College">Cheltenham College</a> before matriculating to <a href="/wiki/Pembroke_College,_Cambridge" title="Pembroke College, Cambridge">Pembroke College, Cambridge</a> in 1898.<sup id="cite_ref-Venn_2-0" class="reference"><a href="#cite_note-Venn-2">[2]</a></sup> He gained his BA in 1901, and his MA in 1905, before becoming managing director of family company, J. M. Collett and Co. Ltd, a chemical manufacturer. </p>
+   <p>With the outbreak of the First World War, Collett joined the British Army and was posted to the 5th Battalion of the <a href="/wiki/Gloucestershire_Regiment" title="Gloucestershire Regiment">Gloucestershire Regiment</a>. On 12 August 1914 he was promoted to captain.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> During the war Collett was <a href="/wiki/Mentioned_in_Despatches" class="mw-redirect" title="Mentioned in Despatches">Mentioned in Despatches</a> three times and was awarded the <a href="/wiki/Distinguished_Service_Order" title="Distinguished Service Order">Distinguished Service Order</a>. In 1934, on reaching the age of 55 he was retired from the forces, but retained his rank, Lieutenant Colonel, and uniform.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> </p> 
+   <h2><span class="mw-headline" id="Rugby_career">Rugby career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gilbert_Collett&amp;action=edit&amp;section=2" title="Edit section: Rugby career">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <p>Collett first came to note as a rugby player when he represented Cambridge University. In 1898, Collett was part of the Cambridge team that faced <a href="/wiki/Oxford_University_RFC" title="Oxford University RFC">Oxford University</a> in <a href="/wiki/The_Varsity_Match" title="The Varsity Match">the Varsity Match</a>, winning his first and only sporting 'Blue'. After Oxford lost Nelson, their captain, to an ankle injury, Cambridge took control of the forward positions and won the game comfortably. The 1898/99 season saw Collett invited to join touring team, <a href="/wiki/Barbarian_F.C." title="Barbarian F.C.">the Barbarians</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> </p>
+   <p>By 1903, Collett was playing club rugby for Cheltenham and county rugby for Gloucestershire. Although he had not played international rugby before, he was offered a place on the 1903 British Isles tour of South Africa. Collett played in 20 of the 22 match tour, including all three Test games against the <a href="/wiki/South_Africa_national_rugby_union_team" title="South Africa national rugby union team">South African national team</a>. Collett was a prolific scoring during the first half of the tour, with a dropped goal in his first match against an invitational Western Province Country team, followed by eight <a href="/wiki/Try" title="Try">tries</a> over the next 11 games, including two tries in both games against King William's Town and <a href="/wiki/Griquas_(rugby)" title="Griquas (rugby)">Griqualand West</a>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> In the final eight games he was selected for, including the three tests, Collett failed to add to his score tally. </p>
+   <p>During the First World War, Collett was touch judge for a rugby match played between British troops from the Gloucestershire Regiment, which included club county and international players. The match was played between the South Midland Division (48th) and the 4th Division.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> </p> 
+   <h2><span class="mw-headline" id="Bibliography">Bibliography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gilbert_Collett&amp;action=edit&amp;section=3" title="Edit section: Bibliography">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <ul>
+    <li><cite class="citation book">Marshall, Howard; Jordon, J.P. (1951). <i>Oxford v Cambridge, The Story of the University Rugby Match</i>. London: Clerke &amp; Cockeran.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Oxford+v+Cambridge%2C+The+Story+of+the+University+Rugby+Match&amp;rft.place=London&amp;rft.pub=Clerke+%26+Cockeran&amp;rft.date=1951&amp;rft.aulast=Marshall&amp;rft.aufirst=Howard&amp;rft.au=Jordon%2C+J.P.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGilbert+Collett" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></li>
+   </ul> 
+   <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gilbert_Collett&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <div class="reflist" style="list-style-type: decimal;"> 
+    <div class="mw-references-wrap">
+     <ol class="references"> 
+      <li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.scrum.com/scrum/rugby/player/1583.html">Gilbert Collett rugby profile</a> Scrum.com</span> </li> 
+      <li id="cite_note-Venn-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-Venn_2-0">^</a></b></span> <span class="reference-text"><cite id="CITEREFACADCLT898GF" class="citation encyclopaedia"><a rel="nofollow" class="external text" href="http://venn.lib.cam.ac.uk/cgi-bin/search-2016.pl?sur=&amp;suro=w&amp;fir=&amp;firo=c&amp;cit=&amp;cito=c&amp;c=all&amp;z=all&amp;tex=CLT898GF&amp;sye=&amp;eye=&amp;col=all&amp;maxcount=50">"Collett, Gilbert Faraday (CLT898GF)"</a>. <i>A Cambridge Alumni Database</i>. University of Cambridge.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Collett%2C+Gilbert+Faraday+%28CLT898GF%29&amp;rft.btitle=A+Cambridge+Alumni+Database&amp;rft.pub=University+of+Cambridge&amp;rft_id=http%3A%2F%2Fvenn.lib.cam.ac.uk%2Fcgi-bin%2Fsearch-2016.pl%3Fsur%3D%26suro%3Dw%26fir%3D%26firo%3Dc%26cit%3D%26cito%3Dc%26c%3Dall%26z%3Dall%26tex%3DCLT898GF%26sye%3D%26eye%3D%26col%3Dall%26maxcount%3D50&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGilbert+Collett" class="Z3988"></span>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+      <li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite id="CITEREFGazette28867" class="citation magazine"><a rel="nofollow" class="external text" href="https://www.thegazette.co.uk/London/issue/28867/supplement/6308">"No. 28867"</a>. <i><a href="/wiki/The_London_Gazette" title="The London Gazette">The London Gazette</a></i> (Supplement). 11 August 1914. p.&nbsp;6308.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+London+Gazette&amp;rft.atitle=No.+28867&amp;rft.pages=6308&amp;rft.date=1914-08-11&amp;rft_id=https%3A%2F%2Fwww.thegazette.co.uk%2FLondon%2Fissue%2F28867%2Fsupplement%2F6308&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGilbert+Collett" class="Z3988"></span>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+      <li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite id="CITEREFGazette34070" class="citation magazine"><a rel="nofollow" class="external text" href="https://www.thegazette.co.uk/London/issue/34070/supplement/4593">"No. 34070"</a>. <i><a href="/wiki/The_London_Gazette" title="The London Gazette">The London Gazette</a></i> (Supplement). 17 July 1934. p.&nbsp;4593.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+London+Gazette&amp;rft.atitle=No.+34070&amp;rft.pages=4593&amp;rft.date=1934-07-17&amp;rft_id=https%3A%2F%2Fwww.thegazette.co.uk%2FLondon%2Fissue%2F34070%2Fsupplement%2F4593&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGilbert+Collett" class="Z3988"></span>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+      <li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation book">Starmer-Smith, Nigel (1977). <i>The Barbarians</i>. Macdonald &amp; Jane's Publishers. p.&nbsp;219. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/0-86007-552-4" title="Special:BookSources/0-86007-552-4"><bdi>0-86007-552-4</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Barbarians&amp;rft.pages=219&amp;rft.pub=Macdonald+%26+Jane%27s+Publishers&amp;rft.date=1977&amp;rft.isbn=0-86007-552-4&amp;rft.aulast=Starmer-Smith&amp;rft.aufirst=Nigel&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGilbert+Collett" class="Z3988"></span>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+      <li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.lionsrugby.com/6012.php?player=74413&amp;includeref=dynamic">Gilbert Collett Lions profile</a> lionsrugby.com</span> </li> 
+      <li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://archive.org/stream/lifeofronaldpoul00pouluoft/lifeofronaldpoul00pouluoft_djvu.txt">The Life of Ronald Poulton</a> Poulton, Edward Bagnall (1919)</span> </li> 
+     </ol>
+    </div>
+   </div> 
+   <div role="navigation" class="navbox" aria-labelledby="British_and_Irish_Lions_–_1903_South_Africa_tour" style="padding:3px">
+    <table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+     <tbody>
+      <tr>
+       <th scope="col" class="navbox-title" colspan="2">
+        <div class="plainlinks hlist navbar mini">
+         <ul>
+          <li class="nv-view"><a href="/wiki/Template:British_and_Irish_Lions_1903" title="Template:British and Irish Lions 1903"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+          <li class="nv-talk"><a href="/wiki/Template_talk:British_and_Irish_Lions_1903" title="Template talk:British and Irish Lions 1903"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+          <li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:British_and_Irish_Lions_1903&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+         </ul>
+        </div>
+        <div id="British_and_Irish_Lions_–_1903_South_Africa_tour" style="font-size:114%;margin:0 4em">
+         <a href="/wiki/British_and_Irish_Lions" title="British and Irish Lions">British and Irish Lions</a>&nbsp;–&nbsp;
+         <a href="/wiki/1903_British_Lions_tour_to_South_Africa" title="1903 British Lions tour to South Africa">1903 South Africa tour</a>
+        </div></th>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%">Forwards</th>
+       <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><a href="/wiki/David_Bedell-Sivright" title="David Bedell-Sivright">Bedell-Sivright</a> (<a href="/wiki/Cambridge_University_R.U.F.C." title="Cambridge University R.U.F.C.">Cambridge University</a> and <a href="/wiki/Scotland_national_rugby_union_team" title="Scotland national rugby union team">Scotland</a>)</li> 
+          <li><a href="/wiki/William_Cave_(rugby_player)" class="mw-redirect" title="William Cave (rugby player)">Cave</a> (<a href="/wiki/Cambridge_University_R.U.F.C." title="Cambridge University R.U.F.C.">Cambridge University</a>/<a href="/wiki/Blackheath_F.C." title="Blackheath F.C.">Blackheath F.C.</a>/<a href="/w/index.php?title=Kent_County_Rugby_Union&amp;action=edit&amp;redlink=1" class="new" title="Kent County Rugby Union (page does not exist)">Kent</a>)</li> 
+          <li><a href="/wiki/Thomas_Alexander_Gibson" class="mw-redirect" title="Thomas Alexander Gibson">Gibson</a> (<a href="/wiki/Cambridge_University_R.U.F.C." title="Cambridge University R.U.F.C.">Cambridge University</a>)</li> 
+          <li><a href="/wiki/J.C._Hosack" class="mw-redirect" title="J.C. Hosack">Hosack</a> (<a href="/wiki/Edinburgh_Wanderers" title="Edinburgh Wanderers">Edinburgh Wanderers</a>)</li> 
+          <li><a href="/wiki/Mark_Coxon_Morrison" title="Mark Coxon Morrison">Morrison</a> (<a href="/wiki/Royal_HSFP" title="Royal HSFP">Royal HSFP</a> and <a href="/wiki/Scotland_national_rugby_union_team" title="Scotland national rugby union team">Scotland</a>) <i><b>(capt)</b></i></li> 
+          <li><a href="/wiki/William_Patrick_Scott" title="William Patrick Scott">Scott</a> (<a href="/wiki/West_of_Scotland_F.C." title="West of Scotland F.C.">West of Scotland</a> and <a href="/wiki/Scotland_national_rugby_union_team" title="Scotland national rugby union team">Scotland</a>)</li> 
+          <li><a href="/wiki/Robertson_Smyth" title="Robertson Smyth">Smyth</a> (<a href="/wiki/Dublin_University_Football_Club" title="Dublin University Football Club">Dublin University</a> and <a href="/wiki/Ireland_national_rugby_union_team" title="Ireland national rugby union team">Ireland</a>)</li> 
+          <li><a href="/wiki/Frank_Stout" title="Frank Stout">Stout</a> (<a href="/wiki/Richmond_F.C." title="Richmond F.C.">Richmond</a>/<a href="/wiki/Barbarian_F.C." title="Barbarian F.C.">Barbarian F.C.</a>/<a href="/wiki/Gloucester_Rugby" title="Gloucester Rugby">Gloucester</a> and <a href="/wiki/England_national_rugby_union_team" title="England national rugby union team">England</a>)</li> 
+          <li><a href="/wiki/Alfred_Tedford" title="Alfred Tedford">Tedford</a> (<a href="/wiki/Malone_RFC" title="Malone RFC">Malone RFC</a> and <a href="/wiki/Ireland_national_rugby_union_team" title="Ireland national rugby union team">Ireland</a>)</li> 
+          <li>James Wallace (<a href="/wiki/Wanderers_F.C._(rugby_union)" title="Wanderers F.C. (rugby union)">Wanderers</a>/<a href="/wiki/Dublin_University_Football_Club" title="Dublin University Football Club">Dublin University</a>)</li> 
+          <li>Joseph Wallace (<a href="/wiki/Wanderers_F.C._(rugby_union)" title="Wanderers F.C. (rugby union)">Wanderers</a>/<a href="/wiki/Dublin_University_Football_Club" title="Dublin University Football Club">Dublin University</a> and <a href="/wiki/Ireland_national_rugby_union_team" title="Ireland national rugby union team">Ireland</a>)</li>
+         </ul> 
+        </div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%">Backs</th>
+       <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><a class="mw-selflink selflink">Collett</a> (Gloucestershire/<a href="/wiki/Cambridge_University_R.U.F.C." title="Cambridge University R.U.F.C.">Cambridge University</a>)</li> 
+          <li><a href="/wiki/Ian_Davidson_(rugby_player)" title="Ian Davidson (rugby player)">Davidson</a> (<a href="/wiki/North_of_Ireland_FC" class="mw-redirect" title="North of Ireland FC">North of Ireland</a>)</li> 
+          <li><a href="/wiki/John_Imrie_Gillespie" class="mw-redirect" title="John Imrie Gillespie">Gillespie</a> (<a href="/wiki/Edinburgh_Academical_Football_Club" title="Edinburgh Academical Football Club">Edinburgh Academicals</a> and <a href="/wiki/Scotland_national_rugby_union_team" title="Scotland national rugby union team">Scotland</a>)</li> 
+          <li><a href="/wiki/Louis_Leisler_Greig" class="mw-redirect" title="Louis Leisler Greig">Greig</a> (<a href="/wiki/Cambridge_University_R.U.F.C." title="Cambridge University R.U.F.C.">Cambridge University</a>/<a href="/wiki/Glasgow_Academicals_Football_Club" class="mw-redirect" title="Glasgow Academicals Football Club">Glasgow Academicals</a>/<a href="/wiki/United_Services_Portsmouth_Rugby_Football_Club" title="United Services Portsmouth Rugby Football Club">United Services</a> and <a href="/wiki/Scotland_national_rugby_union_team" title="Scotland national rugby union team">Scotland</a>)</li> 
+          <li><a href="/wiki/Patrick_Hancock" title="Patrick Hancock">Hancock</a> (<a href="/wiki/Richmond_F.C." title="Richmond F.C.">Richmond</a>/<a href="/w/index.php?title=Surrey_County_Rugby_Union&amp;action=edit&amp;redlink=1" class="new" title="Surrey County Rugby Union (page does not exist)">Surrey</a>)</li> 
+          <li><a href="/w/index.php?title=Edward_Montague_Harrison&amp;action=edit&amp;redlink=1" class="new" title="Edward Montague Harrison (page does not exist)">Harrison</a> (<a href="/wiki/Guy%27s,_Kings_and_St._Thomas%27_Rugby_Football_Club" class="mw-redirect" title="Guy's, Kings and St. Thomas' Rugby Football Club">Guy's Hospital</a>/<a href="/w/index.php?title=Middlesex_County_Rugby_Union&amp;action=edit&amp;redlink=1" class="new" title="Middlesex County Rugby Union (page does not exist)">Middlesex</a>/<a href="/wiki/Barbarian_F.C." title="Barbarian F.C.">Barbarian F.C.</a>)</li> 
+          <li><a href="/wiki/Alfred_Hind" title="Alfred Hind">Hind</a> (<a href="/wiki/Cambridge_University_R.U.F.C." title="Cambridge University R.U.F.C.">Cambridge University</a>/<a href="/wiki/Leicester_Tigers" title="Leicester Tigers">Leicester</a>/<a href="/w/index.php?title=Midland_Counties_Rugby_Union&amp;action=edit&amp;redlink=1" class="new" title="Midland Counties Rugby Union (page does not exist)">Midland Counties</a>)</li> 
+          <li><a href="/wiki/Robert_Miln_Neill" title="Robert Miln Neill">Neill</a> (<a href="/wiki/Edinburgh_Academical_Football_Club" title="Edinburgh Academical Football Club">Edinburgh Academicals</a> and <a href="/wiki/Scotland_national_rugby_union_team" title="Scotland national rugby union team">Scotland</a>)</li> 
+          <li><a href="/wiki/Reg_Skrimshire" title="Reg Skrimshire">Skrimshaw</a> (<a href="/wiki/Newport_RFC" title="Newport RFC">Newport</a>/<a href="/wiki/Blackheath_F.C." title="Blackheath F.C.">Blackheath F.C.</a>/<a href="/w/index.php?title=Kent_County_Rugby_Union&amp;action=edit&amp;redlink=1" class="new" title="Kent County Rugby Union (page does not exist)">Kent</a>/<a href="/wiki/Barbarian_F.C." title="Barbarian F.C.">Barbarian F.C.</a>)</li> 
+          <li><a href="/wiki/Edward_Forbes_Walker" title="Edward Forbes Walker">Walker</a> (<a href="/wiki/Lennox_Football_Club" title="Lennox Football Club">Lennox</a>/<a href="/w/index.php?title=Middlesex_County_Rugby_Union&amp;action=edit&amp;redlink=1" class="new" title="Middlesex County Rugby Union (page does not exist)">Middlesex</a>)</li>
+         </ul> 
+        </div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%">Coach</th>
+       <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em">
+         Manager: 
+         <a href="/wiki/Johnny_Hammond_(rugby_player)" class="mw-redirect" title="Johnny Hammond (rugby player)">Hammond</a>
+        </div></td>
+      </tr>
+     </tbody>
+    </table>
+   </div> 
+   <!-- 
+NewPP limit report
+Parsed by mw1227
+Cached time: 20190425114646
+Cache expiry: 86400
+Dynamic content: true
+CPU time usage: 0.680 seconds
+Real time usage: 0.870 seconds
+Preprocessor visited node count: 4389/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 55843/2097152 bytes
+Template argument size: 8391/2097152 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 14544/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.301/10.000 seconds
+Lua memory usage: 5.05 MB/50 MB
+--> 
+   <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  814.513      1 -total
+ 51.98%  423.375      1 Template:Infobox_rugby_biography
+ 36.14%  294.404      1 Template:Infobox
+ 15.81%  128.775      2 Template:Cite_book
+ 14.53%  118.370      1 Template:Infobox3cols
+ 12.89%  104.958      1 Template:Reflist
+ 11.59%   94.434      1 Template:Birth_date
+  8.78%   71.508      1 Template:About
+  6.53%   53.217      2 Template:London_Gazette
+  5.37%   43.769      1 Template:British_and_Irish_Lions_1903
+--> 
+   <!-- Saved in parser cache with key enwiki:pcache:idhash:25244242-0!canonical and timestamp 20190425114645 and revision id 809506937
+ --> 
+  </div>
+  <noscript>
+   <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+  </noscript>
+ </div> 
+ <div class="printfooter">
+  Retrieved from "
+  <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Gilbert_Collett&amp;oldid=809506937">https://en.wikipedia.org/w/index.php?title=Gilbert_Collett&amp;oldid=809506937</a>"
+ </div> 
+ <div id="catlinks" class="catlinks" data-mw="interface">
+  <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+   <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+   <ul>
+    <li><a href="/wiki/Category:1879_births" title="Category:1879 births">1879 births</a></li>
+    <li><a href="/wiki/Category:1945_deaths" title="Category:1945 deaths">1945 deaths</a></li>
+    <li><a href="/wiki/Category:English_rugby_union_players" title="Category:English rugby union players">English rugby union players</a></li>
+    <li><a href="/wiki/Category:Rugby_union_wings" title="Category:Rugby union wings">Rugby union wings</a></li>
+    <li><a href="/wiki/Category:Sportspeople_from_Gloucester" title="Category:Sportspeople from Gloucester">Sportspeople from Gloucester</a></li>
+    <li><a href="/wiki/Category:Britis

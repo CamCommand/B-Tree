@@ -1,0 +1,1352 @@
+<div id="bodyContent" class="mw-body-content"> 
+ <div id="siteSub" class="noprint">
+  From Wikipedia, the free encyclopedia
+ </div> 
+ <div id="contentSub"></div> 
+ <div id="jump-to-nav"></div> 
+ <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> 
+ <a class="mw-jump-link" href="#p-search">Jump to search</a> 
+ <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+  <div class="mw-parser-output">
+   <p>In <a href="/wiki/Computability_theory" title="Computability theory">computability theory</a>, a <b>Turing reduction</b> (also known as a <b>Cook reduction</b>) from a problem <i>A</i> to a problem <i>B</i>, is a <a href="/wiki/Reduction_(complexity)" title="Reduction (complexity)">reduction</a> which solves <i>A</i>, assuming the solution to <i>B</i> is already known (Rogers 1967, Soare 1987). It can be understood as an <a href="/wiki/Algorithm" title="Algorithm">algorithm</a> that could be used to solve <i>A</i> if it had available to it a <a href="/wiki/Subroutine" title="Subroutine">subroutine</a> for solving <i>B</i>. More formally, a Turing reduction is a function computable by an <a href="/wiki/Oracle_machine" title="Oracle machine">oracle machine</a> with an oracle for <i>B</i>. Turing reductions can be applied to both <a href="/wiki/Decision_problem" title="Decision problem">decision problems</a> and <a href="/wiki/Function_problem" title="Function problem">function problems</a>. </p>
+   <p>If a Turing reduction of <i>A</i> to <i>B</i> exists then every <a href="/wiki/Algorithm" title="Algorithm">algorithm</a> for <i>B</i> can be used to produce an algorithm for <i>A</i>, by inserting the algorithm for <i>B</i> at each place where the oracle machine computing <i>A</i> queries the oracle for <i>B</i>. However, because the oracle machine may query the oracle a large number of times, the resulting algorithm may require more time asymptotically than either the algorithm for <i>B</i> or the oracle machine computing <i>A</i>, and may require as much space as both together. </p>
+   <p>The first formal definition of relative computability, then called relative reducibility, was given by <a href="/wiki/Alan_Turing" title="Alan Turing">Alan Turing</a> in 1939 in terms of <a href="/wiki/Oracle_machine" title="Oracle machine">oracle machines</a>. Later in 1943 and 1952 <a href="/wiki/Stephen_Kleene" class="mw-redirect" title="Stephen Kleene">Stephen Kleene</a> defined an equivalent concept in terms of <a href="/wiki/Mu-recursive_function" class="mw-redirect" title="Mu-recursive function">recursive functions</a>. In 1944 <a href="/wiki/Emil_Post" class="mw-redirect" title="Emil Post">Emil Post</a> used the term "Turing reducibility" to refer to the concept. </p>
+   <p>A <a href="/wiki/Polynomial-time_reduction" title="Polynomial-time reduction">polynomial-time</a> Turing reduction is known as a <b>Cook reduction</b>, after <a href="/wiki/Stephen_Cook" title="Stephen Cook">Stephen Cook</a>. </p> 
+   <div id="toc" class="toc">
+    <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+    <div class="toctitle" lang="en" dir="ltr">
+     <h2>Contents</h2>
+     <span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+    </div> 
+    <ul> 
+     <li class="toclevel-1 tocsection-1"><a href="#Definition"><span class="tocnumber">1</span> <span class="toctext">Definition</span></a> 
+      <ul> 
+       <li class="toclevel-2 tocsection-2"><a href="#Relation_of_Turing_completeness_to_computational_universality"><span class="tocnumber">1.1</span> <span class="toctext">Relation of Turing completeness to computational universality</span></a></li> 
+      </ul> </li> 
+     <li class="toclevel-1 tocsection-3"><a href="#Example"><span class="tocnumber">2</span> <span class="toctext">Example</span></a></li> 
+     <li class="toclevel-1 tocsection-4"><a href="#Properties"><span class="tocnumber">3</span> <span class="toctext">Properties</span></a></li> 
+     <li class="toclevel-1 tocsection-5"><a href="#The_use_of_a_reduction"><span class="tocnumber">4</span> <span class="toctext">The use of a reduction</span></a></li> 
+     <li class="toclevel-1 tocsection-6"><a href="#Stronger_reductions"><span class="tocnumber">5</span> <span class="toctext">Stronger reductions</span></a></li> 
+     <li class="toclevel-1 tocsection-7"><a href="#Weaker_reductions"><span class="tocnumber">6</span> <span class="toctext">Weaker reductions</span></a></li> 
+     <li class="toclevel-1 tocsection-8"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li> 
+     <li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li> 
+     <li class="toclevel-1 tocsection-10"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li> 
+    </ul> 
+   </div> 
+   <h2><span class="mw-headline" id="Definition">Definition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Turing_reduction&amp;action=edit&amp;section=1" title="Edit section: Definition">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <p>Given two sets <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle A,B\subseteq \mathbb {N} }"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <mi>
+           A
+          </mi> 
+          <mo>
+           ,
+          </mo> 
+          <mi>
+           B
+          </mi> 
+          <mo>
+           ⊆
+           <!-- ⊆ -->
+          </mo> 
+          <mrow class="MJX-TeXAtom-ORD"> 
+           <mi mathvariant="double-struck">
+            N
+           </mi> 
+          </mrow> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle A,B\subseteq \mathbb {N} }
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ae8ed9e2d3bf54a5ea158b50f25e8fafaf5ef1fc" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:9.318ex; height:2.509ex;" alt="A,B \subseteq \mathbb{N}"></span> of natural numbers, we say <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle A}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <mi>
+           A
+          </mi> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle A}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7daff47fa58cdfd29dc333def748ff5fa4c923e3" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.743ex; height:2.176ex;" alt="A"></span> is <b>Turing reducible</b> to <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle B}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <mi>
+           B
+          </mi> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle B}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/47136aad860d145f75f3eed3022df827cee94d7a" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.764ex; height:2.176ex;" alt="B"></span> and write </p> 
+   <dl>
+    <dd>
+     <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+       <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle A\leq _{T}B}"> 
+        <semantics> 
+         <mrow class="MJX-TeXAtom-ORD"> 
+          <mstyle displaystyle="true" scriptlevel="0"> 
+           <mi>
+            A
+           </mi> 
+           <msub> 
+            <mo>
+             ≤
+             <!-- ≤ -->
+            </mo> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mi>
+              T
+             </mi> 
+            </mrow> 
+           </msub> 
+           <mi>
+            B
+           </mi> 
+          </mstyle> 
+         </mrow> 
+         <annotation encoding="application/x-tex">
+          {\displaystyle A\leq _{T}B}
+         </annotation> 
+        </semantics> 
+       </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/bc57ab96e8403528f7e17159f668a471f914ef52" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:7.995ex; height:2.509ex;" alt="A \leq_T B"></span>
+    </dd>
+   </dl> 
+   <p>if there is an <a href="/wiki/Oracle_machine" title="Oracle machine">oracle machine</a> that computes the <a href="/wiki/Indicator_function" title="Indicator function">characteristic function</a> of <i>A</i> when run with oracle <i>B</i>. In this case, we also say <i>A</i> is <b><i>B</i>-recursive</b> and <b><i>B</i>-computable</b>. </p>
+   <p>If there is an oracle machine that, when run with oracle <i>B</i>, computes a partial function with domain <i>A</i>, then <i>A</i> is said to be <b><i>B</i>-<a href="/wiki/Recursively_enumerable_set" title="Recursively enumerable set">recursively enumerable</a></b> and <b><i>B</i>-computably enumerable</b>. </p>
+   <p>We say <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle A}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <mi>
+           A
+          </mi> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle A}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7daff47fa58cdfd29dc333def748ff5fa4c923e3" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.743ex; height:2.176ex;" alt="A"></span> is <b>Turing equivalent</b> to <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle B}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <mi>
+           B
+          </mi> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle B}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/47136aad860d145f75f3eed3022df827cee94d7a" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.764ex; height:2.176ex;" alt="B"></span> and write <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle A\equiv _{T}B\,}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <mi>
+           A
+          </mi> 
+          <msub> 
+           <mo>
+            ≡
+            <!-- ≡ -->
+           </mo> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mi>
+             T
+            </mi> 
+           </mrow> 
+          </msub> 
+          <mi>
+           B
+          </mi> 
+          <mspace width="thinmathspace" /> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle A\equiv _{T}B\,}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5ee79dd4242becfb6817b4630f1b0c79eee67a69" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:8.382ex; height:2.509ex;" alt="A \equiv_T B\,"></span> if both <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle A\leq _{T}B}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <mi>
+           A
+          </mi> 
+          <msub> 
+           <mo>
+            ≤
+            <!-- ≤ -->
+           </mo> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mi>
+             T
+            </mi> 
+           </mrow> 
+          </msub> 
+          <mi>
+           B
+          </mi> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle A\leq _{T}B}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/bc57ab96e8403528f7e17159f668a471f914ef52" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:7.995ex; height:2.509ex;" alt="A \leq_T B"></span> and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle B\leq _{T}A.}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <mi>
+           B
+          </mi> 
+          <msub> 
+           <mo>
+            ≤
+            <!-- ≤ -->
+           </mo> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mi>
+             T
+            </mi> 
+           </mrow> 
+          </msub> 
+          <mi>
+           A
+          </mi> 
+          <mo>
+           .
+          </mo> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle B\leq _{T}A.}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/92de47bd9e3d7c82c678804a350449aa367b37d5" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:8.642ex; height:2.509ex;" alt="B \leq_T A."></span> The <a href="/wiki/Equivalence_class" title="Equivalence class">equivalence classes</a> of Turing equivalent sets are called <b><a href="/wiki/Turing_degree" title="Turing degree">Turing degrees</a></b>. The Turing degree of a set <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle X}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <mi>
+           X
+          </mi> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle X}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/68baa052181f707c662844a465bfeeb135e82bab" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.98ex; height:2.176ex;" alt="X"></span> is written <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle {\textbf {deg}}(X)}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <mrow class="MJX-TeXAtom-ORD"> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mtext mathvariant="bold">
+             deg
+            </mtext> 
+           </mrow> 
+          </mrow> 
+          <mo stretchy="false">
+           (
+          </mo> 
+          <mi>
+           X
+          </mi> 
+          <mo stretchy="false">
+           )
+          </mo> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle {\textbf {deg}}(X)}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b66f52e2bfba9b8d2cde4c6fd98b431e8f7ed0af" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:7.836ex; height:2.843ex;" alt="\textbf{deg}(X)"></span>. </p>
+   <p>Given a set <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle {\mathcal {X}}\subseteq {\mathcal {P}}(\mathbb {N} )}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <mrow class="MJX-TeXAtom-ORD"> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mi class="MJX-tex-caligraphic" mathvariant="script">
+             X
+            </mi> 
+           </mrow> 
+          </mrow> 
+          <mo>
+           ⊆
+           <!-- ⊆ -->
+          </mo> 
+          <mrow class="MJX-TeXAtom-ORD"> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mi class="MJX-tex-caligraphic" mathvariant="script">
+             P
+            </mi> 
+           </mrow> 
+          </mrow> 
+          <mo stretchy="false">
+           (
+          </mo> 
+          <mrow class="MJX-TeXAtom-ORD"> 
+           <mi mathvariant="double-struck">
+            N
+           </mi> 
+          </mrow> 
+          <mo stretchy="false">
+           )
+          </mo> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle {\mathcal {X}}\subseteq {\mathcal {P}}(\mathbb {N} )}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e6651a6525d0bf534b34bab5d5b524c944ea231c" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:10.165ex; height:2.843ex;" alt="\mathcal{X} \subseteq \mathcal{P}(\mathbb{N})"></span>, a set <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle A\subseteq \mathbb {N} }"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <mi>
+           A
+          </mi> 
+          <mo>
+           ⊆
+           <!-- ⊆ -->
+          </mo> 
+          <mrow class="MJX-TeXAtom-ORD"> 
+           <mi mathvariant="double-struck">
+            N
+           </mi> 
+          </mrow> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle A\subseteq \mathbb {N} }
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/dd272099bf3bc8d5ebf1ac071951fd873d908afe" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.505ex; width:6.52ex; height:2.343ex;" alt="A \subseteq \mathbb{N}"></span> is called <b>Turing hard</b> for <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle {\mathcal {X}}}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <mrow class="MJX-TeXAtom-ORD"> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mi class="MJX-tex-caligraphic" mathvariant="script">
+             X
+            </mi> 
+           </mrow> 
+          </mrow> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle {\mathcal {X}}}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8c7e5461c5286852df4ef652fca7e4b0b63030e9" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.875ex; height:2.176ex;" alt="{\mathcal {X}}"></span> if <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle X\leq _{T}A}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <mi>
+           X
+          </mi> 
+          <msub> 
+           <mo>
+            ≤
+            <!-- ≤ -->
+           </mo> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mi>
+             T
+            </mi> 
+           </mrow> 
+          </msub> 
+          <mi>
+           A
+          </mi> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle X\leq _{T}A}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/999805147e4c36b4b855f5abd4244d55c40253d8" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:8.211ex; height:2.509ex;" alt="X \leq_T A"></span> for all <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle X\in {\mathcal {X}}}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <mi>
+           X
+          </mi> 
+          <mo>
+           ∈
+           <!-- ∈ -->
+          </mo> 
+          <mrow class="MJX-TeXAtom-ORD"> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mi class="MJX-tex-caligraphic" mathvariant="script">
+             X
+            </mi> 
+           </mrow> 
+          </mrow> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle X\in {\mathcal {X}}}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/bf45feefd8b36e2bb345687e1b0826b94c5acc0c" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:6.696ex; height:2.176ex;" alt="X \in \mathcal{X}"></span>. If additionally <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle A\in {\mathcal {X}}}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <mi>
+           A
+          </mi> 
+          <mo>
+           ∈
+           <!-- ∈ -->
+          </mo> 
+          <mrow class="MJX-TeXAtom-ORD"> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mi class="MJX-tex-caligraphic" mathvariant="script">
+             X
+            </mi> 
+           </mrow> 
+          </mrow> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle A\in {\mathcal {X}}}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b49d178101c0fcdd6fa0b5aee82885d1a38cab7b" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:6.459ex; height:2.176ex;" alt="A \in \mathcal{X}"></span> then <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle A}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <mi>
+           A
+          </mi> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle A}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7daff47fa58cdfd29dc333def748ff5fa4c923e3" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.743ex; height:2.176ex;" alt="A"></span> is called <b>Turing complete</b> for <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle {\mathcal {X}}}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <mrow class="MJX-TeXAtom-ORD"> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mi class="MJX-tex-caligraphic" mathvariant="script">
+             X
+            </mi> 
+           </mrow> 
+          </mrow> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle {\mathcal {X}}}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8c7e5461c5286852df4ef652fca7e4b0b63030e9" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.875ex; height:2.176ex;" alt="{\mathcal {X}}"></span>. </p> 
+   <h3><span class="mw-headline" id="Relation_of_Turing_completeness_to_computational_universality">Relation of Turing completeness to computational universality</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Turing_reduction&amp;action=edit&amp;section=2" title="Edit section: Relation of Turing completeness to computational universality">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+   <p>Turing completeness, as just defined above, corresponds only partially to <a href="/wiki/Turing_completeness" title="Turing completeness">Turing completeness</a> in the sense of computational universality. Specifically, a Turing machine is a <a href="/wiki/Universal_Turing_machine" title="Universal Turing machine">universal Turing machine</a> if its <a href="/wiki/Halting_problem" title="Halting problem">halting problem</a> (i.e., the set of inputs for which it eventually halts) is <a href="/wiki/Many-one_reduction" title="Many-one reduction">many-one complete</a>. Thus, a necessary <i>but insufficient</i> condition for a machine to be computationally universal, is that the machine's halting problem be Turing-complete for the set <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle {\mathcal {X}}}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <mrow class="MJX-TeXAtom-ORD"> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mi class="MJX-tex-caligraphic" mathvariant="script">
+             X
+            </mi> 
+           </mrow> 
+          </mrow> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle {\mathcal {X}}}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8c7e5461c5286852df4ef652fca7e4b0b63030e9" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.875ex; height:2.176ex;" alt="{\mathcal {X}}"></span> of recursively enumerable sets. </p> 
+   <h2><span class="mw-headline" id="Example">Example</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Turing_reduction&amp;action=edit&amp;section=3" title="Edit section: Example">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <p>Let <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle W_{e}}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <msub> 
+           <mi>
+            W
+           </mi> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mi>
+             e
+            </mi> 
+           </mrow> 
+          </msub> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle W_{e}}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/833c53157b3eef79e84533a73f6a2c42581348b2" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:3.192ex; height:2.509ex;" alt="W_{e}"></span> denote the set of input values for which the Turing machine with index <i>e</i> halts. Then the sets <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle A=\{e\mid e\in W_{e}\}}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <mi>
+           A
+          </mi> 
+          <mo>
+           =
+          </mo> 
+          <mo fence="false" stretchy="false">
+           {
+          </mo> 
+          <mi>
+           e
+          </mi> 
+          <mo>
+           ∣
+           <!-- ∣ -->
+          </mo> 
+          <mi>
+           e
+          </mi> 
+          <mo>
+           ∈
+           <!-- ∈ -->
+          </mo> 
+          <msub> 
+           <mi>
+            W
+           </mi> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mi>
+             e
+            </mi> 
+           </mrow> 
+          </msub> 
+          <mo fence="false" stretchy="false">
+           }
+          </mo> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle A=\{e\mid e\in W_{e}\}}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6f7e2584afffe27b8ebfc420025d1ee6c237d71d" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:17.303ex; height:2.843ex;" alt="A = \{e \mid e \in W_e\}"></span> and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle B=\{(e,n)\mid n\in W_{e}\}}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <mi>
+           B
+          </mi> 
+          <mo>
+           =
+          </mo> 
+          <mo fence="false" stretchy="false">
+           {
+          </mo> 
+          <mo stretchy="false">
+           (
+          </mo> 
+          <mi>
+           e
+          </mi> 
+          <mo>
+           ,
+          </mo> 
+          <mi>
+           n
+          </mi> 
+          <mo stretchy="false">
+           )
+          </mo> 
+          <mo>
+           ∣
+           <!-- ∣ -->
+          </mo> 
+          <mi>
+           n
+          </mi> 
+          <mo>
+           ∈
+           <!-- ∈ -->
+          </mo> 
+          <msub> 
+           <mi>
+            W
+           </mi> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mi>
+             e
+            </mi> 
+           </mrow> 
+          </msub> 
+          <mo fence="false" stretchy="false">
+           }
+          </mo> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle B=\{(e,n)\mid n\in W_{e}\}}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6f4589c90316ff582c41383771fec29b8cdcfc79" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:21.873ex; height:2.843ex;" alt="B = \{(e,n) \mid n \in W_e \}"></span> are Turing equivalent (here <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle (-,-)}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <mo stretchy="false">
+           (
+          </mo> 
+          <mo>
+           −
+           <!-- − -->
+          </mo> 
+          <mo>
+           ,
+          </mo> 
+          <mo>
+           −
+           <!-- − -->
+          </mo> 
+          <mo stretchy="false">
+           )
+          </mo> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle (-,-)}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/297a88512ddf928bab5630ebd53278e1028a7a3d" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:6.46ex; height:2.843ex;" alt="{\displaystyle (-,-)}"></span> denotes an effective pairing function). A reduction showing <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle A\leq _{T}B}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <mi>
+           A
+          </mi> 
+          <msub> 
+           <mo>
+            ≤
+            <!-- ≤ -->
+           </mo> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mi>
+             T
+            </mi> 
+           </mrow> 
+          </msub> 
+          <mi>
+           B
+          </mi> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle A\leq _{T}B}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/bc57ab96e8403528f7e17159f668a471f914ef52" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:7.995ex; height:2.509ex;" alt="A \leq_T B"></span> can be constructed using the fact that <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle e\in A\Leftrightarrow (e,e)\in B}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <mi>
+           e
+          </mi> 
+          <mo>
+           ∈
+           <!-- ∈ -->
+          </mo> 
+          <mi>
+           A
+          </mi> 
+          <mo stretchy="false">
+           ⇔
+           <!-- ⇔ -->
+          </mo> 
+          <mo stretchy="false">
+           (
+          </mo> 
+          <mi>
+           e
+          </mi> 
+          <mo>
+           ,
+          </mo> 
+          <mi>
+           e
+          </mi> 
+          <mo stretchy="false">
+           )
+          </mo> 
+          <mo>
+           ∈
+           <!-- ∈ -->
+          </mo> 
+          <mi>
+           B
+          </mi> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle e\in A\Leftrightarrow (e,e)\in B}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6fbc5ad35177f47c679fe3908eb7780f33955a89" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:18.896ex; height:2.843ex;" alt="e \in A \Leftrightarrow (e,e) \in B"></span>. Given a pair <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle (e,n)}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <mo stretchy="false">
+           (
+          </mo> 
+          <mi>
+           e
+          </mi> 
+          <mo>
+           ,
+          </mo> 
+          <mi>
+           n
+          </mi> 
+          <mo stretchy="false">
+           )
+          </mo> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle (e,n)}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/440cfe6ef86ffbbbbd3cc5fbf34e891b9b5ced4e" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:5.321ex; height:2.843ex;" alt="(e,n)"></span>, a new index <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle i(e,n)}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <mi>
+           i
+          </mi> 
+          <mo stretchy="false">
+           (
+          </mo> 
+          <mi>
+           e
+          </mi> 
+          <mo>
+           ,
+          </mo> 
+          <mi>
+           n
+          </mi> 
+          <mo stretchy="false">
+           )
+          </mo> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle i(e,n)}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f4db884d5477df4c8760013afbebb19b9dc04675" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:6.124ex; height:2.843ex;" alt="i(e,n)"></span> can be constructed using the <a href="/wiki/Smn_theorem" title="Smn theorem">s<sub>mn</sub> theorem</a> such that the program coded by <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle i(e,n)}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <mi>
+           i
+          </mi> 
+          <mo stretchy="false">
+           (
+          </mo> 
+          <mi>
+           e
+          </mi> 
+          <mo>
+           ,
+          </mo> 
+          <mi>
+           n
+          </mi> 
+          <mo stretchy="false">
+           )
+          </mo> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle i(e,n)}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f4db884d5477df4c8760013afbebb19b9dc04675" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:6.124ex; height:2.843ex;" alt="i(e,n)"></span> ignores its input and merely simulates the computation of the machine with index <i>e</i> on input <i>n</i>. In particular, the machine with index <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle i(e,n)}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <mi>
+           i
+          </mi> 
+          <mo stretchy="false">
+           (
+          </mo> 
+          <mi>
+           e
+          </mi> 
+          <mo>
+           ,
+          </mo> 
+          <mi>
+           n
+          </mi> 
+          <mo stretchy="false">
+           )
+          </mo> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle i(e,n)}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f4db884d5477df4c8760013afbebb19b9dc04675" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:6.124ex; height:2.843ex;" alt="i(e,n)"></span> either halts on every input or halts on no input. Thus <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle i(e,n)\in A\Leftrightarrow (e,n)\in B}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <mi>
+           i
+          </mi> 
+          <mo stretchy="false">
+           (
+          </mo> 
+          <mi>
+           e
+          </mi> 
+          <mo>
+           ,
+          </mo> 
+          <mi>
+           n
+          </mi> 
+          <mo stretchy="false">
+           )
+          </mo> 
+          <mo>
+           ∈
+           <!-- ∈ -->
+          </mo> 
+          <mi>
+           A
+          </mi> 
+          <mo stretchy="false">
+           ⇔
+           <!-- ⇔ -->
+          </mo> 
+          <mo stretchy="false">
+           (
+          </mo> 
+          <mi>
+           e
+          </mi> 
+          <mo>
+           ,
+          </mo> 
+          <mi>
+           n
+          </mi> 
+          <mo stretchy="false">
+           )
+          </mo> 
+          <mo>
+           ∈
+           <!-- ∈ -->
+          </mo> 
+          <mi>
+           B
+          </mi> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle i(e,n)\in A\Leftrightarrow (e,n)\in B}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2d629b977646f37b19dddb89d1de4695d6d5165a" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:24.248ex; height:2.843ex;" alt="i(e,n) \in A \Leftrightarrow (e,n) \in B"></span> holds for all <i>e</i> and <i>n</i>. Because the function <i>i</i> is computable, this shows <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle B\leq _{T}A}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <mi>
+           B
+          </mi> 
+          <msub> 
+           <mo>
+            ≤
+            <!-- ≤ -->
+           </mo> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mi>
+             T
+            </mi> 
+           </mrow> 
+          </msub> 
+          <mi>
+           A
+          </mi> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle B\leq _{T}A}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f105d9cab5768bbbc63f9e7f6a712a0e1f37e347" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:7.995ex; height:2.509ex;" alt="B \leq_T A"></span>. The reductions presented here are not only Turing reductions but <i>many-one reductions</i>, discussed below. </p> 
+   <h2><span class="mw-headline" id="Properties">Properties</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Turing_reduction&amp;action=edit&amp;section=4" title="Edit section: Properties">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <ul>
+    <li>Every set is Turing equivalent to its complement</li> 
+    <li>Every <a href="/wiki/Computable_set" class="mw-redirect" title="Computable set">computable set</a> is Turing reducible to every other set. Because any computable set can be computed with no oracle, it can be computed by an oracle machine that ignores the given oracle.</li> 
+    <li>The relation <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+       <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \leq _{T}}"> 
+        <semantics> 
+         <mrow class="MJX-TeXAtom-ORD"> 
+          <mstyle displaystyle="true" scriptlevel="0"> 
+           <msub> 
+            <mo>
+             ≤
+             <!-- ≤ -->
+            </mo> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mi>
+              T
+             </mi> 
+            </mrow> 
+           </msub> 
+          </mstyle> 
+         </mrow> 
+         <annotation encoding="application/x-tex">
+          {\displaystyle \leq _{T}}
+         </annotation> 
+        </semantics> 
+       </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1a31ff492bc16eae1c3707598a85cc3cbd915106" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:3.197ex; height:2.343ex;" alt="\leq_T"></span> is transitive: if <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+       <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle A\leq _{T}B}"> 
+        <semantics> 
+         <mrow class="MJX-TeXAtom-ORD"> 
+          <mstyle displaystyle="true" scriptlevel="0"> 
+           <mi>
+            A
+           </mi> 
+           <msub> 
+            <mo>
+             ≤
+             <!-- ≤ -->
+            </mo> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mi>
+              T
+             </mi> 
+            </mrow> 
+           </msub> 
+           <mi>
+            B
+           </mi> 
+          </mstyle> 
+         </mrow> 
+         <annotation encoding="application/x-tex">
+          {\displaystyle A\leq _{T}B}
+         </annotation> 
+        </semantics> 
+       </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/bc57ab96e8403528f7e17159f668a471f914ef52" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:7.995ex; height:2.509ex;" alt="A \leq_T B"></span> and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+       <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle B\leq _{T}C}"> 
+        <semantics> 
+         <mrow class="MJX-TeXAtom-ORD"> 
+          <mstyle displaystyle="true" scriptlevel="0"> 
+           <mi>
+            B
+           </mi> 
+           <msub> 
+            <mo>
+             ≤
+             <!-- ≤ -->
+            </mo> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mi>
+              T
+             </mi> 
+            </mrow> 
+           </msub> 
+           <mi>
+            C
+           </mi> 
+          </mstyle> 
+         </mrow> 
+         <annotation encoding="application/x-tex">
+          {\displaystyle B\leq _{T}C}
+         </annotation> 
+        </semantics> 
+       </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a211b88c3e60ac736c8d05f18f32d2bb7d70eea9" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:8.018ex; height:2.509ex;" alt="B \leq_T C"></span> then <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+       <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle A\leq _{T}C}"> 
+        <semantics> 
+         <mrow class="MJX-TeXAtom-ORD"> 
+          <mstyle displaystyle="true" scriptlevel="0"> 
+           <mi>
+            A
+           </mi> 
+           <msub> 
+            <mo>
+             ≤
+             <!-- ≤ -->
+            </mo> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mi>
+              T
+             </mi> 
+            </mrow> 
+           </msub> 
+           <mi>
+            C
+           </mi> 
+          </mstyle> 
+         </mrow> 
+         <annotation encoding="application/x-tex">
+          {\displaystyle A\leq _{T}C}
+         </annotation> 
+        </semantics> 
+       </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/22524d4ebe1099472bd4e8630c8420020c0e257f" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:7.997ex; height:2.509ex;" alt="A \leq_T C"></span>. Moreover, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+       <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle A\leq _{T}A}"> 
+        <semantics> 
+         <mrow class="MJX-TeXAtom-ORD"> 
+          <mstyle displaystyle="true" scriptlevel="0"> 
+           <mi>
+            A
+           </mi> 
+           <msub> 
+            <mo>
+             ≤
+             <!-- ≤ -->
+            </mo> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mi>
+              T
+             </mi> 
+            </mrow> 
+           </msub> 
+           <mi>
+            A
+           </mi> 
+          </mstyle> 
+         </mrow> 
+         <annotation encoding="application/x-tex">
+          {\displaystyle A\leq _{T}A}
+         </annotation> 
+        </semantics> 
+       </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9917a6e72a694cdbcea5939716697e4798c55c65" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:7.974ex; height:2.509ex;" alt="{\displaystyle A\leq _{T}A}"></span> holds for every set <i>A</i>, and thus the relation <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+       <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \leq _{T}}"> 
+        <semantics> 
+         <mrow class="MJX-TeXAtom-ORD"> 
+          <mstyle displaystyle="true" scriptlevel="0"> 
+           <msub> 
+            <mo>
+             ≤
+             <!-- ≤ -->
+            </mo> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mi>
+              T
+             </mi> 
+            </mrow> 
+           </msub> 
+          </mstyle> 
+         </mrow> 
+         <annotation encoding="application/x-tex">
+          {\displaystyle \leq _{T}}
+         </annotation> 
+        </semantics> 
+       </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1a31ff492bc16eae1c3707598a85cc3cbd915106" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:3.197ex; height:2.343ex;" alt="\leq_T"></span> is a <a href="/wiki/Preorder" title="Preorder">preorder</a> (it is not a <a href="/wiki/Partial_order" class="mw-redirect" title="Partial order">partial order</a> because <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+       <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle A\leq _{T}B}"> 
+        <semantics> 
+         <mrow class="MJX-TeXAtom-ORD"> 
+          <mstyle displaystyle="true" scriptlevel="0"> 
+           <mi>
+            A
+           </mi> 
+           <msub> 
+            <mo>
+             ≤
+             <!-- ≤ -->
+            </mo> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mi>
+              T
+             </mi> 
+            </mrow> 
+           </msub> 
+           <mi>
+            B
+           </mi> 
+          </mstyle> 
+         </mrow> 
+         <annotation encoding="application/x-tex">
+          {\displaystyle A\leq _{T}B}
+         </annotation> 
+        </semantics> 
+       </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/bc57ab96e8403528f7e17159f668a471f914ef52" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:7.995ex; height:2.509ex;" alt="A \leq_T B"></span> and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+       <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle B\leq _{T}A}"> 
+        <semantics> 
+         <mrow class="MJX-TeXAtom-ORD"> 
+          <mstyle displaystyle="true" scriptlevel="0"> 
+           <mi>
+            B
+           </mi> 
+           <msub> 
+            <mo>
+             ≤
+             <!-- ≤ -->
+            </mo> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mi>
+              T
+             </mi> 
+            </mrow> 
+           </msub> 
+           <mi>
+            A
+           </mi> 
+          </mstyle> 
+         </mrow> 
+         <annotation encoding="application/x-tex">
+          {\displaystyle B\leq _{T}A}
+         </annotation> 
+        </semantics> 
+       </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f105d9cab5768bbbc63f9e7f6a712a0e1f37e347" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:7.995ex; height:2.509ex;" alt="B \leq_T A "></span> does not necessarily imply <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+       <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle A=B}"> 
+        <semantics> 
+         <mrow class="MJX-TeXAtom-ORD"> 
+          <mstyle displaystyle="true" scriptlevel="0"> 
+           <mi>
+            A
+           </mi> 
+           <mo>
+            =
+           </mo> 
+           <mi>
+            B
+           </mi> 
+          </mstyle> 
+         </mrow> 
+         <annotation encoding="application/x-tex">
+          {\displaystyle A=B}
+         </annotation> 
+        </semantics> 
+       </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/045cafe35b1e9c9ac889481fd7178d6f59a77fdb" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:6.606ex; height:2.176ex;" alt="A=B"></span>).</li> 
+    <li>There are pairs of sets <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+       <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle (A,B)}"> 
+        <semantics> 
+         <mrow class="MJX-TeXAtom-ORD"> 
+          <mstyle displaystyle="true" scriptlevel="0"> 
+           <mo stretchy="false">
+            (
+           </mo> 
+           <mi>
+            A
+           </mi> 
+           <mo>
+            ,
+           </mo> 
+           <mi>
+            B
+           </mi> 
+           <mo stretchy="false">
+            )
+           </mo> 
+          </mstyle> 
+         </mrow> 
+         <annotation encoding="application/x-tex">
+          {\displaystyle (A,B)}
+         </annotation> 
+        </semantics> 
+       </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ce67314185650d6f0deba39db7dcec9378f4d4d1" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:6.35ex; height:2.843ex;" alt="(A,B)"></span> such that <i>A</i> is not Turing reducible to <i>B</i> and <i>B</i> is not Turing reducible to <i>A</i>. Thus <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+       <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \leq _{T}}"> 
+        <semantics> 
+         <mrow class="MJX-TeXAtom-ORD"> 
+          <mstyle displaystyle="true" scriptlevel="0"> 
+           <msub> 
+            <mo>
+             ≤
+             <!-- ≤ -->
+            </mo> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mi>
+              T
+             </mi> 
+            </mrow> 
+           </msub> 
+          </mstyle> 
+         </mrow> 
+         <annotation encoding="application/x-tex">
+          {\displaystyle \leq _{T}}
+         </annotation> 
+        </semantics> 
+       </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1a31ff492bc16eae1c3707598a85cc3cbd915106" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:3.197ex; height:2.343ex;" alt="\leq_T"></span> is not a linear order.</li> 
+    <li>There are infinite decreasing sequences of sets under <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+       <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \leq _{T}}"> 
+        <semantics> 
+         <mrow class="MJX-TeXAtom-ORD"> 
+          <mstyle displaystyle="true" scriptlevel="0"> 
+           <msub> 
+            <mo>
+             ≤
+             <!-- ≤ -->
+            </mo> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mi>
+              T
+             </mi> 
+            </mrow> 
+           </msub> 
+          </mstyle> 
+         </mrow> 
+         <annotation encoding="application/x-tex">
+          {\displaystyle \leq _{T}}
+         </annotation> 
+        </semantics> 
+       </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1a31ff492bc16eae1c3707598a85cc3cbd915106" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:3.197ex; height:2.343ex;" alt="\leq_T"></span>. Thus this relation is not <a href="/wiki/Well-founded" class="mw-redirect" title="Well-founded">well-founded</a>.</li> 
+    <li>Every set is Turing reducible to its own <a href="/wiki/Turing_jump" title="Turing jump">Turing jump</a>, but the Turing jump of a set is never Turing reducible to the original set.</li>
+   </ul> 
+   <h2><span class="mw-headline" id="The_use_of_a_reduction">The use of a reduction</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Turing_reduction&amp;action=edit&amp;section=5" title="Edit section: The use of a reduction">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <p>Since every reduction from a set <i>B</i> to a set <i>A</i> has to determine whether a single element is in <i>A</i> in only finitely many steps, it can only make finitely many queries of membership in the set <i>B</i>. When the amount of information about the set <i>B</i> used to compute a single bit of <i>A</i> is discussed, this is made precise by the use function. Formally, the <i>use</i> of a reduction is the function that sends each natural number <i>n</i> to the largest natural number <i>m</i> whose membership in the set <i>B</i> was queried by the reduction while determining the membership of <i>n</i> in <i>A</i>. </p> 
+   <h2><span class="mw-headline" id="Stronger_reductions">Stronger reductions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Turing_reduction&amp;action=edit&amp;section=6" title="Edit section: Stronger reductions">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <p>There are two common ways of producing reductions stronger than Turing reducibility. The first way is to limit the number and manner of oracle queries. </p> 
+   <ul>
+    <li>A set <i>A</i> is <b><a href="/wiki/Many-one_reduction" title="Many-one reduction">many-one reducible</a></b> to <i>B</i> if there is a <a href="/wiki/Computable_function" title="Computable function">total computable function</a> <i>f</i> such that an element <i>n</i> is in <i>A</i> if and only if <i>f</i>(<i>n</i>) is in <i>B</i>. Such a function can be used to generate a Turing reduction (by computing <i>f</i>(<i>n</i>), querying the oracle, and then interpreting the result).</li> 
+    <li>A <b><a href="/wiki/Truth_table_reduction" class="mw-redirect" title="Truth table reduction">truth table reduction</a></b> or a <b><a href="/wiki/Truth_table_reduction" class="mw-redirect" title="Truth table reduction">weak truth table reduction</a></b> must present all of its oracle queries at the same time. In a truth table reduction, the reduction also gives a boolean function (a <b>truth table</b>) which, when given the answers to the queries, will produce the final answer of the reduction. In a weak truth table reduction, the reduction uses the oracle answers as a basis for further computation depending on the given answers (but not using the oracle). Equivalently, a weak truth table reduction is one for which the use of the reduction is bounded by a computable function. For this reason, weak truth table reductions are sometimes called "bounded Turing" reductions.</li>
+   </ul> 
+   <p>The second way to produce a stronger reducibility notion is to limit the computational resources that the program implementing the Turing reduction may use. These limits on the <a href="/wiki/Computational_complexity_theory" title="Computational complexity theory">computational complexity</a> of the reduction are important when studying subrecursive classes such as <a href="/wiki/P_(complexity)" title="P (complexity)">P</a>. A set <i>A</i> is <b><a href="/wiki/Polynomial-time_reduction" title="Polynomial-time reduction">polynomial-time reducible</a></b> to a set <i>B</i> if there is a Turing reduction of <i>A</i> to <i>B</i> that runs in polynomial time. The concept of <b><a href="/wiki/Log-space_reduction" title="Log-space reduction">log-space reduction</a></b> is similar. </p>
+   <p>These reductions are stronger in the sense that they provide a finer distinction into equivalence classes, and satisfy more restrictive requirements than Turing reductions. Consequently, such reductions are harder to find. There may be no way to build a many-one reduction from one set to another even when a Turing reduction for the same sets exists. </p> 
+   <h2><span class="mw-headline" id="Weaker_reductions">Weaker reductions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Turing_reduction&amp;action=edit&amp;section=7" title="Edit section: Weaker reductions">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <p>According to the <a href="/wiki/Church%E2%80%93Turing_thesis" title="Church–Turing thesis">Church–Turing thesis</a>, a Turing reduction is the most general form of an effectively calculable reduction. Nevertheless, weaker reductions are also considered. A set <i>A</i> is said to be <b><a href="/wiki/Arithmetical_set" title="Arithmetical set">arithmetical</a> in</b> <i>B</i> if <i>A</i> is definable by a formula of <a href="/wiki/Peano_arithmetic" class="mw-redirect" title="Peano arithmetic">Peano arithmetic</a> with <i>B</i> as a parameter. The set <i>A</i> is <b><a href="/wiki/Hyperarithmetical_hierarchy" class="mw-redirect" title="Hyperarithmetical hierarchy">hyperarithmetical</a> in</b> <i>B</i> if there is a <a href="/wiki/Recursive_ordinal" title="Recursive ordinal">recursive ordinal</a> α such that <i>A</i> is computable from <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle B^{(\alpha )}}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <msup> 
+           <mi>
+            B
+           </mi> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mo stretchy="false">
+             (
+            </mo> 
+            <mi>
+             α
+             <!-- α -->
+            </mi> 
+            <mo stretchy="false">
+             )
+            </mo> 
+           </mrow> 
+          </msup> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle B^{(\alpha )}}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7b6fd0c3c737b7a16ecca49c4508ce63585b34e9" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:4.328ex; height:2.843ex;" alt="B^{(\alpha)}"></span>, the α-iterated Turing jump of <i>B</i>. The notion of <b><a href="/wiki/Constructible_universe#Relative_constructibility" title="Constructible universe">relative constructibility</a></b> is an important reducibility notion in set theory. </p> 
+   <h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Turing_reduction&amp;action=edit&amp;section=8" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <ul>
+    <li><a href="/wiki/Karp_reduction" class="mw-redirect" title="Karp reduction">Karp reduction</a></li>
+   </ul> 
+   <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Turing_reduction&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <ul>
+    <li>M. Davis, ed., 1965. <i>The Undecidable—Basic Papers on Undecidable Propositions, Unsolvable Problems and Computable Functions</i>, Raven, New York. Reprint, Dover, 2004. <style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/0-486-43228-9" title="Special:BookSources/0-486-43228-9">0-486-43228-9</a>.</li> 
+    <li>S. C. Kleene, 1952. Introduction to Metamathematics. Amsterdam: North-Holland.</li> 
+    <li>S. C. Kleene and E. L. Post, 1954. "The upper semi-lattice of degrees of recursive unsolvability". <i>Annals of Mathematics</i> v. 2 n. 59, 379—407.</li> 
+    <li><cite class="citation journal"><a href="/wiki/Emil_Leon_Post" title="Emil Leon Post">Post, E. L.</a> (1944). <a rel="nofollow" class="external text" href="http://projecteuclid.org/download/pdf_1/euclid.bams/1183505800">"Recursively enumerable sets of positive integers and their decision problems"</a> <span class="cs1-format">(<a href="/wiki/PDF" title="PDF">PDF</a>)</span>. <i>Bulletin of the American Mathematical Society</i>. <b>50</b>: 284–316. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1090%2Fs0002-9904-1944-08111-1">10.1090/s0002-9904-1944-08111-1</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2015-12-17</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Bulletin+of+the+American+Mathematical+Society&amp;rft.atitle=Recursively+enumerable+sets+of+positive+integers+and+their+decision+problems&amp;rft.volume=50&amp;rft.pages=284-316&amp;rft.date=1944&amp;rft_id=info%3Adoi%2F10.1090%2Fs0002-9904-1944-08111-1&amp;rft.aulast=Post&amp;rft.aufirst=E.+L.&amp;rft_id=http%3A%2F%2Fprojecteuclid.org%2Fdownload%2Fpdf_1%2Feuclid.bams%2F1183505800&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATuring+reduction" class="Z3988"></span>
+     <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></li> 
+    <li>A. Turing, 1939. "Systems of logic based on ordinals." <i>Proceedings of the London Mathematics Society</i>, ser. 2 v. 45, pp.&nbsp;161–228. Reprinted in "The Undecidable", M. Davis ed., 1965.</li> 
+    <li>H. Rogers, 1967. Theory of recursive functions and effective computability. McGraw-Hill.</li> 
+    <li>R. Soare, 1987. Recursively enumerable sets and degrees, Springer.</li> 
+    <li><cite class="citation journal"><a href="/wiki/Martin_Davis_(mathematician)" title="Martin Davis (mathematician)">Davis, Martin</a> (November 2006). <a rel="nofollow" class="external text" href="http://www.ams.org/notices/200610/whatis-davis.pdf">"What is...Turing Reducibility?"</a> <span class="cs1-format">(<a href="/wiki/PDF" title="PDF">PDF</a>)</span>. <i><a href="/wiki/Notices_of_the_American_Mathematical_Society" title="Notices of the American Mathematical Society">Notices of the American Mathematical Society</a></i>. <b>53</b> (10): 1218–1219<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-01-16</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Notices+of+the+American+Mathematical+Society&amp;rft.atitle=What+is...Turing+Reducibility%3F&amp;rft.volume=53&amp;rft.issue=10&amp;rft.pages=1218-1219&amp;rft.date=2006-11&amp;rft.aulast=Davis&amp;rft.aufirst=Martin&amp;rft_id=http%3A%2F%2Fwww.ams.org%2Fnotices%2F200610%2Fwhatis-davis.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATuring+reduction" class="Z3988"></span>
+     <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></li>
+   </ul> 
+   <h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Turing_reduction&amp;action=edit&amp;section=10" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <ul>
+    <li><a rel="nofollow" class="external text" href="https://xlinux.nist.gov/dads/HTML/turingredctn.html">NIST Dictionary of Algorithms and Data Structures: Turing reduction</a></li>
+   </ul> 
+   <!-- 
+NewPP limit report
+Parsed by mw1331
+Cached time: 20190503151243
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.192 seconds
+Real time usage: 0.344 seconds
+Preprocessor visited node count: 563/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 5214/2097152 bytes
+Template argument size: 438/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 7236/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.052/10.000 seconds
+Lua memory usage: 1.99 MB/50 MB
+--> 
+   <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  157.752      1 -total
+ 52.82%   83.317      1 Template:Isbn
+ 47.07%   74.260      2 Template:Cite_journal
+ 34.40%   54.272      1 Template:Catalog_lookup_link
+  8.32%   13.120      1 Template:Error-small
+  6.35%   10.012      1 Template:Small
+  4.14%    6.528      3 Template:Yesno-no
+  2.52%    3.973      3 Template:Yesno
+  1.68%    2.648      1 Template:Main_other
+  1.63%    2.569      2 Template:Trim
+--> 
+   <!-- Saved in parser cache with key enwiki:pcache:idhash:1188375-0!canonical!math=5 and timestamp 20190503151243 and revision id 895336139
+ --> 
+  </div>
+  <noscript>
+   <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+  </noscript>
+ </div> 
+ <div class="printfooter">
+  Retrieved from "
+  <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Turing_reduction&amp;oldid=895336139">https://en.wikipedia.org/w/index.php?title=Turing_reduction&amp;oldid=895336139</a>"
+ </div> 
+ <div id="catlinks" class="catlinks" data-mw="interface">
+  <div id="mw-normal-catlinks" class=

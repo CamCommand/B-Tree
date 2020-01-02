@@ -1,0 +1,931 @@
+<div id="bodyContent" class="mw-body-content"> 
+ <div id="siteSub" class="noprint">
+  From Wikipedia, the free encyclopedia
+ </div> 
+ <div id="contentSub"></div> 
+ <div id="jump-to-nav"></div> 
+ <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> 
+ <a class="mw-jump-link" href="#p-search">Jump to search</a> 
+ <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+  <div class="mw-parser-output">
+   <table class="infobox vcard" style="width:22em">
+    <tbody>
+     <tr>
+      <th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size: 100%;">
+       <div style="display:inline-block; font-size:130%;" class="fn">
+        William Allen
+       </div></th>
+     </tr>
+     <tr>
+      <td colspan="2" style="text-align:center"><a href="/wiki/File:William_Allen_governor_-_Brady-Handy.jpg" class="image"><img alt="William Allen governor - Brady-Handy.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/William_Allen_governor_-_Brady-Handy.jpg/220px-William_Allen_governor_-_Brady-Handy.jpg" decoding="async" width="220" height="284" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/William_Allen_governor_-_Brady-Handy.jpg/330px-William_Allen_governor_-_Brady-Handy.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0d/William_Allen_governor_-_Brady-Handy.jpg/440px-William_Allen_governor_-_Brady-Handy.jpg 2x" data-file-width="2728" data-file-height="3520"></a></td>
+     </tr>
+     <tr>
+      <td colspan="2" style="text-align:center"></td>
+     </tr>
+     <tr>
+      <th colspan="2" style="text-align:center;background:lavender;line-height:normal;padding:0.2em 0.2em">31st <a href="/wiki/Governor_of_Ohio" class="mw-redirect" title="Governor of Ohio">Governor of Ohio</a></th>
+     </tr>
+     <tr>
+      <td colspan="2" style="text-align:center;border-bottom:none"><span class="nowrap"><b>In office</b></span><br>January 12, 1874&nbsp;– January 10, 1876</td>
+     </tr>
+     <tr>
+      <th scope="row" style="text-align:left">Lieutenant</th>
+      <td><a href="/wiki/Alphonso_Hart" title="Alphonso Hart">Alphonso Hart</a></td>
+     </tr>
+     <tr>
+      <th scope="row" style="text-align:left"><span class="nowrap">Preceded by</span></th>
+      <td><a href="/wiki/Edward_Follansbee_Noyes" title="Edward Follansbee Noyes">Edward F. Noyes</a></td>
+     </tr>
+     <tr>
+      <th scope="row" style="text-align:left"><span class="nowrap">Succeeded by</span></th>
+      <td><a href="/wiki/Rutherford_B._Hayes" title="Rutherford B. Hayes">Rutherford B. Hayes</a></td>
+     </tr>
+     <tr>
+      <th colspan="2" style="text-align:center;background:lavender;line-height:normal;padding:0.2em 0.2em"><a href="/wiki/United_States_Senator" class="mw-redirect" title="United States Senator">United States Senator</a><br>from <a href="/wiki/Ohio" title="Ohio">Ohio</a></th>
+     </tr>
+     <tr>
+      <td colspan="2" style="text-align:center;border-bottom:none"><span class="nowrap"><b>In office</b></span><br>March 4, 1837&nbsp;– March 3, 1849</td>
+     </tr>
+     <tr>
+      <th scope="row" style="text-align:left"><span class="nowrap">Preceded by</span></th>
+      <td><a href="/wiki/Thomas_Ewing" title="Thomas Ewing">Thomas Ewing</a></td>
+     </tr>
+     <tr>
+      <th scope="row" style="text-align:left"><span class="nowrap">Succeeded by</span></th>
+      <td><a href="/wiki/Salmon_P._Chase" title="Salmon P. Chase">Salmon P. Chase</a></td>
+     </tr>
+     <tr>
+      <th colspan="2" style="text-align:center;background:lavender;line-height:normal;padding:0.2em 0.2em">Member of the <span style="display: inline-block;"><a href="/wiki/United_States_House_of_Representatives" title="United States House of Representatives">U.S. House of Representatives</a></span><br>from <a href="/wiki/Ohio" title="Ohio">Ohio</a>'s <a href="/wiki/Ohio%27s_7th_congressional_district" title="Ohio's 7th congressional district">7th</a> district</th>
+     </tr>
+     <tr>
+      <td colspan="2" style="text-align:center;border-bottom:none"><span class="nowrap"><b>In office</b></span><br>March 4, 1833&nbsp;– March 3, 1835</td>
+     </tr>
+     <tr>
+      <th scope="row" style="text-align:left"><span class="nowrap">Preceded by</span></th>
+      <td><a href="/wiki/Samuel_Finley_Vinton" title="Samuel Finley Vinton">Samuel Finley Vinton</a></td>
+     </tr>
+     <tr>
+      <th scope="row" style="text-align:left"><span class="nowrap">Succeeded by</span></th>
+      <td><a href="/wiki/William_K._Bond" title="William K. Bond">William K. Bond</a></td>
+     </tr>
+     <tr style="display:none">
+      <td colspan="2"> </td>
+     </tr>
+     <tr>
+      <th colspan="2" style="text-align:center;background:lavender">Personal details</th>
+     </tr>
+     <tr>
+      <th scope="row">Born</th>
+      <td>December 18 or 27, 1803<span style="display:none">&nbsp;(<span class="dtstart bday">2019-12-18</span>)</span><br><a href="/wiki/Edenton,_North_Carolina" title="Edenton, North Carolina">Edenton, North Carolina</a></td>
+     </tr>
+     <tr>
+      <th scope="row">Died</th>
+      <td>July 11, 1879<span style="display:none">(1879-07-11)</span> (aged&nbsp;75)<br>Fruit Hill, <a href="/wiki/Chillicothe,_Ohio" title="Chillicothe, Ohio">Chillicothe, Ohio</a></td>
+     </tr>
+     <tr>
+      <th scope="row">Political party</th>
+      <td><a href="/wiki/Democratic_Party_(United_States)" title="Democratic Party (United States)">Democratic</a></td>
+     </tr>
+     <tr>
+      <th scope="row">Spouse(s)</th>
+      <td>Effie McArthur</td>
+     </tr>
+    </tbody>
+   </table> 
+   <p><b>William Allen</b> (December 18 or 27, 1803 – July 11, 1879) was a <a href="/wiki/United_States_Democratic_Party" class="mw-redirect" title="United States Democratic Party">Democratic</a> <a href="/wiki/United_States_House_of_Representatives" title="United States House of Representatives">Representative</a>, <a href="/wiki/United_States_Senate" title="United States Senate">Senator</a> and <a href="/wiki/List_of_Governors_of_Ohio" class="mw-redirect" title="List of Governors of Ohio">31st Governor of Ohio</a>. </p> 
+   <div id="toc" class="toc">
+    <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+    <div class="toctitle" lang="en" dir="ltr">
+     <h2>Contents</h2>
+     <span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+    </div> 
+    <ul> 
+     <li class="toclevel-1 tocsection-1"><a href="#Early_life_and_family"><span class="tocnumber">1</span> <span class="toctext">Early life and family</span></a></li> 
+     <li class="toclevel-1 tocsection-2"><a href="#Career"><span class="tocnumber">2</span> <span class="toctext">Career</span></a></li> 
+     <li class="toclevel-1 tocsection-3"><a href="#Death"><span class="tocnumber">3</span> <span class="toctext">Death</span></a></li> 
+     <li class="toclevel-1 tocsection-4"><a href="#Legacy"><span class="tocnumber">4</span> <span class="toctext">Legacy</span></a></li> 
+     <li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li> 
+     <li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li> 
+    </ul> 
+   </div> 
+   <h2><span class="mw-headline" id="Early_life_and_family">Early life and family</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=William_Allen_(governor)&amp;action=edit&amp;section=1" title="Edit section: Early life and family">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <p>Allen was born in <a href="/wiki/Edenton,_North_Carolina" title="Edenton, North Carolina">Edenton, North Carolina</a> and moved to <a href="/wiki/Chillicothe,_Ohio" title="Chillicothe, Ohio">Chillicothe, Ohio</a> in 1819, after his parents' death. He was of <a href="/wiki/Quaker" class="mw-redirect" title="Quaker">Quaker</a> ancestry.<sup id="cite_ref-OHC_1-0" class="reference"><a href="#cite_note-OHC-1">[1]</a></sup> </p>
+   <p>Allen and his sister Mary Granberry Allen lived in Chillicothe together. His sister married Reverend Pleasant Thurman, and their son, <a href="/wiki/Allen_G._Thurman" title="Allen G. Thurman">Allen G. Thurman</a>, followed in his uncle's footsteps, becoming a lawyer and politician. </p>
+   <p>Allen attended Chillicothe Academy before studying law with <a href="/wiki/Edward_King_(Ohio_politician)" title="Edward King (Ohio politician)">Colonel Edward King</a>. He was <a href="/wiki/Admission_to_the_bar_in_the_United_States" title="Admission to the bar in the United States">admitted to the bar</a> in Ohio at age 21.<sup id="cite_ref-OHC_1-1" class="reference"><a href="#cite_note-OHC-1">[1]</a></sup> He began his career as a politician in the Democratic Party at a young age.<sup id="cite_ref-ryan_2-0" class="reference"><a href="#cite_note-ryan-2">[2]</a></sup> </p> 
+   <h2><span class="mw-headline" id="Career">Career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=William_Allen_(governor)&amp;action=edit&amp;section=2" title="Edit section: Career">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <div class="thumb tleft">
+    <div class="thumbinner" style="width:202px;">
+     <a href="/wiki/File:Fruit_Hill.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Fruit_Hill.png/200px-Fruit_Hill.png" decoding="async" width="200" height="119" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Fruit_Hill.png/300px-Fruit_Hill.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Fruit_Hill.png/400px-Fruit_Hill.png 2x" data-file-width="918" data-file-height="548"></a> 
+     <div class="thumbcaption">
+      <div class="magnify">
+       <a href="/wiki/File:Fruit_Hill.png" class="internal" title="Enlarge"></a>
+      </div>Fruit Hill (home of 
+      <a href="/wiki/Duncan_McArthur" title="Duncan McArthur">McArthur</a> and Allen
+     </div>
+    </div>
+   </div> 
+   <p>Allen served as <a href="/wiki/United_States_Representative" class="mw-redirect" title="United States Representative">United States Representative</a> from <a href="/wiki/Ohio" title="Ohio">Ohio</a> from 1833 to 1835, losing his bid for re-election. He served as <a href="/wiki/United_States_Senator" class="mw-redirect" title="United States Senator">United States Senator</a> from Ohio from 1837 to 1849, losing a bid for a third term in 1848. </p>
+   <p>While in the Senate, Allen was one of a group of Western Democrat <a href="/wiki/Expansionism" title="Expansionism">expansionists</a> who asserted that the U.S. had a valid claim to the entire <a href="/wiki/Oregon_boundary_dispute" title="Oregon boundary dispute">Oregon Country</a>, which was an issue during the <a href="/wiki/U.S._presidential_election,_1844" class="mw-redirect" title="U.S. presidential election, 1844">1844 U.S. presidential election</a>. He suggested that the United States should be prepared to go to war with the <a href="/wiki/United_Kingdom_of_Great_Britain_and_Ireland" title="United Kingdom of Great Britain and Ireland">United Kingdom</a> in order to annex the entire Oregon Country up to <a href="/wiki/Russian_America" title="Russian America">Russian-owned Alaska</a> at <a href="/wiki/Parallel_54%C2%B040%E2%80%B2_north" title="Parallel 54°40′ north">latitude 54°40′N</a>. This position ultimately produced the slogan "<a href="/wiki/Fifty-Four_Forty_or_Fight!" class="mw-redirect" title="Fifty-Four Forty or Fight!">Fifty-Four Forty or Fight!</a>," coined in 1846 by opponents of such a policy (not, as popularly believed, a slogan in the 1844 Presidential campaign).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Allen supported "popular sovereignty" and the presidential candidacy of fellow-Democrat <a href="/wiki/Lewis_Cass" title="Lewis Cass">Lewis Cass</a> in <a href="/wiki/United_States_presidential_election,_1848" class="mw-redirect" title="United States presidential election, 1848">1848</a>.<sup id="cite_ref-OHC_1-2" class="reference"><a href="#cite_note-OHC-1">[1]</a></sup> </p>
+   <p>In 1849, Allen retired to his farm, "Fruit Hill", which had belonged to his father-in-law, and fellow Ohio Governor, <a href="/wiki/Duncan_McArthur" title="Duncan McArthur">Duncan McArthur</a>,<sup id="cite_ref-ryan_2-1" class="reference"><a href="#cite_note-ryan-2">[2]</a></sup> near <a href="/wiki/Chillicothe,_Ohio" title="Chillicothe, Ohio">Chillicothe, Ohio</a>. Allen identified himself as a "<a href="/wiki/Peace_Democrat" class="mw-redirect" title="Peace Democrat">Peace Democrat</a>" by <a href="/wiki/Opposition_to_the_American_Civil_War" title="Opposition to the American Civil War">opposing</a> the <a href="/wiki/American_Civil_War" title="American Civil War">American Civil War</a>.<sup id="cite_ref-OHC_1-3" class="reference"><a href="#cite_note-OHC-1">[1]</a></sup> Allen did not return to public service for nearly a quarter century, until he served as <a href="/wiki/Governor_of_Ohio" class="mw-redirect" title="Governor of Ohio">Governor of Ohio</a> from 1874 to 1876. He unsuccessfully sought a second two-year term in an 1875 election. </p>
+   <p>Allen was noted for his loud voice. A friend asked Senator <a href="/wiki/Benjamin_Tappan" title="Benjamin Tappan">Benjamin Tappan</a> if a fellow Ohioan was still in Washington. Tappan replied "No, he left yesterday and is probably by this time in <a href="/wiki/Cumberland,_Maryland" title="Cumberland, Maryland">Cumberland, Maryland</a>, but if you will go to Bill Allen and tell him to raise that window and call him he will come back."<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> </p> 
+   <h2><span class="mw-headline" id="Death">Death</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=William_Allen_(governor)&amp;action=edit&amp;section=3" title="Edit section: Death">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <p>At the close of his administration, he retired to private life at Fruit Hill, where he died in 1879.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Allen is buried at <a href="/wiki/Grandview_Cemetery,_Chillicothe" class="mw-redirect" title="Grandview Cemetery, Chillicothe">Grandview Cemetery, Chillicothe</a>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> </p> 
+   <h2><span class="mw-headline" id="Legacy">Legacy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=William_Allen_(governor)&amp;action=edit&amp;section=4" title="Edit section: Legacy">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <p><a href="/wiki/Allen_County,_Kansas" title="Allen County, Kansas">Allen County, Kansas</a> is named for William Allen.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> </p>
+   <p>In 1887, Ohio donated a <a href="/wiki/William_Allen_(Niehaus)" title="William Allen (Niehaus)">statue of Allen</a> to the <a href="/wiki/National_Statuary_Hall_Collection" title="National Statuary Hall Collection">National Statuary Hall Collection</a>, which was exhibited in the <a href="/wiki/National_Statuary_Hall" title="National Statuary Hall">National Statuary Hall</a> of the <a href="/wiki/United_States_Capitol" title="United States Capitol">U.S. Capitol</a>. The statue was sculpted by <a href="/wiki/Charles_H._Niehaus" class="mw-redirect" title="Charles H. Niehaus">Charles H. Niehaus</a>.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> In 2010, the <a href="/wiki/Ohio_Historical_Society" class="mw-redirect" title="Ohio Historical Society">Ohio Historical Society</a> held a statewide poll on the suitability of Allen as a distinguished representative of the state. The poll found that many Ohioans objected to Allen. On August 26, the Ohio National Statuary Committee voted to replace Allen's statue with a statue of Ohio-born inventor <a href="/wiki/Thomas_Edison" title="Thomas Edison">Thomas Edison</a>. The <a href="/wiki/Ohio_General_Assembly" title="Ohio General Assembly">Ohio General Assembly</a> agreed to replace the statue in part because "Allen’s pro-slavery position and outspoken criticism of President <a href="/wiki/Abraham_Lincoln" title="Abraham Lincoln">Abraham Lincoln</a> during the <a href="/wiki/American_Civil_War" title="American Civil War">Civil War</a> make him a poor representative for Ohio in the U.S. Capitol."<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> However, lack of funding for the Edison statue delayed replacement of the Allen statue.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> The Edison statue was completed in spring 2015, and was installed on September 20, 2016.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> The statue of Allen was relocated to the Ross County Heritage Center in Chillicothe.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> </p> 
+   <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=William_Allen_(governor)&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <div class="reflist" style="list-style-type: decimal;"> 
+    <div class="mw-references-wrap mw-references-columns">
+     <ol class="references"> 
+      <li id="cite_note-OHC-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-OHC_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-OHC_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-OHC_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-OHC_1-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.ohiohistorycentral.org/entry.php?rec=132">"William Allen"</a>. <a href="/wiki/Ohio_History_Central" class="mw-redirect" title="Ohio History Central">Ohio History Central</a><span class="reference-accessdate">. Retrieved <span class="nowrap">August 5,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=William+Allen&amp;rft.pub=Ohio+History+Central&amp;rft_id=http%3A%2F%2Fwww.ohiohistorycentral.org%2Fentry.php%3Frec%3D132&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWilliam+Allen+%28governor%29" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span> </li> 
+      <li id="cite_note-ryan-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-ryan_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ryan_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Daniel_J._Ryan" title="Daniel J. Ryan">Ryan, Daniel J</a> (1888). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=M6YTAAAAYAAJ&amp;pg=PA190">"William Allen"</a>. <i>A History of Ohio with Biographical Sketches of her Governors and the Ordinance of 1787</i>. Columbus, Ohio: A H Smythe. pp.&nbsp;190–191.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=William+Allen&amp;rft.btitle=A+History+of+Ohio+with+Biographical+Sketches+of+her+Governors+and+the+Ordinance+of+1787&amp;rft.place=Columbus%2C+Ohio&amp;rft.pages=190-191&amp;rft.pub=A+H+Smythe&amp;rft.date=1888&amp;rft.aulast=Ryan&amp;rft.aufirst=Daniel+J&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DM6YTAAAAYAAJ%26pg%3DPA190&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWilliam+Allen+%28governor%29" class="Z3988"></span>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+      <li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.aoc.gov/cc/art/nsh/allen_w.cfm">"William Allen"</a>. Architect of the Capital<span class="reference-accessdate">. Retrieved <span class="nowrap">August 5,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=William+Allen&amp;rft.pub=Architect+of+the+Capital&amp;rft_id=http%3A%2F%2Fwww.aoc.gov%2Fcc%2Fart%2Fnsh%2Fallen_w.cfm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWilliam+Allen+%28governor%29" class="Z3988"></span>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+      <li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation journal">Hunter, W.H. (1898). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=VIQUAAAAYAAJ&amp;pg=PA226&amp;dq=Allen">"The Pathfinders of Jefferson County"</a>. <i><a href="/wiki/Ohio_Archaeological_and_Historical_Publications" class="mw-redirect" title="Ohio Archaeological and Historical Publications">Ohio Archaeological and Historical Publications</a></i>. <b>VI</b>: 226.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Ohio+Archaeological+and+Historical+Publications&amp;rft.atitle=The+Pathfinders+of+Jefferson+County&amp;rft.volume=VI&amp;rft.pages=226&amp;rft.date=1898&amp;rft.aulast=Hunter&amp;rft.aufirst=W.H.&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DVIQUAAAAYAAJ%26pg%3DPA226%26dq%3DAllen&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWilliam+Allen+%28governor%29" class="Z3988"></span>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+      <li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation book">Renick, L W; Fullerton, M D; Nipgen, M P (1896). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=DBwWAAAAYAAJ&amp;pg=PA76"><i>Che-le-co-the, glimpses of yesterday: a souvenir of the hundredth anniversary of the founding of Chillicothe, Ohio April 1896</i></a>. Chillicothe. p.&nbsp;76.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Che-le-co-the%2C+glimpses+of+yesterday%3A+a+souvenir+of+the+hundredth+anniversary+of+the+founding+of+Chillicothe%2C+Ohio+April+1896&amp;rft.place=Chillicothe&amp;rft.pages=76&amp;rft.date=1896&amp;rft.aulast=Renick&amp;rft.aufirst=L+W&amp;rft.au=Fullerton%2C+M+D&amp;rft.au=Nipgen%2C+M+P&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DDBwWAAAAYAAJ%26pg%3DPA76&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWilliam+Allen+%28governor%29" class="Z3988"></span>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+      <li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.graveaddiction.com/grandview.html">"Grandview Cemetery"</a>. Grandview Cemetery<span class="reference-accessdate">. Retrieved <span class="nowrap">July 29,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Grandview+Cemetery&amp;rft.pub=Grandview+Cemetery&amp;rft_id=http%3A%2F%2Fwww.graveaddiction.com%2Fgrandview.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWilliam+Allen+%28governor%29" class="Z3988"></span>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+      <li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.epodunk.com/cgi-bin/genInfo.php?locIndex=4418">"Profile for Allen County, Kansas, KS"</a>. ePodunk<span class="reference-accessdate">. Retrieved <span class="nowrap">August 5,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Profile+for+Allen+County%2C+Kansas%2C+KS&amp;rft.pub=ePodunk&amp;rft_id=http%3A%2F%2Fwww.epodunk.com%2Fcgi-bin%2FgenInfo.php%3FlocIndex%3D4418&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWilliam+Allen+%28governor%29" class="Z3988"></span>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+      <li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.aoc.gov/cc/art/nsh/">The National Statuary Hall Collection</a></span> </li> 
+      <li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.legacyforohio.org/">Legacy for Ohio</a></span> </li> 
+      <li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">"Inventive fundraising is called for Edison's statue." Columbus <i>Dispatch</i>, January 13, 2013, Page 2B</span> </li> 
+      <li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">"Ohioans can visit statue before it heads to D.C." Columbus <i>Dispatch</i>, May 20, 2015, Page 9B</span> </li> 
+      <li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.chillicothegazette.com/story/news/local/2016/09/22/heritage-center-gets-historic-statue/90828218/">"Heritage Center gets historic statue" Chillicothe <i>Gazette</i>, September 23, 2016, Page A1</a></span> </li> 
+     </ol>
+    </div>
+   </div> 
+   <h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=William_Allen_(governor)&amp;action=edit&amp;section=6" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <ul>
+    <li><cite id="CITEREFUnited_States_CongressA000150" class="citation web">United States Congress. <a rel="nofollow" class="external text" href="http://bioguide.congress.gov/scripts/biodisplay.pl?index=A000150">"William Allen (id: A000150)"</a>. <i><a href="/wiki/Biographical_Directory_of_the_United_States_Congress" title="Biographical Directory of the United States Congress">Biographical Directory of the United States Congress</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Biographical+Directory+of+the+United+States+Congress&amp;rft.atitle=William+Allen+%28id%3A+A000150%29&amp;rft.au=United+States+Congress&amp;rft_id=http%3A%2F%2Fbioguide.congress.gov%2Fscripts%2Fbiodisplay.pl%3Findex%3DA000150&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWilliam+Allen+%28governor%29" class="Z3988"></span>
+     <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></li> 
+    <li><a rel="nofollow" class="external text" href="http://www.aoc.gov/capitol-hill/national-statuary-hall-collection/william-allen">National Statuary Hall Collection: William Allen</a> at <i><a href="/wiki/Architect_of_the_Capitol" title="Architect of the Capitol">Architect of the Capitol</a></i></li> 
+    <li><a rel="nofollow" class="external text" href="http://www.ohiohistorycentral.org/entry.php?rec=132">William Allen</a> at <i><a href="/wiki/Ohio_History_Central" class="mw-redirect" title="Ohio History Central">Ohio History Central</a></i></li> 
+    <li><a rel="nofollow" class="external text" href="https://www.findagrave.com/memorial/7556">William Allen</a> at <a href="/wiki/Find_a_Grave" title="Find a Grave">Find a Grave</a></li> 
+    <li><img alt="Wikisource-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png" decoding="async" width="12" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/18px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/24px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430">&nbsp;<cite class="citation encyclopaedia"><span class="cs1-ws-icon" title="s:Appletons' Cyclopædia of American Biography/Allen, William (statesman)"><a class="external text" href="https://en.wikisource.org/wiki/Appletons%27_Cyclop%C3%A6dia_of_American_Biography/Allen,_William_(statesman)">"Allen, William (statesman)"&nbsp;</a></span>. <i><a href="/wiki/Appletons%27_Cyclop%C3%A6dia_of_American_Biography" title="Appletons' Cyclopædia of American Biography">Appletons' Cyclopædia of American Biography</a></i>. 1900.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Allen%2C+William+%28statesman%29&amp;rft.btitle=Appletons%27+Cyclop%C3%A6dia+of+American+Biography&amp;rft.date=1900&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWilliam+Allen+%28governor%29" class="Z3988"></span>
+     <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></li>
+   </ul> 
+   <div role="navigation" class="navbox" aria-labelledby="Offices_and_distinctions" style="padding:3px">
+    <table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+     <tbody>
+      <tr>
+       <th scope="col" class="navbox-title" colspan="2" style="background:#e8e8ff;">
+        <div id="Offices_and_distinctions" style="font-size:114%;margin:0 4em">
+         Offices and distinctions
+        </div></th>
+      </tr>
+      <tr>
+       <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px;font-size:114%">
+        <div style="padding:0px"> 
+         <table class="wikitable succession-box" style="margin:0.5em auto; font-size:95%;clear:both;"> 
+          <tbody>
+           <tr> 
+            <th colspan="3" style="border-top: 5px solid #cccccc"><a href="/wiki/United_States_House_of_Representatives" title="United States House of Representatives">U.S. House of Representatives</a> </th>
+           </tr> 
+           <tr style="text-align:center;"> 
+            <td style="width:30%;" rowspan="1">Preceded&nbsp;by<br><span style="font-weight: bold"><a href="/wiki/Samuel_Finley_Vinton" title="Samuel Finley Vinton">Samuel Finley Vinton</a></span> </td> 
+            <td style="width: 40%; text-align: center;" rowspan="1"><b> <a href="/wiki/List_of_United_States_Representatives_from_Ohio" title="List of United States Representatives from Ohio">U.S. Representative from Ohio,<br>7th District</a></b><br>1833–1835 </td> 
+            <td style="width: 30%; text-align: center;" rowspan="1">Succeeded&nbsp;by<br><span style="font-weight: bold"><a href="/wiki/William_K._Bond" title="William K. Bond">William K. Bond</a></span> </td>
+           </tr> 
+           <tr> 
+            <th colspan="3" style="border-top: 5px solid #cccccc"><a href="/wiki/United_States_Senate" title="United States Senate">U.S. Senate</a> </th>
+           </tr> 
+           <tr style="text-align:center;"> 
+            <td style="width:30%;" rowspan="1">Preceded&nbsp;by<br><span style="font-weight: bold"><a href="/wiki/Thomas_Ewing" title="Thomas Ewing">Thomas Ewing</a></span> </td> 
+            <td style="width: 40%; text-align: center;" rowspan="1"><b> <a href="/wiki/List_of_United_States_Senators_from_Ohio" title="List of United States Senators from Ohio"> U.S. Senator (Class 3) from Ohio</a></b><br>1837–1849 <br><small>Served alongside: <b><a href="/wiki/Thomas_Morris_(Ohio_politician)" title="Thomas Morris (Ohio politician)">Thomas Morris</a>, <a href="/wiki/Benjamin_Tappan" title="Benjamin Tappan">Benjamin Tappan</a>, <a href="/wiki/Thomas_Corwin" title="Thomas Corwin">Thomas Corwin</a></b></small> </td> 
+            <td style="width: 30%; text-align: center;" rowspan="1">Succeeded&nbsp;by<br><span style="font-weight: bold"><a href="/wiki/Salmon_P._Chase" title="Salmon P. Chase">Salmon P. Chase</a></span> </td>
+           </tr> 
+           <tr> 
+            <th colspan="3" style="border-top: 5px solid #ccccff;">Political offices </th>
+           </tr> 
+           <tr style="text-align:center;"> 
+            <td style="width:30%;" rowspan="1">Preceded&nbsp;by<br><span style="font-weight: bold"><a href="/wiki/Edward_Follansbee_Noyes" title="Edward Follansbee Noyes">Edward F. Noyes</a></span> </td> 
+            <td style="width: 40%; text-align: center;" rowspan="1"><b> <a href="/wiki/List_of_Governors_of_Ohio" class="mw-redirect" title="List of Governors of Ohio">Governor of Ohio</a></b><br>1874–1876 </td> 
+            <td style="width: 30%; text-align: center;" rowspan="1">Succeeded&nbsp;by<br><span style="font-weight: bold"><a href="/wiki/Rutherford_B._Hayes" title="Rutherford B. Hayes">Rutherford B. Hayes</a></span> </td>
+           </tr> 
+           <tr> 
+            <th colspan="3" style="border-top: 5px solid #FFBF00;">Party political offices </th>
+           </tr> 
+           <tr style="text-align:center;"> 
+            <td style="width:30%;" rowspan="1">Preceded&nbsp;by<br><span style="font-weight: bold"><a href="/wiki/George_Wythe_McCook" title="George Wythe McCook">George Wythe McCook</a></span> </td> 
+            <td style="width: 40%; text-align: center;" rowspan="1"><b> <a href="/wiki/Democratic_Party_(United_States)" title="Democratic Party (United States)">Democratic Party</a> <a href="/wiki/Ohio_gubernatorial_elections" title="Ohio gubernatorial elections">nominee</a> for <a href="/wiki/Governor_of_Ohio" class="mw-redirect" title="Governor of Ohio">Governor of Ohio</a></b><br>1873, 1875 </td> 
+            <td style="width: 30%; text-align: center;" rowspan="1">Succeeded&nbsp;by<br><span style="font-weight: bold"><a href="/wiki/Richard_M._Bishop" title="Richard M. Bishop">Richard M. Bishop</a></span> </td>
+           </tr> 
+          </tbody>
+         </table>
+        </div></td>
+      </tr>
+     </tbody>
+    </table>
+   </div> 
+   <div role="navigation" class="navbox" aria-labelledby="Articles_and_topics" style="padding:3px">
+    <table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+     <tbody>
+      <tr>
+       <th scope="col" class="navbox-title" colspan="2" style="background:#e8e8ff;">
+        <div id="Articles_and_topics" style="font-size:114%;margin:0 4em">
+         Articles and topics
+        </div></th>
+      </tr>
+      <tr>
+       <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px;font-size:114%">
+        <div style="padding:0px"> 
+         <div role="navigation" class="navbox" aria-labelledby="United_States_Senators_from_Ohio" style="padding:3px">
+          <table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+           <tbody>
+            <tr>
+             <th scope="col" class="navbox-title" colspan="3">
+              <div class="plainlinks hlist navbar mini">
+               <ul>
+                <li class="nv-view"><a href="/wiki/Template:United_States_Senators_from_Ohio" title="Template:United States Senators from Ohio"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+                <li class="nv-talk"><a href="/wiki/Template_talk:United_States_Senators_from_Ohio" title="Template talk:United States Senators from Ohio"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+                <li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:United_States_Senators_from_Ohio&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+               </ul>
+              </div>
+              <div id="United_States_Senators_from_Ohio" style="font-size:114%;margin:0 4em">
+               <a href="/wiki/List_of_United_States_Senators_from_Ohio" title="List of United States Senators from Ohio">United States Senators from Ohio</a>
+              </div></th>
+            </tr>
+            <tr>
+             <th scope="row" class="navbox-group" style="width:1%">Class 1</th>
+             <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+              <div style="padding:0em 0.25em"> 
+               <ul>
+                <li><a href="/wiki/John_Smith_(Ohio_politician,_died_1824)" title="John Smith (Ohio politician, died 1824)">Smith</a></li> 
+                <li><a href="/wiki/Return_J._Meigs_Jr." title="Return J. Meigs Jr.">Meigs</a></li> 
+                <li><a href="/wiki/Thomas_Worthington_(governor)" title="Thomas Worthington (governor)">Worthington</a></li> 
+                <li><a href="/wiki/Joseph_Kerr" title="Joseph Kerr">Kerr</a></li> 
+                <li><a href="/wiki/Benjamin_Ruggles" title="Benjamin Ruggles">Ruggles</a></li> 
+                <li><a href="/wiki/Thomas_Morris_(Ohio_politician)" title="Thomas Morris (Ohio politician)">Morris</a></li> 
+                <li><a href="/wiki/Benjamin_Tappan" title="Benjamin Tappan">Tappan</a></li> 
+                <li><a href="/wiki/Thomas_Corwin" title="Thomas Corwin">Corwin</a></li> 
+                <li><a href="/wiki/Thomas_Ewing" title="Thomas Ewing">Ewing</a></li> 
+                <li><a href="/wiki/Benjamin_Wade" title="Benjamin Wade">Wade</a></li> 
+                <li><a href="/wiki/Allen_G._Thurman" title="Allen G. Thurman">Thurman</a></li> 
+                <li><a href="/wiki/John_Sherman" title="John Sherman">Sherman</a></li> 
+                <li><a href="/wiki/Mark_Hanna" title="Mark Hanna">Hanna</a></li> 
+                <li><a href="/wiki/Charles_W._F._Dick" title="Charles W. F. Dick">Dick</a></li> 
+                <li><a href="/wiki/Atlee_Pomerene" title="Atlee Pomerene">Pomerene</a></li> 
+                <li><a href="/wiki/Simeon_D._Fess" title="Simeon D. Fess">Fess</a></li> 
+                <li><a href="/wiki/A._Victor_Donahey" title="A. Victor Donahey">Donahey</a></li> 
+                <li><a href="/wiki/Harold_Hitz_Burton" title="Harold Hitz Burton">H. Burton</a></li> 
+                <li><a href="/wiki/James_W._Huffman" title="James W. Huffman">Huffman</a></li> 
+                <li><a href="/wiki/Kingsley_A._Taft" title="Kingsley A. Taft">K. Taft</a></li> 
+                <li><a href="/wiki/John_W._Bricker" title="John W. Bricker">Bricker</a></li> 
+                <li><a href="/wiki/Stephen_M._Young" title="Stephen M. Young">Young</a></li> 
+                <li><a href="/wiki/Robert_Taft_Jr." title="Robert Taft Jr.">R. Taft Jr.</a></li> 
+                <li><a href="/wiki/Howard_Metzenbaum" title="Howard Metzenbaum">Metzenbaum</a></li> 
+                <li><a href="/wiki/Mike_DeWine" title="Mike DeWine">DeWine</a></li> 
+                <li><a href="/wiki/Sherrod_Brown" title="Sherrod Brown">S. Brown</a></li>
+               </ul> 
+              </div></td>
+             <td class="navbox-image" rowspan="2" style="width:1px;padding:0px 0px 0px 2px">
+              <div>
+               <a href="/wiki/File:Seal_of_the_United_States_Senate.svg" class="image" title="United States Senate"><img alt="United States Senate" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Seal_of_the_United_States_Senate.svg/80px-Seal_of_the_United_States_Senate.svg.png" decoding="async" width="80" height="80" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Seal_of_the_United_States_Senate.svg/120px-Seal_of_the_United_States_Senate.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Seal_of_the_United_States_Senate.svg/160px-Seal_of_the_United_States_Senate.svg.png 2x" data-file-width="1030" data-file-height="1030"></a>
+              </div></td>
+            </tr>
+            <tr>
+             <th scope="row" class="navbox-group" style="width:1%">Class 3</th>
+             <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+              <div style="padding:0em 0.25em"> 
+               <ul>
+                <li><a href="/wiki/Thomas_Worthington_(governor)" title="Thomas Worthington (governor)">Worthington</a></li> 
+                <li><a href="/wiki/Edward_Tiffin" title="Edward Tiffin">Tiffin</a></li> 
+                <li><a href="/wiki/Stanley_Griswold" title="Stanley Griswold">Griswold</a></li> 
+                <li><a href="/wiki/Alexander_Campbell_(American_politician)" title="Alexander Campbell (American politician)">Campbell</a></li> 
+                <li><a href="/wiki/Jeremiah_Morrow" title="Jeremiah Morrow">Morrow</a></li> 
+                <li><a href="/wiki/William_A._Trimble" title="William A. Trimble">Trimble</a></li> 
+                <li><a href="/wiki/Ethan_Allen_Brown" title="Ethan Allen Brown">E. Brown</a></li> 
+                <li><a href="/wiki/William_Henry_Harrison" title="William Henry Harrison">Harrison</a></li> 
+                <li><a href="/wiki/Jacob_Burnet" title="Jacob Burnet">Burnet</a></li> 
+                <li><a href="/wiki/Thomas_Ewing" title="Thomas Ewing">Ewing</a></li> 
+                <li><a class="mw-selflink selflink">Allen</a></li> 
+                <li><a href="/wiki/Salmon_P._Chase" title="Salmon P. Chase">Chase</a></li> 
+                <li><a href="/wiki/George_E._Pugh" title="George E. Pugh">Pugh</a></li> 
+                <li><a href="/wiki/Salmon_P._Chase" title="Salmon P. Chase">Chase</a></li> 
+                <li><a href="/wiki/John_Sherman" title="John Sherman">Sherman</a></li> 
+                <li><a href="/wiki/Stanley_Matthews_(Supreme_Court_justice)" title="Stanley Matthews (Supreme Court justice)">Matthews</a></li> 
+                <li><a href="/wiki/George_H._Pendleton" title="George H. Pendleton">Pendleton</a></li> 
+                <li><a href="/wiki/Henry_B._Payne" title="Henry B. Payne">Payne</a></li> 
+                <li><a href="/wiki/Calvin_S._Brice" title="Calvin S. Brice">Brice</a></li> 
+                <li><a href="/wiki/Joseph_B._Foraker" title="Joseph B. Foraker">Foraker</a></li> 
+                <li><a href="/wiki/Theodore_E._Burton" title="Theodore E. Burton">T. Burton</a></li> 
+                <li><a href="/wiki/Warren_G._Harding" title="Warren G. Harding">Harding</a></li> 
+                <li><a href="/wiki/Frank_B._Willis" title="Frank B. Willis">Willis</a></li> 
+                <li><a href="/wiki/Cyrus_Locher" title="Cyrus Locher">Locher</a></li> 
+                <li><a href="/wiki/Theodore_E._Burton" title="Theodore E. Burton">T. Burton</a></li> 
+                <li><a href="/wiki/Roscoe_C._McCulloch" title="Roscoe C. McCulloch">McCulloch</a></li> 
+                <li><a href="/wiki/Robert_J._Bulkley" title="Robert J. Bulkley">Bulkley</a></li> 
+                <li><a href="/wiki/Robert_A._Taft" title="Robert A. Taft">R. Taft Sr.</a></li> 
+                <li><a href="/wiki/Thomas_A._Burke" title="Thomas A. Burke">Burke</a></li> 
+                <li><a href="/wiki/George_H._Bender" title="George H. Bender">Bender</a></li> 
+                <li><a href="/wiki/Frank_Lausche" title="Frank Lausche">Lausche</a></li> 
+                <li><a href="/wiki/William_B._Saxbe" title="William B. Saxbe">Saxbe</a></li> 
+                <li><a href="/wiki/Howard_Metzenbaum" title="Howard Metzenbaum">Metzenbaum</a></li> 
+                <li><a href="/wiki/John_Glenn" title="John Glenn">Glenn</a></li> 
+                <li><a href="/wiki/George_Voinovich" title="George Voinovich">Voinovich</a></li> 
+                <li><a href="/wiki/Rob_Portman" title="Rob Portman">Portman</a></li>
+               </ul> 
+              </div></td>
+            </tr>
+           </tbody>
+          </table>
+         </div> 
+         <div role="navigation" class="navbox" aria-labelledby="Governors_and_Lieutenant_Governors_of_Ohio" style="padding:3px">
+          <table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+           <tbody>
+            <tr>
+             <th scope="col" class="navbox-title" colspan="3">
+              <div class="plainlinks hlist navbar mini">
+               <ul>
+                <li class="nv-view"><a href="/wiki/Template:Governors_of_Ohio" title="Template:Governors of Ohio"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+                <li class="nv-talk"><a href="/wiki/Template_talk:Governors_of_Ohio" title="Template talk:Governors of Ohio"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+                <li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Governors_of_Ohio&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+               </ul>
+              </div>
+              <div id="Governors_and_Lieutenant_Governors_of_Ohio" style="font-size:114%;margin:0 4em">
+               <a href="/wiki/List_of_Governors_of_Ohio" class="mw-redirect" title="List of Governors of Ohio">Governors</a> and 
+               <a href="/wiki/Lieutenant_Governor_of_Ohio" class="mw-redirect" title="Lieutenant Governor of Ohio">Lieutenant Governors</a> of 
+               <a href="/wiki/Ohio" title="Ohio">Ohio</a>
+              </div></th>
+            </tr>
+            <tr>
+             <th scope="row" class="navbox-group" style="width:1%">Governors</th>
+             <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+              <div style="padding:0em 0.25em"> 
+               <ul>
+                <li><a href="/wiki/Edward_Tiffin" title="Edward Tiffin">Tiffin</a></li> 
+                <li><a href="/wiki/Thomas_Kirker" title="Thomas Kirker">Kirker</a></li> 
+                <li><a href="/wiki/Samuel_H._Huntington" title="Samuel H. Huntington">Huntington</a></li> 
+                <li><a href="/wiki/Return_J._Meigs,_Jr." class="mw-redirect" title="Return J. Meigs, Jr.">Meigs</a></li> 
+                <li><a href="/wiki/Othniel_Looker" title="Othniel Looker">Looker</a></li> 
+                <li><a href="/wiki/Thomas_Worthington_(governor)" title="Thomas Worthington (governor)">Worthington</a></li> 
+                <li><a href="/wiki/Ethan_Allen_Brown" title="Ethan Allen Brown">E. Brown</a></li> 
+                <li><a href="/wiki/Allen_Trimble" title="Allen Trimble">Trimble</a></li> 
+                <li><a href="/wiki/Jeremiah_Morrow" title="Jeremiah Morrow">Morrow</a></li> 
+                <li><a href="/wiki/Allen_Trimble" title="Allen Trimble">Trimble</a></li> 
+                <li><a href="/wiki/Duncan_McArthur" title="Duncan McArthur">McArthur</a></li> 
+                <li><a href="/wiki/Robert_Lucas_(governor)" title="Robert Lucas (governor)">Lucas</a></li> 
+                <li><a href="/wiki/Joseph_Vance" title="Joseph Vance">Vance</a></li> 
+                <li><a href="/wiki/Wilson_Shannon" title="Wilson Shannon">Shannon</a></li> 
+                <li><a href="/wiki/Thomas_Corwin" title="Thomas Corwin">Corwin</a></li> 
+                <li><a href="/wiki/Wilson_Shannon" title="Wilson Shannon">Shannon</a></li> 
+                <li><a href="/wiki/Thomas_W._Bartley" title="Thomas W. Bartley">T. Bartley</a></li> 
+                <li><a href="/wiki/Mordecai_Bartley" title="Mordecai Bartley">M. Bartley</a></li> 
+                <li><a href="/wiki/William_Bebb" title="William Bebb">Bebb</a></li> 
+                <li><a href="/wiki/Seabury_Ford" title="Seabury Ford">Ford</a></li> 
+                <li><a href="/wiki/Reuben_Wood" title="Reuben Wood">Wood</a></li> 
+                <li><a href="/wiki/William_Medill" title="William Medill">Medill</a></li> 
+                <li><a href="/wiki/Salmon_P._Chase" title="Salmon P. Chase">Chase</a></li> 
+                <li><a href="/wiki/William_Dennison,_Jr." class="mw-redirect" title="William Dennison, Jr.">Dennison</a></li> 
+                <li><a href="/wiki/David_Tod" title="David Tod">Tod</a></li> 
+                <li><a href="/wiki/John_Brough" title="John Brough">Brough</a></li> 
+                <li><a href="/wiki/Charles_Anderson_(governor)" title="Charles Anderson (governor)">Anderson</a></li> 
+                <li><a href="/wiki/Jacob_Dolson_Cox" title="Jacob Dolson Cox">J. D. Cox</a></li> 
+                <li><a href="/wiki/Rutherford_B._Hayes" title="Rutherford B. Hayes">Hayes</a></li> 
+                <li><a href="/wiki/Edward_Follansbee_Noyes" title="Edward Follansbee Noyes">Noyes</a></li> 
+                <li><a class="mw-selflink selflink">Allen</a></li> 
+                <li><a href="/wiki/Rutherford_B._Hayes" title="Rutherford B. Hayes">Hayes</a></li> 
+                <li><a href="/wiki/Thomas_L._Young" title="Thomas L. Young">Young</a></li> 
+                <li><a href="/wiki/Richard_M._Bishop" title="Richard M. Bishop">Bishop</a></li> 
+                <li><a href="/wiki/Charles_Foster_(Ohio_politician)" title="Charles Foster (Ohio politician)">Foster</a></li> 
+                <li><a href="/wiki/George_Hoadly" title="George Hoadly">Hoadly</a></li> 
+                <li><a href="/wiki/Joseph_B._Foraker" title="Joseph B. Foraker">Foraker</a></li> 
+                <li><a href="/wiki/James_E._Campbell" title="James E. Campbell">Campbell</a></li> 
+                <li><a href="/wiki/William_McKinley" title="William McKinley">McKinley</a></li> 
+                <li><a href="/wiki/Asa_S._Bushnell_(Governor)" class="mw-redirect" title="Asa S. Bushnell (Governor)">Bushnell</a></li> 
+                <li><a href="/wiki/George_K._Nash" title="George K. Nash">Nash</a></li> 
+                <li><a href="/wiki/Myron_T._Herrick" title="Myron T. Herrick">Herrick</a></li> 
+                <li><a href="/wiki/John_M._Pattison" title="John M. Pattison">Pattison</a></li> 
+                <li><a href="/wiki/Andrew_L._Harris" title="Andrew L. Harris">Harris</a></li> 
+                <li><a href="/wiki/Judson_Harmon" title="Judson Harmon">Harmon</a></li> 
+                <li><a href="/wiki/James_M._Cox" title="James M. Cox">J. M. Cox</a></li> 
+                <li><a href="/wiki/Frank_B._Willis" title="Frank B. Willis">Willis</a></li> 
+                <li><a href="/wiki/James_M._Cox" title="James M. Cox">J. M. Cox</a></li> 
+                <li><a href="/wiki/Harry_L._Davis" title="Harry L. Davis">Davis</a></li> 
+                <li><a href="/wiki/A._Victor_Donahey" title="A. Victor Donahey">Donahey</a></li> 
+                <li><a href="/wiki/Myers_Y._Cooper" title="Myers Y. Cooper">Cooper</a></li> 
+                <li><a href="/wiki/George_White_(Ohio_politician)" title="George White (Ohio politician)">White</a></li> 
+                <li><a href="/wiki/Martin_L._Davey" title="Martin L. Davey">Davey</a></li> 
+                <li><a href="/wiki/John_W._Bricker" title="John W. Bricker">Bricker</a></li> 
+                <li><a href="/wiki/Frank_Lausche" title="Frank Lausche">Lausche</a></li> 
+                <li><a href="/wiki/Thomas_J._Herbert" title="Thomas J. Herbert">Herbert</a></li> 
+                <li><a href="/wiki/Frank_Lausche" title="Frank Lausche">Lausche</a></li> 
+                <li><a href="/wiki/John_William_Brown" title="John William Brown">J. Brown</a></li> 
+                <li><a href="/wiki/C._William_O%27Neill" title="C. William O'Neill">O'Neill</a></li> 
+                <li><a href="/wiki/Michael_DiSalle" title="Michael DiSalle">DiSalle</a></li> 
+                <li><a href="/wiki/Jim_Rhodes" title="Jim Rhodes">Rhodes</a></li> 
+                <li><a href="/wiki/John_J._Gilligan" title="John J. Gilligan">Gilligan</a></li> 
+                <li><a href="/wiki/Jim_Rhodes" title="Jim Rhodes">Rhodes</a></li> 
+                <li><a href="/wiki/Dick_Celeste" title="Dick Celeste">Celeste</a></li> 
+                <li><a href="/wiki/George_Voinovich" title="George Voinovich">Voinovich</a></li> 
+                <li><a href="/wiki/Nancy_Hollister" title="Nancy Hollister">Hollister</a></li> 
+                <li><a href="/wiki/Bob_Taft" title="Bob Taft">Taft</a></li> 
+                <li><a href="/wiki/Ted_Strickland" title="Ted Strickland">Strickland</a></li> 
+                <li><a href="/wiki/John_Kasich" title="John Kasich">Kasich</a></li> 
+                <li><a href="/wiki/Mike_DeWine" title="Mike DeWine">DeWine</a></li>
+               </ul> 
+              </div></td>
+             <td class="navbox-image" rowspan="2" style="width:1px;padding:0px 0px 0px 2px">
+              <div>
+               <img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_the_Governor_of_Ohio.svg/100px-Flag_of_the_Governor_of_Ohio.svg.png" decoding="async" width="100" height="63" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_the_Governor_of_Ohio.svg/150px-Flag_of_the_Governor_of_Ohio.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_the_Governor_of_Ohio.svg/200px-Flag_of_the_Governor_of_Ohio.svg.png 2x" data-file-width="11340" data-file-height="7200">
+               <br>
+               <br>
+               <img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Ohio.svg/100px-Flag_of_Ohio.svg.png" decoding="async" width="100" height="62" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Ohio.svg/150px-Flag_of_Ohio.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Ohio.svg/200px-Flag_of_Ohio.svg.png 2x" data-file-width="520" data-file-height="320">
+              </div></td>
+            </tr>
+            <tr>
+             <th scope="row" class="navbox-group" style="width:1%">Lieutenant<br>Governors</th>
+             <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+              <div style="padding:0em 0.25em"> 
+               <ul>
+                <li><a href="/wiki/William_Medill" title="William Medill">Medill</a></li> 
+                <li><a href="/wiki/James_Myers_(politician)" title="James Myers (politician)">Myers</a></li> 
+                <li><a href="/wiki/Thomas_H._Ford" title="Thomas H. Ford">Ford</a></li> 
+                <li><a href="/wiki/Martin_Welker" title="Martin Welker">Welker</a></li> 
+                <li><a href="/wiki/Robert_C._Kirk" title="Robert C. Kirk">Kirk</a></li> 
+                <li><a href="/wiki/Benjamin_Stanton" title="Benjamin Stanton">Stanton</a></li> 
+                <li><a href="/wiki/Charles_Anderson_(governor)" title="Charles Anderson (governor)">Anderson</a></li> 
+                <li><a href="/wiki/Andrew_McBurney" title="Andrew McBurney">McBurney</a></li> 
+                <li><a href="/wiki/John_C._Lee" title="John C. Lee">Lee</a></li> 
+                <li><a href="/wiki/Jacob_Mueller" title="Jacob Mueller">Mueller</a></li> 
+                <li><a href="/wiki/Alphonso_Hart" title="Alphonso Hart">Hart</a></li> 
+                <li><a href="/wiki/Thomas_L._Young" title="Thomas L. Young">Young</a></li> 
+                <li><a href="/wiki/H._W._Curtiss" title="H. W. Curtiss">Curtiss</a></li> 
+                <li><a href="/wiki/Jabez_W._Fitch" title="Jabez W. Fitch">Fitch</a></li> 
+                <li><a href="/wiki/Andrew_Hickenlooper" title="Andrew Hickenlooper">Hickenlooper</a></li> 
+                <li><a href="/wiki/Rees_G._Richards" title="Rees G. Richards">Richards</a></li> 
+                <li><a href="/wiki/John_G._Warwick" title="John G. Warwick">Warwick</a></li> 
+                <li><a href="/wiki/Robert_P._Kennedy" title="Robert P. Kennedy">Kennedy</a></li> 
+                <li><a href="/wiki/Silas_A._Conrad" title="Silas A. Conrad">Conrad</a></li> 
+                <li><a href="/wiki/William_C._Lyon" title="William C. Lyon">Lyon</a></li> 
+                <li><a href="/wiki/Elbert_L._Lampson" title="Elbert L. Lampson">Lampson</a></li> 
+                <li><a href="/wiki/William_V._Marquis" title="William V. Marquis">Marquis</a></li> 
+                <li><a href="/wiki/Andrew_L._Harris" title="Andrew L. Harris">Harris</a></li> 
+                <li><a href="/wiki/Asa_W._Jones" title="Asa W. Jones">Jones</a></li> 
+                <li><a href="/wiki/John_A._Caldwell" title="John A. Caldwell">Caldwell</a></li> 
+                <li><a href="/wiki/Carl_L._Nippert" title="Carl L. Nippert">Nippert</a></li> 
+                <li><a href="/wiki/Harry_L._Gordon" title="Harry L. Gordon">Gordon</a></li> 
+                <li><a href="/wiki/Warren_G._Harding" title="Warren G. Harding">Harding</a></li> 
+                <li><a href="/wiki/Andrew_L._Harris" title="Andrew L. Harris">Harris</a></li> 
+                <li><a href="/wiki/Francis_W._Treadway" title="Francis W. Treadway">Treadway</a></li> 
+                <li><a href="/wiki/Atlee_Pomerene" title="Atlee Pomerene">Pomerene</a></li> 
+                <li><a href="/wiki/Hugh_L._Nichols" title="Hugh L. Nichols">Nichols</a></li> 
+                <li><a href="/wiki/W._A._Greenlund" title="W. A. Greenlund">Greenlund</a></li> 
+                <li><a href="/wiki/John_H._Arnold" title="John H. Arnold">Arnold</a></li> 
+                <li><a href="/wiki/Earl_D._Bloom" title="Earl D. Bloom">Bloom</a></li> 
+                <li><a href="/wiki/Clarence_J._Brown" title="Clarence J. Brown">C. Brown</a></li> 
+                <li><a href="/wiki/Earl_D._Bloom" title="Earl D. Bloom">Bloom</a></li> 
+                <li><a href="/wiki/Charles_H._Lewis" title="Charles H. Lewis">Lewis</a></li> 
+                <li><a href="/wiki/Earl_D._Bloom" title="Earl D. Bloom">Bloom</a></li> 
+                <li><a href="/wiki/William_G._Pickrel" title="William G. Pickrel">Pickrel</a></li> 
+                <li><a href="/wiki/George_C._Braden" title="George C. Braden">Braden</a></li> 
+                <li><a href="/wiki/John_T._Brown" title="John T. Brown">J. T. Brown</a></li> 
+                <li><a href="/wiki/William_G._Pickrel" title="William G. Pickrel">Pickrel</a></li> 
+                <li><a href="/wiki/Charles_W._Sawyer" title="Charles W. Sawyer">Sawyer</a></li> 
+                <li><a href="/wiki/Harold_G._Mosier" title="Harold G. Mosier">Mosier</a></li> 
+                <li><a href="/wiki/Paul_P._Yoder" title="Paul P. Yoder">Yoder</a></li> 
+                <li><a href="/wiki/Paul_M._Herbert" title="Paul M. Herbert">Herbert</a></li> 
+                <li><a href="/wiki/George_D._Nye" title="George D. Nye">Nye</a></li> 
+                <li><a href="/wiki/Paul_M._Herbert" title="Paul M. Herbert">Herbert</a></li> 
+                <li><a href="/wiki/George_D._Nye" title="George D. Nye">Nye</a></li> 
+                <li><a href="/wiki/John_William_Brown" title="John William Brown">J. W. Brown</a></li> 
+                <li><a href="/wiki/Paul_M._Herbert" title="Paul M. Herbert">Herbert</a></li> 
+                <li><a href="/wiki/John_W._Donahey" title="John W. Donahey">Donahey</a></li> 
+                <li><a href="/wiki/John_William_Brown" title="John William Brown">J. W. Brown</a></li> 
+                <li><a href="/wiki/Dick_Celeste" title="Dick Celeste">Celeste</a></li> 
+                <li><a href="/wiki/George_Voinovich" title="George Voinovich">Voinovich</a></li> 
+                <li><a href="/wiki/Myrl_Shoemaker" title="Myrl Shoemaker">Shoemaker</a></li> 
+                <li><a href="/wiki/Paul_Leonard_(politician)" title="Paul Leonard (politician)">Leonard</a></li> 
+                <li><a href="/wiki/Mike_DeWine" title="Mike DeWine">DeWine</a></li> 
+                <li><a href="/wiki/Nancy_Hollister" title="Nancy Hollister">Hollister</a></li> 
+                <li><a href="/wiki/Maureen_O%27Connor" title="Maureen O'Connor">O'Connor</a></li> 
+                <li><a href="/wiki/Jennette_Bradley" title="Jennette Bradley">Bradley</a></li> 
+                <li><a href="/wiki/Bruce_Johnson_(Ohio_politician)" title="Bruce Johnson (Ohio politician)">Johnson</a></li> 
+                <li><a href="/wiki/Lee_Fisher" title="Lee Fisher">Fisher</a></li> 
+                <li><a href="/wiki/Mary_Taylor_(politician)" title="Mary Taylor (politician)">Taylor</a></li> 
+                <li><a href="/wiki/Jon_A._Husted" title="Jon A. Husted">Husted</a></li>
+               </ul> 
+              </div></td>
+            </tr>
+           </tbody>
+          </table>
+         </div> 
+         <div role="navigation" class="navbox" aria-labelledby="Chairmen_of_the_United_States_Senate_Committee_on_Foreign_Relations" style="padding:3px">
+          <table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+           <tbody>
+            <tr>
+             <th scope="col" class="navbox-title" colspan="3">
+              <div class="plainlinks hlist navbar mini">
+               <ul>
+                <li class="nv-view"><a href="/wiki/Template:SenForeignRelationsCommitteeChairmen" title="Template:SenForeignRelationsCommitteeChairmen"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+                <li class="nv-talk"><a href="/wiki/Template_talk:SenForeignRelationsCommitteeChairmen" title="Template talk:SenForeignRelationsCommitteeChairmen"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+                <li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:SenForeignRelationsCommitteeChairmen&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+               </ul>
+              </div>
+              <div id="Chairmen_of_the_United_States_Senate_Committee_on_Foreign_Relations" style="font-size:114%;margin:0 4em">
+               Chairmen of the 
+               <a href="/wiki/United_States_Senate_Committee_on_Foreign_Relations" title="United States Senate Committee on Foreign Relations">United States Senate Committee on Foreign Relations</a>
+              </div></th>
+            </tr>
+            <tr>
+             <td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+              <div style="padding:0em 0.25em"> 
+               <ul>
+                <li><a href="/wiki/James_Barbour" title="James Barbour">Barbour</a></li> 
+                <li><a href="/wiki/Nathaniel_Macon" title="Nathaniel Macon">Macon</a></li> 
+                <li><a href="/wiki/James_Brown_(Louisiana)" class="mw-redirect" title="James Brown (Louisiana)">Brown</a></li> 
+                <li><a href="/wiki/James_Barbour" title="James Barbour">Barbour</a></li> 
+                <li><a href="/wiki/Rufus_King" title="Rufus King">R. King</a></li> 
+                <li><a href="/wiki/James_Barbour" title="James Barbour">Barbour</a></li> 
+                <li><a href="/wiki/Nathaniel_Macon" title="Nathaniel Macon">Macon</a></li> 
+                <li><a href="/wiki/Nathan_Sanford" title="Nathan Sanford">Sanford</a></li> 
+                <li><a href="/wiki/Nathaniel_Macon" title="Nathaniel Macon">Macon</a></li> 
+                <li><a href="/wiki/Littleton_Waller_Tazewell" title="Littleton Waller Tazewell">Tazewell</a></li> 
+                <li><a href="/wiki/John_Forsyth_(Georgia)" title="John Forsyth (Georgia)">Forsyth</a></li> 
+                <li><a href="/wiki/William_Wilkins_(U.S._politician)" class="mw-redirect" title="William Wilkins (U.S. politician)">Wilkins</a></li> 
+                <li><a href="/wiki/Henry_Clay" title="Henry Clay">Clay</a></li> 
+                <li><a href="/wiki/James_Buchanan" title="James Buchanan">Buchanan</a></li> 
+                <li><a href="/wiki/William_Cabell_Rives" title="William Cabell Rives">Rives</a></li> 
+                <li><a href="/wiki/William_S._Archer" title="William S. Archer">Archer</a></li> 
+                <li><a class="mw-selflink selflink">Allen</a></li> 
+                <li><a href="/wiki/Ambrose_Hundley_Sevier" title="Ambrose Hundley Sevier">Sevier</a></li> 
+                <li><a href="/wiki/Edward_A._Hannegan" title="Edward A. Hannegan">Hannegan</a></li> 
+                <li><a href="/wiki/Thomas_Hart_Benton_(politician)" title="Thomas Hart Benton (politician)">Benton</a></li> 
+                <li><a href="/wiki/William_R._King" title="William R. King">W. King</a></li> 
+                <li><a href="/wiki/Henry_S._Foote" title="Henry S. Foote">Foote</a></li> 
+                <li><a href="/wiki/James_Murray_Mason" title="James Murray Mason">Mason</a></li> 
+                <li><a href="/wiki/Charles_Sumner" title="Charles Sumner">Sumner</a></li> 
+                <li><a href="/wiki/Simon_Cameron" title="Simon Cameron">Cameron</a></li> 
+                <li><a href="/wiki/Hannibal_Hamlin" title="Hannibal Hamlin">Hamlin</a></li> 
+                <li><a href="/wiki/William_W._Eaton" title="William W. Eaton">Eaton</a></li> 
+                <li><a href="/wiki/Ambrose_Burnside" title="Ambrose Burnside">Burnside</a></li> 
+                <li><a href="/wiki/George_F._Edmunds" title="George F. Edmunds">Edmunds</a></li> 
+                <li><a href="/wiki/William_Windom" title="William Windom">Windom</a></li> 
+                <li><a href="/wiki/John_Franklin_Miller_(senator)" title="John Franklin Miller (senator)">Miller</a></li> 
+                <li><a href="/wiki/John_Sherman" title="John Sherman">Sherman</a></li> 
+                <li><a href="/wiki/John_Tyler_Morgan" title="John Tyler Morgan">Morgan</a></li> 
+                <li><a href="/wiki/John_Sherman" title="John Sherman">Sherman</a></li> 
+                <li><a href="/wiki/William_P._Frye" title="William P. Frye">Frye</a></li> 
+                <li><a href="/wiki/Cushman_Kellogg_Davis" title="Cushman Kellogg Davis">Davis</a></li> 
+                <li><a href="/wiki/Shelby_Moore_Cullom" title="Shelby Moore Cullom">Cullom</a></li> 
+                <li><a href="/wiki/Augustus_Octavius_Bacon" title="Augustus Octavius Bacon">Bacon</a></li> 
+                <li><a href="/wiki/William_J._Stone" title="William J. Stone">Stone</a></li> 
+                <li><a href="/wiki/Gilbert_Hitchcock" title="Gilbert Hitchcock">Hitchcock</a></li> 
+                <li><a href="/wiki/Henry_Cabot_Lodge" title="Henry Cabot Lodge">Lodge</a></li> 
+                <li><a href="/wiki/William_Borah" title="William Borah">Borah</a></li> 
+                <li><a href="/wiki/Key_Pittman" title="Key Pittman">Pittman</a></li> 
+                <li><a href="/wiki/Walter_F._George" title="Walter F. George">George</a></li> 
+                <li><a href="/wiki/Tom_Connally" title="Tom Connally">Connally</a></li> 
+                <li><a href="/wiki/Arthur_H._Vandenberg" class="mw-redirect" title="Arthur H. Vandenberg">Vandenberg</a></li> 
+                <li><a href="/wiki/Tom_Connally" title="Tom Connally">Connally</a></li> 
+                <li><a href="/wiki/Alexander_Wiley" title="Alexander Wiley">Wiley</a></li> 
+                <li><a href="/wiki/Walter_F._George" title="Walter F. George">George</a></li> 
+                <li><a href="/wiki/Theodore_F._Green" title="Theodore F. Green">Green</a></li> 
+                <li><a href="/wiki/J._William_Fulbright" title="J. William Fulbright">Fulbright</a></li> 
+                <li><a href="/wiki/John_Sparkman" title="John Sparkman">Sparkman</a></li> 
+                <li><a href="/wiki/Frank_Church" title="Frank Church">Church</a></li> 
+                <li><a href="/wiki/Charles_H._Percy" title="Charles H. Percy">Percy</a></li> 
+                <li><a href="/wiki/Richard_Lugar" title="Richard Lugar">Lugar</a></li> 
+                <li><a href="/wiki/Claiborne_Pell" title="Claiborne Pell">Pell</a></li> 
+                <li><a href="/wiki/Jesse_Helms" title="Jesse Helms">Helms</a></li> 
+                <li><a href="/wiki/Joe_Biden" title="Joe Biden">Biden</a></li> 
+                <li><a href="/wiki/Jesse_Helms" title="Jesse Helms">Helms</a></li> 
+                <li><a href="/wiki/Joe_Biden" title="Joe Biden">Biden</a></li> 
+                <li><a href="/wiki/Richard_Lugar" title="Richard Lugar">Lugar</a></li> 
+                <li><a href="/wiki/Joe_Biden" title="Joe Biden">Biden</a></li> 
+                <li><a href="/wiki/John_Kerry" title="John Kerry">Kerry</a></li> 
+                <li><a href="/wiki/Bob_Menendez" title="Bob Menendez">Menendez</a></li> 
+                <li><a href="/wiki/Bob_Corker" title="Bob Corker">Corker</a></li> 
+                <li><a href="/wiki/Jim_Risch" title="Jim Risch">Risch</a></li>
+               </ul> 
+              </div></td>
+             <td class="navbox-image" rowspan="1" style="width:1px;padding:0px 0px 0px 2px">
+              <div>
+               <a href="/wiki/File:Seal_of_the_United_States_Senate.svg" class="image" title="Seal of the United States Senate"><img alt="Seal of the United States Senate" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Seal_of_the_United_States_Senate.svg/80px-Seal_of_the_United_States_Senate.svg.png" decoding="async" width="80" height="80" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Seal_of_the_United_States_Senate.svg/120px-Seal_of_the_United_States_Senate.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Seal_of_the_United_States_Senate.svg/160px-Seal_of_the_United_States_Senate.svg.png 2x" data-file-width="1030" data-file-height="1030"></a>
+              </div></td>
+            </tr>
+           </tbody>
+          </table>
+         </div> 
+         <div role="navigation" class="navbox" aria-labelledby="Members_of_the_U.S._House_of_Representatives_from_Ohio&amp;#039;s_7th_congressional_district" style="padding:3px">
+          <table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+           <tbody>
+            <tr>
+             <th scope="col" class="navbox-title" colspan="3">
+              <div class="plainlinks hlist navbar mini">
+               <ul>
+                <li class="nv-view"><a href="/wiki/Template:OhioRepresentatives07" title="Template:OhioRepresentatives07"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+                <li class="nv-talk"><a href="/wiki/Template_talk:OhioRepresentatives07" title="Template talk:OhioRepresentatives07"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+                <li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:OhioRepresentatives07&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+               </ul>
+              </div>
+              <div id="Members_of_the_U.S._House_of_Representatives_from_Ohio&amp;#039;s_7th_congressional_district" style="font-size:114%;margin:0 4em">
+               Members of the U.S. House of Representatives from 
+               <a href="/wiki/Ohio%27s_7th_congressional_district" title="Ohio's 7th congressional district">Ohio's 7th congressional district</a>
+              </div></th>
+            </tr>
+            <tr>
+             <td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+              <div style="padding:0em 0.25em"> 
+               <ul>
+                <li><a href="/wiki/Samuel_Finley_Vinton" title="Samuel Finley Vinton">Vinton</a></li> 
+                <li><a class="mw-selflink selflink">Allen</a></li> 
+                <li><a href="/wiki/William_K._Bond" title="William K. Bond">Bond</a></li> 
+                <li><a href="/wiki/William_Russell_(Ohio_politician)" title="William Russell (Ohio politician)">Russell</a></li> 
+                <li><a href="/wiki/Joseph_J._McDowell" title="Joseph J. McDowell">McDowell</a></li> 
+                <li><a href="/wiki/Jonathan_D._Morris" title="Jonathan D. Morris">Morris</a></li> 
+                <li><a href="/wiki/Nelson_Barrere" title="Nelson Barrere">Barrere</a></li> 
+                <li><a href="/wiki/Aaron_Harlan" title="Aaron Harlan">Harlan</a></li> 
+                <li><a href="/wiki/Thomas_Corwin" title="Thomas Corwin">Corwin</a></li> 
+                <li><a href="/wiki/Richard_A._Harrison" title="Richard A. Harrison">Harrison</a></li> 
+                <li><a href="/wiki/Samuel_S._Cox" title="Samuel S. Cox">Cox</a></li> 
+                <li><a href="/wiki/Samuel_Shellabarger_(congressman)" title="Samuel Shellabarger (congressman)">Shellabarger</a></li> 
+                <li><a href="/wiki/James_J._Winans" title="James J. Winans">Winans</a></li> 
+                <li><a href="/wiki/Samuel_Shellabarger_(congressman)" title="Samuel Shellabarger (congressman)">Shellabarger</a></li> 
+                <li><a href="/wiki/Lawrence_T._Neal" title="Lawrence T. Neal">Neal</a></li> 
+                <li><a href="/wiki/Henry_L._Dickey" title="Henry L. Dickey">Dickey</a></li> 
+                <li><a href="/wiki/Frank_H._Hurd" title="Frank H. Hurd">Hurd</a></li> 
+                <li><a href="/wiki/John_P._Leedom" title="John P. Leedom">Leedom</a></li> 
+                <li><a href="/wiki/Henry_Lee_Morey" title="Henry Lee Morey">Morey</a></li> 
+                <li><a href="/wiki/James_E._Campbell" title="James E. Campbell">Campbell</a></li> 
+                <li><a href="/wiki/George_E._Seney" title="George E. Seney">Seney</a></li> 
+                <li><a href="/wiki/James_E._Campbell" title="James E. Campbell">Campbell</a></li> 
+                <li><a href="/wiki/Henry_Lee_Morey" title="Henry Lee Morey">Morey</a></li> 
+                <li><a href="/wiki/William_E._Haynes" title="William E. Haynes">Haynes</a></li> 
+                <li><a href="/wiki/George_W._Wilson" title="George W. Wilson">Wilson</a></li> 
+                <li><a href="/wiki/Walter_L._Weaver" title="Walter L. Weaver">Weaver</a></li> 
+                <li><a href="/wiki/Thomas_B._Kyle" title="Thomas B. Kyle">Kyle</a></li> 
+                <li><a href="/wiki/J._Warren_Keifer" title="J. Warren Keifer">Keifer</a></li> 
+                <li><a href="/wiki/James_D._Post" title="James D. Post">Post</a></li> 
+                <li><a href="/wiki/Simeon_D._Fess" title="Simeon D. Fess">Fess</a></li> 
+                <li><a href="/wiki/Charles_Brand_(congressman)" title="Charles Brand (congressman)">Brand</a></li> 
+                <li><a href="/wiki/Leroy_T._Marshall" title="Leroy T. Marshall">Marshall</a></li> 
+                <li><a href="/wiki/Arthur_W._Aleshire" title="Arthur W. Aleshire">Aleshire</a></li> 
+                <li><a href="/wiki/Clarence_J._Brown" title="Clarence J. Brown">Clarence Brown</a></li> 
+                <li><a href="/wiki/Bud_Brown_(politician)" title="Bud Brown (politician)">Bud Brown</a></li> 
+                <li><a href="/wiki/Mike_DeWine" title="Mike DeWine">DeWine</a></li> 
+                <li><a href="/wiki/Dave_Hobson" title="Dave Hobson">Hobson</a></li> 
+                <li><a href="/wiki/Steve_Austria" title="Steve Austria">Austria</a></li> 
+                <li><a href="/wiki/Bob_Gibbs" title="Bob Gibbs">Gibbs</a></li>
+               </ul> 
+              </div></td>
+             <td class="navbox-image" rowspan="1" style="width:1px;padding:0px 0px 0px 2px;padding-left:1.0em;">
+              <div>
+               <img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Seal_of_the_United_States_House_of_Representatives.svg/75px-Seal_of_the_United_States_House_of_Representatives.svg.png" decoding="async" width="75" height="75" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Seal_of_the_United_States_House_of_Representatives.svg/113px-Seal_of_the_United_States_House_of_Representatives.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Seal_of_the_United_States_House_of_Representatives.svg/150px-Seal_of_the_United_States_House_of_Representatives.svg.png 2x" data-file-width="1030" data-file-height="1030">
+              </div></td>
+            </tr>
+           </tbody>
+          </table>
+         </div> 
+         <div role="navigation" class="navbox" aria-labelledby="(1872_←)_1876_United_States_presidential_election_(1880_→)" style="padding:3px">
+          <table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+           <tbody>
+            <tr>
+             <th scope="col" class="navbox-title" colspan="2">
+              <div class="plainlinks hlist navbar mini">
+               <ul>
+                <li class="nv-view"><a href="/wiki/Template:1876_United_States_presidential_election" title="Template:1876 United States presidential election"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+                <li class="nv-talk"><a href="/wiki/Template_talk:1876_United_States_presidential_election" title="Template talk:1876 United States presidential election"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+                <li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:1876_United_States_presidential_election&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+               </ul>
+              </div>
+              <div id="(1872_←)_1876_United_States_presidential_election_(1880_→)" style="font-size:114%;margin:0 4em">
+               (
+               <a href="/wiki/1872_United_States_presidential_election" title="1872 United States presidential election">1872 ←</a>) 
+               <a href="/wiki/1876_United_States_presidential_election" title="1876 United States presidential election">1876 United States presidential election</a> (
+               <a href="/wiki/1880_United_States_presidential_election" title="1880 United States presidential election">1880 →</a>)
+              </div></th>
+            </tr>
+            <tr>
+             <th scope="row" class="navbox-group" style="width:1%;text-align:center;font-weight:normal;"><u><b><a href="/wiki/Republican_Party_(United_States)" title="Republican Party (United States)">Republican Party</a></b></u><br><i><b><a href="/wiki/1876_Republican_National_Convention" title="1876 Republican National Convention">Convention</a></b></i></th>
+             <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+              <div style="padding:0em 0.25em"></div>
+              <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+               <tbody>
+                <tr>
+                 <th scope="row" class="navbox-group" style="width:1%">Nominee</th>
+                 <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                  <div style="padding:0em 0.25em"> 
+                   <ul>
+                    <li><b><a href="/wiki/Rutherford_B._Hayes" title="Rutherford B. Hayes">Rutherford B. Hayes</a></b></li>
+                   </ul> 
+                  </div></td>
+                </tr>
+                <tr>
+                 <th scope="row" class="navbox-group" style="width:1%">VP nominee</th>
+                 <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                  <div style="padding:0em 0.25em"> 
+                   <ul>
+                    <li><b><a href="/wiki/William_A._Wheeler" title="William A. Wheeler">William A. Wheeler</a></b></li>
+                   </ul> 
+                  </div></td>
+                </tr>
+                <tr>
+                 <th scope="row" class="navbox-group" style="width:1%">Candidates</th>
+                 <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                  <div style="padding:0em 0.25em"> 
+                   <ul>
+                    <li><a href="/wiki/James_G._Blaine" title="James G. Blaine">James G. Blaine</a></li> 
+                    <li><a href="/wiki/Benjamin_Bristow" title="Benjamin Bristow">Benjamin Bristow</a></li> 
+                    <li><a href="/wiki/Oliver_P._Morton" title="Oliver P. Morton">Oliver P. Morton</a></li> 
+                    <li><a href="/wiki/Roscoe_Conkling" title="Roscoe Conkling">Roscoe Conkling</a></li> 
+                    <li><a href="/wiki/John_F._Hartranft" title="John F. Hartranft">John F. Hartranft</a></li> 
+                    <li><a href="/wiki/Marshall_Jewell" title="Marshall Jewell">Marshall Jewell</a></li> 
+                    <li><a href="/wiki/Elihu_B._Washburne" title="Elihu B. Washburne">Elihu B. Washburne</a></li> 
+                    <li><a href="/wiki/William_A._Wheeler" title="William A. Wheeler">William A. Wheeler</a></li> 
+                    <li><a href="/wiki/Ulysses_S._Grant" title="Ulysses S. Grant">Ulysses S. Grant</a></li>
+                   </ul> 
+                  </div></td>
+                </tr>
+               </tbody>
+              </table>
+              <div></div></td>
+            </tr>
+            <tr>
+             <th scope="row" class="navbox-group" style="width:1%;text-align:center;font-weight:normal;"><u><b><a href="/wiki/Democratic_Party_(United_States)" title="Democratic Party (United States)">Democratic Party</a></b></u><br><i><b><a href="/wiki/1876_Democratic_National_Convention" title="1876 Democratic National Convention">Convention</a></b></i></th>
+             <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+              <div style="padding:0em 0.25em"></div>
+              <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+               <tbody>
+                <tr>
+                 <th scope="row" class="navbox-group" style="width:1%">Nominee</th>
+                 <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                  <div style="padding:0em 0.25em"> 
+                   <ul>
+                    <li><b><a href="/wiki/Samuel_J._Tilden" title="Samuel J. Tilden">Samuel J. Tilden</a></b></li>
+                   </ul> 
+                  </div></td>
+                </tr>
+                <tr>
+                 <th scope="row" class="navbox-group" style="width:1%">VP nominee</th>
+                 <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                  <div style="padding:0em 0.25em"> 
+                   <ul>
+                    <li><b><a href="/wiki/Thomas_A._Hendricks" title="Thomas A. Hendricks">Thomas A. Hendricks</a></b></li>
+                   </ul> 
+                  </div></td>
+                </tr>
+                <tr>
+                 <th scope="row" class="navbox-group" style="width:1%">Candidates</th>
+                 <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                  <div style="padding:0em 0.25em"> 
+                   <ul>
+                    <li><a href="/wiki/Thomas_A._Hendricks" title="Thomas A. Hendricks">Thomas A. Hendricks</a></li> 
+                    <li><a href="/wiki/Winfield_Scott_Hancock" title="Winfield Scott Hancock">Winfield S. Hancock</a></li> 
+                    <li><a class="mw-selflink selflink">William Allen</a></li> 
+                    <li><a href="/wiki/Thomas_F._Bayard" title="Thomas F. Bayard">Thomas F. Bayard</a></li> 
+                    <li><a href="/wiki/Joel_Parker_(politician)" title="Joel Parker (politician)">Joel Parker</a></li>
+                   </ul> 
+                  </div></td>
+                </tr>
+               </tbody>
+              </table>
+              <div></div></td>
+            </tr>
+            <tr>
+             <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+              <div style="padding:0em 0.25em"></div>
+              <table class="nowraplinks collapsible autocollapse navbox-subgroup" style="border-spacing:0">
+               <tbody>
+                <tr>
+                 <th scope="col" class="navbox-title" colspan="2">
+                  <div id="Third_party_and_independent_candidates" style="font-size:114%;margin:0 4em">
+                   <a href="/wiki/Third_party_(United_States)" title="Third party (United States)">Third party</a> and 
+                   <a href="/wiki/Independent_politician" title="Independent politician">independent</a> candidates
+                  </div></th>
+                </tr>
+                <tr>
+                 <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Greenback_Party" title="Greenback Party">Greenback Party</a></th>
+                 <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                  <div style="padding:0em 0.25em"></div>
+                  <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+                   <tbody>
+                    <tr>
+                     <th scope="row" class="navbox-group" style="width:1%">Nominee</th>
+                     <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                      <div style="padding:0em 0.25em"> 
+                       <ul>
+                        <li><b><a href="/wiki/Peter_Cooper" title="Peter Cooper">Peter Cooper</a></b></li>
+                       </ul> 
+                      </div></td>
+                    </tr>
+                    <tr>
+                     <th scope="row" class="navbox-group" style="width:1%">VP nominee</th>
+                     <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                      <div style="padding:0em 0.25em"> 
+                       <ul>
+                        <li><b><a href="/wiki/Samuel_Fenton_Cary" title="Samuel Fenton Cary">Samuel F. Cary</a></b></li>
+                       </ul> 
+                      </div></td>
+                    </tr>
+                    <tr>
+                     <th scope="row" class="navbox-group" style="width:1%">Candidates</th>
+                     <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                      <div style="padding:0em 0.25em"> 
+                       <ul>
+                        <li><a href="/wiki/Andrew_Gregg_Curtin" title="Andrew Gregg Curtin">Andrew Curtin</a></li> 
+                        <li><a class="mw-selflink selflink">William Allen</a></li>
+                       </ul> 
+                      </div></td>
+                    </tr>
+                   </tbody>
+                  </table>
+                  <div></div></td>
+                </tr>
+                <tr>
+                 <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Prohibition_Party" title="Prohibition Party">Prohibition Party</a></th>
+                 <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                  <div style="padding:0em 0.25em"></div>
+                  <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+                   <tbody>
+                    <tr>
+                     <th scope="row" class="navbox-group" style="width:1%">Nominee</th>
+                     <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                      <div style="padding:0em 0.25em"> 
+                       <ul>
+                        <li><b><a href="/wiki/Green_Clay_Smith" title="Green Clay Smith">Green C. Smith</a></b></li>
+                       </ul> 
+                      </div></td>
+                    </tr>
+                    <tr>
+                     <th scope="row" class="navbox-group" style="width:1%">VP nominee</th>
+                     <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                      <div style="padding:0em 0.25em"> 
+                       <ul>
+                        <li><b><a href="/wiki/Gideon_T._Stewart" title="Gideon T. Stewart">Gideon T. Stewart</a></b></li>
+                       </ul> 
+                      </div></td>
+                    </tr>
+                   </tbody>
+                  </table>
+                  <div></div></td>
+                </tr>
+                <tr>
+                 <th scope="row" class="navbox-group" style="width:1%">American Party</th>
+                 <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                  <div style="padding:0em 0.25em"></div>
+                  <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+                   <tbody>
+                    <tr>
+                     <th scope="row" class="navbox-group" style="width:1%">Nominee</th>
+                     <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                      <div style="padding:0em 0.25em"> 
+                       <ul>
+                        <li><b>James Walker</b></li>
+                       </ul> 
+                      </div></td>
+                    </tr>
+                    <tr>
+                     <th scope="row" class="navbox-group" style="width:1%">VP nominee</th>
+                     <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                      <div style="padding:0em 0.25em"> 
+                       <ul>
+                        <li><b><a href="/wiki/Donald_Kirkpatrick" title="Donald Kirkpatrick">Donald Kirkpatrick</a></b></li>
+                       </ul> 
+                      </div></td>
+                    </tr>
+                   </tbody>
+                  </table>
+                  <div></div></td>
+                </tr>
+               </tbody>
+              </table>
+              <div></div></td>
+            </tr>
+            <tr>
+             <td class="navbox-abovebelow" colspan="2">
+              <div> 
+               <ul>
+                <li><b>See also</b>: <a href="/wiki/Electoral_Commission_(United_States)" title="Electoral Commission (United States)">Electoral Commission</a></li> 
+                <li><b>Other 1876 elections</b>: <a href="/wiki/1876_United_States_House_of_Representatives_elections" title="1876 United States House of Representatives elections">House</a></li> 
+                <li><a href="/wiki/1876_and_1877_United_States_Senate_elections" title="1876 and 1877 United States Senate elections">Senate</a></li>
+               </ul> 
+              </div></td>
+            </tr>
+           </tbody>
+          </table>
+         </div>
+        </div></td>
+      </tr>
+     </tbody>
+    </table>
+   </div> 
+   <div role="navigation" class="navbox" aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q880659&amp;#124;Edit_this_at_Wikidata" style="padding:3px">
+    <table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+     <tbody>
+      <tr>
+       <th id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q880659&amp;#124;Edit_this_at_Wikidata" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q880659" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/15px-Blue_pencil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png 2x" data-file-width="600" data-file-height="600"></a></th>
+       <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/1055679227">1055679227</a></span></span></li> 
+          <li><span class="nowrap"><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni.org/isni/0000000073964637">0000 0000 7396 4637</a></span></span></li> 
+          <li><span class="nowrap"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/names/n88225759">n88225759</a></span></span></li> 
+          <li><span class="nowrap"><a href="/wiki/SNAC" title="SNAC">SNAC</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://socialarchive.iath.virginia.edu/ark:/99166/w6183mjn">w6183mjn</a></span></span></li> 
+          <li><span class="nowrap"><a href="/wiki/Biographical_Directory_of_the_United_States_Congress" title="Biographical Directory of the United States Congress">US Congress</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://bioguide.congress.gov/scripts/biodisplay.pl?index=A000150">A000150</a></span></span></li> 
+          <li><span class="nowrap"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/72956854">72956854</a></span></span></li> 
+          <li><span class="nowrap"> <a href="/wiki/WorldCat_Iden

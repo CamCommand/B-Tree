@@ -1,0 +1,1009 @@
+<div id="bodyContent" class="mw-body-content"> 
+ <div id="siteSub" class="noprint">
+  From Wikipedia, the free encyclopedia
+ </div> 
+ <div id="contentSub"></div> 
+ <div id="jump-to-nav"></div> 
+ <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> 
+ <a class="mw-jump-link" href="#p-search">Jump to search</a> 
+ <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+  <div class="mw-parser-output">
+   <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">
+    mathematical logic concept
+   </div> 
+   <div role="note" class="hatnote navigation-not-searchable">
+    "Enumerable set" redirects here. For the set-theoretic concept, see 
+    <a href="/wiki/Countable_set" title="Countable set">Countable set</a>.
+   </div> 
+   <p>In <a href="/wiki/Computability_theory" title="Computability theory">computability theory</a>, traditionally called recursion theory, a set <i>S</i> of <a href="/wiki/Natural_numbers" class="mw-redirect" title="Natural numbers">natural numbers</a> is called <b>recursively enumerable</b>, <b>computably enumerable</b>, <b>semidecidable</b>, <b>provable</b> or <b>Turing-recognizable</b> if: </p> 
+   <ul>
+    <li>There is an <a href="/wiki/Algorithm" title="Algorithm">algorithm</a> such that the set of input numbers for which the algorithm halts is exactly <i>S</i>.</li>
+   </ul> 
+   <p>Or, equivalently, </p> 
+   <ul>
+    <li>There is an algorithm that <a href="/wiki/Enumeration" title="Enumeration">enumerates</a> the members of <i>S</i>. That means that its output is simply a list of the members of <i>S</i>: <i>s</i><sub>1</sub>, <i>s</i><sub>2</sub>, <i>s</i><sub>3</sub>, ... . If necessary, this algorithm may run forever.</li>
+   </ul> 
+   <p>The first condition suggests why the term <i>semidecidable</i> is sometimes used; the second suggests why <i>computably enumerable</i> is used. The abbreviations <b>r.e.</b> and <b>c.e.</b> are often used, even in print, instead of the full phrase. </p>
+   <p>In <a href="/wiki/Computational_complexity_theory" title="Computational complexity theory">computational complexity theory</a>, the <a href="/wiki/Complexity_class" title="Complexity class">complexity class</a> containing all recursively enumerable sets is <a href="/wiki/RE_(complexity)" title="RE (complexity)">RE</a>. In <a href="/wiki/Recursion_theory" class="mw-redirect" title="Recursion theory">recursion theory</a>, the <a href="/wiki/Lattice_(order)" title="Lattice (order)">lattice</a> of r.e. sets under inclusion is denoted <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle {\mathcal {E}}}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <mrow class="MJX-TeXAtom-ORD"> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mi class="MJX-tex-caligraphic" mathvariant="script">
+             E
+            </mi> 
+           </mrow> 
+          </mrow> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle {\mathcal {E}}}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9c298ed828ff778065aeb5f0f305097f55bb9ae0" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.311ex; height:2.176ex;" alt="{\mathcal {E}}"></span>. </p> 
+   <div id="toc" class="toc">
+    <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+    <div class="toctitle" lang="en" dir="ltr">
+     <h2>Contents</h2>
+     <span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+    </div> 
+    <ul> 
+     <li class="toclevel-1 tocsection-1"><a href="#Formal_definition"><span class="tocnumber">1</span> <span class="toctext">Formal definition</span></a></li> 
+     <li class="toclevel-1 tocsection-2"><a href="#Equivalent_formulations"><span class="tocnumber">2</span> <span class="toctext">Equivalent formulations</span></a></li> 
+     <li class="toclevel-1 tocsection-3"><a href="#Examples"><span class="tocnumber">3</span> <span class="toctext">Examples</span></a></li> 
+     <li class="toclevel-1 tocsection-4"><a href="#Properties"><span class="tocnumber">4</span> <span class="toctext">Properties</span></a></li> 
+     <li class="toclevel-1 tocsection-5"><a href="#Remarks"><span class="tocnumber">5</span> <span class="toctext">Remarks</span></a></li> 
+     <li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li> 
+    </ul> 
+   </div> 
+   <h2><span class="mw-headline" id="Formal_definition">Formal definition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Recursively_enumerable_set&amp;action=edit&amp;section=1" title="Edit section: Formal definition">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <p>A set <i>S</i> of natural numbers is called <b>recursively enumerable</b> if there is a <a href="/wiki/Partial_recursive_function" class="mw-redirect" title="Partial recursive function">partial recursive function</a> whose <a href="/wiki/Domain_(mathematics)" class="mw-redirect" title="Domain (mathematics)">domain</a> is exactly <i>S</i>, meaning that the function is defined if and only if its input is a member of <i>S</i>. </p> 
+   <h2><span class="mw-headline" id="Equivalent_formulations">Equivalent formulations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Recursively_enumerable_set&amp;action=edit&amp;section=2" title="Edit section: Equivalent formulations">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <p>The following are all equivalent properties of a set <i>S</i> of natural numbers: </p> 
+   <dl>
+    <dd>
+     Semidecidability: 
+     <ul>
+      <li>The set <i>S</i> is recursively enumerable. That is, <i>S</i> is the domain (co-range) of a partial recursive function.</li> 
+      <li>There is a partial recursive function <i>f</i> such that:</li>
+     </ul> 
+     <dl>
+      <dd>
+       <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle f(x)=\left\{{\begin{matrix}1&amp;{\mbox{if}}\ x\in S\\{\mbox{undefined/does not halt}}\ &amp;{\mbox{if}}\ x\notin S\end{matrix}}\right.}"> 
+          <semantics> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mstyle displaystyle="true" scriptlevel="0"> 
+             <mi>
+              f
+             </mi> 
+             <mo stretchy="false">
+              (
+             </mo> 
+             <mi>
+              x
+             </mi> 
+             <mo stretchy="false">
+              )
+             </mo> 
+             <mo>
+              =
+             </mo> 
+             <mrow> 
+              <mo>
+               {
+              </mo> 
+              <mrow class="MJX-TeXAtom-ORD"> 
+               <mtable rowspacing="4pt" columnspacing="1em"> 
+                <mtr> 
+                 <mtd> 
+                  <mn>
+                   1
+                  </mn> 
+                 </mtd> 
+                 <mtd> 
+                  <mrow class="MJX-TeXAtom-ORD"> 
+                   <mstyle displaystyle="false" scriptlevel="0"> 
+                    <mtext>
+                     if
+                    </mtext> 
+                   </mstyle> 
+                  </mrow> 
+                  <mtext>
+                   &nbsp;
+                  </mtext> 
+                  <mi>
+                   x
+                  </mi> 
+                  <mo>
+                   ∈
+                   <!-- ∈ -->
+                  </mo> 
+                  <mi>
+                   S
+                  </mi> 
+                 </mtd> 
+                </mtr> 
+                <mtr> 
+                 <mtd> 
+                  <mrow class="MJX-TeXAtom-ORD"> 
+                   <mstyle displaystyle="false" scriptlevel="0"> 
+                    <mtext>
+                     undefined/does not halt
+                    </mtext> 
+                   </mstyle> 
+                  </mrow> 
+                  <mtext>
+                   &nbsp;
+                  </mtext> 
+                 </mtd> 
+                 <mtd> 
+                  <mrow class="MJX-TeXAtom-ORD"> 
+                   <mstyle displaystyle="false" scriptlevel="0"> 
+                    <mtext>
+                     if
+                    </mtext> 
+                   </mstyle> 
+                  </mrow> 
+                  <mtext>
+                   &nbsp;
+                  </mtext> 
+                  <mi>
+                   x
+                  </mi> 
+                  <mo>
+                   ∉
+                   <!-- ∉ -->
+                  </mo> 
+                  <mi>
+                   S
+                  </mi> 
+                 </mtd> 
+                </mtr> 
+               </mtable> 
+              </mrow> 
+              <mo fence="true" stretchy="true" symmetric="true"></mo> 
+             </mrow> 
+            </mstyle> 
+           </mrow> 
+           <annotation encoding="application/x-tex">
+            {\displaystyle f(x)=\left\{{\begin{matrix}1&amp;{\mbox{if}}\ x\in S\\{\mbox{undefined/does not halt}}\ &amp;{\mbox{if}}\ x\notin S\end{matrix}}\right.}
+           </annotation> 
+          </semantics> 
+         </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/22689a7d242b7ab465347f7eae8045cf3853966d" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.505ex; width:44.502ex; height:6.176ex;" alt="f(x)=\left\{{\begin{matrix}1&amp;{\mbox{if}}\ x\in S\\{\mbox{undefined/does not halt}}\ &amp;{\mbox{if}}\ x\notin S\end{matrix}}\right."></span>
+      </dd>
+     </dl>
+    </dd> 
+    <dd>
+     Enumerability: 
+     <ul>
+      <li>The set <i>S</i> is the range of a partial recursive function.</li> 
+      <li>The set <i>S</i> is the range of a total recursive function or empty. If <i>S</i> is infinite, the function can be chosen to be <a href="/wiki/Injective" class="mw-redirect" title="Injective">injective</a>.</li> 
+      <li>The set <i>S</i> is the range of a <a href="/wiki/Primitive_recursive_function" title="Primitive recursive function">primitive recursive function</a> or empty. Even if <i>S</i> is infinite, repetition of values may be necessary in this case.</li>
+     </ul>
+    </dd> 
+    <dd>
+     Diophantine: 
+     <ul>
+      <li>There is a polynomial <i>p</i> with integer coefficients and variables <i>x</i>, <i>a</i>, <i>b</i>, <i>c</i>, <i>d</i>, <i>e</i>, <i>f</i>, <i>g</i>, <i>h</i>, <i>i</i> ranging over the natural numbers such that</li>
+     </ul> 
+     <dl>
+      <dd>
+       <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle x\in S\Leftrightarrow \exists a,b,c,d,e,f,g,h,i\ (p(x,a,b,c,d,e,f,g,h,i)=0).}"> 
+          <semantics> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mstyle displaystyle="true" scriptlevel="0"> 
+             <mi>
+              x
+             </mi> 
+             <mo>
+              ∈
+              <!-- ∈ -->
+             </mo> 
+             <mi>
+              S
+             </mi> 
+             <mo stretchy="false">
+              ⇔
+              <!-- ⇔ -->
+             </mo> 
+             <mi mathvariant="normal">
+              ∃
+              <!-- ∃ -->
+             </mi> 
+             <mi>
+              a
+             </mi> 
+             <mo>
+              ,
+             </mo> 
+             <mi>
+              b
+             </mi> 
+             <mo>
+              ,
+             </mo> 
+             <mi>
+              c
+             </mi> 
+             <mo>
+              ,
+             </mo> 
+             <mi>
+              d
+             </mi> 
+             <mo>
+              ,
+             </mo> 
+             <mi>
+              e
+             </mi> 
+             <mo>
+              ,
+             </mo> 
+             <mi>
+              f
+             </mi> 
+             <mo>
+              ,
+             </mo> 
+             <mi>
+              g
+             </mi> 
+             <mo>
+              ,
+             </mo> 
+             <mi>
+              h
+             </mi> 
+             <mo>
+              ,
+             </mo> 
+             <mi>
+              i
+             </mi> 
+             <mtext>
+              &nbsp;
+             </mtext> 
+             <mo stretchy="false">
+              (
+             </mo> 
+             <mi>
+              p
+             </mi> 
+             <mo stretchy="false">
+              (
+             </mo> 
+             <mi>
+              x
+             </mi> 
+             <mo>
+              ,
+             </mo> 
+             <mi>
+              a
+             </mi> 
+             <mo>
+              ,
+             </mo> 
+             <mi>
+              b
+             </mi> 
+             <mo>
+              ,
+             </mo> 
+             <mi>
+              c
+             </mi> 
+             <mo>
+              ,
+             </mo> 
+             <mi>
+              d
+             </mi> 
+             <mo>
+              ,
+             </mo> 
+             <mi>
+              e
+             </mi> 
+             <mo>
+              ,
+             </mo> 
+             <mi>
+              f
+             </mi> 
+             <mo>
+              ,
+             </mo> 
+             <mi>
+              g
+             </mi> 
+             <mo>
+              ,
+             </mo> 
+             <mi>
+              h
+             </mi> 
+             <mo>
+              ,
+             </mo> 
+             <mi>
+              i
+             </mi> 
+             <mo stretchy="false">
+              )
+             </mo> 
+             <mo>
+              =
+             </mo> 
+             <mn>
+              0
+             </mn> 
+             <mo stretchy="false">
+              )
+             </mo> 
+             <mo>
+              .
+             </mo> 
+            </mstyle> 
+           </mrow> 
+           <annotation encoding="application/x-tex">
+            {\displaystyle x\in S\Leftrightarrow \exists a,b,c,d,e,f,g,h,i\ (p(x,a,b,c,d,e,f,g,h,i)=0).}
+           </annotation> 
+          </semantics> 
+         </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/db04e2afda6d87f8dadf747a600dac523651c19f" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:59.898ex; height:2.843ex;" alt="x\in S\Leftrightarrow \exists a,b,c,d,e,f,g,h,i\ (p(x,a,b,c,d,e,f,g,h,i)=0)."></span>
+      </dd>
+     </dl> 
+     <ul>
+      <li>There is a polynomial from the integers to the integers such that the set <i>S</i> contains exactly the non-negative numbers in its range.</li>
+     </ul>
+    </dd>
+   </dl> 
+   <p>The equivalence of semidecidability and enumerability can be obtained by the technique of <a href="/wiki/Dovetailing_(computer_science)" title="Dovetailing (computer science)">dovetailing</a>. </p>
+   <p>The Diophantine characterizations of a recursively enumerable set, while not as straightforward or intuitive as the first definitions, were found by <a href="/wiki/Yuri_Matiyasevich" title="Yuri Matiyasevich">Yuri Matiyasevich</a> as part of the negative solution to <a href="/wiki/Hilbert%27s_tenth_problem" title="Hilbert's tenth problem">Hilbert's Tenth Problem</a>. Diophantine sets predate recursion theory and are therefore historically the first way to describe these sets (although this equivalence was only remarked more than three decades after the introduction of recursively enumerable sets). The number of bound variables in the above definition of the <a href="/wiki/Diophantine_set" title="Diophantine set">Diophantine set</a> is the best known so far; it might be that a lower number can be used to define all diophantine sets. </p> 
+   <table style="float:right"> 
+    <tbody>
+     <tr> 
+      <td>
+       <div class="thumb tright">
+        <div class="thumbinner" style="width:452px;">
+         <a href="/wiki/File:Recursive_enumeration_of_all_halting_Turing_machines.gif" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Recursive_enumeration_of_all_halting_Turing_machines.gif/450px-Recursive_enumeration_of_all_halting_Turing_machines.gif" decoding="async" width="450" height="244" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Recursive_enumeration_of_all_halting_Turing_machines.gif/675px-Recursive_enumeration_of_all_halting_Turing_machines.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/a/a8/Recursive_enumeration_of_all_halting_Turing_machines.gif 2x" data-file-width="683" data-file-height="371"></a> 
+         <div class="thumbcaption">
+          <div class="magnify">
+           <a href="/wiki/File:Recursive_enumeration_of_all_halting_Turing_machines.gif" class="internal" title="Enlarge"></a>
+          </div>Recursive enumeration of the set of all Turing machines halting on a fixed input: Simulate all Turing machines (enumerated on vertical axis) step by step (horizontal axis), using the shown diagonalization scheduling. If a machine terminates, print its number. This way, the number of each terminating machine is eventually printed. In the example, the algorithm prints "9, 13, 4, 15, 12, 18, 6, 2, 8, 0, ..."
+         </div>
+        </div>
+       </div> </td>
+     </tr>
+    </tbody>
+   </table> 
+   <h2><span class="mw-headline" id="Examples">Examples</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Recursively_enumerable_set&amp;action=edit&amp;section=3" title="Edit section: Examples">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <ul>
+    <li>Every <a href="/wiki/Recursive_set" title="Recursive set">recursive set</a> is recursively enumerable, but it is not true that every recursively enumerable set is recursive. For recursive sets, the algorithm must also say if an input is <i>not</i> in the set – this is not required of recursively enumerable sets.</li> 
+    <li>A <a href="/wiki/Recursively_enumerable_language" title="Recursively enumerable language">recursively enumerable language</a> is a recursively enumerable subset of a <a href="/wiki/Formal_language" title="Formal language">formal language</a>.</li> 
+    <li>The set of all provable sentences in an effectively presented axiomatic system is a recursively enumerable set.</li> 
+    <li><a href="/wiki/Matiyasevich%27s_theorem" class="mw-redirect" title="Matiyasevich's theorem">Matiyasevich's theorem</a> states that every recursively enumerable set is a <a href="/wiki/Diophantine_set" title="Diophantine set">Diophantine set</a> (the converse is trivially true).</li> 
+    <li>The <a href="/wiki/Simple_set" title="Simple set">simple sets</a> are recursively enumerable but not recursive.</li> 
+    <li>The <a href="/wiki/Creative_set" class="mw-redirect" title="Creative set">creative sets</a> are recursively enumerable but not recursive.</li> 
+    <li>Any <a href="/wiki/Productive_set" class="mw-redirect" title="Productive set">productive set</a> is <b>not</b> recursively enumerable.</li> 
+    <li>Given a <a href="/wiki/G%C3%B6del_numbering" title="Gödel numbering">Gödel numbering</a> <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+       <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \phi }"> 
+        <semantics> 
+         <mrow class="MJX-TeXAtom-ORD"> 
+          <mstyle displaystyle="true" scriptlevel="0"> 
+           <mi>
+            ϕ
+            <!-- ϕ -->
+           </mi> 
+          </mstyle> 
+         </mrow> 
+         <annotation encoding="application/x-tex">
+          {\displaystyle \phi }
+         </annotation> 
+        </semantics> 
+       </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/72b1f30316670aee6270a28334bdf4f5072cdde4" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:1.385ex; height:2.509ex;" alt="\phi "></span> of the computable functions, the set <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+       <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \{\langle i,x\rangle \mid \phi _{i}(x)\downarrow \}}"> 
+        <semantics> 
+         <mrow class="MJX-TeXAtom-ORD"> 
+          <mstyle displaystyle="true" scriptlevel="0"> 
+           <mo fence="false" stretchy="false">
+            {
+           </mo> 
+           <mo fence="false" stretchy="false">
+            ⟨
+            <!-- ⟨ -->
+           </mo> 
+           <mi>
+            i
+           </mi> 
+           <mo>
+            ,
+           </mo> 
+           <mi>
+            x
+           </mi> 
+           <mo fence="false" stretchy="false">
+            ⟩
+            <!-- ⟩ -->
+           </mo> 
+           <mo>
+            ∣
+            <!-- ∣ -->
+           </mo> 
+           <msub> 
+            <mi>
+             ϕ
+             <!-- ϕ -->
+            </mi> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mi>
+              i
+             </mi> 
+            </mrow> 
+           </msub> 
+           <mo stretchy="false">
+            (
+           </mo> 
+           <mi>
+            x
+           </mi> 
+           <mo stretchy="false">
+            )
+           </mo> 
+           <mo stretchy="false">
+            ↓
+            <!-- ↓ -->
+           </mo> 
+           <mo fence="false" stretchy="false">
+            }
+           </mo> 
+          </mstyle> 
+         </mrow> 
+         <annotation encoding="application/x-tex">
+          {\displaystyle \{\langle i,x\rangle \mid \phi _{i}(x)\downarrow \}}
+         </annotation> 
+        </semantics> 
+       </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/742382edf5476a5071a7fa4f0c7c48b2bf1cf89e" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:16.369ex; height:2.843ex;" alt="\{\langle i,x\rangle \mid \phi _{i}(x)\downarrow \}"></span> (where <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+       <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \langle i,x\rangle }"> 
+        <semantics> 
+         <mrow class="MJX-TeXAtom-ORD"> 
+          <mstyle displaystyle="true" scriptlevel="0"> 
+           <mo fence="false" stretchy="false">
+            ⟨
+            <!-- ⟨ -->
+           </mo> 
+           <mi>
+            i
+           </mi> 
+           <mo>
+            ,
+           </mo> 
+           <mi>
+            x
+           </mi> 
+           <mo fence="false" stretchy="false">
+            ⟩
+            <!-- ⟩ -->
+           </mo> 
+          </mstyle> 
+         </mrow> 
+         <annotation encoding="application/x-tex">
+          {\displaystyle \langle i,x\rangle }
+         </annotation> 
+        </semantics> 
+       </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/78907f1819c3612cdb8fc85ed59c2d6b8f20eeae" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:4.975ex; height:2.843ex;" alt="\langle i,x\rangle "></span> is the <a href="/wiki/Cantor_pairing_function" class="mw-redirect" title="Cantor pairing function">Cantor pairing function</a> and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+       <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \phi _{i}(x)\downarrow }"> 
+        <semantics> 
+         <mrow class="MJX-TeXAtom-ORD"> 
+          <mstyle displaystyle="true" scriptlevel="0"> 
+           <msub> 
+            <mi>
+             ϕ
+             <!-- ϕ -->
+            </mi> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mi>
+              i
+             </mi> 
+            </mrow> 
+           </msub> 
+           <mo stretchy="false">
+            (
+           </mo> 
+           <mi>
+            x
+           </mi> 
+           <mo stretchy="false">
+            )
+           </mo> 
+           <mo stretchy="false">
+            ↓
+            <!-- ↓ -->
+           </mo> 
+          </mstyle> 
+         </mrow> 
+         <annotation encoding="application/x-tex">
+          {\displaystyle \phi _{i}(x)\downarrow }
+         </annotation> 
+        </semantics> 
+       </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d45dfde0d7ba2a0e3591409d108e1270a3b44212" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:7.132ex; height:2.843ex;" alt="\phi _{i}(x)\downarrow "></span> indicates <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+       <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \phi _{i}(x)}"> 
+        <semantics> 
+         <mrow class="MJX-TeXAtom-ORD"> 
+          <mstyle displaystyle="true" scriptlevel="0"> 
+           <msub> 
+            <mi>
+             ϕ
+             <!-- ϕ -->
+            </mi> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mi>
+              i
+             </mi> 
+            </mrow> 
+           </msub> 
+           <mo stretchy="false">
+            (
+           </mo> 
+           <mi>
+            x
+           </mi> 
+           <mo stretchy="false">
+            )
+           </mo> 
+          </mstyle> 
+         </mrow> 
+         <annotation encoding="application/x-tex">
+          {\displaystyle \phi _{i}(x)}
+         </annotation> 
+        </semantics> 
+       </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/39386eea4b26304f733b9964589ff0f84c6c44dc" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:5.324ex; height:2.843ex;" alt="\phi _{i}(x)"></span> is defined) is recursively enumerable (cf. picture for a fixed <i>x</i>). This set encodes the <a href="/wiki/Halting_problem" title="Halting problem">halting problem</a> as it describes the input parameters for which each <a href="/wiki/Turing_machine" title="Turing machine">Turing machine</a> halts.</li> 
+    <li>Given a Gödel numbering <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+       <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \phi }"> 
+        <semantics> 
+         <mrow class="MJX-TeXAtom-ORD"> 
+          <mstyle displaystyle="true" scriptlevel="0"> 
+           <mi>
+            ϕ
+            <!-- ϕ -->
+           </mi> 
+          </mstyle> 
+         </mrow> 
+         <annotation encoding="application/x-tex">
+          {\displaystyle \phi }
+         </annotation> 
+        </semantics> 
+       </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/72b1f30316670aee6270a28334bdf4f5072cdde4" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:1.385ex; height:2.509ex;" alt="\phi "></span> of the computable functions, the set <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+       <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \lbrace \left\langle x,y,z\right\rangle \mid \phi _{x}(y)=z\rbrace }"> 
+        <semantics> 
+         <mrow class="MJX-TeXAtom-ORD"> 
+          <mstyle displaystyle="true" scriptlevel="0"> 
+           <mo fence="false" stretchy="false">
+            {
+           </mo> 
+           <mrow> 
+            <mo>
+             ⟨
+            </mo> 
+            <mrow> 
+             <mi>
+              x
+             </mi> 
+             <mo>
+              ,
+             </mo> 
+             <mi>
+              y
+             </mi> 
+             <mo>
+              ,
+             </mo> 
+             <mi>
+              z
+             </mi> 
+            </mrow> 
+            <mo>
+             ⟩
+            </mo> 
+           </mrow> 
+           <mo>
+            ∣
+            <!-- ∣ -->
+           </mo> 
+           <msub> 
+            <mi>
+             ϕ
+             <!-- ϕ -->
+            </mi> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mi>
+              x
+             </mi> 
+            </mrow> 
+           </msub> 
+           <mo stretchy="false">
+            (
+           </mo> 
+           <mi>
+            y
+           </mi> 
+           <mo stretchy="false">
+            )
+           </mo> 
+           <mo>
+            =
+           </mo> 
+           <mi>
+            z
+           </mi> 
+           <mo fence="false" stretchy="false">
+            }
+           </mo> 
+          </mstyle> 
+         </mrow> 
+         <annotation encoding="application/x-tex">
+          {\displaystyle \lbrace \left\langle x,y,z\right\rangle \mid \phi _{x}(y)=z\rbrace }
+         </annotation> 
+        </semantics> 
+       </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f3660290b04b1f8eaa55631ab3d51502cc8a8f27" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:21.422ex; height:2.843ex;" alt="\lbrace \left\langle x,y,z\right\rangle \mid \phi _{x}(y)=z\rbrace "></span> is recursively enumerable. This set encodes the problem of deciding a function value.</li> 
+    <li>Given a partial function <i>f</i> from the natural numbers into the natural numbers, <i>f</i> is a partial recursive function if and only if the graph of <i>f</i>, that is, the set of all pairs <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+       <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \langle x,f(x)\rangle }"> 
+        <semantics> 
+         <mrow class="MJX-TeXAtom-ORD"> 
+          <mstyle displaystyle="true" scriptlevel="0"> 
+           <mo fence="false" stretchy="false">
+            ⟨
+            <!-- ⟨ -->
+           </mo> 
+           <mi>
+            x
+           </mi> 
+           <mo>
+            ,
+           </mo> 
+           <mi>
+            f
+           </mi> 
+           <mo stretchy="false">
+            (
+           </mo> 
+           <mi>
+            x
+           </mi> 
+           <mo stretchy="false">
+            )
+           </mo> 
+           <mo fence="false" stretchy="false">
+            ⟩
+            <!-- ⟩ -->
+           </mo> 
+          </mstyle> 
+         </mrow> 
+         <annotation encoding="application/x-tex">
+          {\displaystyle \langle x,f(x)\rangle }
+         </annotation> 
+        </semantics> 
+       </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/08e7962d4e8079651c082435d7c8538042d5a1e9" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:8.59ex; height:2.843ex;" alt="\langle x,f(x)\rangle "></span> such that <i>f(x)</i> is defined, is recursively enumerable.</li>
+   </ul> 
+   <h2><span class="mw-headline" id="Properties">Properties</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Recursively_enumerable_set&amp;action=edit&amp;section=4" title="Edit section: Properties">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <p>If <i>A</i> and <i>B</i> are recursively enumerable sets then <i>A</i> ∩ <i>B</i>, <i>A</i> ∪ <i>B</i> and <i>A</i> × <i>B</i> (with the ordered pair of natural numbers mapped to a single natural number with the <a href="/wiki/Cantor_pairing_function" class="mw-redirect" title="Cantor pairing function">Cantor pairing function</a>) are recursively enumerable sets. The <a href="/wiki/Preimage" class="mw-redirect" title="Preimage">preimage</a> of a recursively enumerable set under a partial recursive function is a recursively enumerable set. </p>
+   <p>A set is recursively enumerable if and only if it is at level <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \Sigma _{1}^{0}}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <msubsup> 
+           <mi mathvariant="normal">
+            Σ
+            <!-- Σ -->
+           </mi> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mn>
+             1
+            </mn> 
+           </mrow> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mn>
+             0
+            </mn> 
+           </mrow> 
+          </msubsup> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle \Sigma _{1}^{0}}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8130a55f302deb0b733de5a526f2d92c364e4dd6" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:2.732ex; height:3.176ex;" alt="\Sigma _{1}^{0}"></span> of the <a href="/wiki/Arithmetical_hierarchy" title="Arithmetical hierarchy">arithmetical hierarchy</a>. </p>
+   <p>A set <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle T}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <mi>
+           T
+          </mi> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle T}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ec7200acd984a1d3a3d7dc455e262fbe54f7f6e0" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.636ex; height:2.176ex;" alt="T"></span> is called <b>co-recursively enumerable</b> or <b>co-r.e.</b> if its <a href="/wiki/Complement_(set_theory)" title="Complement (set theory)">complement</a> <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \mathbb {N} \setminus T}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <mrow class="MJX-TeXAtom-ORD"> 
+           <mi mathvariant="double-struck">
+            N
+           </mi> 
+          </mrow> 
+          <mo class="MJX-variant">
+           ∖
+           <!-- ∖ -->
+          </mo> 
+          <mi>
+           T
+          </mi> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle \mathbb {N} \setminus T}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d98f86707799e84423e525aca7dda65611b3df4e" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:5.509ex; height:2.843ex;" alt="\mathbb {N} \setminus T"></span> is recursively enumerable. Equivalently, a set is co-r.e. if and only if it is at level <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \Pi _{1}^{0}}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <msubsup> 
+           <mi mathvariant="normal">
+            Π
+            <!-- Π -->
+           </mi> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mn>
+             1
+            </mn> 
+           </mrow> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mn>
+             0
+            </mn> 
+           </mrow> 
+          </msubsup> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle \Pi _{1}^{0}}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b0b3c0e79d8a5db977a9838be477eb3e30348937" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:2.797ex; height:3.176ex;" alt="\Pi _{1}^{0}"></span> of the arithmetical hierarchy. </p>
+   <p>A set <i>A</i> is <a href="/wiki/Recursive_set" title="Recursive set">recursive</a> (synonym: computable) if and only if both <i>A</i> and the complement of <i>A</i> are recursively enumerable. A set is recursive if and only if it is either the range of an increasing total recursive function or finite. </p>
+   <p>Some pairs of recursively enumerable sets are <a href="/wiki/Effectively_separable" class="mw-redirect" title="Effectively separable">effectively separable</a> and some are not. </p> 
+   <h2><span class="mw-headline" id="Remarks">Remarks</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Recursively_enumerable_set&amp;action=edit&amp;section=5" title="Edit section: Remarks">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <p>According to the <a href="/wiki/Church%E2%80%93Turing_thesis" title="Church–Turing thesis">Church–Turing thesis</a>, any effectively calculable function is calculable by a <a href="/wiki/Turing_machine" title="Turing machine">Turing machine</a>, and thus a set <i>S</i> is recursively enumerable if and only if there is some <a href="/wiki/Algorithm" title="Algorithm">algorithm</a> which yields an enumeration of <i>S</i>. This cannot be taken as a formal definition, however, because the Church–Turing thesis is an informal conjecture rather than a formal axiom. </p>
+   <p>The definition of a recursively enumerable set as the <i>domain</i> of a partial function, rather than the <i>range</i> of a total recursive function, is common in contemporary texts. This choice is motivated by the fact that in generalized recursion theories, such as <a href="/wiki/Alpha_recursion_theory" title="Alpha recursion theory">α-recursion theory</a>, the definition corresponding to domains has been found to be more natural. Other texts use the definition in terms of enumerations, which is equivalent for recursively enumerable sets. </p> 
+   <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Recursively_enumerable_set&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <ul>
+    <li>Rogers, H. <i>The Theory of Recursive Functions and Effective Computability</i>, <a href="/wiki/MIT_Press" title="MIT Press">MIT Press</a>. <style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/0-262-68052-1" title="Special:BookSources/0-262-68052-1">0-262-68052-1</a>; 
+     <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/0-07-053522-1" title="Special:BookSources/0-07-053522-1">0-07-053522-1</a>.</li> 
+    <li>Soare, R. Recursively enumerable sets and degrees. <i>Perspectives in Mathematical Logic.</i> <a href="/wiki/Springer-Verlag" class="mw-redirect" title="Springer-Verlag">Springer-Verlag</a>, Berlin, 1987. 
+     <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/3-540-15299-7" title="Special:BookSources/3-540-15299-7">3-540-15299-7</a>.</li> 
+    <li>Soare, Robert I. Recursively enumerable sets and degrees. <i>Bull. Amer. Math. Soc.</i> 84 (1978), no. 6, 1149–1181.</li>
+   </ul> 
+   <div role="navigation" class="navbox" aria-labelledby="Mathematical_logic" style="padding:3px">
+    <table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+     <tbody>
+      <tr>
+       <th scope="col" class="navbox-title" colspan="2">
+        <div class="plainlinks hlist navbar mini">
+         <ul>
+          <li class="nv-view"><a href="/wiki/Template:Mathematical_logic" title="Template:Mathematical logic"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+          <li class="nv-talk"><a href="/wiki/Template_talk:Mathematical_logic" title="Template talk:Mathematical logic"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+          <li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Mathematical_logic&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+         </ul>
+        </div>
+        <div id="Mathematical_logic" style="font-size:114%;margin:0 4em">
+         <a href="/wiki/Mathematical_logic" title="Mathematical logic">Mathematical logic</a>
+        </div></th>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%">General</th>
+       <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><a href="/wiki/Formal_language" title="Formal language">Formal language</a></li> 
+          <li><a href="/wiki/Formation_rule" title="Formation rule">Formation rule</a></li> 
+          <li><a href="/wiki/Formal_proof" title="Formal proof">Formal proof</a></li> 
+          <li><a href="/wiki/Formal_semantics_(logic)" class="mw-redirect" title="Formal semantics (logic)">Formal semantics</a></li> 
+          <li><a href="/wiki/Well-formed_formula" title="Well-formed formula">Well-formed formula</a></li> 
+          <li><a href="/wiki/Set_(mathematics)" title="Set (mathematics)">Set</a></li> 
+          <li><a href="/wiki/Element_(mathematics)" title="Element (mathematics)">Element</a></li> 
+          <li><a href="/wiki/Class_(set_theory)" title="Class (set theory)">Class</a></li> 
+          <li><a href="/wiki/Classical_logic" title="Classical logic">Classical logic</a></li> 
+          <li><a href="/wiki/Axiom" title="Axiom">Axiom</a></li> 
+          <li><a href="/wiki/Rule_of_inference" title="Rule of inference">Rule of inference</a></li> 
+          <li><a href="/wiki/Finitary_relation" title="Finitary relation">Relation</a></li> 
+          <li><a href="/wiki/Theorem" title="Theorem">Theorem</a></li> 
+          <li><a href="/wiki/Logical_consequence" title="Logical consequence">Logical consequence</a></li> 
+          <li><a href="/wiki/Type_theory" title="Type theory">Type theory</a></li> 
+          <li><a href="/wiki/Symbol_(formal)" title="Symbol (formal)">Symbol</a></li> 
+          <li><a href="/wiki/Syntax_(logic)" title="Syntax (logic)">Syntax</a></li> 
+          <li><a href="/wiki/Theory_(mathematical_logic)" title="Theory (mathematical logic)">Theory</a></li>
+         </ul> 
+        </div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%">Systems</th>
+       <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><a href="/wiki/Formal_system" title="Formal system">Formal system</a></li> 
+          <li><a href="/wiki/Deductive_system" class="mw-redirect" title="Deductive system">Deductive system</a></li> 
+          <li><a href="/wiki/Axiomatic_system" title="Axiomatic system">Axiomatic system</a></li> 
+          <li><a href="/wiki/Hilbert_system" title="Hilbert system">Hilbert style systems</a></li> 
+          <li><a href="/wiki/Natural_deduction" title="Natural deduction">Natural deduction</a></li> 
+          <li><a href="/wiki/Sequent_calculus" title="Sequent calculus">Sequent calculus</a></li>
+         </ul> 
+        </div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Term_logic" title="Term logic">Traditional logic</a></th>
+       <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><a href="/wiki/Proposition" title="Proposition">Proposition</a></li> 
+          <li><a href="/wiki/Inference" title="Inference">Inference</a></li> 
+          <li><a href="/wiki/Argument" title="Argument">Argument</a></li> 
+          <li><a href="/wiki/Validity_(logic)" title="Validity (logic)">Validity</a></li> 
+          <li><a href="/w/index.php?title=Cogency&amp;action=edit&amp;redlink=1" class="new" title="Cogency (page does not exist)">Cogency</a></li> 
+          <li><a href="/wiki/Syllogism" title="Syllogism">Syllogism</a></li> 
+          <li><a href="/wiki/Square_of_opposition" title="Square of opposition">Square of opposition</a></li> 
+          <li><a href="/wiki/Venn_diagram" title="Venn diagram">Venn diagram</a></li>
+         </ul> 
+        </div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%">
+        <div style="padding:0.1em 0;line-height:1.2em;">
+         <a href="/wiki/Propositional_calculus" title="Propositional calculus">Propositional calculus</a>
+         <br>and 
+         <a href="/wiki/Boolean_algebra" title="Boolean algebra">Boolean logic</a>
+        </div></th>
+       <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><a href="/wiki/Boolean_function" title="Boolean function">Boolean functions</a></li> 
+          <li><a href="/wiki/Propositional_calculus" title="Propositional calculus">Propositional calculus</a></li> 
+          <li><a href="/wiki/Propositional_formula" title="Propositional formula">Propositional formula</a></li> 
+          <li><a href="/wiki/Logical_connective" title="Logical connective">Logical connectives</a></li> 
+          <li><a href="/wiki/Truth_table" title="Truth table">Truth tables</a></li> 
+          <li><a href="/wiki/Many-valued_logic" title="Many-valued logic">Many-valued logic</a></li>
+         </ul> 
+        </div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Predicate_logic" class="mw-redirect" title="Predicate logic">Predicate logic</a></th>
+       <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><a href="/wiki/First-order_logic" title="First-order logic">First-order</a></li> 
+          <li><a href="/wiki/Quantifier_(logic)" title="Quantifier (logic)">Quantifiers</a></li> 
+          <li><a href="/wiki/Predicate_(mathematical_logic)" title="Predicate (mathematical logic)">Predicate</a></li> 
+          <li><a href="/wiki/Second-order_logic" title="Second-order logic">Second-order</a></li> 
+          <li><a href="/wiki/Monadic_predicate_calculus" title="Monadic predicate calculus">Monadic predicate calculus</a></li>
+         </ul> 
+        </div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Naive_set_theory" title="Naive set theory">Naive set theory</a></th>
+       <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><a href="/wiki/Set_(mathematics)" title="Set (mathematics)">Set</a></li> 
+          <li><a href="/wiki/Empty_set" title="Empty set">Empty set</a></li> 
+          <li><a href="/wiki/Element_(mathematics)" title="Element (mathematics)">Element</a></li> 
+          <li><a href="/wiki/Enumeration" title="Enumeration">Enumeration</a></li> 
+          <li><a href="/wiki/Extensionality" title="Extensionality">Extensionality</a></li> 
+          <li><a href="/wiki/Finite_set" title="Finite set">Finite set</a></li> 
+          <li><a href="/wiki/Infinite_set" title="Infinite set">Infinite set</a></li> 
+          <li><a href="/wiki/Subset" title="Subset">Subset</a></li> 
+          <li><a href="/wiki/Power_set" title="Power set">Power set</a></li> 
+          <li><a href="/wiki/Countable_set" title="Countable set">Countable set</a></li> 
+          <li><a href="/wiki/Uncountable_set" title="Uncountable set">Uncountable set</a></li> 
+          <li><a href="/wiki/Recursive_set" title="Recursive set">Recursive set</a></li> 
+          <li><a href="/wiki/Domain_of_a_function" title="Domain of a function">Domain</a></li> 
+          <li><a href="/wiki/Codomain" title="Codomain">Codomain</a></li> 
+          <li><a href="/wiki/Image_(mathematics)" title="Image (mathematics)">Image</a></li> 
+          <li><a href="/wiki/Map_(mathematics)" title="Map (mathematics)">Map</a></li> 
+          <li><a href="/wiki/Function_(mathematics)" title="Function (mathematics)">Function</a></li> 
+          <li><a href="/wiki/Binary_operation" title="Binary operation">Relation</a></li> 
+          <li><a href="/wiki/Ordered_pair" title="Ordered pair">Ordered pair</a></li>
+         </ul> 
+        </div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Set_theory" title="Set theory">Set theory</a></th>
+       <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><a href="/wiki/Foundations_of_mathematics" title="Foundations of mathematics">Foundations of mathematics</a></li> 
+          <li><a href="/wiki/Zermelo%E2%80%93Fraenkel_set_theory" title="Zermelo–Fraenkel set theory">Zermelo–Fraenkel set theory</a></li> 
+          <li><a href="/wiki/Axiom_of_choice" title="Axiom of choice">Axiom of choice</a></li> 
+          <li><a href="/wiki/General_set_theory" title="General set theory">General set theory</a></li> 
+          <li><a href="/wiki/Kripke%E2%80%93Platek_set_theory" title="Kripke–Platek set theory">Kripke–Platek set theory</a></li> 
+          <li><a href="/wiki/Von_Neumann%E2%80%93Bernays%E2%80%93G%C3%B6del_set_theory" title="Von Neumann–Bernays–Gödel set theory">Von Neumann–Bernays–Gödel set theory</a></li> 
+          <li><a href="/wiki/Morse%E2%80%93Kelley_set_theory" title="Morse–Kelley set theory">Morse–Kelley set theory</a></li> 
+          <li><a href="/wiki/Tarski%E2%80%93Grothendieck_set_theory" title="Tarski–Grothendieck set theory">Tarski–Grothendieck set theory</a></li>
+         </ul> 
+        </div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Model_theory" title="Model theory">Model theory</a></th>
+       <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><a href="/wiki/Structure_(mathematical_logic)" title="Structure (mathematical logic)">Model</a></li> 
+          <li><a href="/wiki/Interpretation_(logic)" title="Interpretation (logic)">Interpretation</a></li> 
+          <li><a href="/wiki/Non-standard_model" title="Non-standard model">Non-standard model</a></li> 
+          <li><a href="/wiki/Finite_model_theory" title="Finite model theory">Finite model theory</a></li> 
+          <li><a href="/wiki/Truth_value" title="Truth value">Truth value</a></li> 
+          <li><a href="/wiki/Validity_(logic)" title="Validity (logic)">Validity</a></li>
+         </ul> 
+        </div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Proof_theory" title="Proof theory">Proof theory</a></th>
+       <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><a href="/wiki/Formal_proof" title="Formal proof">Formal proof</a></li> 
+          <li><a href="/wiki/Deductive_system" class="mw-redirect" title="Deductive system">Deductive system</a></li> 
+          <li><a href="/wiki/Formal_system" title="Formal system">Formal system</a></li> 
+          <li><a href="/wiki/Theorem" title="Theorem">Theorem</a></li> 
+          <li><a href="/wiki/Logical_consequence" title="Logical consequence">Logical consequence</a></li> 
+          <li><a href="/wiki/Rule_of_inference" title="Rule of inference">Rule of inference</a></li> 
+          <li><a href="/wiki/Syntax_(logic)" title="Syntax (logic)">Syntax</a></li>
+         </ul> 
+        </div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Computability_theory" title="Computability theory">Computability <br>theory</a></th>
+       <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><a href="/wiki/Recursion" title="Recursion">Recursion</a></li> 
+          <li><a href="/wiki/Recursive_set" title="Recursive set">Recursive set</a></li> 
+          <li><a class="mw-selflink selflink">Recursively enumerable set</a></li> 
+          <li><a href="/wiki/Decision_problem" title="Decision problem">Decision problem</a></li> 
+          <li><a href="/wiki/Church%E2%80%93Turing_thesis" title="Church–Turing thesis">Church–Turing thesis</a></li> 
+          <li><a href="/wiki/Computable_function" title="Computable function">Computable function</a></li> 
+          <li><a href="/wiki/Primitive_recursive_function" title="Primitive recursive function">Primitive recursive function</a></li>
+         </ul> 
+        </div></td>
+      </tr>
+     </tbody>
+    </table>
+   </div> 
+   <!-- 
+NewPP limit report
+Parsed by mw1251
+Cached time: 20190406005314
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.164 seconds
+Real time usage: 0.282 seconds
+Preprocessor visited node count: 814/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 23202/2097152 bytes
+Template argument size: 1483/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 1/500
+Unstrip recursio

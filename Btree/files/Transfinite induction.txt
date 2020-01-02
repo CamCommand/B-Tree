@@ -1,0 +1,526 @@
+<div id="bodyContent" class="mw-body-content"> 
+ <div id="siteSub" class="noprint">
+  From Wikipedia, the free encyclopedia
+ </div> 
+ <div id="contentSub"></div> 
+ <div id="jump-to-nav"></div> 
+ <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> 
+ <a class="mw-jump-link" href="#p-search">Jump to search</a> 
+ <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+  <div class="mw-parser-output">
+   <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">
+    mathematical concept
+   </div> 
+   <div class="thumb tright">
+    <div class="thumbinner" style="width:302px;">
+     <a href="/wiki/File:Omega-exp-omega-labeled.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Omega-exp-omega-labeled.svg/300px-Omega-exp-omega-labeled.svg.png" decoding="async" width="300" height="369" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Omega-exp-omega-labeled.svg/450px-Omega-exp-omega-labeled.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Omega-exp-omega-labeled.svg/600px-Omega-exp-omega-labeled.svg.png 2x" data-file-width="650" data-file-height="800"></a> 
+     <div class="thumbcaption">
+      <div class="magnify">
+       <a href="/wiki/File:Omega-exp-omega-labeled.svg" class="internal" title="Enlarge"></a>
+      </div>Representation of the ordinal numbers up to ω
+      <sup>ω</sup>. Each turn of the spiral represents one power of ω. Transfinite induction requires proving a 
+      <b>base case</b> (used for 0), a 
+      <b>successor case</b> (used for those ordinals which have a predecessor), and a 
+      <b>limit case</b> (used for ordinals which don't have a predecessor).
+     </div>
+    </div>
+   </div> 
+   <p><b>Transfinite induction</b> is an extension of <a href="/wiki/Mathematical_induction" title="Mathematical induction">mathematical induction</a> to <a href="/wiki/Well-order" title="Well-order">well-ordered sets</a>, for example to sets of <a href="/wiki/Ordinal_number" title="Ordinal number">ordinal numbers</a> or <a href="/wiki/Cardinal_number" title="Cardinal number">cardinal numbers</a>. </p>
+   <p>Let P(α) be a <a href="/wiki/Property_(philosophy)#Properties_in_mathematics" title="Property (philosophy)">property</a> defined for all ordinals α. Suppose that whenever P(β) is true for all β &lt; α, then P(α) is also true. Then transfinite induction tells us that P is true for all ordinals. </p>
+   <p>Usually the proof is broken down into three cases: </p> 
+   <ul>
+    <li><b>Zero case:</b> Prove that P(0) is true.</li> 
+    <li><b>Successor case:</b> Prove that for any <a href="/wiki/Successor_ordinal" title="Successor ordinal">successor ordinal</a> α+1, P(α+1) follows from P(α) (and, if necessary, P(β) for all β &lt; α).</li> 
+    <li><b>Limit case:</b> Prove that for any <a href="/wiki/Limit_ordinal" title="Limit ordinal">limit ordinal</a> λ, P(λ) follows from [P(β) for all β &lt; λ].</li>
+   </ul> 
+   <p>All three cases are identical except for the type of ordinal considered. They do not formally need to be considered separately, but in practice the proofs are typically so different as to require separate presentations. Zero is sometimes considered a <a href="/wiki/Limit_ordinal" title="Limit ordinal">limit ordinal</a> and then may sometimes be treated in proofs in the same case as limit ordinals. </p> 
+   <div id="toc" class="toc">
+    <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+    <div class="toctitle" lang="en" dir="ltr">
+     <h2>Contents</h2>
+     <span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+    </div> 
+    <ul> 
+     <li class="toclevel-1 tocsection-1"><a href="#Transfinite_recursion"><span class="tocnumber">1</span> <span class="toctext">Transfinite recursion</span></a></li> 
+     <li class="toclevel-1 tocsection-2"><a href="#Relationship_to_the_axiom_of_choice"><span class="tocnumber">2</span> <span class="toctext">Relationship to the axiom of choice</span></a></li> 
+     <li class="toclevel-1 tocsection-3"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li> 
+     <li class="toclevel-1 tocsection-4"><a href="#Notes"><span class="tocnumber">4</span> <span class="toctext">Notes</span></a></li> 
+     <li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li> 
+     <li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li> 
+    </ul> 
+   </div> 
+   <h2><span class="mw-headline" id="Transfinite_recursion">Transfinite recursion</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Transfinite_induction&amp;action=edit&amp;section=1" title="Edit section: Transfinite recursion">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <p><b>Transfinite recursion</b> is similar to transfinite induction; however, instead of proving that something holds for all ordinal numbers, we construct a sequence of objects, one for each ordinal. </p>
+   <p>As an example, a basis for a (possibly infinite-dimensional) vector space can be created by choosing a vector <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle v_{0}}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <msub> 
+           <mi>
+            v
+           </mi> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mn>
+             0
+            </mn> 
+           </mrow> 
+          </msub> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle v_{0}}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/60faad24775635f4722ccc438093dbbfe05f34ae" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:2.182ex; height:2.009ex;" alt="v_{0}"></span> and for each ordinal α choosing a vector that is not in the span of the vectors <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \{v_{\beta }\mid \beta <\alpha \}}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <mo fence="false" stretchy="false">
+           {
+          </mo> 
+          <msub> 
+           <mi>
+            v
+           </mi> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mi>
+             β
+             <!-- β -->
+            </mi> 
+           </mrow> 
+          </msub> 
+          <mo>
+           ∣
+           <!-- ∣ -->
+          </mo> 
+          <mi>
+           β
+           <!-- β -->
+          </mi> 
+          <mo>
+           &lt;
+          </mo> 
+          <mi>
+           α
+           <!-- α -->
+          </mi> 
+          <mo fence="false" stretchy="false">
+           }
+          </mo> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle \{v_{\beta }\mid \beta &lt;\alpha \}}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/24f5ecaa1e5544ea7af6eec911a46995c2337862" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:12.482ex; height:3.009ex;" alt="{\displaystyle \{v_{\beta }\mid \beta <\alpha \}}"></span>. This process stops when no vector can be chosen. </p>
+   <p>More formally, we can state the Transfinite Recursion Theorem as follows: </p> 
+   <ul>
+    <li><b>Transfinite Recursion Theorem (version 1)</b>. Given a class function<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <i>G</i>: <i>V</i> → <i>V</i> (where <i>V</i> is the <a href="/wiki/Class_(set_theory)" title="Class (set theory)">class</a> of all sets), there exists a unique <a href="/wiki/Transfinite_sequence" class="mw-redirect" title="Transfinite sequence">transfinite sequence</a> <i>F</i>: Ord → <i>V</i> (where Ord is the class of all ordinals) such that</li>
+   </ul> 
+   <dl>
+    <dd>
+     <i>F</i>(α) = 
+     <i>G</i>(
+     <i>F</i> 
+     <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+       <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \upharpoonright }"> 
+        <semantics> 
+         <mrow class="MJX-TeXAtom-ORD"> 
+          <mstyle displaystyle="true" scriptlevel="0"> 
+           <mo stretchy="false">
+            ↾
+            <!-- ↾ -->
+           </mo> 
+          </mstyle> 
+         </mrow> 
+         <annotation encoding="application/x-tex">
+          {\displaystyle \upharpoonright }
+         </annotation> 
+        </semantics> 
+       </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/99c02b655dd02f72179e945fad1c786075a7d3cb" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:0.97ex; height:2.509ex;" alt="\upharpoonright "></span> α) for all ordinals α, where 
+     <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+       <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \upharpoonright }"> 
+        <semantics> 
+         <mrow class="MJX-TeXAtom-ORD"> 
+          <mstyle displaystyle="true" scriptlevel="0"> 
+           <mo stretchy="false">
+            ↾
+            <!-- ↾ -->
+           </mo> 
+          </mstyle> 
+         </mrow> 
+         <annotation encoding="application/x-tex">
+          {\displaystyle \upharpoonright }
+         </annotation> 
+        </semantics> 
+       </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/99c02b655dd02f72179e945fad1c786075a7d3cb" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:0.97ex; height:2.509ex;" alt="\upharpoonright "></span> denotes the restriction of 
+     <i>F'</i>s domain to ordinals &lt; α.
+    </dd>
+   </dl> 
+   <p>As in the case of induction, we may treat different types of ordinals separately: another formulation of transfinite recursion is the following: </p> 
+   <ul>
+    <li><b>Transfinite Recursion Theorem (version 2)</b>. Given a set <i>g</i><sub>1</sub>, and class functions <i>G</i><sub>2</sub>, <i>G</i><sub>3</sub>, there exists a unique function <i>F</i>: Ord → <i>V</i> such that</li> 
+    <li><i>F</i>(0) = <i>g</i><sub>1</sub>,</li> 
+    <li><i>F</i>(α + 1) = <i>G</i><sub>2</sub>(<i>F</i>(α)), for all α ∈ Ord,</li> 
+    <li><i>F</i>(λ) = <i>G</i><sub>3</sub>(<i>F</i> <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+       <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \upharpoonright }"> 
+        <semantics> 
+         <mrow class="MJX-TeXAtom-ORD"> 
+          <mstyle displaystyle="true" scriptlevel="0"> 
+           <mo stretchy="false">
+            ↾
+            <!-- ↾ -->
+           </mo> 
+          </mstyle> 
+         </mrow> 
+         <annotation encoding="application/x-tex">
+          {\displaystyle \upharpoonright }
+         </annotation> 
+        </semantics> 
+       </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/99c02b655dd02f72179e945fad1c786075a7d3cb" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:0.97ex; height:2.509ex;" alt="\upharpoonright "></span> λ), for all limit λ ≠ 0.</li>
+   </ul> 
+   <p>Note that we require the domains of <i>G</i><sub>2</sub>, <i>G</i><sub>3</sub> to be broad enough to make the above properties meaningful. The uniqueness of the sequence satisfying these properties can be proved using transfinite induction. </p>
+   <p>More generally, one can define objects by transfinite recursion on any <a href="/wiki/Well-founded_relation" title="Well-founded relation">well-founded relation</a> <i>R</i>. (<i>R</i> need not even be a set; it can be a <a href="/wiki/Proper_class" class="mw-redirect" title="Proper class">proper class</a>, provided it is a <a href="/wiki/Binary_relation#Relations_over_a_set" title="Binary relation">set-like</a> relation; that is, for any <i>x</i>, the collection of all <i>y</i> such that <i>y R x</i> must be a set.) </p> 
+   <h2><span class="mw-headline" id="Relationship_to_the_axiom_of_choice">Relationship to the axiom of choice</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Transfinite_induction&amp;action=edit&amp;section=2" title="Edit section: Relationship to the axiom of choice">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <p>Proofs or constructions using induction and recursion often use the <a href="/wiki/Axiom_of_choice" title="Axiom of choice">axiom of choice</a> to produce a well-ordered relation that can be treated by transfinite induction. However, if the relation in question is already well-ordered, one can often use transfinite induction without invoking the axiom of choice.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> For example, many results about <a href="/wiki/Borel_sets" class="mw-redirect" title="Borel sets">Borel sets</a> are proved by transfinite induction on the ordinal rank of the set; these ranks are already well-ordered, so the axiom of choice is not needed to well-order them. </p>
+   <p>The following construction of the <a href="/wiki/Vitali_set" title="Vitali set">Vitali set</a> shows one way that the axiom of choice can be used in a proof by transfinite induction: </p> 
+   <dl>
+    <dd>
+     First, 
+     <a href="/wiki/Well-order" title="Well-order">well-order</a> the 
+     <a href="/wiki/Real_number" title="Real number">real numbers</a> (this is where the axiom of choice enters via the 
+     <a href="/wiki/Well-ordering_theorem" title="Well-ordering theorem">well-ordering theorem</a>), giving a sequence 
+     <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+       <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \langle r_{\alpha }|\alpha <\beta \rangle }"> 
+        <semantics> 
+         <mrow class="MJX-TeXAtom-ORD"> 
+          <mstyle displaystyle="true" scriptlevel="0"> 
+           <mo fence="false" stretchy="false">
+            ⟨
+            <!-- ⟨ -->
+           </mo> 
+           <msub> 
+            <mi>
+             r
+            </mi> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mi>
+              α
+              <!-- α -->
+             </mi> 
+            </mrow> 
+           </msub> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mo stretchy="false">
+             |
+            </mo> 
+           </mrow> 
+           <mi>
+            α
+            <!-- α -->
+           </mi> 
+           <mo>
+            &lt;
+           </mo> 
+           <mi>
+            β
+            <!-- β -->
+           </mi> 
+           <mo fence="false" stretchy="false">
+            ⟩
+            <!-- ⟩ -->
+           </mo> 
+          </mstyle> 
+         </mrow> 
+         <annotation encoding="application/x-tex">
+          {\displaystyle \langle r_{\alpha }|\alpha &lt;\beta \rangle }
+         </annotation> 
+        </semantics> 
+       </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/72c79cd0f537b31beb3350a3cdf7310baa9ee5fc" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:10.707ex; height:2.843ex;" alt="\langle r_{\alpha }|\alpha <\beta \rangle "></span>, where β is an ordinal with the 
+     <a href="/wiki/Cardinality_of_the_continuum" title="Cardinality of the continuum">cardinality of the continuum</a>. Let 
+     <i>v</i>
+     <sub>0</sub> equal 
+     <i>r</i>
+     <sub>0</sub>. Then let 
+     <i>v</i>
+     <sub>1</sub> equal 
+     <i>r</i>
+     <sub>α<sub>1</sub></sub>, where α
+     <sub>1</sub> is least such that 
+     <i>r</i>
+     <sub>α<sub>1</sub></sub>&nbsp;−&nbsp;
+     <i>v</i>
+     <sub>0</sub> is not a 
+     <a href="/wiki/Rational_number" title="Rational number">rational number</a>. Continue; at each step use the least real from the 
+     <i>r</i> sequence that does not have a rational difference with any element thus far constructed in the 
+     <i>v</i> sequence. Continue until all the reals in the 
+     <i>r</i> sequence are exhausted. The final 
+     <i>v</i> sequence will enumerate the Vitali set.
+    </dd>
+   </dl> 
+   <p>The above argument uses the axiom of choice in an essential way at the very beginning, in order to well-order the reals. After that step, the axiom of choice is not used again. </p>
+   <p>Other uses of the axiom of choice are more subtle. For example, a construction by transfinite recursion frequently will not specify a <i>unique</i> value for <i>A</i><sub>α+1</sub>, given the sequence up to α, but will specify only a <i>condition</i> that <i>A</i><sub>α+1</sub> must satisfy, and argue that there is at least one set satisfying this condition. If it is not possible to define a unique example of such a set at each stage, then it may be necessary to invoke (some form of) the axiom of choice to select one such at each step. For inductions and recursions of <a href="/wiki/Countable_set" title="Countable set">countable</a> length, the weaker <a href="/wiki/Axiom_of_dependent_choice" title="Axiom of dependent choice">axiom of dependent choice</a> is sufficient. Because there are models of <a href="/wiki/Zermelo%E2%80%93Fraenkel_set_theory" title="Zermelo–Fraenkel set theory">Zermelo–Fraenkel set theory</a> of interest to set theorists that satisfy the axiom of dependent choice but not the full axiom of choice, the knowledge that a particular proof only requires dependent choice can be useful. </p> 
+   <h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Transfinite_induction&amp;action=edit&amp;section=3" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <ul>
+    <li><a href="/wiki/Mathematical_induction" title="Mathematical induction">Mathematical induction</a></li> 
+    <li><a href="/wiki/Epsilon-induction" title="Epsilon-induction">∈-induction</a></li> 
+    <li><a href="/wiki/Transfinite_number" title="Transfinite number">Transfinite number</a></li> 
+    <li><a href="/wiki/Well-founded_relation#Induction_and_recursion" title="Well-founded relation">Well-founded induction</a></li>
+   </ul> 
+   <h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Transfinite_induction&amp;action=edit&amp;section=4" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <div class="mw-references-wrap">
+    <ol class="references"> 
+     <li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">A class function is a rule (specifically, a logical formula) assigning each element in the lefthand class to an element in the righthand class. It is not a <a href="/wiki/Function_(mathematics)" title="Function (mathematics)">function</a> because its domain and codomain are not sets.</span> </li> 
+     <li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">In fact, the domain of the relation does not even need to be a set. It can be a proper class, provided that the relation <i>R</i> is set-like: for any <i>x</i>, the collection of all <i>y</i> such that <i>y</i>&nbsp;<i>R</i>&nbsp;<i>x</i> must be a set.</span> </li> 
+    </ol>
+   </div> 
+   <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Transfinite_induction&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <ul>
+    <li><cite id="CITEREFSuppes1972" class="citation"><a href="/wiki/Patrick_Suppes" title="Patrick Suppes">Suppes, Patrick</a> (1972), "Section 7.1", <i>Axiomatic set theory</i>, <a href="/wiki/Dover_Publications" title="Dover Publications">Dover Publications</a>, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/0-486-61630-4" title="Special:BookSources/0-486-61630-4"><bdi>0-486-61630-4</bdi></a></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Section+7.1&amp;rft.btitle=Axiomatic+set+theory&amp;rft.pub=Dover+Publications&amp;rft.date=1972&amp;rft.isbn=0-486-61630-4&amp;rft.aulast=Suppes&amp;rft.aufirst=Patrick&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATransfinite+induction" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></li>
+   </ul> 
+   <h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Transfinite_induction&amp;action=edit&amp;section=6" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <ul>
+    <li><span class="citation mathworld" id="Reference-Mathworld-Transfinite_Induction"><cite class="citation web"><a href="/w/index.php?title=Jonathan_Emerson&amp;action=edit&amp;redlink=1" class="new" title="Jonathan Emerson (page does not exist)">Emerson, Jonathan</a>, <a href="/w/index.php?title=Mark_Lezama&amp;action=edit&amp;redlink=1" class="new" title="Mark Lezama (page does not exist)">Lezama, Mark</a> and <a href="/wiki/Eric_W._Weisstein" title="Eric W. Weisstein">Weisstein, Eric W.</a> <a rel="nofollow" class="external text" href="http://mathworld.wolfram.com/TransfiniteInduction.html">"Transfinite Induction"</a>. <i><a href="/wiki/MathWorld" title="MathWorld">MathWorld</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=MathWorld&amp;rft.atitle=Transfinite+Induction&amp;rft.au=Emerson%2C+Jonathan%2C+Lezama%2C+Mark+and+Weisstein%2C+Eric+W.&amp;rft_id=http%3A%2F%2Fmathworld.wolfram.com%2FTransfiniteInduction.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATransfinite+induction" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: Multiple names: authors list (<a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">link</a>)</span>
+      <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span></li>
+   </ul> 
+   <div role="navigation" class="navbox" aria-labelledby="Set_theory" style="padding:3px">
+    <table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+     <tbody>
+      <tr>
+       <th scope="col" class="navbox-title" colspan="3">
+        <div class="plainlinks hlist navbar mini">
+         <ul>
+          <li class="nv-view"><a href="/wiki/Template:Set_theory" title="Template:Set theory"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+          <li class="nv-talk"><a href="/wiki/Template_talk:Set_theory" title="Template talk:Set theory"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+          <li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Set_theory&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+         </ul>
+        </div>
+        <div id="Set_theory" style="font-size:114%;margin:0 4em">
+         <a href="/wiki/Set_theory" title="Set theory">Set theory</a>
+        </div></th>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Axiom" title="Axiom">Axioms</a></th>
+       <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><a href="/wiki/Axiom_of_adjunction" title="Axiom of adjunction">Adjunction</a></li> 
+          <li><a href="/wiki/Axiom_of_choice" title="Axiom of choice">Choice</a> 
+           <ul>
+            <li><a href="/wiki/Axiom_of_countable_choice" title="Axiom of countable choice">countable</a></li> 
+            <li><a href="/wiki/Axiom_of_dependent_choice" title="Axiom of dependent choice">dependent</a></li>
+           </ul></li> 
+          <li><a href="/wiki/Axiom_of_constructibility" title="Axiom of constructibility">Constructibility (V=L)</a></li> 
+          <li><a href="/wiki/Axiom_of_determinacy" title="Axiom of determinacy">Determinacy</a></li> 
+          <li><a href="/wiki/Axiom_of_extensionality" title="Axiom of extensionality">Extensionality</a></li> 
+          <li><a href="/wiki/Axiom_of_infinity" title="Axiom of infinity">Infinity</a></li> 
+          <li><a href="/wiki/Axiom_of_limitation_of_size" title="Axiom of limitation of size">Limitation of size</a></li> 
+          <li><a href="/wiki/Axiom_of_pairing" title="Axiom of pairing">Pairing</a></li> 
+          <li><a href="/wiki/Axiom_of_power_set" title="Axiom of power set">Power set</a></li> 
+          <li><a href="/wiki/Axiom_of_regularity" title="Axiom of regularity">Regularity</a></li> 
+          <li><a href="/wiki/Axiom_of_union" title="Axiom of union">Union</a></li> 
+          <li><a href="/wiki/Martin%27s_axiom" title="Martin's axiom">Martin's axiom</a></li>
+         </ul> 
+         <ul>
+          <li><a href="/wiki/Axiom_schema" title="Axiom schema">Axiom schema</a> 
+           <ul>
+            <li><a href="/wiki/Axiom_schema_of_replacement" title="Axiom schema of replacement">replacement</a></li> 
+            <li><a href="/wiki/Axiom_schema_of_specification" title="Axiom schema of specification">specification</a></li>
+           </ul></li>
+         </ul> 
+        </div></td>
+       <td class="navbox-image" rowspan="7" style="width:1px;padding:0px 0px 0px 2px">
+        <div>
+         <a href="/wiki/Venn_diagram" title="Venn diagram"><img alt="Venn diagram of set intersection" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Venn_A_intersect_B.svg/100px-Venn_A_intersect_B.svg.png" decoding="async" width="100" height="71" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Venn_A_intersect_B.svg/150px-Venn_A_intersect_B.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Venn_A_intersect_B.svg/200px-Venn_A_intersect_B.svg.png 2x" data-file-width="350" data-file-height="250"></a>
+        </div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Set_(mathematics)#Basic_operations" title="Set (mathematics)">Operations</a></th>
+       <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><a href="/wiki/Cartesian_product" title="Cartesian product">Cartesian product</a></li> 
+          <li><a href="/wiki/Complement_(set_theory)" title="Complement (set theory)">Complement</a></li> 
+          <li><a href="/wiki/De_Morgan%27s_laws" title="De Morgan's laws">De Morgan's laws</a></li> 
+          <li><a href="/wiki/Disjoint_union" title="Disjoint union">Disjoint union</a></li> 
+          <li><a href="/wiki/Intersection_(set_theory)" title="Intersection (set theory)">Intersection</a></li> 
+          <li><a href="/wiki/Power_set" title="Power set">Power set</a></li> 
+          <li><a href="/wiki/Complement_(set_theory)" title="Complement (set theory)">Set difference</a></li> 
+          <li><a href="/wiki/Symmetric_difference" title="Symmetric difference">Symmetric difference</a></li> 
+          <li><a href="/wiki/Union_(set_theory)" title="Union (set theory)">Union</a></li>
+         </ul> 
+        </div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%">
+        <div class="hlist hlist-separated">
+         <ul>
+          <li>Concepts</li>
+          <li>Methods</li>
+         </ul>
+        </div></th>
+       <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><a href="/wiki/Cardinality" title="Cardinality">Cardinality</a></li> 
+          <li><a href="/wiki/Cardinal_number" title="Cardinal number">Cardinal number</a>&nbsp;(<a href="/wiki/Large_cardinal" title="Large cardinal">large</a>)</li> 
+          <li><a href="/wiki/Class_(set_theory)" title="Class (set theory)">Class</a></li> 
+          <li><a href="/wiki/Constructible_universe" title="Constructible universe">Constructible universe</a></li> 
+          <li><a href="/wiki/Continuum_hypothesis" title="Continuum hypothesis">Continuum hypothesis</a></li> 
+          <li><a href="/wiki/Cantor%27s_diagonal_argument" title="Cantor's diagonal argument">Diagonal argument</a></li> 
+          <li><a href="/wiki/Element_(mathematics)" title="Element (mathematics)">Element</a> 
+           <ul>
+            <li><a href="/wiki/Ordered_pair" title="Ordered pair">ordered pair</a></li> 
+            <li><a href="/wiki/Tuple" title="Tuple">tuple</a></li>
+           </ul></li> 
+          <li><a href="/wiki/Family_of_sets" title="Family of sets">Family</a></li> 
+          <li><a href="/wiki/Forcing_(mathematics)" title="Forcing (mathematics)">Forcing</a></li> 
+          <li><a href="/wiki/Bijection" title="Bijection">One-to-one correspondence</a></li> 
+          <li><a href="/wiki/Ordinal_number" title="Ordinal number">Ordinal number</a></li> 
+          <li><a class="mw-selflink selflink">Transfinite induction</a></li> 
+          <li><a href="/wiki/Venn_diagram" title="Venn diagram">Venn diagram</a></li>
+         </ul> 
+        </div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Set_(mathematics)" title="Set (mathematics)">Set</a> types</th>
+       <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><a href="/wiki/Countable_set" title="Countable set">Countable</a></li> 
+          <li><a href="/wiki/Empty_set" title="Empty set">Empty</a></li> 
+          <li><a href="/wiki/Finite_set" title="Finite set">Finite</a>&nbsp;(<a href="/wiki/Hereditarily_finite_set" title="Hereditarily finite set">hereditarily</a>)</li> 
+          <li><a href="/wiki/Fuzzy_set" title="Fuzzy set">Fuzzy</a></li> 
+          <li><a href="/wiki/Infinite_set" title="Infinite set">Infinite</a> (<a href="/wiki/Dedekind-infinite_set" title="Dedekind-infinite set">Dedekind-infinite</a>)</li> 
+          <li><a href="/wiki/Recursive_set" title="Recursive set">Recursive</a></li> 
+          <li><a href="/wiki/Subset_and_superset" class="mw-redirect" title="Subset and superset">Subset&nbsp;<b>·</b> Superset</a></li> 
+          <li><a href="/wiki/Transitive_set" title="Transitive set">Transitive</a></li> 
+          <li><a href="/wiki/Uncountable_set" title="Uncountable set">Uncountable</a></li> 
+          <li><a href="/wiki/Universal_set" title="Universal set">Universal</a></li>
+         </ul> 
+        </div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%">Theories</th>
+       <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><a href="/wiki/Alternative_set_theory" title="Alternative set theory">Alternative</a></li> 
+          <li><a href="/wiki/Axiomatic_set_theory" class="mw-redirect" title="Axiomatic set theory">Axiomatic</a></li> 
+          <li><a href="/wiki/Naive_set_theory" title="Naive set theory">Naive</a></li> 
+          <li><a href="/wiki/Cantor%27s_theorem" title="Cantor's theorem">Cantor's theorem</a></li>
+         </ul> 
+         <ul>
+          <li><a href="/wiki/Zermelo_set_theory" title="Zermelo set theory">Zermelo</a> 
+           <ul>
+            <li><a href="/wiki/General_set_theory" title="General set theory">General</a></li>
+           </ul></li> 
+          <li><i><a href="/wiki/Principia_Mathematica" title="Principia Mathematica">Principia Mathematica</a></i> 
+           <ul>
+            <li><a href="/wiki/New_Foundations" title="New Foundations">New Foundations</a></li>
+           </ul></li> 
+          <li><a href="/wiki/Zermelo%E2%80%93Fraenkel_set_theory" title="Zermelo–Fraenkel set theory">Zermelo–Fraenkel </a> 
+           <ul>
+            <li><a href="/wiki/Von_Neumann%E2%80%93Bernays%E2%80%93G%C3%B6del_set_theory" title="Von Neumann–Bernays–Gödel set theory">von Neumann–Bernays–Gödel </a> 
+             <ul>
+              <li><a href="/wiki/Morse%E2%80%93Kelley_set_theory" title="Morse–Kelley set theory">Morse–Kelley</a></li>
+             </ul></li> 
+            <li><a href="/wiki/Kripke%E2%80%93Platek_set_theory" title="Kripke–Platek set theory">Kripke–Platek</a></li> 
+            <li><a href="/wiki/Tarski%E2%80%93Grothendieck_set_theory" title="Tarski–Grothendieck set theory">Tarski–Grothendieck</a></li>
+           </ul></li>
+         </ul> 
+        </div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%">
+        <div class="hlist hlist-separated">
+         <ul>
+          <li><a href="/wiki/Paradoxes_of_set_theory" title="Paradoxes of set theory">Paradoxes</a></li>
+          <li>Problems</li>
+         </ul>
+        </div></th>
+       <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><a href="/wiki/Russell%27s_paradox" title="Russell's paradox">Russell's paradox</a></li> 
+          <li><a href="/wiki/Suslin%27s_problem" title="Suslin's problem">Suslin's problem</a></li> 
+          <li><a href="/wiki/Burali-Forti_paradox" title="Burali-Forti paradox">Burali-Forti paradox</a></li>
+         </ul> 
+        </div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Category:Set_theorists" title="Category:Set theorists">Set theorists</a></th>
+       <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><a href="/wiki/Abraham_Fraenkel" title="Abraham Fraenkel">Abraham Fraenkel</a></li> 
+          <li><a href="/wiki/Bertrand_Russell" title="Bertrand Russell">Bertrand Russell</a></li> 
+          <li><a href="/wiki/Ernst_Zermelo" title="Ernst Zermelo">Ernst Zermelo</a></li> 
+          <li><a href="/wiki/Georg_Cantor" title="Georg Cantor">Georg Cantor</a></li> 
+          <li><a href="/wiki/John_von_Neumann" title="John von Neumann">John von Neumann</a></li> 
+          <li><a href="/wiki/Kurt_G%C3%B6del" title="Kurt Gödel">Kurt Gödel</a></li> 
+          <li><a href="/wiki/Paul_Bernays" title="Paul Bernays">Paul Bernays</a></li> 
+          <li><a href="/wiki/Paul_Cohen" title="Paul Cohen">Paul Cohen</a></li> 
+          <li><a href="/wiki/Richard_Dedekind" title="Richard Dedekind">Richard Dedekind</a></li> 
+          <li><a href="/wiki/Thomas_Jech" title="Thomas Jech">Thomas Jech</a></li> 
+          <li><a href="/wiki/Thoralf_Skolem" title="Thoralf Skolem">Thoralf Skolem</a></li> 
+          <li><a href="/wiki/Willard_Van_Orman_Quine" title="Willard Van Orman Quine">Willard Quine</a></li>
+         </ul> 
+        </div></td>
+      </tr>
+     </tbody>
+    </table>
+   </div> 
+   <!-- 
+NewPP limit report
+Parsed by mw1274
+Cached time: 20190423143633
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.208 seconds
+Real time usage: 0.343 seconds
+Preprocessor visited node count: 300/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 23900/2097152 bytes
+Template argument size: 235/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 4939/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.072/10.000 seconds
+Lua memory usage: 2.26 MB/50 MB
+--> 
+   <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  157.134      1 -total
+ 47.50%   74.636      1 Template:Citation
+ 26.28%   41.296      1 Template:Short_description
+ 24.45%   38.422      1 Template:Pagetype
+ 16.83%   26.446      1 Template:Set_theory
+ 14.80%   23.260      1 Template:Navbox
+  6.67%   10.480      1 Template:MathWorld
+  6.64%   10.437      2 Template:Hlist
+  4.16%    6.539      1 Template:Cite_web
+--> 
+   <!-- Saved in parser cache with key enwiki:pcache:idhash:30461-0!canonical!math=5 and timestamp 20190423143633 and revision id 875944120
+ --> 
+  </div>
+  <noscript>
+   <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+  </noscript>
+ </div> 
+ <div class="printfooter">
+  Retrieved from "
+  <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Transfinite_induction&amp;oldid=875944120">https://en.wikipedia.org/w/index.php?title=Transfinite_induction&amp;oldid=875944120</a>"
+ </div> 
+ <div id="catlinks" class="catlinks" data-mw="interface">
+  <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+   <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+   <ul>
+    <li><a href="/wiki/Category:Ordinal_numbers" title="Category:Ordinal numbers">Ordinal numbers</a></li>
+    <li><a href="/wiki/Category:Recursion" title="Category:Recursion">Recursion</a></li>
+    <li><a href="/wiki/Category:Mathematical_induction" title="Category:Mathematical induction">Mathematical induction<

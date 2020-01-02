@@ -1,0 +1,422 @@
+<div id="bodyContent" class="mw-body-content"> 
+ <div id="siteSub" class="noprint">
+  From Wikipedia, the free encyclopedia
+ </div> 
+ <div id="contentSub"></div> 
+ <div id="jump-to-nav"></div> 
+ <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> 
+ <a class="mw-jump-link" href="#p-search">Jump to search</a> 
+ <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+  <div class="mw-parser-output">
+   <div role="note" class="hatnote navigation-not-searchable">
+    For other uses, see 
+    <a href="/wiki/Nian_(disambiguation)" class="mw-disambig" title="Nian (disambiguation)">Nian (disambiguation)</a>.
+   </div> 
+   <table class="box-Multiple_issues plainlinks metadata ambox ambox-content ambox-multiple_issues compact-ambox" role="presentation">
+    <tbody>
+     <tr>
+      <td class="mbox-image">
+       <div style="width:52px">
+        <img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40">
+       </div></td>
+      <td class="mbox-text">
+       <div class="mbox-text-span">
+        <div class="mw-collapsible" style="width:95%; margin: 0.2em 0;">
+         <b>This article has multiple issues.</b> Please help 
+         <b><a class="external text" href="//en.wikipedia.org/w/index.php?title=Nian&amp;action=edit">improve it</a></b> or discuss these issues on the 
+         <b><a href="/wiki/Talk:Nian" title="Talk:Nian">talk page</a></b>. 
+         <small><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove these template messages</a>)</i></small> 
+         <div class="mw-collapsible-content" style="margin-top: 0.3em;"> 
+          <table class="box-More_citations_needed plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+           <tbody>
+            <tr>
+             <td class="mbox-image">
+              <div style="width:52px">
+               <a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399"></a>
+              </div></td>
+             <td class="mbox-text">
+              <div class="mbox-text-span">
+               This article 
+               <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.
+               <span class="hide-when-compact"> Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Nian&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.<br><small><span class="plainlinks"><i>Find sources:</i>&nbsp;<a rel="nofollow" class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22Nian%22">"Nian"</a>&nbsp;–&nbsp;<a rel="nofollow" class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22Nian%22+-wikipedia">news</a>&nbsp;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?&amp;q=%22Nian%22+site:news.google.com/newspapers&amp;source=newspapers">newspapers</a>&nbsp;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22Nian%22+-wikipedia">books</a>&nbsp;<b>·</b> <a rel="nofollow" class="external text" href="//scholar.google.com/scholar?q=%22Nian%22">scholar</a>&nbsp;<b>·</b> <a rel="nofollow" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22Nian%22&amp;acc=on&amp;wc=on">JSTOR</a></span></small></span> 
+               <small class="date-container"><i>(<span class="date">December 2010</span>)</i></small>
+               <small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small>
+              </div></td>
+            </tr>
+           </tbody>
+          </table> 
+          <table class="box-Cleanup plainlinks metadata ambox ambox-style ambox-Cleanup" role="presentation">
+           <tbody>
+            <tr>
+             <td class="mbox-image">
+              <div style="width:52px">
+               <img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" data-file-width="48" data-file-height="48">
+              </div></td>
+             <td class="mbox-text">
+              <div class="mbox-text-span">
+               This article may 
+               <b>require <a href="/wiki/Wikipedia:Cleanup" title="Wikipedia:Cleanup">cleanup</a></b> to meet Wikipedia's 
+               <a href="/wiki/Wikipedia:Manual_of_Style" title="Wikipedia:Manual of Style">quality standards</a>.
+               <span class="hide-when-compact"> No <a href="/wiki/Template:Cleanup/doc" title="Template:Cleanup/doc">cleanup reason</a> has been specified. Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Nian&amp;action=edit">improve this article</a> if you can.</span> 
+               <small class="date-container"><i>(<span class="date">December 2010</span>)</i></small>
+               <small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small>
+              </div></td>
+            </tr>
+           </tbody>
+          </table> 
+         </div> 
+        </div>
+        <small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small>
+       </div></td>
+     </tr>
+    </tbody>
+   </table> 
+   <table class="infobox" style="width:22em">
+    <tbody>
+     <tr style="display:none;">
+      <td colspan="2" style="text-align:center"></td>
+     </tr>
+     <tr>
+      <td colspan="2" style="text-align:center;font-size: 125%; background-color:#b0c4de;">Nian</td>
+     </tr>
+     <tr>
+      <td colspan="2" style="text-align:center"><a href="/wiki/File:Lion_dance_costume.jpg" class="image"><img alt="Lion dance costume.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/25/Lion_dance_costume.jpg/220px-Lion_dance_costume.jpg" decoding="async" width="220" height="365" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/25/Lion_dance_costume.jpg/330px-Lion_dance_costume.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/2/25/Lion_dance_costume.jpg 2x" data-file-width="362" data-file-height="600"></a>
+       <div>
+        Southern Chinese lion dance is said to relate to driving away the Nian
+       </div></td>
+     </tr>
+     <tr>
+      <th scope="row" style="font-weight:normal;"><a href="/wiki/Traditional_Chinese_characters" title="Traditional Chinese characters">Traditional&nbsp;Chinese</a></th>
+      <td><span lang="zh-Hant" style="font-size:1rem;" title="Chinese language text">年獸</span></td>
+     </tr>
+     <tr>
+      <th scope="row" style="font-weight:normal;"><a href="/wiki/Simplified_Chinese_characters" title="Simplified Chinese characters">Simplified Chinese</a></th>
+      <td><span lang="zh-Hans" style="font-size:1rem;" title="Chinese language text">年</span></td>
+     </tr>
+     <tr>
+      <th scope="row" style="font-weight:normal;">Literal meaning</th>
+      <td>年 Year<br>年獸 Year beast</td>
+     </tr>
+     <tr>
+      <td colspan="2" style="text-align:center">
+       <table class="collapsible collapsed" style="padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent">
+        <tbody>
+         <tr>
+          <th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size: 100%; text-align: left; background-color: #f9ffbc;">Transcriptions</th>
+         </tr>
+         <tr>
+          <th colspan="2" style="text-align:center;background-color: #dcffc9;"><a href="/wiki/Standard_Chinese" title="Standard Chinese">Standard Mandarin</a></th>
+         </tr>
+         <tr>
+          <th scope="row" style="font-weight:normal;"><a href="/wiki/Hanyu_Pinyin" class="mw-redirect" title="Hanyu Pinyin">Hanyu Pinyin</a></th>
+          <td><span style="font-style:normal" lang="zh-Latn" title="Chinese-language transliteration">nián shòu</span></td>
+         </tr>
+         <tr>
+          <th colspan="2" style="text-align:center;background-color: #dcffc9;"><a href="/wiki/Cantonese" title="Cantonese">Yue: Cantonese</a></th>
+         </tr>
+         <tr>
+          <th scope="row" style="font-weight:normal;"><a href="/wiki/Jyutping" title="Jyutping">Jyutping</a></th>
+          <td><span style="font-style:normal" lang="yue-Latn" title="Yue Chinese-language transliteration">nin4 sau3</span></td>
+         </tr>
+        </tbody>
+       </table></td>
+     </tr>
+     <tr style="display:none">
+      <td colspan="2"> </td>
+     </tr>
+    </tbody>
+   </table> 
+   <p>According to <a href="/wiki/Chinese_mythology" title="Chinese mythology">Chinese mythology</a>, a <b>Nian</b> (<a href="/wiki/Simplified_Chinese_characters" title="Simplified Chinese characters">simplified Chinese</a>: <span lang="zh-Hans">年兽</span>; <a href="/wiki/Traditional_Chinese_characters" title="Traditional Chinese characters">traditional Chinese</a>: <span lang="zh-Hant">年獸</span>; <a href="/wiki/Pinyin" title="Pinyin">pinyin</a>: <i><span lang="zh-Latn-pinyin">nián shòu</span></i>) is a beast that lives under the sea or in the mountains. The character <i>Nian</i> more usually means "year" or "new year". The earliest written sources that refer to the <i>Nian</i> as a creature date to early 20th century. As a result, it is unclear whether the <i>Nian</i> creature is an authentic part of traditional folk mythology, or a part of a local oral tradition which was recorded in the early 20th century. <i>Nian</i> is one of the key characters in the <a href="/wiki/Chinese_New_Year" title="Chinese New Year">Chinese New Year</a>, with scholars citing it as the reason behind several practices during the celebration such as wearing red clothing and creating noise from drums and <a href="/wiki/Fireworks" title="Fireworks">fireworks</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> </p> 
+   <div id="toc" class="toc">
+    <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+    <div class="toctitle" lang="en" dir="ltr">
+     <h2>Contents</h2>
+     <span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+    </div> 
+    <ul> 
+     <li class="toclevel-1 tocsection-1"><a href="#Modern_legends"><span class="tocnumber">1</span> <span class="toctext">Modern legends</span></a></li> 
+     <li class="toclevel-1 tocsection-2"><a href="#Ancient_sources"><span class="tocnumber">2</span> <span class="toctext">Ancient sources</span></a></li> 
+     <li class="toclevel-1 tocsection-3"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li> 
+     <li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li> 
+    </ul> 
+   </div> 
+   <h2><span class="mw-headline" id="Modern_legends">Modern legends</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nian&amp;action=edit&amp;section=1" title="Edit section: Modern legends">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <p>Once every year at the beginning of Chinese New Year, the Nian comes out of its hiding place to feed, mostly on men and animals. During winter, since food is sparse, he would go to the village. He would eat the crops and sometimes the villagers, mostly children. There are several accounts as to how it looked, such as the way some sources cited that it resembles a flat-face lion with a dog's body and prominent incisor.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Other authors described it as larger than an elephant with two long horns and many sharp teeth.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> The weaknesses of the Nian are purported to be a sensitivity to loud noises, fire, and a fear of the color red. </p>
+   <p>Some local legends attribute the <a href="/wiki/Lion_dance" title="Lion dance">Chinese lion dance</a> (Chinese: <span lang="zh-Hant">舞獅</span>) to the legend of the Nian. The tradition has its origins in a story of a Nian's attack on a village. After the attack, the villagers discussed how to make the Nian leave them in peace. Since it was discovered that the beast was afraid of the color red, people would put red lanterns and spring scrolls on their windows and doors.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> They would also leave food at their doorstep in a bid to divert it from eating humans. </p>
+   <p>The traditions of firecrackers, red lanterns, and red robes found in many Lion Dance portrayals originate from the plan the villagers had in which drums, plates and empty bowls were hit, red robes were worn, and <a href="/wiki/Firecrackers" class="mw-redirect" title="Firecrackers">firecrackers</a> were thrown, causing loud banging sounds that they hoped would intimidate the Nian. According to this same myth, captured by Hongjun Laozu, an ancient <a href="/wiki/Taoism" title="Taoism">Taoist</a> monk, and Nian became Hongjun Laozu's mount. </p> 
+   <h2><span class="mw-headline" id="Ancient_sources">Ancient sources</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nian&amp;action=edit&amp;section=2" title="Edit section: Ancient sources">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <p>Various aspects of cultural practices relating to Chinese New Year is now included as part of the <i>Nian</i> legend. These cultural practices are recorded in ancient texts, though none of them refer to a creature called <i>Nian</i> </p>
+   <p>The <i><a href="/wiki/Erya" title="Erya">Erya</a></i> records that the character <i>Nian</i> (年) was first used to mean the year during the <a href="/wiki/Zhou_dynasty" title="Zhou dynasty">Zhou dynasty</a>, replacing the different terms used in previous eras. The <i><a href="/wiki/Shuowen_Jiezi" title="Shuowen Jiezi">Shuowen Jiezi</a></i> records that the character <i>Nian</i> meant "ripeness of grains", and was composed of the character "<i>he</i>" (禾, rice plant) and "<i>qian</i>" (千, indicating the sound), and quotes the <i><a href="/wiki/Spring_and_Autumn_Annals" title="Spring and Autumn Annals">Chunqiu</a></i> which uses it in the sense of a great harvest. </p>
+   <p>The attributes of the <i>Nian</i> creature in the modern legend, of fear of noise and fire, correlates with ancient legends relating to the use of firecrackers to drive off ape-like creatures in the mountains called <i>shanxiao</i> (山魈), first recorded in the <i><a href="/wiki/Shanhaijing" class="mw-redirect" title="Shanhaijing">Shanhaijing</a></i>. </p>
+   <p>The practice of sweeping and cleaning at the start of the year is recorded in Zhou dynasty sources as intended to ward off plague spirits, and the practice of using <a href="/wiki/Nuo_opera" title="Nuo opera">music and drama</a> to receive gods and ward off plague spirits is also recorded from the same era. The creature's role in the celebration of the Chinese New Year is highlighted by the way the Chinese call this holiday as <i>Guo Nian</i>, which means "pass over <i>Nian</i>" or "overcome <i>Nian</i>."<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> </p> 
+   <h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nian&amp;action=edit&amp;section=3" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <ul>
+    <li><a href="/wiki/Chinese_mythology_in_popular_culture" title="Chinese mythology in popular culture">Chinese mythology in popular culture</a></li> 
+    <li><a href="/wiki/Dragon" title="Dragon">Dragon</a></li> 
+    <li><i><a href="/wiki/Three_Delivery" title="Three Delivery">Three Delivery</a></i> (animated show where the Nian appeared in an episode)</li> 
+    <li><a href="/wiki/Yule_Goat" title="Yule Goat">Yule Goat</a></li>
+   </ul> 
+   <div role="navigation" class="navbox" aria-labelledby="Chinese_mythology" style="padding:3px">
+    <table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+     <tbody>
+      <tr>
+       <th scope="col" class="navbox-title" colspan="2">
+        <div class="plainlinks hlist navbar mini">
+         <ul>
+          <li class="nv-view"><a href="/wiki/Template:Chinese_mythology" title="Template:Chinese mythology"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+          <li class="nv-talk"><a href="/wiki/Template_talk:Chinese_mythology" title="Template talk:Chinese mythology"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+          <li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Chinese_mythology&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+         </ul>
+        </div>
+        <div id="Chinese_mythology" style="font-size:114%;margin:0 4em">
+         <a href="/wiki/Chinese_mythology" title="Chinese mythology">Chinese mythology</a>
+        </div></th>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%">Overview topics</th>
+       <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><a href="/wiki/Chinese_creation_myth" class="mw-redirect" title="Chinese creation myth">Creation myth</a></li> 
+          <li><a href="/wiki/Chinese_spiritual_world_concepts" title="Chinese spiritual world concepts">Godly world concepts</a></li> 
+          <li><a href="/wiki/Chinese_astrology" title="Chinese astrology">Astrology</a></li> 
+          <li><a href="/wiki/Chinese_dragon" title="Chinese dragon">Dragons</a></li> 
+          <li><a href="/wiki/Gods_and_demons_fiction" title="Gods and demons fiction">Shenmo fiction</a></li> 
+          <li><a href="/wiki/Chinese_gods_and_immortals" title="Chinese gods and immortals">Gods and immortals</a></li> 
+          <li><a href="/wiki/Tian" title="Tian">Tian</a></li> 
+          <li><a href="/wiki/Pangu" title="Pangu">Pangu</a></li> 
+          <li><a href="/wiki/Ghosts_in_Chinese_culture" title="Ghosts in Chinese culture">Ghosts</a></li>
+         </ul> 
+        </div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%">Major personages</th>
+       <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><a href="/wiki/Chinese_mythology#Important_mythologies_and_deities" title="Chinese mythology">Deities</a></li> 
+          <li><a href="/wiki/Three_Sovereigns_and_Five_Emperors" title="Three Sovereigns and Five Emperors">Three Sovereigns and Five Emperors</a></li> 
+          <li><a href="/wiki/Eight_Immortals" title="Eight Immortals">Eight Immortals</a></li> 
+          <li><a href="/wiki/Shennong" title="Shennong">Shennong</a></li> 
+          <li><a href="/wiki/Yellow_Emperor" title="Yellow Emperor">Yellow Emperor</a></li> 
+          <li><a href="/wiki/Yan_Emperor" title="Yan Emperor">Yan Emperor</a></li> 
+          <li><a href="/wiki/Chiyou" title="Chiyou">Chiyou</a></li> 
+          <li><a href="/wiki/Hou_Yi" title="Hou Yi">Hou Yi</a></li> 
+          <li><a href="/wiki/Kua_Fu" class="mw-redirect" title="Kua Fu">Kua Fu</a></li>
+         </ul> 
+        </div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Chinese_mythology#Mythical_creatures" title="Chinese mythology">Creatures</a></th>
+       <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><a href="/wiki/Black_Tortoise" title="Black Tortoise">Black Tortoise</a></li> 
+          <li><a href="/wiki/Azure_Dragon" title="Azure Dragon">Azure Dragon</a></li> 
+          <li><a href="/wiki/White_Tiger_(China)" title="White Tiger (China)">White Tiger</a></li> 
+          <li><a href="/wiki/Vermilion_Bird" title="Vermilion Bird">Vermilion Bird</a></li> 
+          <li><a href="/wiki/Qilin" title="Qilin">Qilin</a></li> 
+          <li><a href="/wiki/Fenghuang" title="Fenghuang">Fenghuang</a></li> 
+          <li><a href="/wiki/Huli_jing" title="Huli jing">Huli jing</a></li> 
+          <li><a href="/wiki/Chinese_guardian_lions" title="Chinese guardian lions">Chinese guardian lions</a></li> 
+          <li><a href="/wiki/Pixiu" title="Pixiu">Pixiu</a> (Bixie)</li> 
+          <li><a class="mw-selflink selflink">Nian</a></li> 
+          <li><a href="/wiki/Yeren" title="Yeren">Yeren</a></li> 
+          <li><a href="/wiki/Fox_spirit" title="Fox spirit">Fox spirit</a></li> 
+          <li><a href="/wiki/Four_Perils" title="Four Perils">Four Perils</a></li>
+         </ul> 
+        </div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%">Places</th>
+       <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><a href="/wiki/Fusang" title="Fusang">Fusang</a></li> 
+          <li><a href="/wiki/Mount_Penglai" title="Mount Penglai">Penglai</a></li> 
+          <li><a href="/wiki/Diyu" title="Diyu">Diyu</a></li> 
+          <li><a href="/wiki/Kunlun_Mountain_(mythology)" class="mw-redirect" title="Kunlun Mountain (mythology)">Kunlun Mountain</a></li> 
+          <li><a href="/wiki/Youdu" title="Youdu">Youdu</a></li>
+         </ul> 
+        </div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%">Popular literary works</th>
+       <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><i><a href="/wiki/Classic_of_Mountains_and_Seas" title="Classic of Mountains and Seas">Classic of Mountains and Seas</a></i></li> 
+          <li><i><a href="/wiki/Shi_Yi_Ji" title="Shi Yi Ji">Shi Yi Ji</a></i></li> 
+          <li><i><a href="/wiki/The_Peach_Blossom_Spring" title="The Peach Blossom Spring">The Peach Blossom Spring</a></i></li> 
+          <li><i><a href="/wiki/The_Four_Journeys" title="The Four Journeys">The Four Journeys</a></i></li> 
+          <li><i><a href="/wiki/Investiture_of_the_Gods" title="Investiture of the Gods">Investiture of the Gods</a></i></li> 
+          <li><i><a href="/wiki/Legend_of_the_White_Snake" title="Legend of the White Snake">Legend of the White Snake</a></i></li> 
+          <li><i><a href="/wiki/The_Three_Sui_Quash_the_Demons%27_Revolt" title="The Three Sui Quash the Demons' Revolt">The Sorcerer's Revolt</a></i></li> 
+          <li><i><a href="/wiki/Strange_Stories_from_a_Chinese_Studio" title="Strange Stories from a Chinese Studio">Strange Stories from a Chinese Studio</a></i></li> 
+          <li><i><a href="/wiki/Journey_to_the_West" title="Journey to the West">Journey to the West</a></i></li> 
+          <li><i><a href="/wiki/In_Search_of_the_Supernatural" class="mw-redirect" title="In Search of the Supernatural">In Search of the Supernatural</a></i></li> 
+          <li><i><a href="/wiki/Tian_Xian_Pei" title="Tian Xian Pei">Tian Xian Pei</a></i></li> 
+          <li><i><a href="/wiki/What_the_Master_Would_Not_Discuss" title="What the Master Would Not Discuss">What the Master Would Not Discuss</a></i></li> 
+          <li><i><a href="/wiki/Heavenly_Questions" title="Heavenly Questions">Heavenly Questions</a> (<a href="/wiki/Chu_Ci" title="Chu Ci">Chu Ci</a>)</i></li> 
+          <li><i><a href="/wiki/Huainanzi" title="Huainanzi">Huainanzi</a></i></li> 
+          <li><i><a href="/wiki/Records_of_the_Grand_Historian" title="Records of the Grand Historian">Records of the Grand Historian</a></i></li>
+         </ul> 
+        </div></td>
+      </tr>
+     </tbody>
+    </table>
+   </div> 
+   <div role="navigation" class="navbox" aria-labelledby="Chinese_New_Year" style="padding:3px">
+    <table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+     <tbody>
+      <tr>
+       <th scope="col" class="navbox-title" colspan="2">
+        <div class="plainlinks hlist navbar mini">
+         <ul>
+          <li class="nv-view"><a href="/wiki/Template:Chinese_New_Year" title="Template:Chinese New Year"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+          <li class="nv-talk"><a href="/wiki/Template_talk:Chinese_New_Year" title="Template talk:Chinese New Year"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+          <li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Chinese_New_Year&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+         </ul>
+        </div>
+        <div id="Chinese_New_Year" style="font-size:114%;margin:0 4em">
+         <a href="/wiki/Chinese_New_Year" title="Chinese New Year">Chinese New Year</a>
+        </div></th>
+      </tr>
+      <tr>
+       <td class="navbox-abovebelow" colspan="2">
+        <div id="Culture_of_China">
+         <a href="/wiki/Chinese_culture" title="Chinese culture">Culture of China</a>
+        </div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%">Topics</th>
+       <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><a class="mw-selflink selflink">Nian</a></li> 
+          <li><a href="/wiki/Lion_dance" title="Lion dance">Lion dance</a></li> 
+          <li><a href="/wiki/Dragon_dance" title="Dragon dance">Dragon dance</a></li> 
+          <li><a href="/wiki/New_Year_picture" title="New Year picture">New Year picture</a></li> 
+          <li><a href="/wiki/Red_envelope" title="Red envelope">Red envelope</a></li> 
+          <li><a href="/wiki/Reunion_dinner" title="Reunion dinner">Reunion dinner</a></li> 
+          <li><a href="/wiki/Fireworks" title="Fireworks">Fireworks</a></li> 
+          <li><a href="/wiki/Firecracker" title="Firecracker">Firecracker</a></li> 
+          <li><a href="/wiki/Chinese_dragon" title="Chinese dragon">Chinese dragon</a></li> 
+          <li><a href="/wiki/Fu_(character)" title="Fu (character)">Fu</a></li>
+         </ul> 
+        </div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%">Food</th>
+       <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><a href="/wiki/Nian_gao" title="Nian gao">Nian gao</a></li> 
+          <li><a href="/wiki/Spring_pancake" title="Spring pancake">Spring pancake</a></li> 
+          <li><a href="/wiki/Jiaozi" title="Jiaozi">Jiaozi</a></li> 
+          <li><a href="/wiki/Bakkwa" title="Bakkwa">Bakkwa</a></li> 
+          <li><a href="/wiki/Buddha%27s_delight" title="Buddha's delight">Buddha's delight</a></li> 
+          <li><a href="/wiki/Fa_gao" title="Fa gao">Fa gao</a></li> 
+          <li><a href="/wiki/Fat_choy" title="Fat choy">Fat choy</a></li> 
+          <li><a href="/wiki/Yau_gok" title="Yau gok">Yau gok</a></li> 
+          <li><a href="/wiki/Kralan" title="Kralan">Kralan</a></li> 
+          <li><a href="/wiki/Kuih" title="Kuih">Kuih</a></li> 
+          <li><a href="/wiki/Lotus_seed" title="Lotus seed">Lotus seed</a></li> 
+          <li><a href="/wiki/Pineapple_tart" title="Pineapple tart">Pineapple tart</a></li> 
+          <li><a href="/wiki/Squab" title="Squab">Squab</a></li> 
+          <li><a href="/wiki/Taro_cake" title="Taro cake">Taro cake</a></li> 
+          <li><a href="/wiki/Turnip_cake" title="Turnip cake">Turnip cake</a></li> 
+          <li><a href="/wiki/Yusheng" title="Yusheng">Yusheng</a></li> 
+          <li><a href="/wiki/Egusi" title="Egusi">Melon seed</a></li> 
+          <li><a href="/wiki/Mandarin_orange" title="Mandarin orange">Mandarin orange</a></li> 
+          <li><a href="/wiki/Fish" title="Fish">Fish</a></li>
+         </ul> 
+        </div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%">Other</th>
+       <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><i><a href="/wiki/CCTV_New_Year%27s_Gala" title="CCTV New Year's Gala">CCTV New Year's Gala</a></i></li> 
+          <li><a href="/wiki/Chinese_calendar" title="Chinese calendar">Chinese calendar</a></li> 
+          <li><a href="/wiki/Chunyun" title="Chunyun">Chunyun</a></li> 
+          <li><a href="/wiki/Color_in_Chinese_culture" title="Color in Chinese culture">Color in Chinese culture</a></li> 
+          <li><a href="/wiki/San_Francisco_Chinese_New_Year_Festival_and_Parade" title="San Francisco Chinese New Year Festival and Parade">San Francisco Chinese New Year Festival and Parade</a></li>
+         </ul> 
+        </div></td>
+      </tr>
+      <tr>
+       <td class="navbox-abovebelow" colspan="2">
+        <div>
+         <a href="/wiki/Golden_Week_(China)" title="Golden Week (China)">Golden Week</a>
+        </div></td>
+      </tr>
+     </tbody>
+    </table>
+   </div> 
+   <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nian&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <div class="reflist" style="list-style-type: decimal;"> 
+    <div class="mw-references-wrap">
+     <ol class="references"> 
+      <li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web">Laban, Barbara (2016-02-08). <a rel="nofollow" class="external text" href="https://www.theguardian.com/childrens-books-site/2016/feb/08/top-10-chinese-myths">"Top 10 Chinese myths"</a>. <i>the Guardian</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-08-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=the+Guardian&amp;rft.atitle=Top+10+Chinese+myths&amp;rft.date=2016-02-08&amp;rft.aulast=Laban&amp;rft.aufirst=Barbara&amp;rft_id=https%3A%2F%2Fwww.theguardian.com%2Fchildrens-books-site%2F2016%2Ffeb%2F08%2Ftop-10-chinese-myths&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANian" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span> </li> 
+      <li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web">Flake, Ben (2014-01-31). <a rel="nofollow" class="external text" href="https://www.theparisreview.org/blog/2014/01/31/it-lurks/">"It Lurks"</a>. <i>The Paris Review</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-08-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Paris+Review&amp;rft.atitle=It+Lurks&amp;rft.date=2014-01-31&amp;rft.aulast=Flake&amp;rft.aufirst=Ben&amp;rft_id=https%3A%2F%2Fwww.theparisreview.org%2Fblog%2F2014%2F01%2F31%2Fit-lurks%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANian" class="Z3988"></span>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+      <li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation book">Yuan, Haiwang (2006). <i>The Magic Lotus Lantern and Other Tales from the Han Chinese</i>. Westport, CT: Libraries Unlimited. p.&nbsp;168. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/1591582946" title="Special:BookSources/1591582946"><bdi>1591582946</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Magic+Lotus+Lantern+and+Other+Tales+from+the+Han+Chinese&amp;rft.place=Westport%2C+CT&amp;rft.pages=168&amp;rft.pub=Libraries+Unlimited&amp;rft.date=2006&amp;rft.isbn=1591582946&amp;rft.aulast=Yuan&amp;rft.aufirst=Haiwang&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANian" class="Z3988"></span>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+      <li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation book">Espiritu, Roddy (2013). <i>Tagtaginep - My Dream of Opportunity</i>. Bloomington, IN: Xlibris Corporation. p.&nbsp;82. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/9781479751051" title="Special:BookSources/9781479751051"><bdi>9781479751051</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Tagtaginep+-+My+Dream+of+Opportunity&amp;rft.place=Bloomington%2C+IN&amp;rft.pages=82&amp;rft.pub=Xlibris+Corporation&amp;rft.date=2013&amp;rft.isbn=9781479751051&amp;rft.aulast=Espiritu&amp;rft.aufirst=Roddy&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANian" class="Z3988"></span>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+      <li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.chinesenewyearfestival.org/culture/19-the-story-of-chinese-new-year-">"The Story of Chinese New Year (年的传说）"</a>. <i>www.chinesenewyearfestival.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-08-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.chinesenewyearfestival.org&amp;rft.atitle=The+Story+of+Chinese+New+Year+%28%E5%B9%B4%E7%9A%84%E4%BC%A0%E8%AF%B4%EF%BC%89&amp;rft_id=https%3A%2F%2Fwww.chinesenewyearfestival.org%2Fculture%2F19-the-story-of-chinese-new-year-&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANian" class="Z3988"></span>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+     </ol>
+    </div>
+   </div> 
+   <!-- 
+NewPP limit report
+Parsed by mw1274
+Cached time: 20190504030829
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.540 seconds
+Real time usage: 0.674 seconds
+Preprocessor visited node count: 1132/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 76286/2097152 bytes
+Template argument size: 9509/2097152 bytes
+Highest expansion depth: 20/40
+Expensive parser function count: 5/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 14361/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.388/10.000 seconds
+Lua memory usage: 13.94 MB/50 MB
+--> 
+   <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  610.583      1 -total
+ 42.72%  260.816      1 Template:Chinese
+ 42.00%  256.469      1 Template:Infobox
+ 34.22%  208.950      3 Template:Ambox
+ 24.05%  146.841      1 Template:Multiple_issues
+ 21.93%  133.877      1 Template:Reflist
+ 17.67%  107.863      3 Template:Cite_web
+ 11.25%   68.669      1 Template:More_citations_needed
+  7.64%   46.654      1 Template:Cleanup
+  5.35%   32.665      1 Template:Find_sources_mainspace
+--> 
+   <!-- Saved in parser cache with key enwiki:pcache:idhash:369977-0!canonical and timestamp 20190504030828 and revision id 892621519
+ --> 
+  </div>
+  <noscript>
+   <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+  </noscript>
+ </div> 
+ <div class="printfooter">
+  Retrieved from "
+  <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Nian&amp;oldid=892621519">https://en.wikipedia.org/w/index.php?title=Nian&amp;oldid=892621519</a>"
+ </div> 
+ <div id="catlinks" class="catlinks" data-mw="interface">
+  <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+   <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+   <ul>
+    <li><a href="/wiki/Category:Chinese_mythology" ti

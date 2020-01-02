@@ -1,0 +1,169 @@
+<div id="bodyContent" class="mw-body-content"> 
+ <div id="siteSub" class="noprint">
+  From Wikipedia, the free encyclopedia
+ </div> 
+ <div id="contentSub"></div> 
+ <div id="jump-to-nav"></div> 
+ <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> 
+ <a class="mw-jump-link" href="#p-search">Jump to search</a> 
+ <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+  <div class="mw-parser-output">
+   <p><b>Cletus Clark</b> (born January 20, 1962) is a retired male <a href="/wiki/110_metres_hurdles" title="110 metres hurdles">hurdler</a> from the <a href="/wiki/United_States" title="United States">United States</a>, best known for winning the gold medal in the men's 110 metres hurdles at the <a href="/wiki/1991_Pan_American_Games" title="1991 Pan American Games">1991 Pan American Games</a>. </p> 
+   <h2><span class="mw-headline" id="Achievements">Achievements</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cletus_Clark&amp;action=edit&amp;section=1" title="Edit section: Achievements">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <table class="wikitable" style="text-align:center; font-size:95%;" width="75%"> 
+    <tbody>
+     <tr bgcolor="cccccc"> 
+      <th>Year </th> 
+      <th>Tournament </th> 
+      <th>Venue </th> 
+      <th>Result </th> 
+      <th>Event </th>
+     </tr> 
+     <tr> 
+      <td>1985 </td> 
+      <td><a href="/wiki/1985_Summer_Universiade" title="1985 Summer Universiade">World Student Games</a> </td> 
+      <td><a href="/wiki/Kobe,_Japan" class="mw-redirect" title="Kobe, Japan">Kobe, Japan</a> </td> 
+      <td bgcolor="gold">1st </td> 
+      <td>110 m hurdles </td>
+     </tr> 
+     <tr> 
+      <td>1987 </td> 
+      <td><a href="/wiki/1987_Summer_Universiade" title="1987 Summer Universiade">World Student Games</a> </td> 
+      <td><a href="/wiki/Zagreb,_Yugoslavia" class="mw-redirect" title="Zagreb, Yugoslavia">Zagreb, Yugoslavia</a> </td> 
+      <td bgcolor="silver">2nd </td> 
+      <td>110 m hurdles </td>
+     </tr> 
+     <tr> 
+      <td>1991 </td> 
+      <td><a href="/wiki/Athletics_at_the_1991_Pan_American_Games" title="Athletics at the 1991 Pan American Games">Pan American Games</a> </td> 
+      <td><a href="/wiki/Havana,_Cuba" class="mw-redirect" title="Havana, Cuba">Havana, Cuba</a> </td> 
+      <td bgcolor="gold">1st </td> 
+      <td>110 m hurdles </td>
+     </tr>
+    </tbody>
+   </table> 
+   <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cletus_Clark&amp;action=edit&amp;section=2" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <ul>
+    <li><a rel="nofollow" class="external text" href="https://www.iaaf.org/athletes/biographies/athcode=509">Cletus Clark</a> at <a href="/wiki/International_Association_of_Athletics_Federations" title="International Association of Athletics Federations">IAAF</a></li>
+   </ul> 
+   <p><br> <br> </p> 
+   <div role="navigation" class="navbox" aria-labelledby="Pan_American_Games_Champions_in_Men&amp;#039;s_110_m_Hurdles" style="padding:3px">
+    <table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+     <tbody>
+      <tr>
+       <th scope="col" class="navbox-title" colspan="2" style="background:#08E8DE">
+        <div class="plainlinks hlist navbar mini">
+         <ul>
+          <li class="nv-view"><a href="/wiki/Template:Footer_Pan_American_Champions_110m_Hurdles_Men" title="Template:Footer Pan American Champions 110m Hurdles Men"><abbr title="View this template" style=";background:#08E8DE;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+          <li class="nv-talk"><a href="/wiki/Template_talk:Footer_Pan_American_Champions_110m_Hurdles_Men" title="Template talk:Footer Pan American Champions 110m Hurdles Men"><abbr title="Discuss this template" style=";background:#08E8DE;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+          <li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Footer_Pan_American_Champions_110m_Hurdles_Men&amp;action=edit"><abbr title="Edit this template" style=";background:#08E8DE;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+         </ul>
+        </div>
+        <div id="Pan_American_Games_Champions_in_Men&amp;#039;s_110_m_Hurdles" style="font-size:114%;margin:0 4em">
+         <a href="/wiki/Pan_American_Games" title="Pan American Games">Pan American Games Champions in Men's 110 m Hurdles</a>
+        </div></th>
+      </tr>
+      <tr>
+       <td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><span class="nowrap">1951: <a href="/wiki/Dick_Attlesey" title="Dick Attlesey">Dick Attlesey</a> (USA)</span></li> 
+          <li><span class="nowrap">1955: <a href="/wiki/Jack_Davis_(athlete)" title="Jack Davis (athlete)">Jack Davis</a> (USA)</span></li> 
+          <li><span class="nowrap">1959: <a href="/wiki/Hayes_Jones" title="Hayes Jones">Hayes Jones</a> (USA)</span></li> 
+          <li><span class="nowrap">1963: <a href="/wiki/Blaine_Lindgren" title="Blaine Lindgren">Blaine Lindgren</a> (USA)</span></li> 
+          <li><span class="nowrap">1967: <a href="/wiki/Earl_McCullouch" title="Earl McCullouch">Earl McCullouch</a> (USA)</span></li> 
+          <li><span class="nowrap">1971: <a href="/wiki/Rod_Milburn" title="Rod Milburn">Rod Milburn</a> (USA)</span></li> 
+          <li><span class="nowrap">1975: <a href="/wiki/Alejandro_Casa%C3%B1as" title="Alejandro Casañas">Alejandro Casañas</a> (CUB)</span></li> 
+          <li><span class="nowrap">1979: <a href="/wiki/Renaldo_Nehemiah" title="Renaldo Nehemiah">Renaldo Nehemiah</a> (USA)</span></li> 
+          <li><span class="nowrap">1983: <a href="/wiki/Roger_Kingdom" title="Roger Kingdom">Roger Kingdom</a> (USA)</span></li> 
+          <li><span class="nowrap">1987: <a href="/wiki/Andrew_Parker_(athlete)" title="Andrew Parker (athlete)">Andrew Parker</a> (JAM)</span></li> 
+          <li><span class="nowrap">1991: <a class="mw-selflink selflink">Cletus Clark</a> (USA)</span></li> 
+          <li><span class="nowrap">1995: <a href="/wiki/Roger_Kingdom" title="Roger Kingdom">Roger Kingdom</a> (USA)</span></li> 
+          <li><span class="nowrap">1999: <a href="/wiki/Anier_Garc%C3%ADa" title="Anier García">Anier García</a> (CUB)</span></li> 
+          <li><span class="nowrap">2003: <a href="/wiki/Yuniel_Hern%C3%A1ndez" title="Yuniel Hernández">Yuniel Hernández</a> (CUB)</span></li> 
+          <li><span class="nowrap">2007 – 2011: <a href="/wiki/Dayron_Robles" title="Dayron Robles">Dayron Robles</a> (CUB)</span></li> 
+          <li><span class="nowrap">2015: <a href="/wiki/David_Oliver_(hurdler)" title="David Oliver (hurdler)">David Oliver</a> (USA)</span></li>
+         </ul> 
+        </div></td>
+      </tr>
+     </tbody>
+    </table>
+   </div> 
+   <div role="navigation" class="navbox" aria-labelledby="Summer_Universiade_champions_in_men&amp;#039;s_110_m_hurdles" style="padding:3px">
+    <table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+     <tbody>
+      <tr>
+       <th scope="col" class="navbox-title" colspan="2" style="background:#9BDDFF">
+        <div class="plainlinks hlist navbar mini">
+         <ul>
+          <li class="nv-view"><a href="/wiki/Template:Footer_Universiade_Champions_110m_Hurdles_Men" title="Template:Footer Universiade Champions 110m Hurdles Men"><abbr title="View this template" style=";background:#9BDDFF;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+          <li class="nv-talk"><a href="/wiki/Template_talk:Footer_Universiade_Champions_110m_Hurdles_Men" title="Template talk:Footer Universiade Champions 110m Hurdles Men"><abbr title="Discuss this template" style=";background:#9BDDFF;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+          <li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Footer_Universiade_Champions_110m_Hurdles_Men&amp;action=edit"><abbr title="Edit this template" style=";background:#9BDDFF;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+         </ul>
+        </div>
+        <div id="Summer_Universiade_champions_in_men&amp;#039;s_110_m_hurdles" style="font-size:114%;margin:0 4em">
+         <a href="/wiki/Universiade" title="Universiade">Summer Universiade</a> champions in men's 
+         <a href="/wiki/110_m_hurdles" class="mw-redirect" title="110 m hurdles">110 m hurdles</a>
+        </div></th>
+      </tr>
+      <tr>
+       <td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><span class="nowrap">1959: <a href="/wiki/Stanko_Lorger" title="Stanko Lorger">Stanko Lorger</a> (YUG)</span></li> 
+          <li><span class="nowrap">1961: <a href="/wiki/Valentin_Chistyakov" title="Valentin Chistyakov">Valentin Chistyakov</a> (URS)</span></li> 
+          <li><span class="nowrap">1963: <a href="/wiki/Anatoly_Mikhailov" class="mw-redirect" title="Anatoly Mikhailov">Anatoliy Mikhailov</a> (URS)</span></li> 
+          <li><span class="nowrap">1965–1967: <a href="/wiki/Eddy_Ottoz" title="Eddy Ottoz">Eddy Ottoz</a> (ITA)</span></li> 
+          <li><span class="nowrap">1970: <a href="/wiki/David_Hemery" title="David Hemery">David Hemery</a> (GBR)</span></li> 
+          <li><span class="nowrap">1973: <a href="/wiki/Berwyn_Price" title="Berwyn Price">Berwyn Price</a> (GBR)</span></li> 
+          <li><span class="nowrap">1975: <a href="/wiki/Charles_Foster_(hurdler)" title="Charles Foster (hurdler)">Charles Foster</a> (USA)</span></li> 
+          <li><span class="nowrap">1977: <a href="/wiki/Alejandro_Casa%C3%B1as" title="Alejandro Casañas">Alejandro Casañas</a> (CUB)</span></li> 
+          <li><span class="nowrap">1979: <a href="/wiki/Andrey_Prokofyev" title="Andrey Prokofyev">Andrey Prokofyev</a> (URS)</span></li> 
+          <li><span class="nowrap">1981: <a href="/wiki/Larry_Cowling" title="Larry Cowling">Larry Cowling</a> (USA)</span></li> 
+          <li><span class="nowrap">1983: <a href="/wiki/Andrey_Prokofyev" title="Andrey Prokofyev">Andrey Prokofyev</a> (URS)</span></li> 
+          <li><span class="nowrap">1985: <a class="mw-selflink selflink">Cletus Clark</a> (USA)</span></li> 
+          <li><span class="nowrap">1987: <a href="/wiki/Jon_Ridgeon" title="Jon Ridgeon">Jon Ridgeon</a> (GBR)</span></li> 
+          <li><span class="nowrap">1989: <a href="/wiki/Roger_Kingdom" title="Roger Kingdom">Roger Kingdom</a> (USA)</span></li> 
+          <li><span class="nowrap">1991: <a href="/w/index.php?title=Elbert_Ellis&amp;action=edit&amp;redlink=1" class="new" title="Elbert Ellis (page does not exist)">Elbert Ellis</a> (USA)</span></li> 
+          <li><span class="nowrap">1993: <a href="/wiki/Dietmar_Koszewski" title="Dietmar Koszewski">Dietmar Koszewski</a> (GER)</span></li> 
+          <li><span class="nowrap">1995: <a href="/wiki/Jonathan_Nsenga" title="Jonathan Nsenga">Jonathan Nsenga</a> (BEL)</span></li> 
+          <li><span class="nowrap">1997: <a href="/wiki/Andrey_Kislykh" title="Andrey Kislykh">Andrey Kislykh</a> (RUS)</span></li> 
+          <li><span class="nowrap">1999: <a href="/wiki/Terrence_Trammell" title="Terrence Trammell">Terrence Trammell</a> (USA)</span></li> 
+          <li><span class="nowrap">2001: <a href="/wiki/Liu_Xiang_(hurdler)" title="Liu Xiang (hurdler)">Liu Xiang</a> (CHN)</span></li> 
+          <li><span class="nowrap">2003: <a href="/wiki/Anselmo_da_Silva" title="Anselmo da Silva">Anselmo da Silva</a> (BRA)</span></li> 
+          <li><span class="nowrap">2005: <a href="/wiki/Matheus_Facho_Inoc%C3%AAncio" class="mw-redirect" title="Matheus Facho Inocêncio">Matheus Facho Inocêncio</a> (BRA)</span></li> 
+          <li><span class="nowrap">2007: <a href="/wiki/Serhiy_Demydyuk" title="Serhiy Demydyuk">Serhiy Demydyuk</a> (UKR)</span></li> 
+          <li><span class="nowrap">2009: <a href="/w/index.php?title=Yin_Jing&amp;action=edit&amp;redlink=1" class="new" title="Yin Jing (page does not exist)">Yin Jing</a> (CHN)</span></li> 
+          <li><span class="nowrap">2011: <a href="/wiki/Hansle_Parchment" title="Hansle Parchment">Hansle Parchment</a> (JAM)</span></li> 
+          <li><span class="nowrap">2013: <a href="/wiki/Eddie_Lovett" title="Eddie Lovett">Eddie Lovett</a> (ISV)</span></li> 
+          <li><span class="nowrap">2015: <a href="/wiki/Greggmar_Swift" title="Greggmar Swift">Greggmar Swift</a> (BAR)</span></li> 
+          <li><span class="nowrap">2017: <a href="/wiki/Bal%C3%A1zs_Baji" title="Balázs Baji">Balázs Baji</a> (HUN)</span></li>
+         </ul> 
+        </div></td>
+      </tr>
+     </tbody>
+    </table>
+   </div> 
+   <p><br> </p> 
+   <div role="navigation" class="navbox" aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q5131979&amp;#124;Edit_this_at_Wikidata" style="padding:3px">
+    <table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+     <tbody>
+      <tr>
+       <th id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q5131979&amp;#124;Edit_this_at_Wikidata" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q5131979" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/15px-Blue_pencil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png 2x" data-file-width="600" data-file-height="600"></a></th>
+       <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><span class="nowrap"><a href="/wiki/International_Association_of_Athletics_Federations" title="International Association of Athletics Federations">IAAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.iaaf.org/athletes/biographies/athcode=509">509</a></span></span></li>
+         </ul> 
+        </div></td>
+      </tr>
+     </tbody>
+    </table>
+   </div> 
+   <p><br> </p> 
+   <table class="metadata plainlinks stub" role="presentation" style="background:transparent">
+    <tbody>
+     <tr>
+      <td><a href="/wiki/File:Track_and_Field.svg" class="image"><img alt="Stub icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Track_and_Field.svg/50px-Track_and_Field.svg.png" decoding="async" width="50" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Track_and_Field.svg/75px-Track_and_Field.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Track_and_Field.svg/100px-Track_and_Field.svg.png 2x" data-file-width="515" data-file-height="201"></a></td>
+      <td><i>This biographical article about an American hurdler is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="//en.wikipedia.org/w/index.php?title=Cletus_Clark&amp;action=edit">expanding it</a>.</i>
+       <div class="plainlinks hlist navbar mini" style="position: absolute; right: 15

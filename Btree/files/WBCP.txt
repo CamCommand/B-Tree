@@ -1,0 +1,231 @@
+<div id="bodyContent" class="mw-body-content"> 
+ <div id="siteSub" class="noprint">
+  From Wikipedia, the free encyclopedia
+ </div> 
+ <div id="contentSub"></div> 
+ <div id="jump-to-nav"></div> 
+ <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> 
+ <a class="mw-jump-link" href="#p-search">Jump to search</a> 
+ <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+  <div class="mw-parser-output">
+   <table class="infobox vcard" style="width:22em">
+    <caption class="fn org">
+     WBCP
+    </caption>
+    <tbody>
+     <tr>
+      <td colspan="2" style="text-align:center"><a href="/wiki/File:WBCP_1580AM_logo.jpg" class="image"><img alt="WBCP 1580AM logo.jpg" src="//upload.wikimedia.org/wikipedia/en/thumb/9/90/WBCP_1580AM_logo.jpg/220px-WBCP_1580AM_logo.jpg" decoding="async" width="220" height="51" srcset="//upload.wikimedia.org/wikipedia/en/9/90/WBCP_1580AM_logo.jpg 1.5x" data-file-width="282" data-file-height="65"></a></td>
+     </tr>
+     <tr>
+      <th scope="row"><a href="/wiki/City_of_license" title="City of license">City</a></th>
+      <td><a href="/wiki/Urbana,_Illinois" title="Urbana, Illinois">Urbana</a>, <a href="/wiki/Illinois" title="Illinois">Illinois</a></td>
+     </tr>
+     <tr>
+      <th scope="row">Broadcast area</th>
+      <td class="label"><a href="/wiki/Champaign,_Illinois" title="Champaign, Illinois">Champaign, Illinois</a></td>
+     </tr>
+     <tr>
+      <th scope="row">Branding</th>
+      <td>WBCP 1580 AM</td>
+     </tr>
+     <tr class="note">
+      <th scope="row"><a href="/wiki/Slogan" title="Slogan">Slogan</a></th>
+      <td><i>Soul of the Twin Cities </i></td>
+     </tr>
+     <tr>
+      <th scope="row"><a href="/wiki/Frequency" title="Frequency">Frequency</a></th>
+      <td>1580 <a href="/wiki/KHz" class="mw-redirect" title="KHz">kHz</a></td>
+     </tr>
+     <tr>
+      <th scope="row">First air date</th>
+      <td>1948</td>
+     </tr>
+     <tr>
+      <th scope="row"><a href="/wiki/Radio_format" title="Radio format">Format</a></th>
+      <td class="category"><a href="/wiki/Urban_Adult_Contemporary" class="mw-redirect" title="Urban Adult Contemporary">Urban Adult Contemporary</a></td>
+     </tr>
+     <tr>
+      <th scope="row"><a href="/wiki/Power_rating" title="Power rating">Power</a></th>
+      <td>135 <a href="/wiki/Watt" title="Watt">watts</a> (day)<br>6 watts (night)</td>
+     </tr>
+     <tr>
+      <th scope="row"><a href="/wiki/List_of_North_American_broadcast_station_classes" title="List of North American broadcast station classes">Class</a></th>
+      <td class="category">D</td>
+     </tr>
+     <tr>
+      <th scope="row"><a href="/wiki/Facility_ID" title="Facility ID">Facility ID</a></th>
+      <td>71211</td>
+     </tr>
+     <tr>
+      <th scope="row">Former callsigns</th>
+      <td>WJTX, WCCR, WKID</td>
+     </tr>
+     <tr>
+      <th scope="row">Owner</th>
+      <td>P &amp; C Enterprises Inc.</td>
+     </tr>
+     <tr>
+      <th scope="row">Website</th>
+      <td><a rel="nofollow" class="external text" href="http://www.wbcp1580.com/">wbcp1580.com</a></td>
+     </tr>
+    </tbody>
+   </table> 
+   <p><b>WBCP</b> (1580 <a href="/wiki/AM_broadcasting" title="AM broadcasting">AM</a>) is a <a href="/wiki/Radio_station" class="mw-redirect" title="Radio station">radio station</a> broadcasting an <a href="/wiki/Urban_Adult_Contemporary" class="mw-redirect" title="Urban Adult Contemporary">Urban Adult Contemporary</a> music format. It is licensed to <a href="/wiki/Urbana,_Illinois" title="Urbana, Illinois">Urbana, Illinois</a> and broadcasts to the <a href="/wiki/Champaign,_Illinois" title="Champaign, Illinois">Champaign, Illinois</a> area. The 1580 frequency was established as a daytime only operation in 1948 as WKID. Call letters were later changed to WCCR in 1969, WJTX in 1984, and WBCP in 1990. The station is currently owned by P &amp; C Enterprises, Inc. Despite being the only Black owned station East of the Mississippi River and its solid signal throughout the Champaign area, WBCP has the distinction of being the radio station with the lowest daytime power of any licensed AM station in the USA. WBCP has expanding rapidly in the Gospel Music realm. With the release of The <a href="/w/index.php?title=Lady_Lynn_Live_Gospel_Show&amp;action=edit&amp;redlink=1" class="new" title="Lady Lynn Live Gospel Show (page does not exist)">Lady Lynn Live Gospel Show</a> (WBCP current Station Manager-Lynn White, Gospel Music has grown the station listener ship tremendously.The genre of Gospel is played weekly on The Gospel Review Monday-Friday with local Gospel Pastors, spinning Gospel Music. WBCP Radio has also a strong listener-ship in Old Skool Music R &amp; B with <a href="/w/index.php?title=DJ_Smooth_%22T&amp;action=edit&amp;redlink=1" class="new" title="DJ Smooth &quot;T (page does not exist)">DJ Smooth "T</a>", <a href="/w/index.php?title=Jazz-DJ-One&amp;action=edit&amp;redlink=1" class="new" title="Jazz-DJ-One (page does not exist)">Jazz-DJ-One</a>, and Blues-DJ <a href="/w/index.php?title=Mighty_Dog&amp;action=edit&amp;redlink=1" class="new" title="Mighty Dog (page does not exist)">Mighty Dog</a>. WBCP Radio was nominated for a <a href="/wiki/Stellar_Award" class="mw-redirect" title="Stellar Award">Stellar Award</a> in Small Market in 2016. WBCP host the synidicated Michael Baisden Show in the afternoons.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> </p> 
+   <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=WBCP&amp;action=edit&amp;section=1" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <div class="reflist" style="list-style-type: decimal;"> 
+    <div class="mw-references-wrap">
+     <ol class="references"> 
+      <li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><span class="url"><a rel="nofollow" class="external text" href="http://radio-timetraveller.blogspot.com/2010/08/mediumwave-oddities-transmitter-power.html">radio-timetraveller Mediumwave Oddities - Transmitter Power</a></span></span> </li> 
+     </ol>
+    </div>
+   </div> 
+   <h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=WBCP&amp;action=edit&amp;section=2" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <ul>
+    <li><a rel="nofollow" class="external text" href="http://www.wbcp1580.com">WBCP Website</a></li> 
+    <li><a rel="nofollow" class="external text" href="https://www.facebook.com/WBCP-1580AM-99535083589/">WBCP 1580 AM Facebook</a></li> 
+    <li><a rel="nofollow" class="external text" href="https://transition.fcc.gov/fcc-bin/amq?call=WBCP">Query the FCC's AM station database for WBCP</a></li> 
+    <li><a rel="nofollow" class="external text" href="https://radio-locator.com/info/WBCP-AM">Radio-Locator Information on WBCP</a></li> 
+    <li><a rel="nofollow" class="external text" href="https://www1.arbitron.com/sip/displaySip.do?surveyID=SP19&amp;band=am&amp;callLetter=WBCP">Query Nielsen Audio's AM station database for WBCP</a></li>
+   </ul> 
+   <div role="navigation" class="navbox" aria-labelledby="Radio_stations_in_the_Champaign-Urbana,_Illinois_market" style="padding:3px">
+    <table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+     <tbody>
+      <tr>
+       <th scope="col" class="navbox-title" colspan="2">
+        <div class="plainlinks hlist navbar mini">
+         <ul>
+          <li class="nv-view"><a href="/wiki/Template:Champaign_Radio" title="Template:Champaign Radio"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+          <li class="nv-talk"><a href="/wiki/Template_talk:Champaign_Radio" title="Template talk:Champaign Radio"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+          <li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Champaign_Radio&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+         </ul>
+        </div>
+        <div id="Radio_stations_in_the_Champaign-Urbana,_Illinois_market" style="font-size:114%;margin:0 4em">
+         Radio stations in the 
+         <a href="/wiki/Champaign%E2%80%93Urbana_Metropolitan_Area" class="mw-redirect" title="Champaign–Urbana Metropolitan Area">Champaign-Urbana</a>, 
+         <a href="/wiki/Illinois" title="Illinois">Illinois</a> market
+        </div></th>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%">By <a href="/wiki/AM_broadcasting" title="AM broadcasting">AM</a> <a href="/wiki/Frequency" title="Frequency">frequency</a></th>
+       <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><a href="/wiki/WILL_(AM)" class="mw-redirect" title="WILL (AM)">580</a></li> 
+          <li><a href="/wiki/WDWS" title="WDWS">1400</a></li> 
+          <li><a href="/wiki/WKJR" title="WKJR">1460</a></li> 
+          <li><a href="/wiki/WDAN" title="WDAN">1490</a></li> 
+          <li><a class="mw-selflink selflink">1580</a></li>
+         </ul> 
+        </div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%">By <a href="/wiki/FM_broadcasting" title="FM broadcasting">FM</a> <a href="/wiki/Frequency" title="Frequency">frequency</a></th>
+       <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><a href="/wiki/W202CF" class="mw-redirect" title="W202CF">88.3</a></li> 
+          <li><a href="/wiki/WPCD" title="WPCD">88.7</a></li> 
+          <li><a href="/wiki/WGNJ" title="WGNJ">89.3</a></li> 
+          <li><a href="/wiki/WEFT" title="WEFT">90.1</a></li> 
+          <li><a href="/wiki/WILL-FM" class="mw-redirect" title="WILL-FM">90.9</a></li> 
+          <li><a href="/wiki/WBGL" title="WBGL">91.7</a></li> 
+          <li><a href="/wiki/W221CK" class="mw-redirect" title="W221CK">92.1</a></li> 
+          <li><a href="/wiki/WREE" title="WREE">92.5</a></li> 
+          <li><a href="/wiki/WSJK" title="WSJK">93.5</a></li> 
+          <li><a href="/wiki/WLRW" title="WLRW">94.5</a></li> 
+          <li><a href="/wiki/WJEK" title="WJEK">95.3</a></li> 
+          <li><a href="/w/index.php?title=WLHF-LP&amp;action=edit&amp;redlink=1" class="new" title="WLHF-LP (page does not exist)">95.7</a></li> 
+          <li><a href="/wiki/WQQB" title="WQQB">96.1</a></li> 
+          <li><a href="/wiki/WHMS-FM" title="WHMS-FM">97.5</a></li> 
+          <li><a href="/wiki/W250BL" class="mw-redirect" title="W250BL">97.9</a></li> 
+          <li><a href="/wiki/WEXG" title="WEXG">98.3</a></li> 
+          <li><a href="/wiki/WYXY" title="WYXY">99.1</a></li> 
+          <li><a href="/wiki/W259BG" class="mw-redirect" title="W259BG">99.7</a></li> 
+          <li><a href="/wiki/WIXY" title="WIXY">100.3</a></li> 
+          <li><a href="/wiki/W266AF" class="mw-redirect" title="W266AF">101.1</a></li> 
+          <li><a href="/wiki/WDNL" title="WDNL">102.1</a></li> 
+          <li><a href="/wiki/WGNN" title="WGNN">102.5</a></li> 
+          <li><a href="/wiki/WKZS" title="WKZS">103.3</a> (CP)</li> 
+          <li><a href="/wiki/W280DE" class="mw-redirect" title="W280DE">103.9</a></li> 
+          <li><a href="/wiki/WRFU-LP" title="WRFU-LP">104.5</a></li> 
+          <li><a href="/wiki/WPXN_(FM)" title="WPXN (FM)">104.9</a></li> 
+          <li><a href="/wiki/WCZQ" title="WCZQ">105.5</a></li> 
+          <li><a href="/wiki/WGKC" title="WGKC">105.9</a></li> 
+          <li><a href="/wiki/WPGU" title="WPGU">107.1</a></li> 
+          <li><a href="/wiki/WKIO" title="WKIO">107.9</a></li>
+         </ul> 
+        </div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%">By <a href="/wiki/Call_signs_in_North_America" title="Call signs in North America">callsign</a></th>
+       <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><a href="/wiki/W202CF" class="mw-redirect" title="W202CF">W202CF</a></li> 
+          <li><a class="mw-selflink selflink">WBCP</a></li> 
+          <li><a href="/wiki/WBGL" title="WBGL">WBGL</a></li> 
+          <li><a href="/wiki/WCZQ" title="WCZQ">WCZQ</a></li> 
+          <li><a href="/wiki/WDAN" title="WDAN">WDAN</a></li> 
+          <li><a href="/wiki/WDNL" title="WDNL">WDNL</a></li> 
+          <li><a href="/wiki/WDWS" title="WDWS">WDWS</a></li> 
+          <li><a href="/wiki/WEFT" title="WEFT">WEFT</a></li> 
+          <li><a href="/wiki/WEXG" title="WEXG">WEXG</a></li> 
+          <li><a href="/wiki/WGKC" title="WGKC">WGKC</a></li> 
+          <li><a href="/wiki/WGNJ" title="WGNJ">WGNJ</a></li> 
+          <li><a href="/wiki/WGNN" title="WGNN">WGNN</a> <small>(+W280DE)</small></li> 
+          <li><a href="/wiki/WHMS-FM" title="WHMS-FM">WHMS-FM</a></li> 
+          <li><a href="/wiki/WILL_(AM)" class="mw-redirect" title="WILL (AM)">WILL</a></li> 
+          <li><a href="/wiki/WILL-FM" class="mw-redirect" title="WILL-FM">WILL-FM</a> <small>(+W266AF)</small></li> 
+          <li><a href="/wiki/WIXY" title="WIXY">WIXY</a> <small>(+W211CK +W259BG)</small></li> 
+          <li><a href="/wiki/WJEK" title="WJEK">WJEK</a></li> 
+          <li><a href="/wiki/WKIO" title="WKIO">WKIO</a></li> 
+          <li><a href="/wiki/WKJR" title="WKJR">WKJR</a></li> 
+          <li><a href="/wiki/WKZS" title="WKZS">WKZS</a></li> 
+          <li><a href="/w/index.php?title=WLHF-LP&amp;action=edit&amp;redlink=1" class="new" title="WLHF-LP (page does not exist)">WLHF-LP</a></li> 
+          <li><a href="/wiki/WLRW" title="WLRW">WLRW</a></li> 
+          <li><a href="/wiki/WPCD" title="WPCD">WPCD</a></li> 
+          <li><a href="/wiki/WPGU" title="WPGU">WPGU</a></li> 
+          <li><a href="/wiki/WPXN_(FM)" title="WPXN (FM)">WPXN</a></li> 
+          <li><a href="/wiki/WQQB" title="WQQB">WQQB</a></li> 
+          <li><a href="/wiki/WREE" title="WREE">WREE</a></li> 
+          <li><a href="/wiki/WRFU-LP" title="WRFU-LP">WRFU-LP</a></li> 
+          <li><a href="/wiki/WSJK" title="WSJK">WSJK</a></li> 
+          <li><a href="/wiki/WYXY" title="WYXY">WYXY</a></li>
+         </ul> 
+        </div></td>
+      </tr>
+      <tr>
+       <td class="navbox-abovebelow" colspan="2">
+        <div> 
+         <dl>
+          <dt>
+           Nearby radio markets
+          </dt> 
+          <dd>
+           <a href="/wiki/Template:Bloomington_IL_Radio" title="Template:Bloomington IL Radio">Bloomington</a>
+          </dd> 
+          <dd>
+           <a href="/wiki/Template:Chicago_Radio" title="Template:Chicago Radio">Chicago</a>
+          </dd> 
+          <dd>
+           <a href="/wiki/Template:Decatur_Radio" title="Template:Decatur Radio">Decatur</a>
+          </dd> 
+          <dd>
+           <a href="/wiki/Template:Kankakee_Radio" title="Template:Kankakee Radio">Kankakee</a>
+          </dd> 
+          <dd>
+           <a href="/wiki/Template:Lafayette_IN_Radio" title="Template:Lafayette IN Radio">Lafayette</a>
+          </dd> 
+          <dd>
+           <a href="/wiki/Template:Springfield_IL_Radio" title="Template:Springfield IL Radio">Springfield</a>
+          </dd> 
+          <dd>
+           <a href="/wiki/Template:Terre_Haute_Radio" title="Template:Terre Haute Radio">Terre Haute</a>
+          </dd>
+         </dl> 
+         <dl>
+          <dt>
+           See also
+          </dt> 
+          <dd>
+           <a href="/wiki/List_of_radio_stations_in_Illinois" title="List of radio stations in Illinois">List of radio stations in Illinoi

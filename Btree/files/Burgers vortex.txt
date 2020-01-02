@@ -1,0 +1,550 @@
+<div id="bodyContent" class="mw-body-content"> 
+ <div id="siteSub" class="noprint">
+  From Wikipedia, the free encyclopedia
+ </div> 
+ <div id="contentSub"></div> 
+ <div id="jump-to-nav"></div> 
+ <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> 
+ <a class="mw-jump-link" href="#p-search">Jump to search</a> 
+ <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+  <div class="mw-parser-output">
+   <p>In <a href="/wiki/Fluid_dynamics" title="Fluid dynamics">fluid dynamics</a>, the <b>Burgers vortex</b> is an exact solution to the <a href="/wiki/Navier%E2%80%93Stokes_equations" title="Navier–Stokes equations">Navier–Stokes equations</a> governing <a href="/wiki/Viscous_flow" class="mw-redirect" title="Viscous flow">viscous flow</a>. The Burgers vortex describes a stationary, <a href="/wiki/Self-similarity" title="Self-similarity">self-similar</a> flow. An inward, radial flow, tends to concentrate <a href="/wiki/Vorticity" title="Vorticity">vorticity</a> in a narrow column around the symmetry axis. At the same time, <a href="/wiki/Viscosity" title="Viscosity">viscous</a> diffusion tends to spread the vorticity. The stationary Burgers vortex arises when the two effects balance. </p>
+   <p>The Burgers vortex, apart from serving as an illustration of the <a href="/wiki/Vortex_stretching" title="Vortex stretching">vortex stretching</a> mechanism, may describe such flows as tornados, where the vorticity is provided by continuous <a href="/wiki/Convection" title="Convection">convection</a>-driven vortex stretching. </p> 
+   <h2><span class="mw-headline" id="Flow_field">Flow field</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Burgers_vortex&amp;action=edit&amp;section=1" title="Edit section: Flow field">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <p>The flow for the Burgers vortex is described in cylindrical <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle (r,z,\varphi )}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <mo stretchy="false">
+           (
+          </mo> 
+          <mi>
+           r
+          </mi> 
+          <mo>
+           ,
+          </mo> 
+          <mi>
+           z
+          </mi> 
+          <mo>
+           ,
+          </mo> 
+          <mi>
+           φ
+           <!-- φ -->
+          </mi> 
+          <mo stretchy="false">
+           )
+          </mo> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle (r,z,\varphi )}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ee54e56b1845246fd42e7167e12dced3e48f107b" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:7.534ex; height:2.843ex;" alt="{\displaystyle (r,z,\varphi )}"></span> coordinates. Assuming axial symmetry (no <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \varphi }"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <mi>
+           φ
+           <!-- φ -->
+          </mi> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle \varphi }
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/33ee699558d09cf9d653f6351f9fda0b2f4aaa3e" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:1.52ex; height:2.176ex;" alt="\varphi "></span>-dependence), the <a href="/wiki/Vorticity_equation" title="Vorticity equation">vorticity equation</a> is solved by the flow field: </p> 
+   <dl>
+    <dd>
+     <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+       <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle v_{r}=-{\frac {1}{2}}\alpha r,}"> 
+        <semantics> 
+         <mrow class="MJX-TeXAtom-ORD"> 
+          <mstyle displaystyle="true" scriptlevel="0"> 
+           <msub> 
+            <mi>
+             v
+            </mi> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mi>
+              r
+             </mi> 
+            </mrow> 
+           </msub> 
+           <mo>
+            =
+           </mo> 
+           <mo>
+            −
+            <!-- − -->
+           </mo> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mfrac> 
+             <mn>
+              1
+             </mn> 
+             <mn>
+              2
+             </mn> 
+            </mfrac> 
+           </mrow> 
+           <mi>
+            α
+            <!-- α -->
+           </mi> 
+           <mi>
+            r
+           </mi> 
+           <mo>
+            ,
+           </mo> 
+          </mstyle> 
+         </mrow> 
+         <annotation encoding="application/x-tex">
+          {\displaystyle v_{r}=-{\frac {1}{2}}\alpha r,}
+         </annotation> 
+        </semantics> 
+       </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fada8e19fb2901fb2e2233b6853748db1872ffa4" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.838ex; width:12.19ex; height:5.176ex;" alt="{\displaystyle v_{r}=-{\frac {1}{2}}\alpha r,}"></span>
+    </dd> 
+    <dd>
+     <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+       <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle v_{z}=\alpha z,}"> 
+        <semantics> 
+         <mrow class="MJX-TeXAtom-ORD"> 
+          <mstyle displaystyle="true" scriptlevel="0"> 
+           <msub> 
+            <mi>
+             v
+            </mi> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mi>
+              z
+             </mi> 
+            </mrow> 
+           </msub> 
+           <mo>
+            =
+           </mo> 
+           <mi>
+            α
+            <!-- α -->
+           </mi> 
+           <mi>
+            z
+           </mi> 
+           <mo>
+            ,
+           </mo> 
+          </mstyle> 
+         </mrow> 
+         <annotation encoding="application/x-tex">
+          {\displaystyle v_{z}=\alpha z,}
+         </annotation> 
+        </semantics> 
+       </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0804da5b44aec2cb2a6bc8dc9537857b020c19f0" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:8.45ex; height:2.009ex;" alt="{\displaystyle v_{z}=\alpha z,}"></span>
+    </dd> 
+    <dd>
+     <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+       <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle v_{\varphi }=v_{\varphi }(r),}"> 
+        <semantics> 
+         <mrow class="MJX-TeXAtom-ORD"> 
+          <mstyle displaystyle="true" scriptlevel="0"> 
+           <msub> 
+            <mi>
+             v
+            </mi> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mi>
+              φ
+              <!-- φ -->
+             </mi> 
+            </mrow> 
+           </msub> 
+           <mo>
+            =
+           </mo> 
+           <msub> 
+            <mi>
+             v
+            </mi> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mi>
+              φ
+              <!-- φ -->
+             </mi> 
+            </mrow> 
+           </msub> 
+           <mo stretchy="false">
+            (
+           </mo> 
+           <mi>
+            r
+           </mi> 
+           <mo stretchy="false">
+            )
+           </mo> 
+           <mo>
+            ,
+           </mo> 
+          </mstyle> 
+         </mrow> 
+         <annotation encoding="application/x-tex">
+          {\displaystyle v_{\varphi }=v_{\varphi }(r),}
+         </annotation> 
+        </semantics> 
+       </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/86e12c032e50a6ef26834ba8fdbd38e17b1a2181" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:11.473ex; height:3.009ex;" alt="{\displaystyle v_{\varphi }=v_{\varphi }(r),}"></span>
+    </dd>
+   </dl> 
+   <p>where <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \alpha >0}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <mi>
+           α
+           <!-- α -->
+          </mi> 
+          <mo>
+           &gt;
+          </mo> 
+          <mn>
+           0
+          </mn> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle \alpha &gt;0}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/edd4f784b6e8bb68fa774213ceacbab2d97825dc" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:5.749ex; height:2.176ex;" alt="\alpha >0"></span> is a constant. The flow satisfies the <a href="/wiki/Continuity_equation" title="Continuity equation">continuity equation</a> by the two first of the above equations. The vorticity equation only gives a non-trivial component in the <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle z}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <mi>
+           z
+          </mi> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle z}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/bf368e72c009decd9b6686ee84a375632e11de98" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.088ex; height:1.676ex;" alt="z"></span>-direction, where it becomes </p> 
+   <dl>
+    <dd>
+     <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+       <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle {\frac {D\zeta }{Dt}}=\zeta {\frac {\partial v_{z}}{\partial z}}+\nu \,\nabla ^{2}\zeta ,}"> 
+        <semantics> 
+         <mrow class="MJX-TeXAtom-ORD"> 
+          <mstyle displaystyle="true" scriptlevel="0"> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mfrac> 
+             <mrow> 
+              <mi>
+               D
+              </mi> 
+              <mi>
+               ζ
+               <!-- ζ -->
+              </mi> 
+             </mrow> 
+             <mrow> 
+              <mi>
+               D
+              </mi> 
+              <mi>
+               t
+              </mi> 
+             </mrow> 
+            </mfrac> 
+           </mrow> 
+           <mo>
+            =
+           </mo> 
+           <mi>
+            ζ
+            <!-- ζ -->
+           </mi> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mfrac> 
+             <mrow> 
+              <mi mathvariant="normal">
+               ∂
+               <!-- ∂ -->
+              </mi> 
+              <msub> 
+               <mi>
+                v
+               </mi> 
+               <mrow class="MJX-TeXAtom-ORD"> 
+                <mi>
+                 z
+                </mi> 
+               </mrow> 
+              </msub> 
+             </mrow> 
+             <mrow> 
+              <mi mathvariant="normal">
+               ∂
+               <!-- ∂ -->
+              </mi> 
+              <mi>
+               z
+              </mi> 
+             </mrow> 
+            </mfrac> 
+           </mrow> 
+           <mo>
+            +
+           </mo> 
+           <mi>
+            ν
+            <!-- ν -->
+           </mi> 
+           <mspace width="thinmathspace" /> 
+           <msup> 
+            <mi mathvariant="normal">
+             ∇
+             <!-- ∇ -->
+            </mi> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mn>
+              2
+             </mn> 
+            </mrow> 
+           </msup> 
+           <mi>
+            ζ
+            <!-- ζ -->
+           </mi> 
+           <mo>
+            ,
+           </mo> 
+          </mstyle> 
+         </mrow> 
+         <annotation encoding="application/x-tex">
+          {\displaystyle {\frac {D\zeta }{Dt}}=\zeta {\frac {\partial v_{z}}{\partial z}}+\nu \,\nabla ^{2}\zeta ,}
+         </annotation> 
+        </semantics> 
+       </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c7217c7fe7f8b36299617ba378befc91d01db8a5" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.005ex; width:21.524ex; height:5.509ex;" alt="{\displaystyle {\frac {D\zeta }{Dt}}=\zeta {\frac {\partial v_{z}}{\partial z}}+\nu \,\nabla ^{2}\zeta ,}"></span>
+    </dd>
+   </dl> 
+   <p>where <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle D/Dt}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <mi>
+           D
+          </mi> 
+          <mrow class="MJX-TeXAtom-ORD"> 
+           <mo>
+            /
+           </mo> 
+          </mrow> 
+          <mi>
+           D
+          </mi> 
+          <mi>
+           t
+          </mi> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle D/Dt}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/55bd3a0737b30e1149ed294a1c36fc09121e1dab" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:5.851ex; height:2.843ex;" alt="D/Dt"></span> denotes the <a href="/wiki/Convective_derivative" class="mw-redirect" title="Convective derivative">convective derivative</a> and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \nu }"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <mi>
+           ν
+           <!-- ν -->
+          </mi> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle \nu }
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c15bbbb971240cf328aba572178f091684585468" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.232ex; height:1.676ex;" alt="\nu "></span> the kinematic viscosity. Note that the first term on the right-hand side is the vortex stretching term which tends to <i>amplify</i> the vorticity, while the second term, due to viscosity, attenuates (or rather spreads) vorticity. The solution can be found as </p> 
+   <dl>
+    <dd>
+     <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+       <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \zeta =\zeta _{0}\exp \left(-{\frac {\alpha r^{2}}{4\nu }}\right),}"> 
+        <semantics> 
+         <mrow class="MJX-TeXAtom-ORD"> 
+          <mstyle displaystyle="true" scriptlevel="0"> 
+           <mi>
+            ζ
+            <!-- ζ -->
+           </mi> 
+           <mo>
+            =
+           </mo> 
+           <msub> 
+            <mi>
+             ζ
+             <!-- ζ -->
+            </mi> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mn>
+              0
+             </mn> 
+            </mrow> 
+           </msub> 
+           <mi>
+            exp
+           </mi> 
+           <mo>
+            ⁡
+            <!-- ⁡ -->
+           </mo> 
+           <mrow> 
+            <mo>
+             (
+            </mo> 
+            <mrow> 
+             <mo>
+              −
+              <!-- − -->
+             </mo> 
+             <mrow class="MJX-TeXAtom-ORD"> 
+              <mfrac> 
+               <mrow> 
+                <mi>
+                 α
+                 <!-- α -->
+                </mi> 
+                <msup> 
+                 <mi>
+                  r
+                 </mi> 
+                 <mrow class="MJX-TeXAtom-ORD"> 
+                  <mn>
+                   2
+                  </mn> 
+                 </mrow> 
+                </msup> 
+               </mrow> 
+               <mrow> 
+                <mn>
+                 4
+                </mn> 
+                <mi>
+                 ν
+                 <!-- ν -->
+                </mi> 
+               </mrow> 
+              </mfrac> 
+             </mrow> 
+            </mrow> 
+            <mo>
+             )
+            </mo> 
+           </mrow> 
+           <mo>
+            ,
+           </mo> 
+          </mstyle> 
+         </mrow> 
+         <annotation encoding="application/x-tex">
+          {\displaystyle \zeta =\zeta _{0}\exp \left(-{\frac {\alpha r^{2}}{4\nu }}\right),}
+         </annotation> 
+        </semantics> 
+       </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7823bdab8c4417c2311e10a106db86cb7597d85a" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.505ex; width:20.509ex; height:6.343ex;" alt="{\displaystyle \zeta =\zeta _{0}\exp \left(-{\frac {\alpha r^{2}}{4\nu }}\right),}"></span>
+    </dd>
+   </dl> 
+   <p>where <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \zeta _{0}}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <msub> 
+           <mi>
+            ζ
+            <!-- ζ -->
+           </mi> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mn>
+             0
+            </mn> 
+           </mrow> 
+          </msub> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle \zeta _{0}}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/acfae32a71eb98bc09c043232740ca8bc5b94452" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:2.073ex; height:2.509ex;" alt="\zeta _{0}"></span> is a constant.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> The vorticity is thus distributed as a <a href="/wiki/Gaussian_function" title="Gaussian function">Gaussian</a> of width </p> 
+   <dl>
+    <dd>
+     <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+       <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle R=2{\sqrt {\frac {\nu }{\alpha }}}.}"> 
+        <semantics> 
+         <mrow class="MJX-TeXAtom-ORD"> 
+          <mstyle displaystyle="true" scriptlevel="0"> 
+           <mi>
+            R
+           </mi> 
+           <mo>
+            =
+           </mo> 
+           <mn>
+            2
+           </mn> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <msqrt> 
+             <mfrac> 
+              <mi>
+               ν
+               <!-- ν -->
+              </mi> 
+              <mi>
+               α
+               <!-- α -->
+              </mi> 
+             </mfrac> 
+            </msqrt> 
+           </mrow> 
+           <mo>
+            .
+           </mo> 
+          </mstyle> 
+         </mrow> 
+         <annotation encoding="application/x-tex">
+          {\displaystyle R=2{\sqrt {\frac {\nu }{\alpha }}}.}
+         </annotation> 
+        </semantics> 
+       </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e697d406ae0822a9980890c0e1a109bb25916c6f" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.671ex; width:11.319ex; height:6.343ex;" alt="{\displaystyle R=2{\sqrt {\frac {\nu }{\alpha }}}.}"></span>
+    </dd>
+   </dl> 
+   <h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Burgers_vortex&amp;action=edit&amp;section=2" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <ul>
+    <li><a href="/wiki/Kerr%E2%80%93Dold_vortex" title="Kerr–Dold vortex">Kerr–Dold vortex</a></li>
+   </ul> 
+   <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Burgers_vortex&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <div class="reflist" style="list-style-type: decimal;"> 
+    <div class="mw-references-wrap">
+     <ol class="references"> 
+      <li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation book">Lautrup, Benny (2011). <i>Physics of Continuous Matter</i> (2nd ed.). CRC Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-1420077001" title="Special:BookSources/978-1420077001"><bdi>978-1420077001</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Physics+of+Continuous+Matter&amp;rft.edition=2nd&amp;rft.pub=CRC+Press&amp;rft.date=2011&amp;rft.isbn=978-1420077001&amp;rft.aulast=Lautrup&amp;rft.aufirst=Benny&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABurgers+vortex" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span> </li> 
+     </ol>
+    </div>
+   </div> 
+   <!-- 
+NewPP limit report
+Parsed by mw1270
+Cached time: 20190423181827
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0

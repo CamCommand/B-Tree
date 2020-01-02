@@ -1,0 +1,520 @@
+<div id="bodyContent" class="mw-body-content"> 
+ <div id="siteSub" class="noprint">
+  From Wikipedia, the free encyclopedia
+ </div> 
+ <div id="contentSub"></div> 
+ <div id="jump-to-nav"></div> 
+ <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> 
+ <a class="mw-jump-link" href="#p-search">Jump to search</a> 
+ <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+  <div class="mw-parser-output">
+   <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">
+    Village in West Bengal, India
+   </div>
+   <table class="infobox geography vcard" style="width:22em;width:23em">
+    <tbody>
+     <tr>
+      <th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size:1.25em; white-space:nowrap">
+       <div style="display:inline" class="fn org">
+        Bankapasi
+       </div></th>
+     </tr>
+     <tr>
+      <td colspan="2" style="text-align:center;background-color:#cddeff; font-weight:bold;">
+       <div class="category">
+        Village
+       </div></td>
+     </tr>
+     <tr class="mergedtoprow">
+      <td colspan="2" style="text-align:center">
+       <div class="switcher-container">
+        <div class="center">
+         <div style="width:250px;float:none;clear:both;margin-left:auto;margin-right:auto">
+          <div style="width:250px;padding:0">
+           <div style="position:relative;width:250px">
+            <a href="/wiki/File:India_West_Bengal_adm_location_map.svg" class="image" title="Bankapasi is located in West Bengal"><img alt="Bankapasi is located in West Bengal" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/India_West_Bengal_adm_location_map.svg/250px-India_West_Bengal_adm_location_map.svg.png" decoding="async" width="250" height="381" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/India_West_Bengal_adm_location_map.svg/375px-India_West_Bengal_adm_location_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f2/India_West_Bengal_adm_location_map.svg/500px-India_West_Bengal_adm_location_map.svg.png 2x" data-file-width="1039" data-file-height="1585"></a>
+            <div style="position:absolute;top:62.72%;left:55.62%">
+             <div style="position:absolute;left:-3px;top:-3px;line-height:0">
+              <img alt="Bankapasi" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/6px-Red_pog.svg.png" decoding="async" title="Bankapasi" width="6" height="6" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/9px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64">
+             </div>
+             <div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;left:4px;text-align:left">
+              <div style="display:inline;padding:1px;float:left">
+               Bankapasi
+              </div>
+             </div>
+            </div>
+           </div>
+           <div>
+            Location in West Bengal, India
+           </div>
+           <span class="switcher-label" style="display:none">Show map of West Bengal</span>
+          </div>
+         </div>
+        </div>
+        <div class="center">
+         <div style="width:250px;float:none;clear:both;margin-left:auto;margin-right:auto">
+          <div style="width:250px;padding:0">
+           <div style="position:relative;width:250px">
+            <a href="/wiki/File:India_location_map.svg" class="image" title="Bankapasi is located in India"><img alt="Bankapasi is located in India" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dc/India_location_map.svg/250px-India_location_map.svg.png" decoding="async" width="250" height="269" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dc/India_location_map.svg/375px-India_location_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dc/India_location_map.svg/500px-India_location_map.svg.png 2x" data-file-width="1500" data-file-height="1615"></a>
+            <div style="position:absolute;top:42.849%;left:65.773%">
+             <div style="position:absolute;left:-3px;top:-3px;line-height:0">
+              <img alt="Bankapasi" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/6px-Red_pog.svg.png" decoding="async" title="Bankapasi" width="6" height="6" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/9px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64">
+             </div>
+             <div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;left:4px;text-align:left">
+              <div style="display:inline;padding:1px;float:left">
+               Bankapasi
+              </div>
+             </div>
+            </div>
+           </div>
+           <div>
+            Bankapasi (India)
+           </div>
+           <span class="switcher-label" style="display:none">Show map of India</span>
+          </div>
+         </div>
+        </div>
+       </div></td>
+     </tr>
+     <tr class="mergedbottomrow">
+      <td colspan="2" style="text-align:center">Coordinates: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Bankapasi&amp;params=23.5741_N_88.0473_E_type:city(6250)_region:IN-WB"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">23°34′27″N</span> <span class="longitude">88°02′50″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">23.5741°N 88.0473°E</span><span style="display:none">﻿ / <span class="geo">23.5741; 88.0473</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Bankapasi&amp;params=23.5741_N_88.0473_E_type:city(6250)_region:IN-WB"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">23°34′27″N</span> <span class="longitude">88°02′50″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">23.5741°N 88.0473°E</span><span style="display:none">﻿ / <span class="geo">23.5741; 88.0473</span></span></span></a></span></span></span></td>
+     </tr>
+     <tr class="mergedtoprow">
+      <th scope="row">Country</th>
+      <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/23px-Flag_of_India.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/35px-Flag_of_India.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/45px-Flag_of_India.svg.png 2x" data-file-width="1350" data-file-height="900">&nbsp;</span><a href="/wiki/India" title="India">India</a></td>
+     </tr>
+     <tr class="mergedrow">
+      <th scope="row"><a href="/wiki/States_and_territories_of_India" class="mw-redirect" title="States and territories of India">State</a></th>
+      <td><a href="/wiki/West_Bengal" title="West Bengal">West Bengal</a></td>
+     </tr>
+     <tr class="mergedrow">
+      <th scope="row"><a href="/wiki/List_of_districts_of_India" class="mw-redirect" title="List of districts of India">District</a></th>
+      <td><a href="/wiki/Purba_Bardhaman_district" title="Purba Bardhaman district">Purba Bardhaman</a></td>
+     </tr>
+     <tr class="mergedtoprow">
+      <th colspan="2" style="text-align:center;text-align:left">Population 
+       <div style="font-weight:normal;display:inline;">
+        (2011)
+       </div></th>
+     </tr>
+     <tr class="mergedrow">
+      <th scope="row">&nbsp;•&nbsp;Total</th>
+      <td>6,250</td>
+     </tr>
+     <tr class="mergedtoprow">
+      <th colspan="2" style="text-align:center;text-align:left">Languages
+       <div style="font-weight:normal;display:inline;"></div></th>
+     </tr>
+     <tr class="mergedrow">
+      <th scope="row">&nbsp;•&nbsp;Official</th>
+      <td><a href="/wiki/Bengali_language" title="Bengali language">Bengali</a>, <a href="/wiki/English_language" title="English language">English</a></td>
+     </tr>
+     <tr class="mergedtoprow">
+      <th scope="row"><a href="/wiki/Time_zone" title="Time zone">Time zone</a></th>
+      <td><a href="/wiki/UTC%2B5:30" class="mw-redirect" title="UTC+5:30">UTC+5:30</a> (<a href="/wiki/Indian_Standard_Time" title="Indian Standard Time">IST</a>)</td>
+     </tr>
+     <tr class="mergedrow">
+      <th scope="row"><a href="/wiki/Lok_Sabha" title="Lok Sabha">Lok Sabha</a> constituency</th>
+      <td><a href="/wiki/Bolpur_(Lok_Sabha_constituency)" title="Bolpur (Lok Sabha constituency)">Bolpur</a></td>
+     </tr>
+     <tr class="mergedrow">
+      <th scope="row"><a href="/wiki/Vidhan_Sabha" class="mw-redirect" title="Vidhan Sabha">Vidhan Sabha</a> constituency</th>
+      <td><a href="/wiki/Mangalkot_(Vidhan_Sabha_constituency)" title="Mangalkot (Vidhan Sabha constituency)">Mangalkot</a></td>
+     </tr>
+     <tr class="mergedtoprow">
+      <th scope="row">Website</th>
+      <td><span class="url"><a rel="nofollow" class="external text" href="http://purbabardhaman.gov.in/">purbabardhaman<wbr>.gov<wbr>.in</a></span></td>
+     </tr>
+    </tbody>
+   </table> 
+   <p><b>Bankapasi</b> is a village in <a href="/wiki/Mongalkote_(community_development_block)" title="Mongalkote (community development block)">Mogalkote</a> <a href="/wiki/Community_development_block_in_India" title="Community development block in India">CD block</a> in <a href="/wiki/Katwa_subdivision" title="Katwa subdivision">Katwa subdivision</a> of <a href="/wiki/Purba_Bardhaman_district" title="Purba Bardhaman district">Purba Bardhaman district</a> in the <a href="/wiki/India" title="India">Indian</a> <a href="/wiki/States_and_territories_of_India" class="mw-redirect" title="States and territories of India">state</a> of <a href="/wiki/West_Bengal" title="West Bengal">West Bengal</a>. </p> 
+   <div id="toc" class="toc">
+    <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+    <div class="toctitle" lang="en" dir="ltr">
+     <h2>Contents</h2>
+     <span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+    </div> 
+    <ul> 
+     <li class="toclevel-1 tocsection-1"><a href="#Geography"><span class="tocnumber">1</span> <span class="toctext">Geography</span></a> 
+      <ul> 
+       <li class="toclevel-2 tocsection-2"><a href="#Location"><span class="tocnumber">1.1</span> <span class="toctext">Location</span></a></li> 
+       <li class="toclevel-2 tocsection-3"><a href="#Urbanisation"><span class="tocnumber">1.2</span> <span class="toctext">Urbanisation</span></a></li> 
+      </ul> </li> 
+     <li class="toclevel-1 tocsection-4"><a href="#Demographics"><span class="tocnumber">2</span> <span class="toctext">Demographics</span></a></li> 
+     <li class="toclevel-1 tocsection-5"><a href="#Economy"><span class="tocnumber">3</span> <span class="toctext">Economy</span></a></li> 
+     <li class="toclevel-1 tocsection-6"><a href="#Transport"><span class="tocnumber">4</span> <span class="toctext">Transport</span></a></li> 
+     <li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li> 
+    </ul> 
+   </div> 
+   <h2><span class="mw-headline" id="Geography">Geography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bankapasi&amp;action=edit&amp;section=1" title="Edit section: Geography">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <table class="wikitable floatleft" style="margin: 0.5em 1.4em 1.3em 0; border: 1px solid darkgray;"> 
+    <tbody>
+     <tr> 
+      <td style="width: 370px;">
+       <div class="mw-graph" style="min-width:370px;min-height:250px">
+        <img class="mw-graph-img" src="/api/rest_v1/page/graph/png/Bankapasi/0/fd8638afbc9a4a47aec35fdd43c0f744843630fc.png">
+       </div> 
+       <div style="text-align: left; direction: ltr; font-size:70%; color:grey">
+        <a class="mw-kartographer-maplink" data-mw="interface" data-style="osm-intl" href="/wiki/Special:Map/11/23.6/88.05/en" data-zoom="11" data-lat="23.6" data-lon="88.05" data-overlays="[&quot;_e0e7f75341e80b2b484c1a838f72fd8d2383651e&quot;]">[Full screen]</a>
+       </div> </td>
+     </tr> 
+     <tr> 
+      <td style="width: 370px; font-size:90%"><b>Cities and towns in the Katwa subdivision of Purba Bardhaman district</b><br>M: municipal city/ town, CT: census town, R: rural/ urban centre, H: historical place/ religious and/ or cultural centre, C: craft centre.<br>Owing to space constraints in the small map, the actual locations in a larger map may vary slightly </td>
+     </tr>
+    </tbody>
+   </table> 
+   <h3><span class="mw-headline" id="Location">Location</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bankapasi&amp;action=edit&amp;section=2" title="Edit section: Location">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+   <p>Bankapasi is located at <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Bankapasi&amp;params=23.5741_N_88.0473_E_"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">23°34′27″N</span> <span class="longitude">88°02′50″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">23.5741°N 88.0473°E</span><span style="display:none">﻿ / <span class="geo">23.5741; 88.0473</span></span></span></a></span>. </p> 
+   <h3><span class="mw-headline" id="Urbanisation">Urbanisation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bankapasi&amp;action=edit&amp;section=3" title="Edit section: Urbanisation">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+   <p>88.44% of the population of Katwa subdivision live in the rural areas. Only 11.56% of the population live in the urban areas.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>The map alongside presents some of the notable locations in the subdivision. All places marked in the map are linked in the larger full screen map. </p> 
+   <h2><span class="mw-headline" id="Demographics">Demographics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bankapasi&amp;action=edit&amp;section=4" title="Edit section: Demographics">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <p>As per the <a href="/wiki/2011_Census_of_India" title="2011 Census of India">2011 Census of India</a>, Bankapasi had a total population of 6,250 of which 3,160 (51%) were males and 3,090 (49%) were females. Population below 6 years was 710. The total number of literates in Bankapasi was 3,770 (68.05% of the population over 6 years).<sup id="cite_ref-census2011_2-0" class="reference"><a href="#cite_note-census2011-2">[2]</a></sup> </p> 
+   <h2><span class="mw-headline" id="Economy">Economy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bankapasi&amp;action=edit&amp;section=5" title="Edit section: Economy">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <p>Bankapasi, Ketugram, Palita, Mohanpur, Kamarpara and Parhat are important centres of <a href="/wiki/Sholapith" title="Sholapith">sholapith</a> craft.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> </p>
+   <p>In a report by the Micro, Small and Medium Industries Development Institute, it says that the degree of excellence of products like, <a href="/wiki/Sholapith" title="Sholapith">sola</a> craft of Bankapasi and <a href="/wiki/Dhokra" title="Dhokra">dhokra</a> of <a href="/wiki/Dwariapur,_Bardhaman" title="Dwariapur, Bardhaman">Dwariapur</a> is now acceptable to European markets.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> </p> 
+   <h2><span class="mw-headline" id="Transport">Transport</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bankapasi&amp;action=edit&amp;section=6" title="Edit section: Transport">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <p>Bankapasi is on <a href="/wiki/State_Highway_14_(West_Bengal)" title="State Highway 14 (West Bengal)">State Highway 14</a> {Bardhaman-Katwa Road).<sup id="cite_ref-google_5-0" class="reference"><a href="#cite_note-google-5">[5]</a></sup> </p>
+   <p>There is a station at Bankapasi on the <a href="/wiki/Bardhaman-Katwa_line" class="mw-redirect" title="Bardhaman-Katwa line">Bardhaman-Katwa line</a>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> </p> 
+   <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bankapasi&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <div class="reflist" style="list-style-type: decimal;"> 
+    <div class="mw-references-wrap">
+     <ol class="references"> 
+      <li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://wbpspm.gov.in/publications/District%20Statistical%20Handbook">"District Statistical Handbook 2014 Bardhaman"</a>. <i>Table 2.2</i>. Department of Statistics and Programme Implementation, Government of West Bengal<span class="reference-accessdate">. Retrieved <span class="nowrap">25 January</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Table+2.2&amp;rft.atitle=District+Statistical+Handbook+2014+Bardhaman&amp;rft_id=http%3A%2F%2Fwbpspm.gov.in%2Fpublications%2FDistrict%2520Statistical%2520Handbook&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABankapasi" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span> </li> 
+      <li id="cite_note-census2011-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-census2011_2-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://censusindia.gov.in/pca/cdb_pca_census/Houselisting-housing-WB.html">"C.D. Block Wise Primary Census Abstract Data(PCA)"</a>. <i>2011 census: West Bengal – District-wise CD Blocks</i>. Registrar General and Census Commissioner, India<span class="reference-accessdate">. Retrieved <span class="nowrap">18 February</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=2011+census%3A+West+Bengal+%E2%80%93+District-wise+CD+Blocks&amp;rft.atitle=C.D.+Block+Wise+Primary+Census+Abstract+Data%28PCA%29&amp;rft_id=http%3A%2F%2Fcensusindia.gov.in%2Fpca%2Fcdb_pca_census%2FHouselisting-housing-WB.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABankapasi" class="Z3988"></span>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+      <li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Chattopadhyay, Akkori, <i>Bardhaman Jelar Itihas O Lok Sanskriti</i> (History and Folk lore of Bardhaman District.), <span class="languageicon">(in Bengali)</span>, Vol II, pages 474-476, Radical Impression. 
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/81-85459-36-3" title="Special:BookSources/81-85459-36-3">81-85459-36-3</a></span> </li> 
+      <li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.dcmsme.gov.in/dips/BURDWAN.pdf">"Brief Industrial Profile of Burdwan district"</a> <span class="cs1-format">(PDF)</span>. <i>Pages 14-15&nbsp;: 3.10 Industrial Scenario</i>. MSME Development Institute, Kolkata<span class="reference-accessdate">. Retrieved <span class="nowrap">17 February</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Pages+14-15+%3A+3.10+Industrial+Scenario&amp;rft.atitle=Brief+Industrial+Profile+of+Burdwan+district&amp;rft_id=http%3A%2F%2Fwww.dcmsme.gov.in%2Fdips%2FBURDWAN.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABankapasi" class="Z3988"></span>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+      <li id="cite_note-google-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-google_5-0">^</a></b></span> <span class="reference-text">Google maps</span> </li> 
+      <li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://indiarailinfo.com/train/-train-barddhaman-katwa-local-35017/18610/2/1932">"35017 Bardhaman-Katwa local"</a>. <i>Time Table</i>. India Rail Info<span class="reference-accessdate">. Retrieved <span class="nowrap">18 February</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Time+Table&amp;rft.atitle=35017+Bardhaman-Katwa+local&amp;rft_id=https%3A%2F%2Findiarailinfo.com%2Ftrain%2F-train-barddhaman-katwa-local-35017%2F18610%2F2%2F1932&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABankapasi" class="Z3988"></span>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+     </ol>
+    </div>
+   </div> 
+   <div role="navigation" class="navbox" aria-labelledby="Cities,_towns_and_locations_in_Purba_Bardhaman_district" style="padding:3px">
+    <table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+     <tbody>
+      <tr>
+       <th scope="col" class="navbox-title" colspan="2">
+        <div class="plainlinks hlist navbar mini">
+         <ul>
+          <li class="nv-view"><a href="/wiki/Template:Purba_Bardhaman_District" title="Template:Purba Bardhaman District"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+          <li class="nv-talk"><a href="/wiki/Template_talk:Purba_Bardhaman_District" title="Template talk:Purba Bardhaman District"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+          <li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Purba_Bardhaman_District&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+         </ul>
+        </div>
+        <div id="Cities,_towns_and_locations_in_Purba_Bardhaman_district" style="font-size:114%;margin:0 4em">
+         Cities, towns and locations in 
+         <a href="/wiki/Purba_Bardhaman_district" title="Purba Bardhaman district">Purba Bardhaman district</a>
+        </div></th>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_cities_in_West_Bengal_by_population" title="List of cities in West Bengal by population">Cities</a>, <a href="/wiki/Municipality" title="Municipality">municipal</a><br> and <a href="/wiki/Census_town" title="Census town">census</a> towns</th>
+       <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"></div>
+        <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+         <tbody>
+          <tr>
+           <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Bardhaman_Sadar_North_subdivision" title="Bardhaman Sadar North subdivision">Bardhaman Sadar North subdivision</a></th>
+           <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+            <div style="padding:0em 0.25em"> 
+             <ul>
+              <li><a href="/wiki/Bahir_Sarbamangala" title="Bahir Sarbamangala">Bahir Sarbamangala</a></li> 
+              <li><a href="/wiki/Bardhaman" title="Bardhaman">Bardhaman</a></li> 
+              <li><a href="/wiki/Bud_Bud" title="Bud Bud">Bud Bud</a></li> 
+              <li><a href="/wiki/Gangpur" title="Gangpur">Gangpur</a></li> 
+              <li><a href="/wiki/Goda,_Purba_Bardhaman" title="Goda, Purba Bardhaman">Goda</a></li> 
+              <li><a href="/wiki/Guskara" title="Guskara">Guskara</a></li> 
+              <li><a href="/wiki/Mirzapur,_Bardhaman" title="Mirzapur, Bardhaman">Mirzapur</a></li> 
+              <li><a href="/wiki/Nari,_Purba_Bardhaman" title="Nari, Purba Bardhaman">Nari</a></li> 
+              <li><a href="/wiki/Raipur,_Purba_Bardhaman" title="Raipur, Purba Bardhaman">Raipur</a></li> 
+              <li><a href="/wiki/Sukdal" title="Sukdal">Sukdal</a></li>
+             </ul> 
+            </div></td>
+          </tr>
+          <tr>
+           <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Bardhaman_Sadar_South_subdivision" title="Bardhaman Sadar South subdivision">Bardhaman Sadar South subdivision</a></th>
+           <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+            <div style="padding:0em 0.25em"> 
+             <ul>
+              <li><a href="/wiki/Alipur,_Purba_Bardhaman" title="Alipur, Purba Bardhaman">Alipur</a></li> 
+              <li><a href="/wiki/Memari" title="Memari">Memari</a></li> 
+              <li><a href="/wiki/Seharabazar" title="Seharabazar">Seharabazar</a></li>
+             </ul> 
+            </div></td>
+          </tr>
+          <tr>
+           <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Kalna_subdivision" title="Kalna subdivision">Kalna subdivision</a></th>
+           <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+            <div style="padding:0em 0.25em"> 
+             <ul>
+              <li><a href="/wiki/Dhatrigram" title="Dhatrigram">Dhatrigram</a></li> 
+              <li><a href="/wiki/Gopinathpur,_West_Bengal" title="Gopinathpur, West Bengal">Gopinathpur</a></li> 
+              <li><a href="/wiki/Hatsimla" title="Hatsimla">Hatsimla</a></li> 
+              <li><a href="/wiki/Jaluidanga" title="Jaluidanga">Jaluidanga</a></li> 
+              <li><a href="/wiki/Kalna,_India" title="Kalna, India">Kalna</a></li> 
+              <li><a href="/wiki/Nasratpur" title="Nasratpur">Nasratpur</a></li> 
+              <li><a href="/wiki/Piarinagar" title="Piarinagar">Piarinagar</a></li> 
+              <li><a href="/wiki/Srirampur,_Burdwan" title="Srirampur, Burdwan">Srirampur</a></li> 
+              <li><a href="/wiki/Shashpur" title="Shashpur">Shashpur</a></li> 
+              <li><a href="/wiki/Uttar_Goara" title="Uttar Goara">Uttar Goara</a></li>
+             </ul> 
+            </div></td>
+          </tr>
+          <tr>
+           <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Katwa_subdivision" title="Katwa subdivision">Katwa subdivision</a></th>
+           <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+            <div style="padding:0em 0.25em"> 
+             <ul>
+              <li><a href="/wiki/Dainhat" title="Dainhat">Dainhat</a></li> 
+              <li><a href="/wiki/Katwa" title="Katwa">Katwa</a></li> 
+              <li><a href="/wiki/Panuhat" title="Panuhat">Panuhat</a></li>
+             </ul> 
+            </div></td>
+          </tr>
+         </tbody>
+        </table>
+        <div></div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%">Locations<br><small>other than cities and towns</small></th>
+       <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"></div>
+        <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+         <tbody>
+          <tr>
+           <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Bardhaman_Sadar_North_subdivision" title="Bardhaman Sadar North subdivision">Bardhaman Sadar North subdivision</a></th>
+           <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+            <div style="padding:0em 0.25em"> 
+             <ul>
+              <li><a href="/wiki/Adrahati" title="Adrahati">Adrahati</a></li> 
+              <li><a href="/wiki/Amrargar" title="Amrargar">Amrargar</a></li> 
+              <li><a href="/wiki/Ausgram,_Bardhaman" title="Ausgram, Bardhaman">Ausgram</a></li> 
+              <li><a href="/wiki/Balgona" title="Balgona">Balgona</a></li> 
+              <li><a href="/wiki/Bamshore" title="Bamshore">Bamshore</a></li> 
+              <li><a href="/wiki/Barshul" title="Barshul">Barshul</a></li> 
+              <li><a href="/wiki/Bharatpur,_Purba_Bardhaman" title="Bharatpur, Purba Bardhaman">Bharatpur</a></li> 
+              <li><a href="/wiki/Bhatar" title="Bhatar">Bhatar</a></li> 
+              <li><a href="/wiki/Bononabagram" title="Bononabagram">Bononabagram</a></li> 
+              <li><a href="/wiki/Channa_village" title="Channa village">Channa</a></li> 
+              <li><a href="/wiki/Dwariapur,_Bardhaman" title="Dwariapur, Bardhaman">Dwariapur</a></li> 
+              <li><a href="/wiki/Galsi,_Bardhaman" title="Galsi, Bardhaman">Galsi</a></li> 
+              <li><a href="/wiki/Hatgobindapur" title="Hatgobindapur">Hatgobindapur</a></li> 
+              <li><a href="/wiki/Jamtara,_Bardhaman" title="Jamtara, Bardhaman">Jamtara</a></li> 
+              <li><a href="/wiki/Kasba,_Bardhaman" title="Kasba, Bardhaman">Kasba</a></li> 
+              <li><a href="/wiki/Kamnara" title="Kamnara">Kamnara</a></li> 
+              <li><a href="/wiki/Kandorsona" title="Kandorsona">Kandorsona</a></li> 
+              <li><a href="/wiki/Kurmun" title="Kurmun">Kurmun</a></li> 
+              <li><a href="/wiki/Mankar" title="Mankar">Mankar</a></li> 
+              <li><a href="/wiki/Palitpur" title="Palitpur">Palitpur</a></li> 
+              <li><a href="/wiki/Panchkula_(West_Bengal)" title="Panchkula (West Bengal)">Panchkula</a></li> 
+              <li><a href="/wiki/Palsit" title="Palsit">Palsit</a></li> 
+              <li><a href="/wiki/Pursha" title="Pursha">Pursha</a></li> 
+              <li><a href="/wiki/Randiha" title="Randiha">Randiha</a></li> 
+              <li><a href="/wiki/Saktigarh,_Bardhaman" title="Saktigarh, Bardhaman">Saktigarh</a></li>
+             </ul> 
+            </div></td>
+          </tr>
+          <tr>
+           <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Bardhaman_Sadar_South_subdivision" title="Bardhaman Sadar South subdivision">Bardhaman Sadar South subdivision</a></th>
+           <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+            <div style="padding:0em 0.25em"> 
+             <ul>
+              <li><a href="/wiki/Badulia" title="Badulia">Badulia</a></li> 
+              <li><a href="/wiki/Debipur,_West_Bengal" title="Debipur, West Bengal">Debipur</a></li> 
+              <li><a href="/wiki/Gotan" title="Gotan">Gotan</a></li> 
+              <li><a href="/wiki/Jamalpur,_Bardhaman" title="Jamalpur, Bardhaman">Jamalpur</a></li> 
+              <li><a href="/wiki/Kamargoria" title="Kamargoria">Kamargoria</a></li> 
+              <li><a href="/wiki/Khandaghosh" title="Khandaghosh">Khandaghosh</a></li> 
+              <li><a href="/wiki/Kumirkola" title="Kumirkola">Kumirkola</a></li> 
+              <li><a href="/wiki/Madhabdihi" title="Madhabdihi">Madhabdihi</a></li> 
+              <li><a href="/wiki/Maheshbati" title="Maheshbati">Maheshbati</a></li> 
+              <li><a href="/wiki/Masagram" title="Masagram">Masagram</a></li> 
+              <li><a href="/wiki/Muidhara" title="Muidhara">Muidhara</a></li> 
+              <li><a href="/wiki/Nabagram,_Bardhaman" title="Nabagram, Bardhaman">Nabagram</a></li> 
+              <li><a href="/wiki/Pahalanpur" title="Pahalanpur">Pahalanpur</a></li> 
+              <li><a href="/wiki/Paharhati" title="Paharhati">Paharhati</a></li> 
+              <li><a href="/wiki/Raina,_Bardhaman" title="Raina, Bardhaman">Raina</a></li> 
+              <li><a href="/wiki/Rasulpur,_Bardhaman" title="Rasulpur, Bardhaman">Rasulpur</a></li> 
+              <li><a href="/wiki/Sagrai" title="Sagrai">Sagrai</a></li> 
+              <li><a href="/wiki/Sankari,_West_Bengal" title="Sankari, West Bengal">Sankari</a></li> 
+              <li><a href="/wiki/Shyamsundar" title="Shyamsundar">Shyamsundar</a></li> 
+              <li><a href="/wiki/Uchalan" title="Uchalan">Uchalan</a></li> 
+              <li><a href="/wiki/Ukhrid" title="Ukhrid">Ukhrid</a></li>
+             </ul> 
+            </div></td>
+          </tr>
+          <tr>
+           <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Kalna_subdivision" title="Kalna subdivision">Kalna subdivision</a></th>
+           <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+            <div style="padding:0em 0.25em"> 
+             <ul>
+              <li><a href="/wiki/Atgharia" title="Atgharia">Atgharia</a></li> 
+              <li><a href="/wiki/Badla,_Purba_Bardhaman" title="Badla, Purba Bardhaman">Badla</a></li> 
+              <li><a href="/wiki/Baidyapur" title="Baidyapur">Baidyapur</a></li> 
+              <li><a href="/wiki/Hasanhati" title="Hasanhati">Hasanhati</a></li> 
+              <li><a href="/wiki/Kaigram" title="Kaigram">Kaigram</a></li> 
+              <li><a href="/wiki/Kusumgram" title="Kusumgram">Kusumgram</a></li> 
+              <li><a href="/wiki/Majida" title="Majida">Majida</a></li> 
+              <li><a href="/wiki/Monteswar" title="Monteswar">Monteswar</a></li> 
+              <li><a href="/wiki/Nadanghat" title="Nadanghat">Nadanghat</a></li> 
+              <li><a href="/wiki/Parulia,_Bardhaman" title="Parulia, Bardhaman">Parulia</a></li> 
+              <li><a href="/wiki/Patuli" title="Patuli">Patuli</a></li> 
+              <li><a href="/wiki/Purbasthali" title="Purbasthali">Purbasthali</a></li> 
+              <li><a href="/wiki/Putsuri" title="Putsuri">Putsuri</a></li> 
+              <li><a href="/wiki/Rangapara,_Kalna" title="Rangapara, Kalna">Rangapara</a></li> 
+              <li><a href="/wiki/Routhgram" title="Routhgram">Routhgram</a></li> 
+              <li><a href="/wiki/Samudragarh" title="Samudragarh">Samudragarh</a></li> 
+              <li><a href="/wiki/Singarkone" title="Singarkone">Singarkone</a></li> 
+              <li><a href="/wiki/Udaypur,_Kalna" title="Udaypur, Kalna">Udaypur</a></li>
+             </ul> 
+            </div></td>
+          </tr>
+          <tr>
+           <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Katwa_subdivision" title="Katwa subdivision">Katwa subdivision</a></th>
+           <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+            <div style="padding:0em 0.25em"> 
+             <ul>
+              <li><a class="mw-selflink selflink">Bankapasi</a></li> 
+              <li><a href="/wiki/Chandrapur,_Bardhaman" title="Chandrapur, Bardhaman">Chandrapur</a></li> 
+              <li><a href="/wiki/Gangatikuri" title="Gangatikuri">Gangatikuri</a></li> 
+              <li><a href="/wiki/Gonna_Serandi" title="Gonna Serandi">Gonna Serandi</a></li> 
+              <li><a href="/wiki/Jajigram" title="Jajigram">Jajigram</a></li> 
+              <li><a href="/wiki/Jhamatpur" title="Jhamatpur">Jhamatpur</a></li> 
+              <li><a href="/wiki/Kandra,_Bardhaman" title="Kandra, Bardhaman">Kandra</a></li> 
+              <li><a href="/wiki/Karui" title="Karui">Karui</a></li> 
+              <li><a href="/wiki/Ketugram" title="Ketugram">Ketugram</a></li> 
+              <li><a href="/wiki/Kogram" title="Kogram">Kogram</a></li> 
+              <li><a href="/wiki/Kshirgram" title="Kshirgram">Kshirgram</a></li> 
+              <li><a href="/wiki/Kuara,_West_Bengal" title="Kuara, West Bengal">Kuara</a></li> 
+              <li><a href="/wiki/Majigram" title="Majigram">Majigram</a></li> 
+              <li><a href="/wiki/Mongalkote" title="Mongalkote">Mongalkote</a></li> 
+              <li><a href="/wiki/Nutanhat" title="Nutanhat">Nutanhat</a></li> 
+              <li><a href="/wiki/Singot" title="Singot">Singot</a></li> 
+              <li><a href="/wiki/Sribati" title="Sribati">Sribati</a></li> 
+              <li><a href="/wiki/Srikhanda" title="Srikhanda">Srikhanda</a></li> 
+              <li><a href="/wiki/Uddharanpur" title="Uddharanpur">Uddharanpur</a></li>
+             </ul> 
+            </div></td>
+          </tr>
+         </tbody>
+        </table>
+        <div></div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%">Related topics</th>
+       <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><img alt="Template" src="//upload.wikimedia.org/wikipedia/en/thumb/5/5c/Symbol_template_class.svg/16px-Symbol_template_class.svg.png" decoding="async" title="Template" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/5/5c/Symbol_template_class.svg/23px-Symbol_template_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/5/5c/Symbol_template_class.svg/31px-Symbol_template_class.svg.png 2x" data-file-width="180" data-file-height="185"> <a href="/wiki/Template:Purba_Bardhaman_topics" title="Template:Purba Bardhaman topics">Purba Bardhaman topics</a></li> 
+          <li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" decoding="async" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31"> <a href="/wiki/Category:People_from_Purba_Bardhaman_district" title="Category:People from Purba Bardhaman district">People from Purba Bardhaman district</a></li> 
+          <li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" decoding="async" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31"> <a href="/wiki/Category:Villages_in_Purba_Bardhaman_district" title="Category:Villages in Purba Bardhaman district">Villages in Purba Bardhaman district</a></li>
+         </ul> 
+        </div></td>
+      </tr>
+      <tr>
+       <td class="navbox-abovebelow" colspan="2">
+        <div>
+         <div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px"> 
+          <ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold"> 
+           <li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/BengaliScriptKo.svg/32px-BengaliScriptKo.svg.png" decoding="async" width="32" height="25" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/BengaliScriptKo.svg/48px-BengaliScriptKo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/BengaliScriptKo.svg/64px-BengaliScriptKo.svg.png 2x" data-file-width="64" data-file-height="50"></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:West_Bengal" title="Portal:West Bengal">West Bengal portal</a></span></li>
+          </ul>
+         </div>
+        </div></td>
+      </tr>
+     </tbody>
+    </table>
+   </div> 
+   <div role="navigation" class="navbox" aria-labelledby="Craft_centres_in_West_Bengal" style="padding:3px">
+    <table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+     <tbody>
+      <tr>
+       <th scope="col" class="navbox-title" colspan="2">
+        <div class="plainlinks hlist navbar mini">
+         <ul>
+          <li class="nv-view"><a href="/wiki/Template:Craft_centres_in_West_Bengal" title="Template:Craft centres in West Bengal"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+          <li class="nv-talk"><a href="/wiki/Template_talk:Craft_centres_in_West_Bengal" title="Template talk:Craft centres in West Bengal"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+          <li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Craft_centres_in_West_Bengal&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+         </ul>
+        </div>
+        <div id="Craft_centres_in_West_Bengal" style="font-size:114%;margin:0 4em">
+         <a href="/wiki/Craft" title="Craft">Craft</a> centres in 
+         <a href="/wiki/West_Bengal" title="West Bengal">West Bengal</a>
+        </div></th>
+      </tr>
+      <tr>
+       <td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><a href="/wiki/Bagmundi" class="mw-redirect" title="Bagmundi">Bagmundi</a></li> 
+          <li><a href="/wiki/Begampur,_Hooghly" class="mw-redirect" title="Begampur, Hooghly">Begampur</a></li> 
+          <li><a href="/wiki/Bishnupur,_Bankura" title="Bishnupur, Bankura">Bishnupur</a></li> 
+          <li><a href="/wiki/Dhaniakhali_(community_development_block)" title="Dhaniakhali (community development block)">Dhaniakhali</a></li> 
+          <li><a href="/wiki/Dhatrigram" title="Dhatrigram">Dhatrigram</a></li> 
+          <li><a href="/wiki/Dwariapur,_Bardhaman" title="Dwariapur, Bardhaman">Dwariapur</a></li> 
+          <li><a href="/wiki/Ghurni" title="Ghurni">Ghurni</a></li> 
+          <li><a href="/wiki/Kalna,_Bardhaman" class="mw-redirect" title="Kalna, Bardhaman">Kalna</a></li> 
+          <li><a href="/wiki/Khagra" title="Khagra">Khagra</a></li> 
+          <li><a href="/wiki/Kumortuli" title="Kumortuli">Kumortuli</a></li> 
+          <li><a href="/wiki/Panchla" title="Panchla">Panchla</a></li> 
+          <li><a href="/wiki/Panchmura" title="Panchmura">Panchmura</a></li> 
+          <li><a href="/wiki/Phulia" title="Phulia">Phulia</a></li> 
+          <li><a href="/wiki/Rajbalhat" title="Rajbalhat">Rajbalhat</a></li> 
+          <li><a href="/wiki/Samudragarh" title="Samudragarh">Samudragarh</a></li> 
+          <li><a href="/wiki/Shantipur" title="Shantipur">Shantipur</a></li>
+         </ul> 
+        </div></td>
+      </tr>
+      <tr>
+       <td class="navbox-abovebelow" colspan="2">
+        <div>
+         <a href="/wiki/Template:Culture_of_Bengal" title="Template:Culture of Bengal">Template:Culture of Bengal</a>
+        </div></td>
+      </tr>
+     </tbody>
+    </table>
+   </div> 
+   <!-- 
+NewPP limit report
+Parsed by mw1299
+Cached time: 20190425182323
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 1.340 seconds
+Real time usage: 1.598 seconds
+Preprocessor visited node count: 13957/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 191286/2097152 bytes
+Template argument size: 85603/2097152 bytes
+Highest expansion depth: 20/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 14889/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.640/10.000 seconds
+Lua memory usage: 13.02 MB/50 MB
+--> 
+   <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1500.504      1 -total
+ 51.06%  766.192      1 Template:OSM_Location_map
+ 46.46%  697.088      1 Template:OSM_Location_map/core
+ 29.31%  439.775      1 Template:Graph:Street_map_with_marks
+ 24.29%  364.491      1 Template:Infobox_settlement
+ 23.93%  359.145     21 Template:OSM_Location_map/Labelitem
+ 21.29%  319.477      1 Template:Reflist
+ 14.66%  219.989      1 Template:Infobox
+ 13.61%  204.182    190 Template:If_empty
+ 12.12%  181.915      1 Template:Bn_icon
+--> 
+   <!-- Saved in parser cache with key enwiki:pcache:idhash:60003803-0!canonical and timestamp 20190425182321 and revision id 884665531
+ --> 
+  </div>
+  <noscript>
+   <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+  </noscript>
+ </div> 
+ <div class="printfooter">
+  Retrieved from "
+  <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Bankapasi&amp

@@ -1,0 +1,509 @@
+<div id="bodyContent" class="mw-body-content"> 
+ <div id="siteSub" class="noprint">
+  From Wikipedia, the free encyclopedia
+ </div> 
+ <div id="contentSub"></div> 
+ <div id="jump-to-nav"></div> 
+ <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> 
+ <a class="mw-jump-link" href="#p-search">Jump to search</a> 
+ <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+  <div class="mw-parser-output">
+   <div role="note" class="hatnote navigation-not-searchable">
+    For the town formerly called Washington, in Yolo County, California, see 
+    <a href="/wiki/Broderick,_California" title="Broderick, California">Broderick, California</a>.
+   </div> 
+   <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">
+    census-designated place in California, United States
+   </div>
+   <table class="infobox geography vcard" style="width:22em;width:23em">
+    <tbody>
+     <tr>
+      <th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size:1.25em; white-space:nowrap">
+       <div style="display:inline" class="fn org">
+        Washington
+       </div></th>
+     </tr>
+     <tr>
+      <td colspan="2" style="text-align:center;background-color:#cddeff; font-weight:bold;">
+       <div class="category">
+        <a href="/wiki/Census-designated_place" title="Census-designated place">census-designated place</a>
+       </div></td>
+     </tr>
+     <tr class="mergedtoprow">
+      <td colspan="2" style="text-align:center;font-weight:bold;">Arkamarsan</td>
+     </tr>
+     <tr class="mergedtoprow">
+      <td colspan="2" style="text-align:center"><a href="/wiki/File:Main_Street_in_Washington,CA.jpg" class="image" title="Main Street in Washington"><img alt="Main Street in Washington" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Main_Street_in_Washington%2CCA.jpg/250px-Main_Street_in_Washington%2CCA.jpg" decoding="async" width="250" height="189" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Main_Street_in_Washington%2CCA.jpg/375px-Main_Street_in_Washington%2CCA.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Main_Street_in_Washington%2CCA.jpg/500px-Main_Street_in_Washington%2CCA.jpg 2x" data-file-width="1632" data-file-height="1232"></a>
+       <div style="padding:0.4em 0 0 0;">
+        Main Street in Washington
+       </div></td>
+     </tr>
+     <tr class="mergedtoprow">
+      <td colspan="2" style="text-align:center">
+       <div class="center">
+        <div style="width:250px;float:none;clear:both;margin-left:auto;margin-right:auto">
+         <div style="width:250px;padding:0">
+          <div style="position:relative;width:250px">
+           <a href="/wiki/File:USA_California_location_map.svg" class="image" title="Washington is located in California"><img alt="Washington is located in California" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/USA_California_location_map.svg/250px-USA_California_location_map.svg.png" decoding="async" width="250" height="286" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/USA_California_location_map.svg/375px-USA_California_location_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f9/USA_California_location_map.svg/500px-USA_California_location_map.svg.png 2x" data-file-width="1022" data-file-height="1171"></a>
+           <div style="position:absolute;top:28.693%;left:36.129%">
+            <div style="position:absolute;left:-3px;top:-3px;line-height:0">
+             <img alt="Washington" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/6px-Red_pog.svg.png" decoding="async" title="Washington" width="6" height="6" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/9px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64">
+            </div>
+            <div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;left:4px;text-align:left">
+             <div style="display:inline;padding:1px;float:left">
+              Washington
+             </div>
+            </div>
+           </div>
+          </div>
+          <div>
+           Location within the state of California
+          </div>
+         </div>
+        </div>
+       </div></td>
+     </tr>
+     <tr class="mergedbottomrow">
+      <td colspan="2" style="text-align:center">Coordinates: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Washington,_California&amp;params=39_21_34_N_120_47_53_W_region:US_type:city"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">39°21′34″N</span> <span class="longitude">120°47′53″W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">39.35944°N 120.79806°W</span><span style="display:none">﻿ / <span class="geo">39.35944; -120.79806</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Washington,_California&amp;params=39_21_34_N_120_47_53_W_region:US_type:city"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">39°21′34″N</span> <span class="longitude">120°47′53″W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">39.35944°N 120.79806°W</span><span style="display:none">﻿ / <span class="geo">39.35944; -120.79806</span></span></span></a></span></span></span> <sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></td>
+     </tr>
+     <tr class="mergedtoprow">
+      <th scope="row"><a href="/wiki/List_of_sovereign_states" title="List of sovereign states">Country</a></th>
+      <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650">&nbsp;</span><a href="/wiki/United_States" title="United States">United States</a></td>
+     </tr>
+     <tr class="mergedrow">
+      <th scope="row"><a href="/wiki/U.S._state" title="U.S. state">State</a></th>
+      <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_California.svg/23px-Flag_of_California.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_California.svg/35px-Flag_of_California.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_California.svg/45px-Flag_of_California.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/California" title="California">California</a></td>
+     </tr>
+     <tr class="mergedrow">
+      <th scope="row"><a href="/wiki/List_of_counties_in_California" title="List of counties in California">County</a></th>
+      <td><a href="/wiki/Nevada_County,_California" title="Nevada County, California">Nevada</a></td>
+     </tr>
+     <tr class="mergedtoprow">
+      <th colspan="2" style="text-align:center;text-align:left">Area
+       <div style="font-weight:normal;display:inline;">
+        <sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+       </div></th>
+     </tr>
+     <tr class="mergedrow">
+      <th scope="row">&nbsp;•&nbsp;Total</th>
+      <td>1.899&nbsp;sq&nbsp;mi (4.917&nbsp;km<sup>2</sup>)</td>
+     </tr>
+     <tr class="mergedrow">
+      <th scope="row">&nbsp;•&nbsp;Land</th>
+      <td>1.899&nbsp;sq&nbsp;mi (4.917&nbsp;km<sup>2</sup>)</td>
+     </tr>
+     <tr class="mergedrow">
+      <th scope="row">&nbsp;•&nbsp;Water</th>
+      <td>0&nbsp;sq&nbsp;mi (0&nbsp;km<sup>2</sup>) &nbsp;0%</td>
+     </tr>
+     <tr class="mergedtoprow">
+      <th scope="row">Elevation
+       <div style="font-weight:normal;display:inline;">
+        <sup id="cite_ref-gnis_3-0" class="reference"><a href="#cite_note-gnis-3">[3]</a></sup>
+       </div></th>
+      <td>2,612&nbsp;ft (796&nbsp;m)</td>
+     </tr>
+     <tr class="mergedtoprow">
+      <th colspan="2" style="text-align:center;text-align:left">Population 
+       <div style="font-weight:normal;display:inline;">
+        (
+        <a href="/wiki/United_States_Census,_2010" class="mw-redirect" title="United States Census, 2010">2010</a>)
+       </div></th>
+     </tr>
+     <tr class="mergedrow">
+      <th scope="row">&nbsp;•&nbsp;Total</th>
+      <td>185</td>
+     </tr>
+     <tr class="mergedrow">
+      <th scope="row">&nbsp;•&nbsp;Density</th>
+      <td>97/sq&nbsp;mi (38/km<sup>2</sup>)</td>
+     </tr>
+     <tr class="mergedtoprow">
+      <th scope="row"><a href="/wiki/Time_zone" title="Time zone">Time zone</a></th>
+      <td><a href="/wiki/UTC-8" class="mw-redirect" title="UTC-8">UTC-8</a> (<a href="/wiki/Pacific_Time_Zone" title="Pacific Time Zone">Pacific (PST)</a>)</td>
+     </tr>
+     <tr class="mergedrow">
+      <th scope="row"><span style="white-space:nowrap">&nbsp;•&nbsp;Summer (<a href="/wiki/Daylight_saving_time" title="Daylight saving time">DST</a>)</span></th>
+      <td><a href="/wiki/UTC-7" class="mw-redirect" title="UTC-7">UTC-7</a> (PDT)</td>
+     </tr>
+     <tr class="mergedtoprow">
+      <th scope="row"><a href="/wiki/ZIP_code" class="mw-redirect" title="ZIP code">ZIP codes</a></th>
+      <td class="adr">
+       <div class="postal-code">
+        95986
+       </div></td>
+     </tr>
+     <tr class="mergedrow">
+      <th scope="row"><a href="/wiki/Telephone_numbering_plan" title="Telephone numbering plan">Area code(s)</a></th>
+      <td><a href="/wiki/Area_code_530" title="Area code 530">530</a></td>
+     </tr>
+     <tr class="mergedrow">
+      <th scope="row"><a href="/wiki/Geographic_Names_Information_System" title="Geographic Names Information System">GNIS</a> feature ID</th>
+      <td>2628797</td>
+     </tr>
+    </tbody>
+   </table> 
+   <p><b>Washington</b> (originally, <b>Indiana Camp</b>)<sup id="cite_ref-CGN_4-0" class="reference"><a href="#cite_note-CGN-4">[4]</a></sup> is a <a href="/wiki/Census-designated_place" title="Census-designated place">census-designated place</a> located in <a href="/wiki/Nevada_County,_California" title="Nevada County, California">Nevada County, California</a>.<sup id="cite_ref-gnis_3-1" class="reference"><a href="#cite_note-gnis-3">[3]</a></sup> Washington is located on the banks of the South Fork of The <a href="/wiki/Yuba_River" title="Yuba River">Yuba River</a> and has a population of approximately two hundred people. There is a <a href="/wiki/Hotel" title="Hotel">hotel</a>/<a href="/wiki/Bar_(establishment)" class="mw-redirect" title="Bar (establishment)">bar</a> and <a href="/wiki/Restaurant" title="Restaurant">restaurant</a>, <a href="/wiki/Grocery" class="mw-redirect" title="Grocery">grocery</a> store, a one-room schoolhouse that has educated students continuously for one hundred years, and two trailer park campgrounds. The elevation is 3,652 feet (1,113&nbsp;m). The population was 185 at the 2010 census. </p>
+   <p>The population fluctuates seasonally and the town businesses rely on the tourist trade as the population increases in the summer. It was settled during the <a href="/wiki/California_Gold_Rush" title="California Gold Rush">California Gold Rush</a> in 1849 and produced a large amount of placer gold. Hard rock mines were established soon afterword and were very productive. Washington is the only settlement in the vicinity to have survived to this day. There remains today much evidence of placer <a href="/wiki/Gold_mining" title="Gold mining">gold mining</a>, <a href="/wiki/Hydraulic_mining" title="Hydraulic mining">hydraulic mining</a>, and <a href="/wiki/Underground_mining_(hard_rock)" title="Underground mining (hard rock)">hard rock mining</a>. During the mining period there were a large number of <a href="/wiki/Overseas_Chinese" title="Overseas Chinese">Chinese</a> living there. </p>
+   <p>Washington's biggest businesses are its two campsites, Gene's Pine Aire Campground and the River Rest, which has been in business since the 1960s through different owners. toghost.com Sara Ross-Samko] is making a feature length <a href="/wiki/Documentary_film" title="Documentary film">documentary</a> portrait of the town. </p>
+   <p>The ZIP Code is 95986. The community is inside <a href="/wiki/Area_code_530" title="Area code 530">area code 530</a>. </p> 
+   <div id="toc" class="toc">
+    <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+    <div class="toctitle" lang="en" dir="ltr">
+     <h2>Contents</h2>
+     <span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+    </div> 
+    <ul> 
+     <li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li> 
+     <li class="toclevel-1 tocsection-2"><a href="#Geography"><span class="tocnumber">2</span> <span class="toctext">Geography</span></a></li> 
+     <li class="toclevel-1 tocsection-3"><a href="#Demographics"><span class="tocnumber">3</span> <span class="toctext">Demographics</span></a></li> 
+     <li class="toclevel-1 tocsection-4"><a href="#Politics"><span class="tocnumber">4</span> <span class="toctext">Politics</span></a></li> 
+     <li class="toclevel-1 tocsection-5"><a href="#Notable_townspeople"><span class="tocnumber">5</span> <span class="toctext">Notable townspeople</span></a></li> 
+     <li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li> 
+     <li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li> 
+    </ul> 
+   </div> 
+   <h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Washington,_California&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <p>The place was founded in 1849 by miners from <a href="/wiki/Indiana" title="Indiana">Indiana</a>, and was originally named Indiana Camp.<sup id="cite_ref-CGN_4-1" class="reference"><a href="#cite_note-CGN-4">[4]</a></sup> It was renamed Washington in 1850.<sup id="cite_ref-CGN_4-2" class="reference"><a href="#cite_note-CGN-4">[4]</a></sup> </p>
+   <p>The Washington South Yuba post office operated here from 1852 to 1854.<sup id="cite_ref-CGN_4-3" class="reference"><a href="#cite_note-CGN-4">[4]</a></sup> The Washington post office opened in 1862.<sup id="cite_ref-CGN_4-4" class="reference"><a href="#cite_note-CGN-4">[4]</a></sup> </p> 
+   <h2><span class="mw-headline" id="Geography">Geography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Washington,_California&amp;action=edit&amp;section=2" title="Edit section: Geography">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <p>According to the <a href="/wiki/United_States_Census_Bureau" title="United States Census Bureau">United States Census Bureau</a>, the CDP covers an area of 1.9 square miles (4.9&nbsp;km<sup>2</sup>), all of it land. </p> 
+   <h2><span class="mw-headline" id="Demographics">Demographics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Washington,_California&amp;action=edit&amp;section=3" title="Edit section: Demographics">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <p>The <a href="/wiki/2010_United_States_Census" title="2010 United States Census">2010 United States Census</a><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> reported that Washington had a population of 185. The <a href="/wiki/Population_density" title="Population density">population density</a> was 97.4 people per square mile (37.6/km²). The racial makeup of Washington was 166 (89.7%) <a href="/wiki/White_(U.S._Census)" class="mw-redirect" title="White (U.S. Census)">White</a>, 1 (0.5%) <a href="/wiki/African_American_(U.S._Census)" class="mw-redirect" title="African American (U.S. Census)">African American</a>, 4 (2.2%) <a href="/wiki/Native_American_(U.S._Census)" class="mw-redirect" title="Native American (U.S. Census)">Native American</a>, 0 (0.0%) <a href="/wiki/Asian_(U.S._Census)" class="mw-redirect" title="Asian (U.S. Census)">Asian</a>, 0 (0.0%) <a href="/wiki/Pacific_Islander_(U.S._Census)" class="mw-redirect" title="Pacific Islander (U.S. Census)">Pacific Islander</a>, 4 (2.2%) from <a href="/wiki/Race_(United_States_Census)" class="mw-redirect" title="Race (United States Census)">other races</a>, and 10 (5.4%) from two or more races. <a href="/wiki/Hispanic_(U.S._Census)" class="mw-redirect" title="Hispanic (U.S. Census)">Hispanic</a> or <a href="/wiki/Latino_(U.S._Census)" class="mw-redirect" title="Latino (U.S. Census)">Latino</a> of any race were 11 persons (5.9%). </p>
+   <p>The Census reported that 169 people (91.4% of the population) lived in households, 16 (8.6%) lived in non-institutionalized group quarters, and 0 (0%) were institutionalized. </p>
+   <p>There were 90 households, out of which 11 (12.2%) had children under the age of 18 living in them, 21 (23.3%) were <a href="/wiki/Marriage" title="Marriage">opposite-sex married couples</a> living together, 5 (5.6%) had a female householder with no husband present, 9 (10.0%) had a male householder with no wife present. There were 12 (13.3%) <a href="/wiki/POSSLQ" title="POSSLQ">unmarried opposite-sex partnerships</a>, and 1 (1.1%) <a href="/wiki/Same-sex_partnerships" class="mw-redirect" title="Same-sex partnerships">same-sex married couples or partnerships</a>. 43 households (47.8%) were made up of individuals and 10 (11.1%) had someone living alone who was 65 years of age or older. The average household size was 1.88. There were 35 <a href="/wiki/Family_(U.S._Census)" class="mw-redirect" title="Family (U.S. Census)">families</a> (38.9% of all households); the average family size was 2.43. </p>
+   <p>The population age was spread out with 25 people (13.5%) under the age of 18, 12 people (6.5%) aged 18 to 24, 31 people (16.8%) aged 25 to 44, 86 people (46.5%) aged 45 to 64, and 31 people (16.8%) who were 65 years of age or older. The median age was 51.7 years. For every 100 females, there were 160.6 males. For every 100 females age 18 and over, there were 138.8 males. </p>
+   <p>There were 131 housing units at an average density of 69.0 per square mile (26.6/km²), of which 55 (61.1%) were owner-occupied, and 35 (38.9%) were occupied by renters. The homeowner vacancy rate was 0%; the rental vacancy rate was 2.8%. 110 people (59.5% of the population) lived in owner-occupied housing units and 59 people (31.9%) lived in rental housing units. </p> 
+   <h2><span class="mw-headline" id="Politics">Politics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Washington,_California&amp;action=edit&amp;section=4" title="Edit section: Politics">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <p>In the <a href="/wiki/California_State_Legislature" title="California State Legislature">state legislature</a>, Washington is in <a href="/wiki/California%27s_1st_State_Senate_district" title="California's 1st State Senate district">the 1st Senate District</a>, seat currently <a href="/wiki/Casual_vacancy" title="Casual vacancy">vacant</a>,<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> and <a href="/wiki/California%27s_1st_State_Assembly_district" title="California's 1st State Assembly district">the 1st Assembly District</a>, represented by <a href="/wiki/California_Republican_Party" title="California Republican Party">Republican</a> <a href="/wiki/Brian_Dahle" title="Brian Dahle">Brian Dahle</a>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> </p>
+   <p>Federally, Washington is in <a href="/wiki/California%27s_1st_congressional_district" title="California's 1st congressional district">California's 1st congressional district</a>, represented by <a href="/wiki/Republican_Party_(United_States)" title="Republican Party (United States)">Republican</a> <a href="/wiki/Doug_LaMalfa" title="Doug LaMalfa">Doug LaMalfa</a>.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> </p> 
+   <h2><span class="mw-headline" id="Notable_townspeople">Notable townspeople</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Washington,_California&amp;action=edit&amp;section=5" title="Edit section: Notable townspeople">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <ul>
+    <li><a href="/wiki/Alice_Fong_Yu" title="Alice Fong Yu">Alice Fong Yu</a></li>
+   </ul> 
+   <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Washington,_California&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <div class="reflist" style="list-style-type: decimal;"> 
+    <div class="mw-references-wrap">
+     <ol class="references"> 
+      <li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">USGS Map Name: Washington, CA Map MRC: 39120C7</span> </li> 
+      <li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.census.gov/geo/www/gazetteer/files/Gaz_places_national.txt">U.S. Census</a></span> </li> 
+      <li id="cite_note-gnis-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-gnis_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-gnis_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://geonames.usgs.gov/apex/f?p=gnispq:3:::NO::P3_FID:2628797">U.S. Geological Survey Geographic Names Information System: Washington, California</a></span> </li> 
+      <li id="cite_note-CGN-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-CGN_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-CGN_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-CGN_4-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-CGN_4-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-CGN_4-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Durham, David L. (1998). <i>California's Geographic Names: A Gazetteer of Historic and Modern Names of the State</i>. Clovis, Calif.: Word Dancer Press. p.&nbsp;574. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/1-884995-14-4" title="Special:BookSources/1-884995-14-4"><bdi>1-884995-14-4</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=California%27s+Geographic+Names%3A+A+Gazetteer+of+Historic+and+Modern+Names+of+the+State&amp;rft.place=Clovis%2C+Calif.&amp;rft.pages=574&amp;rft.pub=Word+Dancer+Press&amp;rft.date=1998&amp;rft.isbn=1-884995-14-4&amp;rft.aulast=Durham&amp;rft.aufirst=David+L.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWashington%2C+California" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span> </li> 
+      <li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.census.gov/2010census/popmap/ipmtext.php?fl=06:0683570">"2010 Census Interactive Population Search: CA - Washington CDP"</a>. U.S. Census Bureau<span class="reference-accessdate">. Retrieved <span class="nowrap">July 12,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=2010+Census+Interactive+Population+Search%3A+CA+-+Washington+CDP&amp;rft.pub=U.S.+Census+Bureau&amp;rft_id=https%3A%2F%2Fwww.census.gov%2F2010census%2Fpopmap%2Fipmtext.php%3Ffl%3D06%3A0683570&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWashington%2C+California" class="Z3988"></span>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+      <li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://senate.ca.gov/senators">"Senators"</a>. State of California<span class="reference-accessdate">. Retrieved <span class="nowrap">March 10,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Senators&amp;rft.pub=State+of+California&amp;rft_id=http%3A%2F%2Fsenate.ca.gov%2Fsenators&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWashington%2C+California" class="Z3988"></span>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+      <li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://assembly.ca.gov/assemblymembers">"Members Assembly"</a>. State of California<span class="reference-accessdate">. Retrieved <span class="nowrap">March 2,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Members+Assembly&amp;rft.pub=State+of+California&amp;rft_id=http%3A%2F%2Fassembly.ca.gov%2Fassemblymembers&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWashington%2C+California" class="Z3988"></span>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+      <li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.govtrack.us/congress/members/CA/1">"California's 1st Congressional District - Representatives &amp; District Map"</a>. Civic Impulse, LLC<span class="reference-accessdate">. Retrieved <span class="nowrap">March 2,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=California%27s++1st+Congressional+District+-+Representatives+%26+District+Map&amp;rft.pub=Civic+Impulse%2C+LLC&amp;rft_id=https%3A%2F%2Fwww.govtrack.us%2Fcongress%2Fmembers%2FCA%2F1&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWashington%2C+California" class="Z3988"></span>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+     </ol>
+    </div>
+   </div> 
+   <ul>
+    <li>Slater, Robert I. and Grace I. Slater, "Historical Notes Of The Early Washington, Nevada County, California Mining District."</li>
+   </ul> 
+   <h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Washington,_California&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000"> 
+    <tbody>
+     <tr> 
+      <td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376"></td> 
+      <td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Washington,_California" class="extiw" title="commons:Category:Washington, California">Washington, California</a></b></i>.</td>
+     </tr>
+    </tbody>
+   </table> 
+   <div role="navigation" class="navbox" aria-labelledby="Municipalities_and_communities_of_Nevada_County,_California,_United_States" style="padding:3px">
+    <table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+     <tbody>
+      <tr>
+       <th scope="col" class="navbox-title" colspan="3" style="background:#FCC200;">
+        <div class="plainlinks hlist navbar mini">
+         <ul>
+          <li class="nv-view"><a href="/wiki/Template:Nevada_County,_California" title="Template:Nevada County, California"><abbr title="View this template" style=";background:#FCC200;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+          <li class="nv-talk"><a href="/wiki/Template_talk:Nevada_County,_California" title="Template talk:Nevada County, California"><abbr title="Discuss this template" style=";background:#FCC200;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+          <li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Nevada_County,_California&amp;action=edit"><abbr title="Edit this template" style=";background:#FCC200;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+         </ul>
+        </div>
+        <div id="Municipalities_and_communities_of_Nevada_County,_California,_United_States" class="adr" style="font-size:114%;margin:0 4em">
+         Municipalities and communities of 
+         <a href="/wiki/Nevada_County,_California" title="Nevada County, California"><span class="region">Nevada County, California</span></a>, 
+         <span class="country-name">United States</span>
+        </div></th>
+      </tr>
+      <tr>
+       <td class="navbox-abovebelow" colspan="3" style="background:#FCC200;">
+        <div id="County_seat:_Nevada_City">
+         <a href="/wiki/County_seat" title="County seat"><span>County seat</span></a>: 
+         <b><a href="/wiki/Nevada_City,_California" title="Nevada City, California"><span>Nevada City</span></a></b>
+        </div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%;background:#FCC200;"><a href="/wiki/List_of_cities_in_California" class="mw-redirect" title="List of cities in California">Cities and towns</a></th>
+       <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><a href="/wiki/Grass_Valley,_California" title="Grass Valley, California">Grass Valley</a></li> 
+          <li><a href="/wiki/Nevada_City,_California" title="Nevada City, California">Nevada City</a></li> 
+          <li><a href="/wiki/Truckee,_California" title="Truckee, California">Truckee</a></li>
+         </ul> 
+        </div></td>
+       <td class="navbox-image" rowspan="5" style="width:1px;padding:0px 0px 0px 2px">
+        <div>
+         <div class="center">
+          <div class="floatnone">
+           <img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Map_of_California_highlighting_Nevada_County.svg/87px-Map_of_California_highlighting_Nevada_County.svg.png" decoding="async" title="Nevada County map" width="87" height="100" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Map_of_California_highlighting_Nevada_County.svg/130px-Map_of_California_highlighting_Nevada_County.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/87/Map_of_California_highlighting_Nevada_County.svg/174px-Map_of_California_highlighting_Nevada_County.svg.png 2x" data-file-width="9164" data-file-height="10536">
+          </div>
+         </div>
+        </div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%;background:#FCC200;"><a href="/wiki/Census-designated_place" title="Census-designated place">CDPs</a></th>
+       <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><a href="/wiki/Alta_Sierra,_California" title="Alta Sierra, California">Alta Sierra</a></li> 
+          <li><a href="/wiki/Floriston,_California" title="Floriston, California">Floriston</a></li> 
+          <li><a href="/wiki/Graniteville,_California" title="Graniteville, California">Graniteville</a></li> 
+          <li><a href="/wiki/Kingvale,_California" title="Kingvale, California">Kingvale</a>‡</li> 
+          <li><a href="/wiki/Lake_of_the_Pines,_California" title="Lake of the Pines, California">Lake of the Pines</a></li> 
+          <li><a href="/wiki/Lake_Wildwood,_California" title="Lake Wildwood, California">Lake Wildwood</a></li> 
+          <li><a href="/wiki/North_San_Juan,_California" title="North San Juan, California">North San Juan</a></li> 
+          <li><a href="/wiki/Penn_Valley,_California" title="Penn Valley, California">Penn Valley</a></li> 
+          <li><a href="/wiki/Rough_and_Ready,_California" title="Rough and Ready, California">Rough and Ready</a></li> 
+          <li><a href="/wiki/Soda_Springs,_Nevada_County,_California" title="Soda Springs, Nevada County, California">Soda Springs</a></li> 
+          <li><a class="mw-selflink selflink">Washington</a></li>
+         </ul> 
+        </div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%;background:#FCC200;"><a href="/wiki/Unincorporated_area" title="Unincorporated area">Unincorporated<br>communities</a></th>
+       <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><a href="/wiki/Alta_Hill,_California" title="Alta Hill, California">Alta Hill</a></li> 
+          <li><a href="/wiki/Bitney_Corner,_California" title="Bitney Corner, California">Bitney Corner</a></li> 
+          <li><a href="/wiki/Carpenter_Valley,_California" title="Carpenter Valley, California">Carpenter Valley</a></li> 
+          <li><a href="/wiki/Casey_Corner,_California" title="Casey Corner, California">Casey Corner</a></li> 
+          <li><a href="/wiki/Cedar_Ridge,_Nevada_County,_California" title="Cedar Ridge, Nevada County, California">Cedar Ridge</a></li> 
+          <li><a href="/wiki/Chicago_Park,_California" title="Chicago Park, California">Chicago Park</a></li> 
+          <li><a href="/wiki/Coleman,_California" title="Coleman, California">Coleman</a></li> 
+          <li><a href="/wiki/Crystal_Lake,_California" title="Crystal Lake, California">Crystal Lake</a></li> 
+          <li><a href="/wiki/Dew_Drop,_Nevada_County,_California" title="Dew Drop, Nevada County, California">Dew Drop</a></li> 
+          <li><a href="/wiki/French_Corral,_California" title="French Corral, California">French Corral</a></li> 
+          <li><a href="/wiki/Forest_Knolls,_Nevada_County,_California" title="Forest Knolls, Nevada County, California">Forest Knolls</a></li> 
+          <li><a href="/wiki/Gaston,_California" title="Gaston, California">Gaston</a></li> 
+          <li><a href="/wiki/Gateway,_Nevada_County,_California" title="Gateway, Nevada County, California">Gateway</a></li> 
+          <li><a href="/wiki/Gold_Flat,_California" title="Gold Flat, California">Gold Flat</a></li> 
+          <li><a href="/wiki/Higgins_Corner,_California" title="Higgins Corner, California">Higgins Corner</a></li> 
+          <li><a href="/wiki/Hills_Flat,_California" title="Hills Flat, California">Hills Flat</a></li> 
+          <li><a href="/wiki/Hinton,_California" title="Hinton, California">Hinton</a></li> 
+          <li><a href="/wiki/Hirschdale,_California" title="Hirschdale, California">Hirschdale</a></li> 
+          <li><a href="/wiki/Junction_House,_Nevada_County,_California" title="Junction House, Nevada County, California">Junction House</a></li> 
+          <li><a href="/wiki/Kres,_California" title="Kres, California">Kres</a></li> 
+          <li><a href="/wiki/Lake_City,_Nevada_County,_California" title="Lake City, Nevada County, California">Lake City</a></li> 
+          <li><a href="/wiki/Marsh_Mill,_California" title="Marsh Mill, California">Marsh Mill</a></li> 
+          <li><a href="/wiki/Mooney_Flat,_California" title="Mooney Flat, California">Mooney Flat</a></li> 
+          <li><a href="/wiki/Mystic,_California" title="Mystic, California">Mystic</a></li> 
+          <li><a href="/wiki/Newtown,_Nevada_County,_California" title="Newtown, Nevada County, California">Newtown</a></li> 
+          <li><a href="/wiki/Norden,_California" title="Norden, California">Norden</a></li> 
+          <li><a href="/wiki/North_Bloomfield,_California" title="North Bloomfield, California">North Bloomfield</a></li> 
+          <li><a href="/wiki/North_Columbia,_California" title="North Columbia, California">North Columbia</a></li> 
+          <li><a href="/wiki/Peardale,_California" title="Peardale, California">Peardale</a></li> 
+          <li><a href="/wiki/Pinecrest,_Nevada_County,_California" title="Pinecrest, Nevada County, California">Pinecrest</a></li> 
+          <li><a href="/wiki/Polaris,_California" title="Polaris, California">Polaris</a></li> 
+          <li><a href="/wiki/Relief,_California" title="Relief, California">Relief</a></li> 
+          <li><a href="/wiki/Scotts_Flat,_California" title="Scotts Flat, California">Scotts Flat</a></li> 
+          <li><a href="/wiki/Sebastopol,_Nevada_County,_California" title="Sebastopol, Nevada County, California">Sebastopol</a></li> 
+          <li><a href="/wiki/Spring_Hill,_California" title="Spring Hill, California">Spring Hill</a></li> 
+          <li><a href="/wiki/The_Oaks,_Nevada_County,_California" title="The Oaks, Nevada County, California">The Oaks</a></li> 
+          <li><a href="/wiki/Town_Talk,_California" title="Town Talk, California">Town Talk</a></li> 
+          <li><a href="/wiki/Union_Mills,_California" title="Union Mills, California">Union Mills</a></li> 
+          <li><a href="/wiki/Willow_Valley,_California" title="Willow Valley, California">Willow Valley</a></li> 
+          <li><a href="/wiki/Wolf,_Nevada_County,_California" title="Wolf, Nevada County, California">Wolf</a></li> 
+          <li><a href="/wiki/You_Bet,_California" title="You Bet, California">You Bet</a></li> 
+          <li><a href="/wiki/Yuba_Pass,_California" title="Yuba Pass, California">Yuba Pass</a></li>
+         </ul> 
+        </div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%;background:#FCC200;"><a href="/wiki/Ghost_town" title="Ghost town">Ghost towns</a></th>
+       <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><a href="/wiki/Alpha,_California" title="Alpha, California">Alpha</a></li> 
+          <li><a href="/wiki/Badger_Hill,_California" title="Badger Hill, California">Badger Hill</a></li> 
+          <li><a href="/wiki/Balaklava,_California" title="Balaklava, California">Balaklava</a></li> 
+          <li><a href="/wiki/Bald_Eagle,_California" title="Bald Eagle, California">Bald Eagle</a></li> 
+          <li><a href="/wiki/Baltimore_Town,_California" title="Baltimore Town, California">Baltimore Town</a></li> 
+          <li><a href="/wiki/Bear_River_Pines,_California" title="Bear River Pines, California">Bear River Pines</a></li> 
+          <li><a href="/wiki/Bear_Valley,_Nevada_County,_California" title="Bear Valley, Nevada County, California">Bear Valley</a></li> 
+          <li><a href="/wiki/Beckmans_Flat,_California" title="Beckmans Flat, California">Beckmans Flat</a></li> 
+          <li><a href="/wiki/Birchville,_California" title="Birchville, California">Birchville</a></li> 
+          <li><a href="/wiki/Blue_Tent,_California" title="Blue Tent, California">Blue Tent</a></li> 
+          <li><a href="/wiki/Boca,_California" title="Boca, California">Boca</a></li> 
+          <li><a href="/wiki/Boston_Ravine,_California" title="Boston Ravine, California">Boston Ravine</a></li> 
+          <li><a href="/wiki/Brass_Wire_Bar,_California" title="Brass Wire Bar, California">Brass Wire Bar</a></li> 
+          <li><a href="/wiki/Bridgeport,_Nevada_County,_California" title="Bridgeport, Nevada County, California">Bridgeport</a></li> 
+          <li><a href="/wiki/Brighton_House,_California" title="Brighton House, California">Brighton House</a></li> 
+          <li><a href="/wiki/Bronco,_California" title="Bronco, California">Bronco</a></li> 
+          <li><a href="/wiki/Buena_Vista,_Nevada_County,_California" title="Buena Vista, Nevada County, California">Buena Vista</a></li> 
+          <li><a href="/wiki/Burckhalter,_California" title="Burckhalter, California">Burckhalter</a></li> 
+          <li><a href="/wiki/Burks_Bar,_California" title="Burks Bar, California">Burks Bar</a></li> 
+          <li><a href="/wiki/Camp_Spaulding,_California" title="Camp Spaulding, California">Camp Spaulding</a></li> 
+          <li><a href="/wiki/Cascade_Diggings,_California" title="Cascade Diggings, California">Cascade Diggings</a></li> 
+          <li><a href="/wiki/Cedar_Kress,_California" title="Cedar Kress, California">Cedar Kress</a></li> 
+          <li><a href="/wiki/Chalk_Bluff,_California" title="Chalk Bluff, California">Chalk Bluff</a></li> 
+          <li><a href="/wiki/Champion,_California" title="Champion, California">Champion</a></li> 
+          <li><a href="/wiki/Cherokee,_Nevada_County,_California" title="Cherokee, Nevada County, California">Cherokee</a></li> 
+          <li><a href="/wiki/Coyoteville,_Nevada_County,_California" title="Coyoteville, Nevada County, California">Coyoteville</a></li> 
+          <li><a href="/wiki/Crystal_Springs,_California" title="Crystal Springs, California">Crystal Springs</a></li> 
+          <li><a href="/wiki/Democrat,_California" title="Democrat, California">Democrat</a></li> 
+          <li><a href="/wiki/Diamond_Creek,_California" title="Diamond Creek, California">Diamond Creek</a></li> 
+          <li><a href="/wiki/Diggers_Bar,_California" title="Diggers Bar, California">Diggers Bar</a></li> 
+          <li><a href="/wiki/Dillon,_California" title="Dillon, California">Dillon</a></li> 
+          <li><a href="/wiki/Drum,_Nevada_County,_California" title="Drum, Nevada County, California">Drum</a></li> 
+          <li><a href="/wiki/Eagle_Bird,_California" title="Eagle Bird, California">Eagle Bird</a></li> 
+          <li><a href="/wiki/Elida,_California" title="Elida, California">Elida</a></li> 
+          <li><a href="/wiki/Eureka,_Nevada_County,_California" title="Eureka, Nevada County, California">Eureka</a></li> 
+          <li><a href="/wiki/Farad,_California" title="Farad, California">Farad</a></li> 
+          <li><a href="/wiki/Fernley,_California" title="Fernley, California">Fernley</a></li> 
+          <li><a href="/wiki/Flood,_California" title="Flood, California">Flood</a></li> 
+          <li><a href="/wiki/Forest_Spring,_California" title="Forest Spring, California">Forest Spring</a></li> 
+          <li><a href="/wiki/French_Lake,_California" title="French Lake, California">French Lake</a></li> 
+          <li><a href="/wiki/Frenchmans_Bar,_California" title="Frenchmans Bar, California">Frenchmans Bar</a></li> 
+          <li><a href="/wiki/Gelatt,_California" title="Gelatt, California">Gelatt</a></li> 
+          <li><a href="/wiki/Glenbrook,_Nevada_County,_California" title="Glenbrook, Nevada County, California">Glenbrook</a></li> 
+          <li><a href="/wiki/Gold_Hill,_Nevada_County,_California" title="Gold Hill, Nevada County, California">Gold Hill</a></li> 
+          <li><a href="/wiki/Hacketville,_California" title="Hacketville, California">Hacketville</a></li> 
+          <li><a href="/wiki/Hobart_Mills,_California" title="Hobart Mills, California">Hobart Mills</a></li> 
+          <li><a href="/wiki/Hunt%27s_Hill,_California" title="Hunt's Hill, California">Hunt's Hill</a></li> 
+          <li><a href="/wiki/Iceland,_California" title="Iceland, California">Iceland</a></li> 
+          <li><a href="/wiki/Indian_Springs,_Nevada_County,_California" title="Indian Springs, Nevada County, California">Indian Springs</a></li> 
+          <li><a href="/wiki/Jericho,_California" title="Jericho, California">Jericho</a></li> 
+          <li><a href="/wiki/Jones_Bar,_California" title="Jones Bar, California">Jones Bar</a></li> 
+          <li><a href="/wiki/Kentucky_Flat,_California" title="Kentucky Flat, California">Kentucky Flat</a></li> 
+          <li><a href="/wiki/La_Barr_Meadows,_California" title="La Barr Meadows, California">La Barr Meadows</a></li> 
+          <li><a href="/wiki/Lafayette_Hill,_California" title="Lafayette Hill, California">Lafayette Hill</a></li> 
+          <li><a href="/wiki/Langs,_California" title="Langs, California">Langs</a></li> 
+          <li><a href="/wiki/Little_York,_California" title="Little York, California">Little York</a></li> 
+          <li><a href="/wiki/Louisa,_California" title="Louisa, California">Louisa</a></li> 
+          <li><a href="/wiki/Lowell_Hill,_California" title="Lowell Hill, California">Lowell Hill</a></li> 
+          <li><a href="/wiki/Malakoff,_California" title="Malakoff, California">Malakoff</a></li> 
+          <li><a href="/wiki/Maybert,_California" title="Maybert, California">Maybert</a></li> 
+          <li><a href="/wiki/Meadow_Lake,_Nevada_County,_California" title="Meadow Lake, Nevada County, California">Meadow Lake</a></li> 
+          <li><a href="/wiki/Melburn_Hill,_California" title="Melburn Hill, California">Melburn Hill</a></li> 
+          <li><a href="/wiki/Missouri_Flat,_California" title="Missouri Flat, California">Missouri Flat</a></li> 
+          <li><a href="/wiki/Moores_Flat,_California" title="Moores Flat, California">Moores Flat</a></li> 
+          <li><a href="/wiki/Mount_Zion,_California" title="Mount Zion, California">Mount Zion</a></li> 
+          <li><a href="/wiki/Mountain_Well,_California" title="Mountain Well, California">Mountain Well</a></li> 
+          <li><a href="/wiki/Mountain_View,_Nevada_County,_California" title="Mountain View, Nevada County, California">Mountain View</a></li> 
+          <li><a href="/wiki/Negro_Flat,_Nevada_County,_California" title="Negro Flat, Nevada County, California">Negro Flat</a></li> 
+          <li><a href="/wiki/Ohm,_California" title="Ohm, California">Ohm</a></li> 
+          <li><a href="/wiki/Omega,_California" title="Omega, California">Omega</a></li> 
+          <li><a href="/wiki/Orleans_Flat,_California" title="Orleans Flat, California">Orleans Flat</a></li> 
+          <li><a href="/wiki/Pittsburg,_Nevada_County,_California" title="Pittsburg, Nevada County, California">Pittsburg</a></li> 
+          <li><a href="/wiki/Pleasant_Flat,_Nevada_County,_California" title="Pleasant Flat, Nevada County, California">Pleasant Flat</a></li> 
+          <li><a href="/wiki/Prosser,_California" title="Prosser, California">Prosser</a></li> 
+          <li><a href="/wiki/Prosser_Creek,_California" title="Prosser Creek, California">Prosser Creek</a></li> 
+          <li><a href="/wiki/Providence,_Nevada_County,_California" title="Providence, Nevada County, California">Providence</a></li> 
+          <li><a href="/wiki/Randolph_House,_California" title="Randolph House, California">Randolph House</a></li> 
+          <li><a href="/wiki/Rays_Flat,_California" title="Rays Flat, California">Rays Flat</a></li> 
+          <li><a href="/wiki/Red_Diamond,_California" title="Red Diamond, California">Red Diamond</a></li> 
+          <li><a href="/wiki/Red_Dog,_California" title="Red Dog, California">Red Dog</a></li> 
+          <li><a href="/wiki/Remington_Hill,_California" title="Remington Hill, California">Remington Hill</a></li> 
+          <li><a href="/wiki/Rose%27s_Corral,_California" title="Rose's Corral, California">Rose's Corral</a></li> 
+          <li><a href="/wiki/Shands,_California" title="Shands, California">Shands</a></li> 
+          <li><a href="/wiki/Shelby_Flat,_California" title="Shelby Flat, California">Shelby Flat</a></li> 
+          <li><a href="/wiki/Shellback,_California" title="Shellback, California">Shellback</a></li> 
+          <li><a href="/wiki/Six_Mile_House,_California" title="Six Mile House, California">Six Mile House</a></li> 
+          <li><a href="/wiki/Snow_Point,_California" title="Snow Point, California">Snow Point</a></li> 
+          <li><a href="/wiki/Snow_Tent,_California" title="Snow Tent, California">Snow Tent</a></li> 
+          <li><a href="/wiki/Spenceville,_California" title="Spenceville, California">Spenceville</a></li> 
+          <li><a href="/wiki/Spiritsville,_California" title="Spiritsville, California">Spiritsville</a></li> 
+          <li><a href="/wiki/Stockings_Flat,_California" title="Stockings Flat, California">Stockings Flat</a></li> 
+          <li><a href="/wiki/Sunset_View,_California" title="Sunset View, California">Sunset View</a></li> 
+          <li><a href="/wiki/Sweetland,_California" title="Sweetland, California">Sweetland</a></li> 
+          <li><a href="/wiki/Tsekankan,_California" title="Tsekankan, California">Tsekankan</a></li> 
+          <li><a href="/wiki/Union_Hill,_California" title="Union Hill, California">Union Hill</a></li> 
+          <li><a href="/wiki/Ustoma,_California" title="Ustoma, California">Ustoma</a></li> 
+          <li><a href="/wiki/Virginia_House,_California" title="Virginia House, California">Virginia House</a></li> 
+          <li><a href="/wiki/Waloupa,_California" title="Waloupa, California">Waloupa</a></li> 
+          <li><a href="/wiki/White_Cloud,_California" title="White Cloud, California">White Cloud</a></li> 
+          <li><a href="/wiki/Wickes,_California" title="Wickes, California">Wickes</a></li> 
+          <li><a href="/wiki/Wilsonville,_California" title="Wilsonville, California">Wilsonville</a></li> 
+          <li><a href="/wiki/Wokodot,_California" title="Wokodot, California">Wokodot</a></li> 
+          <li><a href="/wiki/Woolsey_Flat,_California" title="Woolsey Flat, California">Woolsey Flat</a></li> 
+          <li><a href="/wiki/Yamako,_California" title="Yamako, California">Yamako</a></li> 
+          <li><a href="/wiki/Zinc_House,_California" title="Zinc House, California">Zinc House</a></li>
+         </ul> 
+        </div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%;background:#FCC200;">Footnotes</th>
+       <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em">
+         ‡This CDP also has portions in an adjacent county or counties
+        </div></td>
+      </tr>
+     </tbody>
+    </table>
+   </div> 
+   <!-- 
+NewPP limit report
+Parsed by mw1267
+Cached time: 20190423173657
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.592 seconds
+Real time usage: 0.804 seconds
+Preprocessor visited node count: 4677/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 87647/2097152 bytes
+Template argument size: 19848/2097152 bytes
+Highest expansion depth: 23/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 16014/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.241/10.000 seconds
+Lua memory usage: 6.27 MB/50 MB
+--> 
+   <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  701.730      1 -total
+ 55.74%  391.164      1 Template:Infobox_settlement
+ 40.31%  282.892      1 Template:Infobox
+ 16.84%  118.151      1 Template:Reflist
+ 10.60%   74.353      7 Template:Both
+  9.99%   70.134      1 Template:California's_Geographic_Names
+  9.80%   68.802      1 Template:Coord
+  9.73%   68.256      1 Template:Cite_book
+  7.89%   55.390      3 Template:Representative
+  5.87%   41.207      5 Template:Infobox_settlement/impus
+--> 
+   <!-- Saved in parser cache with key enwiki:pcache:idhash:1923182-0!canonical and timestamp 20190423173657 and revision id 867476274
+ --> 
+  </div>
+  <noscript>
+   <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+  </noscript>
+ </div> 
+ <div class="printfooter">
+  Retrieved from "
+  <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Washington,_California&amp;oldid=867476274">https://en.wikipedia.org/w/index.php?title=Washington,_California&amp;oldid=867476274</a>"
+ </div> 
+ <div id="catlinks" class="catlinks" data-mw="interface">
+  <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+   <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+   <ul>
+    <li><a href="/wiki/Category:Census-designated_places_in_Nevada_County,_California" title="Category:Census-designated places in Nevada County, California">Census-designated places in Nevada County, California</a></li>
+    <li><a href="/wiki/Category:Populated_places_established_in_1849" title="Category:Populated places established in 1849">Populated places established in 1849</a></li>
+    <li><a href="/wiki/Category:Census-designated_places_in_California" title="Category:Census-designated places in California">Census-designated places in California</a></li>
+    <li><a href="/wiki/Category:1849_establishments_in_California" title="Category:1849 establishments in California">1849 establishments in California</a></li>
+   </ul>
+  </div>
+  <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+   Hidden categories: 
+   <ul>
+    <li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li>
+    <li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordi

@@ -1,0 +1,298 @@
+<div id="bodyContent" class="mw-body-content"> 
+ <div id="siteSub" class="noprint">
+  From Wikipedia, the free encyclopedia
+ </div> 
+ <div id="contentSub"></div> 
+ <div id="jump-to-nav"></div> 
+ <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> 
+ <a class="mw-jump-link" href="#p-search">Jump to search</a> 
+ <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+  <div class="mw-parser-output">
+   <p><b>Metalloestrogens</b> are a class of <a href="/wiki/Inorganic" class="mw-redirect" title="Inorganic">inorganic</a> <a href="/wiki/Xenoestrogen" title="Xenoestrogen">xenoestrogens</a> which can affect the gene expression of human cells responding to <a href="/wiki/Estrogen" title="Estrogen">estrogen</a>. Effects are related to the physiologic function of estrogen because metalloestrogens have shown <a href="/wiki/Affinity_(pharmacology)" class="mw-redirect" title="Affinity (pharmacology)">affinity</a> for <a href="/wiki/Estrogen_receptor" title="Estrogen receptor">estrogen receptors</a>. Because they can mimic estrogen thus activating the receptor, they are considered harmful and potentially linked with <a href="/wiki/Breast_cancer" title="Breast cancer">breast cancer</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> List of metalloestrogens include <a href="/wiki/Aluminium" title="Aluminium">aluminium</a>, <a href="/wiki/Antimony" title="Antimony">antimony</a>, <a href="/wiki/Arsenite" title="Arsenite">arsenite</a>, <a href="/wiki/Barium" title="Barium">barium</a>, <a href="/wiki/Cadmium" title="Cadmium">cadmium</a>,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <a href="/wiki/Chromium" title="Chromium">chromium</a> (Cr(II)), <a href="/wiki/Cobalt" title="Cobalt">cobalt</a>, <a href="/wiki/Copper" title="Copper">copper</a>, <a href="/wiki/Lead" title="Lead">lead</a>, <a href="/wiki/Mercury_(element)" title="Mercury (element)">mercury</a>, <a href="/wiki/Nickel" title="Nickel">nickel</a>, <a href="/wiki/Selenite_(mineral)" title="Selenite (mineral)">selenite</a>, <a href="/wiki/Tin" title="Tin">tin</a> and <a href="/wiki/Vanadate" title="Vanadate">vanadate</a>. </p> 
+   <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Metalloestrogen&amp;action=edit&amp;section=1" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <div class="reflist" style="list-style-type: decimal;"> 
+    <div class="mw-references-wrap">
+     <ol class="references"> 
+      <li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation journal">Darbre, P. D. (2006). "Metalloestrogens: an emerging class of inorganic xenoestrogens with potential to add to the oestrogenic burden of the human breast". <i>Journal of Applied Toxicology</i>. <b>26</b> (3): 191–197. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1002%2Fjat.1135">10.1002/jat.1135</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&nbsp;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/16489580">16489580</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Applied+Toxicology&amp;rft.atitle=Metalloestrogens%3A+an+emerging+class+of+inorganic+xenoestrogens+with+potential+to+add+to+the+oestrogenic+burden+of+the+human+breast&amp;rft.volume=26&amp;rft.issue=3&amp;rft.pages=191-197&amp;rft.date=2006&amp;rft_id=info%3Adoi%2F10.1002%2Fjat.1135&amp;rft_id=info%3Apmid%2F16489580&amp;rft.aulast=Darbre&amp;rft.aufirst=P.+D.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMetalloestrogen" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span> </li> 
+      <li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation book">Thévenod, Frank; Lee, Wing-Kee (2013). "Chapter 14. Toxicology of cadmium and its damage to mammalian organs". In Astrid Sigel, Helmut Sigel and Roland K. O. Sigel (ed.). <i>Cadmium: From Toxicology to Essentiality</i>. Metal Ions in Life Sciences. <b>11</b>. Springer. pp.&nbsp;465–466. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1007%2F978-94-007-5179-8_14">10.1007/978-94-007-5179-8_14</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Chapter+14.+Toxicology+of+cadmium+and+its+damage+to+mammalian+organs&amp;rft.btitle=Cadmium%3A+From+Toxicology+to+Essentiality&amp;rft.series=Metal+Ions+in+Life+Sciences&amp;rft.pages=465-466&amp;rft.pub=Springer&amp;rft.date=2013&amp;rft_id=info%3Adoi%2F10.1007%2F978-94-007-5179-8_14&amp;rft.aulast=Th%C3%A9venod&amp;rft.aufirst=Frank&amp;rft.au=Lee%2C+Wing-Kee&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMetalloestrogen" class="Z3988"></span>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+     </ol>
+    </div>
+   </div> 
+   <div role="navigation" class="navbox" aria-labelledby="Xenoestrogens" style="padding:3px">
+    <table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+     <tbody>
+      <tr>
+       <th scope="col" class="navbox-title" colspan="2">
+        <div class="plainlinks hlist navbar mini">
+         <ul>
+          <li class="nv-view"><a href="/wiki/Template:Xenoestrogens" title="Template:Xenoestrogens"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+          <li class="nv-talk"><a href="/wiki/Template_talk:Xenoestrogens" title="Template talk:Xenoestrogens"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+          <li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Xenoestrogens&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+         </ul>
+        </div>
+        <div id="Xenoestrogens" style="font-size:114%;margin:0 4em">
+         <a href="/wiki/Xenoestrogen" title="Xenoestrogen">Xenoestrogens</a>
+        </div></th>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Phytoestrogens" class="mw-redirect" title="Phytoestrogens">Phytoestrogens</a></th>
+       <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"></div>
+        <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+         <tbody>
+          <tr>
+           <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Flavanones" class="mw-redirect" title="Flavanones">Flavanones</a></th>
+           <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+            <div style="padding:0em 0.25em"> 
+             <ul>
+              <li><a href="/wiki/Hesperetin" title="Hesperetin">Hesperetin</a></li> 
+              <li><a href="/wiki/Liquiritigenin" title="Liquiritigenin">Liquiritigenin</a></li> 
+              <li><a href="/wiki/Naringenin" title="Naringenin">Naringenin</a></li> 
+              <li><a href="/wiki/Pinocembrin" title="Pinocembrin">Pinocembrin</a></li>
+             </ul> 
+            </div></td>
+          </tr>
+          <tr>
+           <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Flavones" title="Flavones">Flavones</a></th>
+           <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+            <div style="padding:0em 0.25em"> 
+             <ul>
+              <li><a href="/wiki/Acacetin" title="Acacetin">Acacetin</a></li> 
+              <li><a href="/wiki/7,8-Dihydroxyflavone" title="7,8-Dihydroxyflavone">7,8-Dihydroxyflavone</a></li> 
+              <li><a href="/wiki/Mirificin" title="Mirificin">Mirificin</a></li>
+             </ul> 
+            </div></td>
+          </tr>
+          <tr>
+           <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Prenylflavonoids" class="mw-redirect" title="Prenylflavonoids">Prenylflavonoids</a></th>
+           <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+            <div style="padding:0em 0.25em"> 
+             <ul>
+              <li><a href="/wiki/8-Prenylnaringenin" title="8-Prenylnaringenin">8-Prenylnaringenin</a></li> 
+              <li><a href="/w/index.php?title=6-Prenylnaringenin&amp;action=edit&amp;redlink=1" class="new" title="6-Prenylnaringenin (page does not exist)">6-Prenylnaringenin</a></li> 
+              <li><a href="/w/index.php?title=8-Geranylnaringenin&amp;action=edit&amp;redlink=1" class="new" title="8-Geranylnaringenin (page does not exist)">8-Geranylnaringenin</a></li> 
+              <li><a href="/w/index.php?title=6,8-Diprenylnaringenin&amp;action=edit&amp;redlink=1" class="new" title="6,8-Diprenylnaringenin (page does not exist)">6,8-Diprenylnaringenin</a></li> 
+              <li><a href="/w/index.php?title=Icaritin&amp;action=edit&amp;redlink=1" class="new" title="Icaritin (page does not exist)">Icaritin</a></li>
+             </ul> 
+            </div></td>
+          </tr>
+          <tr>
+           <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Isoflavones" class="mw-redirect" title="Isoflavones">Isoflavones</a></th>
+           <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+            <div style="padding:0em 0.25em"> 
+             <ul>
+              <li><a href="/wiki/Biochanin_A" title="Biochanin A">Biochanin A</a></li> 
+              <li><a href="/wiki/Daidzein" title="Daidzein">Daidzein</a></li> 
+              <li><a href="/wiki/Daidzin" title="Daidzin">Daidzin</a></li> 
+              <li><a href="/wiki/Formononetin" title="Formononetin">Formononetin</a></li> 
+              <li><a href="/wiki/Genistein" title="Genistein">Genistein</a></li> 
+              <li><a href="/wiki/Genistin" title="Genistin">Genistin</a></li> 
+              <li><a href="/wiki/Glycitein" title="Glycitein">Glycitein</a></li> 
+              <li><a href="/wiki/Ononin" title="Ononin">Ononin</a></li> 
+              <li><a href="/wiki/Prunetin" title="Prunetin">Prunetin</a></li> 
+              <li><a href="/wiki/Puerarin" title="Puerarin">Puerarin</a></li> 
+              <li><a href="/wiki/Tectorigenin" title="Tectorigenin">Tectorigenin</a></li>
+             </ul> 
+            </div></td>
+          </tr>
+          <tr>
+           <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Isoflavanes" class="mw-redirect" title="Isoflavanes">Isoflavanes</a></th>
+           <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+            <div style="padding:0em 0.25em"> 
+             <ul>
+              <li><a href="/wiki/Equol" title="Equol">Equol</a> (<a href="/wiki/S-Equol" class="mw-redirect" title="S-Equol"><i>S</i>-Equol</a>)</li> 
+              <li><a href="/wiki/Glabridin" title="Glabridin">Glabridin</a></li>
+             </ul> 
+            </div></td>
+          </tr>
+          <tr>
+           <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Dihydrochalcone" title="Dihydrochalcone">Dihydrochalcones</a></th>
+           <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+            <div style="padding:0em 0.25em"> 
+             <ul>
+              <li><a href="/wiki/Phloretin" title="Phloretin">Phloretin</a></li> 
+              <li><a href="/wiki/Phlorizin" title="Phlorizin">Phlorizin</a></li>
+             </ul> 
+            </div></td>
+          </tr>
+          <tr>
+           <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Isoflavenes" class="mw-redirect" title="Isoflavenes">Isoflavenes</a></th>
+           <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+            <div style="padding:0em 0.25em">
+             <a href="/wiki/Glabrene" title="Glabrene">Glabrene</a>
+            </div></td>
+          </tr>
+          <tr>
+           <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Coumestans" class="mw-redirect" title="Coumestans">Coumestans</a></th>
+           <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+            <div style="padding:0em 0.25em"> 
+             <ul>
+              <li><a href="/wiki/Coumestan" title="Coumestan">Coumestan</a></li> 
+              <li><a href="/wiki/Coumestrol" title="Coumestrol">Coumestrol</a></li> 
+              <li><a href="/w/index.php?title=Desmethylwedelolactone&amp;action=edit&amp;redlink=1" class="new" title="Desmethylwedelolactone (page does not exist)">Desmethylwedelolactone</a></li> 
+              <li><a href="/wiki/Wedelolactone" title="Wedelolactone">Wedelolactone</a></li>
+             </ul> 
+            </div></td>
+          </tr>
+          <tr>
+           <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Lignans" class="mw-redirect" title="Lignans">Lignans</a></th>
+           <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+            <div style="padding:0em 0.25em"> 
+             <ul>
+              <li><a href="/wiki/Enterodiol" title="Enterodiol">Enterodiol</a></li> 
+              <li><a href="/wiki/Enterolactone" title="Enterolactone">Enterolactone</a></li>
+             </ul> 
+            </div></td>
+          </tr>
+          <tr>
+           <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Flavonolignans" class="mw-redirect" title="Flavonolignans">Flavonolignans</a></th>
+           <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+            <div style="padding:0em 0.25em"> 
+             <ul>
+              <li><a href="/wiki/Silybin" class="mw-redirect" title="Silybin">Silybin</a></li> 
+              <li><a href="/wiki/Cinchonain-Ib" title="Cinchonain-Ib">Cinchonain-Ib</a></li>
+             </ul> 
+            </div></td>
+          </tr>
+          <tr>
+           <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Flavonol" class="mw-redirect" title="Flavonol">Flavonols</a></th>
+           <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+            <div style="padding:0em 0.25em"> 
+             <ul>
+              <li><a href="/wiki/Quercetin" title="Quercetin">Quercetin</a></li>
+             </ul> 
+            </div></td>
+          </tr>
+          <tr>
+           <th scope="row" class="navbox-group" style="width:1%">Others</th>
+           <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+            <div style="padding:0em 0.25em"> 
+             <ul>
+              <li><a href="/wiki/Deoxymiroestrol" class="mw-redirect" title="Deoxymiroestrol">Deoxymiroestrol</a></li> 
+              <li><a href="/wiki/Miroestrol" title="Miroestrol">Miroestrol</a></li> 
+              <li><a href="/wiki/Resveratrol" title="Resveratrol">Resveratrol</a></li> 
+              <li><a href="/w/index.php?title=%CE%91-Isosparteine&amp;action=edit&amp;redlink=1" class="new" title="Α-Isosparteine (page does not exist)">α-Isosparteine</a></li>
+             </ul> 
+            </div></td>
+          </tr>
+         </tbody>
+        </table>
+        <div></div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Mycoestrogen" title="Mycoestrogen">Mycoestrogens</a></th>
+       <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><a href="/wiki/Zearalanone" title="Zearalanone">Zearalanone</a></li> 
+          <li><a href="/wiki/Zearalenone" title="Zearalenone">Zearalenone</a></li> 
+          <li><a href="/wiki/Zeranol" title="Zeranol">α-Zearalanol (zeranol)</a></li> 
+          <li><a href="/wiki/Alpha-zearalenol" class="mw-redirect" title="Alpha-zearalenol">α-Zearalenol</a></li> 
+          <li><a href="/wiki/%CE%92-Zearalanol" class="mw-redirect" title="Β-Zearalanol">β-Zearalanol</a></li> 
+          <li><a href="/wiki/%CE%92-Zearalenol" class="mw-redirect" title="Β-Zearalenol">β-Zearalenol</a></li>
+         </ul> 
+        </div>
+        <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+         <tbody>
+          <tr>
+           <th id="Derivatives" scope="row" class="navbox-group" style="width:1%">Derivatives</th>
+           <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+            <div style="padding:0em 0.25em"> 
+             <ul>
+              <li><a href="/wiki/Penicillamine" title="Penicillamine"><small>D</small>-Penicillamine</a></li>
+             </ul> 
+            </div></td>
+          </tr>
+         </tbody>
+        </table>
+        <div> 
+        </div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%">Synthetic</th>
+       <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><a href="/wiki/Alkylphenol" title="Alkylphenol">Alkylphenols</a></li> 
+          <li><a href="/wiki/Atrazine" title="Atrazine">Atrazine</a></li> 
+          <li><a href="/wiki/Butylated_hydroxyanisole" title="Butylated hydroxyanisole">BHA</a></li> 
+          <li><a href="/wiki/Bisphenol_A" title="Bisphenol A">Bisphenol A</a></li> 
+          <li><a href="/wiki/Dichlorodiphenyldichloroethylene" title="Dichlorodiphenyldichloroethylene">DDE</a></li> 
+          <li><a href="/wiki/Dichlorodiphenyltrichloroethane" class="mw-redirect" title="Dichlorodiphenyltrichloroethane">DDT</a></li> 
+          <li><a href="/wiki/Dieldrin" title="Dieldrin">Dieldrin</a></li> 
+          <li><a href="/wiki/Dioxins_and_dioxin-like_compounds" title="Dioxins and dioxin-like compounds">Dioxins</a></li> 
+          <li><a href="/wiki/Endosulfan" title="Endosulfan">Endosulfan</a></li> 
+          <li><a href="/wiki/Enzacamene" title="Enzacamene">Enzacamene</a></li> 
+          <li><a href="/wiki/Erythrosine" title="Erythrosine">Erythrosine</a></li> 
+          <li><a href="/wiki/Heptachlor" title="Heptachlor">Heptachlor</a></li> 
+          <li><a href="/wiki/Lindane" title="Lindane">Lindane</a></li> 
+          <li><a href="/wiki/Methoxychlor" title="Methoxychlor">Methoxychlor</a></li> 
+          <li><a href="/wiki/Nonylphenol" title="Nonylphenol">Nonylphenol</a></li> 
+          <li><a href="/wiki/Paraben" title="Paraben">Parabens</a></li> 
+          <li><a href="/wiki/Polybrominated_biphenyl" title="Polybrominated biphenyl">PBBs</a></li> 
+          <li><a href="/wiki/Polychlorinated_biphenyl" title="Polychlorinated biphenyl">PCBs</a></li> 
+          <li><a href="/wiki/Pentachlorophenol" title="Pentachlorophenol">Pentachlorophenol</a></li> 
+          <li><a href="/wiki/4-Hydroxybenzoic_acid" title="4-Hydroxybenzoic acid">PHBA</a></li> 
+          <li><a href="/wiki/Phthalates" class="mw-redirect" title="Phthalates">Phthalates</a></li> 
+          <li><a href="/wiki/Propyl_gallate" title="Propyl gallate">Propyl gallate</a></li> 
+          <li><a href="/wiki/Perfluorinated_compound" title="Perfluorinated compound">Perfluorinated compound</a></li>
+         </ul> 
+        </div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%"><a class="mw-selflink selflink">Metalloestrogens</a></th>
+       <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li>Aluminium</li> 
+          <li>Antimony</li> 
+          <li>Arsenite</li> 
+          <li>Barium</li> 
+          <li>Cadmium</li> 
+          <li><a href="/wiki/Chromium" title="Chromium">Chromium</a></li> 
+          <li><a href="/wiki/Cobalt" title="Cobalt">Cobalt</a></li> 
+          <li><a href="/wiki/Copper" title="Copper">Copper</a></li> 
+          <li>Lead</li> 
+          <li>Mercury</li> 
+          <li>Nickel</li> 
+          <li>Selenite</li> 
+          <li>Tin</li> 
+          <li>Vanadate</li>
+         </ul> 
+        </div></td>
+      </tr>
+     </tbody>
+    </table>
+   </div> 
+   <!-- 
+NewPP limit report
+Parsed by mw1270
+Cached time: 20190423155809
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.148 seconds
+Real time usage: 0.205 seconds
+Preprocessor visited node count: 334/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 35413/2097152 bytes
+Template argument size: 79/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 6444/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.084/10.000 seconds
+Lua memory usage: 2.52 MB/50 MB
+--> 
+   <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  160.461      1 -total
+ 83.82%  134.505      1 Template:Reflist
+ 68.07%  109.220      1 Template:Cite_journal
+ 16.59%   26.613      3 Template:Navbox
+ 16.13%   25.884      1 Template:Xenoestrogens
+  5.44%    8.728      1 Template:Cite_book
+  1.85%    2.976      1 Template:Main_other
+--> 
+   <!-- Saved in parser cache with key enwiki:pcache:idhash:14964761-0!canonical and timestamp 20190423155809 and revis

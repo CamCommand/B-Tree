@@ -1,0 +1,120 @@
+<div id="bodyContent" class="mw-body-content"> 
+ <div id="siteSub" class="noprint">
+  From Wikipedia, the free encyclopedia
+ </div> 
+ <div id="contentSub"></div> 
+ <div id="jump-to-nav"></div> 
+ <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> 
+ <a class="mw-jump-link" href="#p-search">Jump to search</a> 
+ <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+  <div class="mw-parser-output">
+   <table class="box-More_citations_needed plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+    <tbody>
+     <tr>
+      <td class="mbox-image">
+       <div style="width:52px">
+        <a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399"></a>
+       </div></td>
+      <td class="mbox-text">
+       <div class="mbox-text-span">
+        This article 
+        <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.
+        <span class="hide-when-compact"> Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Flettner_airplane&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.<br><small><span class="plainlinks"><i>Find sources:</i>&nbsp;<a rel="nofollow" class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22Flettner+airplane%22">"Flettner airplane"</a>&nbsp;–&nbsp;<a rel="nofollow" class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22Flettner+airplane%22+-wikipedia">news</a>&nbsp;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?&amp;q=%22Flettner+airplane%22+site:news.google.com/newspapers&amp;source=newspapers">newspapers</a>&nbsp;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22Flettner+airplane%22+-wikipedia">books</a>&nbsp;<b>·</b> <a rel="nofollow" class="external text" href="//scholar.google.com/scholar?q=%22Flettner+airplane%22">scholar</a>&nbsp;<b>·</b> <a rel="nofollow" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22Flettner+airplane%22&amp;acc=on&amp;wc=on">JSTOR</a></span></small></span> 
+        <small class="date-container"><i>(<span class="date">March 2012</span>)</i></small>
+        <small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small>
+       </div></td>
+     </tr>
+    </tbody>
+   </table> 
+   <div class="thumb tright">
+    <div class="thumbinner" style="width:222px;">
+     <a href="/wiki/File:Flettner_Rotor_Aircraft.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flettner_Rotor_Aircraft.jpg/220px-Flettner_Rotor_Aircraft.jpg" decoding="async" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flettner_Rotor_Aircraft.jpg/330px-Flettner_Rotor_Aircraft.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flettner_Rotor_Aircraft.jpg/440px-Flettner_Rotor_Aircraft.jpg 2x" data-file-width="550" data-file-height="412"></a> 
+     <div class="thumbcaption">
+      <div class="magnify">
+       <a href="/wiki/File:Flettner_Rotor_Aircraft.jpg" class="internal" title="Enlarge"></a>
+      </div>The Plymouth A-A-2004 rotor aircraft
+     </div>
+    </div>
+   </div> 
+   <p>A <b>flettner airplane</b> is a type of rotor airplane which uses a <a href="/wiki/Flettner_rotor" title="Flettner rotor">Flettner rotor</a> to provide lift. The rotor comprises a spinning cylinder with circular end plates and, in an aircraft, spins about a spanwise horizontal axis. When the aircraft moves forward the <a href="/wiki/Magnus_effect" title="Magnus effect">Magnus effect</a> creates lift.<sup id="cite_ref-popsci1930_1-0" class="reference"><a href="#cite_note-popsci1930-1">[1]</a></sup> </p>
+   <p><a href="/wiki/Anton_Flettner" title="Anton Flettner">Anton Flettner</a>, after whom the rotor is named, used it successfully as the sails of a ship. He also suggested its use as a wing for a rotor airplane. </p>
+   <p>The Butler Ames Aerocycle was built in 1910 and tested on board a warship. There is no record of it having flown.<sup id="cite_ref-popsci1930_1-1" class="reference"><a href="#cite_note-popsci1930-1">[1]</a></sup><sup id="cite_ref-seifert_2-0" class="reference"><a href="#cite_note-seifert-2">[2]</a></sup> </p>
+   <p>The <a href="/w/index.php?title=Plymouth_A-A-2004&amp;action=edit&amp;redlink=1" class="new" title="Plymouth A-A-2004 (page does not exist)">Plymouth A-A-2004</a> was built for Zaparka in 1930 by three anonymous American inventors, and was reported to have made successful flights over <a href="/wiki/Long_Island_Sound" title="Long Island Sound">Long Island Sound</a>.<sup id="cite_ref-popsci1930_1-2" class="reference"><a href="#cite_note-popsci1930-1">[1]</a></sup><sup id="cite_ref-seifert_2-1" class="reference"><a href="#cite_note-seifert-2">[2]</a></sup> </p>
+   <p>An inherent safety concern is that if power to the rotating drums was lost—even if <a href="/wiki/Thrust" title="Thrust">thrust</a> was maintained—the aircraft would lose its ability to generate lift as the drum slowed down and it would not be able to sustain flight.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> </p> 
+   <h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Flettner_airplane&amp;action=edit&amp;section=1" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <ul>
+    <li><a href="/wiki/Cyclogyro" title="Cyclogyro">Cyclogyro</a></li> 
+    <li><a href="/wiki/FanWing" title="FanWing">FanWing</a></li> 
+    <li><a href="/wiki/Flettner-flap" class="mw-redirect" title="Flettner-flap">Flettner-flap</a></li>
+   </ul> 
+   <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Flettner_airplane&amp;action=edit&amp;section=2" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <div class="reflist" style="list-style-type: decimal;"> 
+    <div class="mw-references-wrap">
+     <ol class="references"> 
+      <li id="cite_note-popsci1930-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-popsci1930_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-popsci1930_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-popsci1930_1-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Corporation, Bonnier (November 1930). <a rel="nofollow" class="external text" href="https://books.google.com/?id=xSgDAAAAMBAJ&amp;pg=PA26&amp;dq=popular+science+cannon#v=onepage&amp;q=popular%20science%20cannon&amp;f=true">"Whirling Spools Lift This Plane"</a>. <i>Popular Science Monthly</i>: 26<span class="reference-accessdate">. Retrieved <span class="nowrap">8 November</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Popular+Science+Monthly&amp;rft.atitle=Whirling+Spools+Lift+This+Plane&amp;rft.pages=26&amp;rft.date=1930-11&amp;rft.aulast=Corporation&amp;rft.aufirst=Bonnier&amp;rft_id=https%3A%2F%2Fbooks.google.com%2F%3Fid%3DxSgDAAAAMBAJ%26pg%3DPA26%26dq%3Dpopular%2Bscience%2Bcannon%23v%3Donepage%26q%3Dpopular%2520science%2520cannon%26f%3Dtrue&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFlettner+airplane" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span> </li> 
+      <li id="cite_note-seifert-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-seifert_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-seifert_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Seifert, Jost; "A Review of the Magnus Effect in Aeronautics", <i>Progress in Aerospace Sciences</i> Vol. 55, Elsevier, 2012, pages 17–45.</span> </li> 
+      <li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation book">Ray, Keith (2015). <i>The Strangest Aircraft Of All Time</i>. Stroud, Gloucestershire GL5 2QG: The History Press. p.&nbsp;48. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/9780750960977" title="Special:BookSources/9780750960977"><bdi>9780750960977</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Strangest+Aircraft+Of+All+Time&amp;rft.place=Stroud%2C+Gloucestershire+GL5+2QG&amp;rft.pages=48&amp;rft.pub=The+History+Press&amp;rft.date=2015&amp;rft.isbn=9780750960977&amp;rft.aulast=Ray&amp;rft.aufirst=Keith&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFlettner+airplane" class="Z3988"></span>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+     </ol>
+    </div>
+   </div>
+   <table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000"> 
+    <tbody>
+     <tr> 
+      <td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376"></td> 
+      <td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Flettner_aircraft" class="extiw" title="commons:Category:Flettner aircraft">Flettner aircraft</a></b></i>.</td>
+     </tr>
+    </tbody>
+   </table> 
+   <p class="mw-empty-elt"> </p> 
+   <div role="navigation" class="navbox" aria-labelledby="Types_of_aircraft_by_methods_of_thrust_and_lift" style="padding:3px">
+    <table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+     <tbody>
+      <tr>
+       <th scope="col" class="navbox-title" colspan="2">
+        <div class="plainlinks hlist navbar mini">
+         <ul>
+          <li class="nv-view"><a href="/wiki/Template:Aircraft_types_(by_method_of_thrust_and_lift)" title="Template:Aircraft types (by method of thrust and lift)"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+          <li class="nv-talk"><a href="/wiki/Template_talk:Aircraft_types_(by_method_of_thrust_and_lift)" title="Template talk:Aircraft types (by method of thrust and lift)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+          <li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Aircraft_types_(by_method_of_thrust_and_lift)&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+         </ul>
+        </div>
+        <div id="Types_of_aircraft_by_methods_of_thrust_and_lift" style="font-size:114%;margin:0 4em">
+         Types of 
+         <a href="/wiki/Aircraft" title="Aircraft">aircraft</a> by methods of 
+         <a href="/wiki/Thrust" title="Thrust">thrust</a> and 
+         <a href="/wiki/Lift_(force)" title="Lift (force)">lift</a>
+        </div></th>
+      </tr>
+      <tr>
+       <td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px;text-align:left">
+        <div style="padding:0em 0.25em"> 
+         <table class="wikitable" style="width:100%; margin:auto; text-align:center;"> 
+          <tbody>
+           <tr> 
+            <th rowspan="2" style="background-color: #efefef;">&nbsp; </th> 
+            <th style="background-color: #e6e6ff"><a href="/wiki/Aerostat" title="Aerostat">Aerostat</a> </th> 
+            <th colspan="3" style="background-color: #e6e6ff"><a href="/wiki/Aircraft#Heavier_than_air_–_aerodynes" title="Aircraft">Aerodyne</a> </th>
+           </tr> 
+           <tr> 
+            <th style="background-color: #e6e6ff">Lift: Lighter than air gas</th> 
+            <th style="background-color: #e6e6ff">Lift: Fixed wing</th> 
+            <th style="background-color: #e6e6ff">Lift: Unpowered rotor</th> 
+            <th style="background-color: #e6e6ff">Lift: Powered rotor </th>
+           </tr> 
+           <tr> 
+            <th style="text-align:left; background-color: #e6e6ff">Unpowered free flight </th> 
+            <td>(Free) <a href="/wiki/Balloon_(aeronautics)" title="Balloon (aeronautics)">balloon</a></td> 
+            <td><a href="/wiki/Glider_(aircraft)" title="Glider (aircraft)">Glider</a></td> 
+            <td><a href="/wiki/Helicopter" title="Helicopter">Helicopter</a>, etc. in <a href="/wiki/Autorotation" title="Autorotation">autorotation</a></td> 
+            <td>(None – see note 2) </td>
+           </tr> 
+           <tr> 
+            <th style="text-align:left; background-color: #e6e6ff">Tethered (static or towed) </th> 
+            <td><a href="/wiki/Tethered_balloon" title="Tethered balloon">Tethered balloon</a></td> 
+            <td><a href="/wiki/Kite" title="Kite">Kite</a></td> 
+            <td><a href="/wiki/Rotor_kite" title="Rotor kite">Rotor kite</a></td> 
+            <td>(None – see note 2) </td>
+           </tr> 
+           <tr> 
+            <th style="text-align:left; background-color: #e6e6ff">Powered </th>

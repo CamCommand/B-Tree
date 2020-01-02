@@ -1,0 +1,830 @@
+<div id="bodyContent" class="mw-body-content"> 
+ <div id="siteSub" class="noprint">
+  From Wikipedia, the free encyclopedia
+ </div> 
+ <div id="contentSub"></div> 
+ <div id="jump-to-nav"></div> 
+ <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> 
+ <a class="mw-jump-link" href="#p-search">Jump to search</a> 
+ <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+  <div class="mw-parser-output">
+   <table class="infobox biography vcard" style="width:22em">
+    <tbody>
+     <tr>
+      <th colspan="2" style="text-align:center;font-size:125%;font-weight:bold">
+       <div class="fn" style="display:inline">
+        Ana Ortiz
+       </div></th>
+     </tr>
+     <tr>
+      <td colspan="2" style="text-align:center"><a href="/wiki/File:Ana_Ortiz_2014.jpg" class="image"><img alt="Ana Ortiz 2014.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/74/Ana_Ortiz_2014.jpg/220px-Ana_Ortiz_2014.jpg" decoding="async" width="220" height="337" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/74/Ana_Ortiz_2014.jpg/330px-Ana_Ortiz_2014.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/74/Ana_Ortiz_2014.jpg/440px-Ana_Ortiz_2014.jpg 2x" data-file-width="1841" data-file-height="2820"></a>
+       <div>
+        Ortiz at the 29th Annual Imagen Awards in 2014
+       </div></td>
+     </tr>
+     <tr>
+      <th scope="row">Born</th>
+      <td>
+       <div style="display:inline" class="nickname">
+        Ana Ortiz
+       </div><br><span style="display:none"> (<span class="bday">1971-01-25</span>) </span>January 25, 1971<span class="noprint ForceAgeToShow"> (age&nbsp;48)</span><br>
+       <div style="display:inline" class="birthplace">
+        <a href="/wiki/New_York_City" title="New York City">New York City</a>, New York, US
+       </div></td>
+     </tr>
+     <tr>
+      <th scope="row">Residence</th>
+      <td class="label"><a href="/wiki/Los_Angeles,_California" class="mw-redirect" title="Los Angeles, California">Los Angeles, California</a></td>
+     </tr>
+     <tr>
+      <th scope="row">Other&nbsp;names</th>
+      <td class="nickname">Ana Lebenzon</td>
+     </tr>
+     <tr>
+      <th scope="row">Occupation</th>
+      <td class="role">Actress, singer</td>
+     </tr>
+     <tr>
+      <th scope="row">Years&nbsp;active</th>
+      <td>1995–present</td>
+     </tr>
+     <tr>
+      <th scope="row"><span class="nowrap">Spouse(s)</span></th>
+      <td>
+       <div style="display:inline-block;line-height:normal;margin:2px 0px;">
+        Noah Lebenzon (
+        <abbr title="married">m.</abbr>&nbsp;2007)
+       </div></td>
+     </tr>
+     <tr>
+      <th scope="row">Children</th>
+      <td>2</td>
+     </tr>
+    </tbody>
+   </table> 
+   <p><b>Ana Ortiz</b> (born January 25, 1971)<sup id="cite_ref-tvg_1-0" class="reference"><a href="#cite_note-tvg-1">[1]</a></sup> is an <a href="/wiki/United_States" title="United States">American</a> actress and singer. Having pursued a career in ballet and singing from a young age, she eventually attended <a href="/wiki/University_of_the_Arts_(Philadelphia)" title="University of the Arts (Philadelphia)">University of the Arts</a>. Ortiz began her acting career in theatre, in early 2000s starred in the short-lived <a href="/wiki/NBC" title="NBC">NBC</a> sitcoms <i><a href="/wiki/Kristin_(TV_series)" title="Kristin (TV series)">Kristin</a></i> (2001) and <i><a href="/wiki/A.U.S.A." title="A.U.S.A.">A.U.S.A.</a></i> (2003), and had recurring roles on <i><a href="/wiki/Over_There_(American_TV_series)" class="mw-redirect" title="Over There (American TV series)">Over There</a></i> and <i><a href="/wiki/Boston_Legal" title="Boston Legal">Boston Legal</a></i>. </p>
+   <p>Ortiz garnered widespread attention for her role as <a href="/wiki/Hilda_Suarez" title="Hilda Suarez">Hilda Suarez</a> in the <a href="/wiki/American_Broadcasting_Company" title="American Broadcasting Company">ABC</a> <a href="/wiki/Comedy-drama" title="Comedy-drama">comedy-drama</a> series <i><a href="/wiki/Ugly_Betty" title="Ugly Betty">Ugly Betty</a></i> from 2006 to 2010. She also appeared in such films like <i><a href="/wiki/Labor_Pains" title="Labor Pains">Labor Pains</a></i> (2009) and <i><a href="/wiki/Big_Mommas:_Like_Father,_Like_Son" title="Big Mommas: Like Father, Like Son">Big Mommas: Like Father, Like Son</a></i> (2011), and starred in <i><a href="/wiki/Little_Girl_Lost:_The_Delimar_Vera_Story" title="Little Girl Lost: The Delimar Vera Story">Little Girl Lost: The Delimar Vera Story</a></i> (2008). From 2013 to 2016, Ortiz starred as Marisol Suarez in the <a href="/wiki/Lifetime_(TV_network)" title="Lifetime (TV network)">Lifetime</a> television comedy-drama series <i><a href="/wiki/Devious_Maids" title="Devious Maids">Devious Maids</a></i>, for which she received the <a href="/wiki/Imagen_Award" class="mw-redirect" title="Imagen Award">Imagen Award for Best Actress - Television</a>. </p> 
+   <div id="toc" class="toc">
+    <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+    <div class="toctitle" lang="en" dir="ltr">
+     <h2>Contents</h2>
+     <span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+    </div> 
+    <ul> 
+     <li class="toclevel-1 tocsection-1"><a href="#Life_and_career"><span class="tocnumber">1</span> <span class="toctext">Life and career</span></a> 
+      <ul> 
+       <li class="toclevel-2 tocsection-2"><a href="#Early_life_and_career_in_theatre"><span class="tocnumber">1.1</span> <span class="toctext">Early life and career in theatre</span></a></li> 
+       <li class="toclevel-2 tocsection-3"><a href="#2006-2010:Ugly_Betty_and_other_roles"><span class="tocnumber">1.2</span> <span class="toctext">2006-2010:<i>Ugly Betty</i> and other roles</span></a></li> 
+       <li class="toclevel-2 tocsection-4"><a href="#2010-present:_Devious_Maids_and_later"><span class="tocnumber">1.3</span> <span class="toctext">2010-present: <i>Devious Maids</i> and later</span></a></li> 
+      </ul> </li> 
+     <li class="toclevel-1 tocsection-5"><a href="#Personal_life"><span class="tocnumber">2</span> <span class="toctext">Personal life</span></a></li> 
+     <li class="toclevel-1 tocsection-6"><a href="#Filmography"><span class="tocnumber">3</span> <span class="toctext">Filmography</span></a> 
+      <ul> 
+       <li class="toclevel-2 tocsection-7"><a href="#Film"><span class="tocnumber">3.1</span> <span class="toctext">Film</span></a></li> 
+       <li class="toclevel-2 tocsection-8"><a href="#Television"><span class="tocnumber">3.2</span> <span class="toctext">Television</span></a></li> 
+      </ul> </li> 
+     <li class="toclevel-1 tocsection-9"><a href="#Awards_and_nominations"><span class="tocnumber">4</span> <span class="toctext">Awards and nominations</span></a></li> 
+     <li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li> 
+     <li class="toclevel-1 tocsection-11"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li> 
+    </ul> 
+   </div> 
+   <h2><span class="mw-headline" id="Life_and_career">Life and career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ana_Ortiz&amp;action=edit&amp;section=1" title="Edit section: Life and career">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <h3><span class="mw-headline" id="Early_life_and_career_in_theatre">Early life and career in theatre</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ana_Ortiz&amp;action=edit&amp;section=2" title="Edit section: Early life and career in theatre">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+   <p>Ortiz was born in <a href="/wiki/New_York_City" title="New York City">New York City</a>,<sup id="cite_ref-tvg_1-1" class="reference"><a href="#cite_note-tvg-1">[1]</a></sup> and is the daughter of Angel Ortiz, a former <a href="/wiki/Philadelphia_City_Council" title="Philadelphia City Council">Philadelphia City Council</a> member of Puerto Rican descent, and an <a href="/wiki/Irish-American" class="mw-redirect" title="Irish-American">Irish-American</a> mother,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Kathleen Kulhman.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> As a child, Ortiz studied ballet for eight years, until the pain of dancing <a href="/wiki/En_pointe" class="mw-redirect" title="En pointe">en pointe</a> forced her to pursue a different artistic discipline. Ortiz graduated from <a href="/wiki/University_of_the_Arts_(Philadelphia)" title="University of the Arts (Philadelphia)">University of the Arts</a> in Philadelphia.<sup id="cite_ref-tvg_1-2" class="reference"><a href="#cite_note-tvg-1">[1]</a></sup> </p> 
+   <div class="thumb tright">
+    <div class="thumbinner" style="width:172px;">
+     <a href="/wiki/File:Ana_Ortiz2crop.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/58/Ana_Ortiz2crop.jpg/170px-Ana_Ortiz2crop.jpg" decoding="async" width="170" height="267" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/5/58/Ana_Ortiz2crop.jpg 1.5x" data-file-width="201" data-file-height="316"></a> 
+     <div class="thumbcaption">
+      <div class="magnify">
+       <a href="/wiki/File:Ana_Ortiz2crop.jpg" class="internal" title="Enlarge"></a>
+      </div>Ortiz at The Heart Truth Fashion Show 2008
+     </div>
+    </div>
+   </div> 
+   <p>Switching to singing, Ortiz attended the <a href="/wiki/Fiorello_H._LaGuardia_High_School_of_Music_%26_Art_and_Performing_Arts" class="mw-redirect" title="Fiorello H. LaGuardia High School of Music &amp; Art and Performing Arts">Fiorello H. LaGuardia High School of Music &amp; Art and Performing Arts</a> in <a href="/wiki/New_York_City" title="New York City">New York City</a> and later the <a href="/wiki/University_of_the_Arts_(Philadelphia)" title="University of the Arts (Philadelphia)">University of the Arts</a> in Philadelphia before making her professional stage debut in a regional theater production of <i>Dangerous Liaisons</i>. Her additional stage credits include portraying Chrissy in a European touring production of <i><a href="/wiki/Hair_(musical)" title="Hair (musical)">Hair</a></i>, regional theater productions such as <i>Dog Lady and the Cuban Swimmer</i> and in the <a href="/wiki/South_Coast_Repertory" title="South Coast Repertory">South Coast Repertory</a> Theater's production of <i>References to Salvador Dalí Make Me Hot</i>. After joining LAByrinth Theatre Company,<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> she appeared <a href="/wiki/Off-Broadway" title="Off-Broadway">Off-Broadway</a> in <i>In Arabia, We'd All Be Kings</i>, directed by <a href="/wiki/Academy_Award" class="mw-redirect" title="Academy Award">Academy Award</a>-winning actor <a href="/wiki/Philip_Seymour_Hoffman" title="Philip Seymour Hoffman">Philip Seymour Hoffman</a> and named one of the 10-best plays of 1999 by the magazine <i>Time Out New York</i>. </p>
+   <p>Ortiz appeared in several television shows including <i><a href="/wiki/NYPD_Blue" title="NYPD Blue">NYPD Blue</a></i>, <i><a href="/wiki/Everybody_Loves_Raymond" title="Everybody Loves Raymond">Everybody Loves Raymond</a></i>, <i><a href="/wiki/Commander_In_Chief" class="mw-redirect" title="Commander In Chief">Commander In Chief</a></i>, <i><a href="/wiki/ER_(TV_series)" title="ER (TV series)">ER</a></i>, and <i><a href="/wiki/The_New_Adventures_of_Old_Christine" title="The New Adventures of Old Christine">The New Adventures of Old Christine</a></i>. She had her first series regular role in short-lived NBC comedy series <i><a href="/wiki/Kristin_(TV_series)" title="Kristin (TV series)">Kristin</a></i> (2001). She later starred in another short-lived sitcom, called <i><a href="/wiki/A.U.S.A." title="A.U.S.A.">A.U.S.A.</a></i> in 2003, and later had recurring roles in the FX drama <i><a href="/wiki/Over_There_(American_TV_series)" class="mw-redirect" title="Over There (American TV series)">Over There</a></i>, and ABC series <i><a href="/wiki/Boston_Legal" title="Boston Legal">Boston Legal</a></i>.<sup id="cite_ref-tvg_1-3" class="reference"><a href="#cite_note-tvg-1">[1]</a></sup> </p> 
+   <h3><span class="mw-headline" id="2006-2010:Ugly_Betty_and_other_roles">2006-2010:<i>Ugly Betty</i> and other roles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ana_Ortiz&amp;action=edit&amp;section=3" title="Edit section: 2006-2010:Ugly Betty and other roles">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+   <p>In 2006, Ortiz was cast as <a href="/wiki/Hilda_Suarez" title="Hilda Suarez">Hilda Suarez</a>, the lead character's sister, in the <a href="/wiki/American_Broadcasting_Company" title="American Broadcasting Company">ABC</a> comedy-drama series <i><a href="/wiki/Ugly_Betty" title="Ugly Betty">Ugly Betty</a></i>. Originally, Ortiz had auditioned for the <a href="/wiki/Betty_Suarez" title="Betty Suarez">Betty Suarez</a> role, saying in 2008, "I was super plain. I just put on some glasses and kept my hair kind of flat and layered on the clothing", describing what she wore when auditioning for the role of Betty. "I just wanted them to remember me, so that I could be involved in the future".<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> </p> 
+   <div class="thumb tleft">
+    <div class="thumbinner" style="width:222px;">
+     <a href="/wiki/File:Devious_Maids_cast_2013_2.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Devious_Maids_cast_2013_2.jpg/220px-Devious_Maids_cast_2013_2.jpg" decoding="async" width="220" height="131" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Devious_Maids_cast_2013_2.jpg/330px-Devious_Maids_cast_2013_2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Devious_Maids_cast_2013_2.jpg/440px-Devious_Maids_cast_2013_2.jpg 2x" data-file-width="4816" data-file-height="2863"></a> 
+     <div class="thumbcaption">
+      <div class="magnify">
+       <a href="/wiki/File:Devious_Maids_cast_2013_2.jpg" class="internal" title="Enlarge"></a>
+      </div>Ortiz with 
+      <i>Devious Maids</i> cast in 2013
+     </div>
+    </div>
+   </div> 
+   <p>In addition to her role on <i>Ugly Betty</i>, Ortiz was active in films, which include starring roles in <i><a href="/wiki/Tortilla_Heaven" title="Tortilla Heaven">Tortilla Heaven</a></i> and <i><a href="/wiki/Labor_Pains" title="Labor Pains">Labor Pains</a></i>. She also had a voice role in <i><a href="/wiki/Batman:_Gotham_Knight" title="Batman: Gotham Knight">Batman: Gotham Knight</a></i>, and starred in the made-for-television movie <i><a href="/wiki/Little_Girl_Lost:_The_Delimar_Vera_Story" title="Little Girl Lost: The Delimar Vera Story">Little Girl Lost: The Delimar Vera Story</a></i> in 2008. Ortiz also had a guest-starring role on <i><a href="/wiki/Army_Wives" title="Army Wives">Army Wives</a></i> during its second season, playing a waitress named Sandi.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> She also appeared in the 2010 music video for <a href="/wiki/Enrique_Iglesias" title="Enrique Iglesias">Enrique Iglesias</a> and <a href="/wiki/Juan_Luis_Guerra" title="Juan Luis Guerra">Juan Luis Guerra</a>'s "<a href="/wiki/Cuando_Me_Enamoro" title="Cuando Me Enamoro">Cuando me enamoro</a>".<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> </p> 
+   <h3><span class="mw-headline" id="2010-present:_Devious_Maids_and_later">2010-present: <i>Devious Maids</i> and later</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ana_Ortiz&amp;action=edit&amp;section=4" title="Edit section: 2010-present: Devious Maids and later">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+   <p>After <i>Ugly Betty</i> ended in 2010, Ortiz was cast as lead character in the ABC drama pilot <i>True Blue</i> about San Francisco homicide detectives reunited to solve the murder of one of their own.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> The pilot was not picked up to series. The following year she appeared in the comedy film <i><a href="/wiki/Big_Mommas:_Like_Father,_Like_Son" title="Big Mommas: Like Father, Like Son">Big Mommas: Like Father, Like Son</a></i>, and starred in another pilot, called <i>Outnumbered</i> for Fox,<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> her second pilot not picked up to series. She later had a recurring role on the HBO comedy series <i><a href="/wiki/Hung_(TV_series)" title="Hung (TV series)">Hung</a></i>.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> Ortiz also starred in the independent films <i>Sleeping with the Fishes</i>, and <i>Such Good People</i>.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> </p>
+   <p>In 2012, Ortiz was cast as a lead character on the ABC comedy-drama pilot <i><a href="/wiki/Devious_Maids" title="Devious Maids">Devious Maids</a></i>.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> While ABC chose not to pick it up to series,<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> Lifetime picked up the pilot with a thirteen-episode order.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> The series premiered June 23, 2013, on Lifetime with positive reviews from critics.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup> In the show, she plays the lead role of Marisol Duarte (the alias of Professor Marisol Suarez). Also in 2013, Ortiz was special guest star in the ABC primetime soap opera, <i><a href="/wiki/Revenge_(TV_series)" title="Revenge (TV series)">Revenge</a></i>, as Bizzy Preston.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup><sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup> In 2014, Ortiz guest-starred in episodes of two ABC shows: <i><a href="/wiki/How_to_Get_Away_with_Murder" title="How to Get Away with Murder">How to Get Away with Murder</a></i><sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup> and <i><a href="/wiki/Black-ish" title="Black-ish">Black-ish</a></i>.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup> </p>
+   <p>In 2014 Ortiz was cast in the gay-drama film <i><a href="/wiki/Love_Is_All_You_Need%3F_(2016_film)" title="Love Is All You Need? (2016 film)">Love is All You Need?</a></i> (2016), based on the 2011 short film with the same name.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup><sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup> She did voice over work in the 2018 film <i><a href="/wiki/Ralph_Breaks_the_Internet" title="Ralph Breaks the Internet">Ralph Breaks the Internet</a></i>.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup> </p> 
+   <div class="thumb tleft">
+    <div class="thumbinner" style="width:172px;">
+     <a href="/wiki/File:Ana_Ortiz_2012.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ana_Ortiz_2012.jpg/170px-Ana_Ortiz_2012.jpg" decoding="async" width="170" height="234" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ana_Ortiz_2012.jpg/255px-Ana_Ortiz_2012.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ana_Ortiz_2012.jpg/340px-Ana_Ortiz_2012.jpg 2x" data-file-width="626" data-file-height="862"></a> 
+     <div class="thumbcaption">
+      <div class="magnify">
+       <a href="/wiki/File:Ana_Ortiz_2012.jpg" class="internal" title="Enlarge"></a>
+      </div>Ortiz at the Alma Awards 2012.
+     </div>
+    </div>
+   </div> 
+   <p><i>Devious Maids</i> was canceled after four seasons, in 2016. The following year, Ortiz starred in her third unsold pilot, a comedy called <i>Charlie Foxtrot</i>.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup> Since 2019, Ortiz appears in the main cast of the comedy drama <i><a href="/wiki/Whiskey_Cavalier" title="Whiskey Cavalier">Whiskey Cavalier</a></i>, playing FBI <a href="/wiki/Offender_profiling" title="Offender profiling">profiler</a> Susan Sampson.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup> </p> 
+   <h2><span class="mw-headline" id="Personal_life">Personal life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ana_Ortiz&amp;action=edit&amp;section=5" title="Edit section: Personal life">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <p>Ortiz married musician Noah Lebenzon in June 2007 in <a href="/wiki/Rincon,_Puerto_Rico" class="mw-redirect" title="Rincon, Puerto Rico">Rincón</a>, <a href="/wiki/Puerto_Rico" title="Puerto Rico">Puerto Rico</a>.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup> Their daughter Paloma Louise Lebenzon was born June 25, 2009.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup> Their second child, son Rafael, was born on September 24, 2011.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup> </p>
+   <p>Ortiz is active in raising awareness against domestic abuse, citing her own experiences when she was in her 20s and involved in a romantic relationship that turned physically abusive. In an article for <i><a href="/wiki/USA_Today" title="USA Today">USA Today</a></i>, Ortiz notes that the final scene from the <i>Ugly Betty</i> episode "<a href="/wiki/How_Betty_Got_Her_Grieve_Back" title="How Betty Got Her Grieve Back">How Betty Got Her Grieve Back</a>", in which Hilda sat on her bed staring at the bathroom after realizing that Santos had died, was drawn from that experience: "I used some of that subconsciously ... It's something that is always with me".<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup> </p> 
+   <div style="clear:both;"></div> 
+   <h2><span class="mw-headline" id="Filmography">Filmography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ana_Ortiz&amp;action=edit&amp;section=6" title="Edit section: Filmography">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <h3><span class="mw-headline" id="Film">Film</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ana_Ortiz&amp;action=edit&amp;section=7" title="Edit section: Film">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+   <table class="wikitable sortable"> 
+    <tbody>
+     <tr> 
+      <th>Year </th> 
+      <th>Title </th> 
+      <th>Role </th> 
+      <th class="unsortable">Notes </th>
+     </tr> 
+     <tr> 
+      <td>1995 </td> 
+      <td><i><a href="/wiki/Condition_Red_(film)" title="Condition Red (film)">Condition Red</a></i> </td> 
+      <td>C Block Inmate </td> 
+      <td> </td>
+     </tr> 
+     <tr> 
+      <td>2000 </td> 
+      <td><i>King of the Korner</i> </td> 
+      <td>Isabel </td> 
+      <td> </td>
+     </tr> 
+     <tr> 
+      <td>2002 </td> 
+      <td><i><a href="/wiki/Mr._St._Nick" title="Mr. St. Nick">Mr. St. Nick</a></i> </td> 
+      <td>Lorena </td> 
+      <td> </td>
+     </tr> 
+     <tr> 
+      <td>2002 </td> 
+      <td><i>Lehi's Wife</i> </td> 
+      <td>Kelly </td> 
+      <td>Short film </td>
+     </tr> 
+     <tr> 
+      <td>2003 </td> 
+      <td><i><a href="/wiki/Carolina_(2003_film)" title="Carolina (2003 film)">Carolina</a></i> </td> 
+      <td>Christen </td> 
+      <td> </td>
+     </tr> 
+     <tr> 
+      <td>2007 </td> 
+      <td><i><a href="/wiki/Tortilla_Heaven" title="Tortilla Heaven">Tortilla Heaven</a></i> </td> 
+      <td>Chicana </td> 
+      <td> </td>
+     </tr> 
+     <tr> 
+      <td>2008 </td> 
+      <td><i>The Winged Man</i> </td> 
+      <td>Wanda </td> 
+      <td>Short film </td>
+     </tr> 
+     <tr> 
+      <td>2008 </td> 
+      <td><i><a href="/wiki/Batman:_Gotham_Knight" title="Batman: Gotham Knight">Batman: Gotham Knight</a></i> </td> 
+      <td>Anna Ramirez </td> 
+      <td>Voice </td>
+     </tr> 
+     <tr> 
+      <td>2009 </td> 
+      <td><i><a href="/wiki/Labor_Pains" title="Labor Pains">Labor Pains</a></i> </td> 
+      <td>Donna </td> 
+      <td> </td>
+     </tr> 
+     <tr> 
+      <td>2011 </td> 
+      <td><i><a href="/wiki/Big_Mommas:_Like_Father,_Like_Son" title="Big Mommas: Like Father, Like Son">Big Mommas: Like Father, Like Son</a></i> </td> 
+      <td>Gail Fletcher </td> 
+      <td> </td>
+     </tr> 
+     <tr> 
+      <td>2011 </td> 
+      <td><i>The Last Generation</i> </td> 
+      <td>Diner Chick </td> 
+      <td>Short film </td>
+     </tr> 
+     <tr> 
+      <td>2012 </td> 
+      <td><i><a href="/wiki/Noah%27s_Ark:_The_New_Beginning" class="mw-redirect" title="Noah's Ark: The New Beginning">Noah's Ark: The New Beginning</a></i> </td> 
+      <td>Tier </td> 
+      <td>Voice </td>
+     </tr> 
+     <tr> 
+      <td>2013 </td> 
+      <td><i>Sleeping with the Fishes</i> </td> 
+      <td>Kayla Fish </td> 
+      <td> </td>
+     </tr> 
+     <tr> 
+      <td>2014 </td> 
+      <td><i><a href="/wiki/Such_Good_People" title="Such Good People">Such Good People</a></i> </td> 
+      <td>Detective Diane Kershman </td> 
+      <td>Film </td>
+     </tr> 
+     <tr> 
+      <td>2016 </td> 
+      <td><i><a href="/wiki/Love_Is_All_You_Need%3F_(2016_film)" title="Love Is All You Need? (2016 film)">Love is All You Need?</a></i> </td> 
+      <td>Susan Miller </td> 
+      <td> </td>
+     </tr> 
+     <tr> 
+      <td>2017 </td> 
+      <td><i><a href="/wiki/The_Keeping_Hours" title="The Keeping Hours">The Keeping Hours</a></i> </td> 
+      <td>Janice </td> 
+      <td> </td>
+     </tr> 
+     <tr> 
+      <td>2017 </td> 
+      <td><i>Trust Fund</i> </td> 
+      <td>Meredith </td> 
+      <td> </td>
+     </tr> 
+     <tr> 
+      <td>2018 </td> 
+      <td><i><a href="/wiki/Ralph_Breaks_the_Internet" title="Ralph Breaks the Internet">Ralph Breaks the Internet</a></i> </td> 
+      <td>Ballet Mom </td> 
+      <td>Voice </td>
+     </tr> 
+     <tr> 
+      <td>2019 </td> 
+      <td><i>Princess of the Row</i> </td> 
+      <td>Magdalene Rodriguez </td> 
+      <td> </td>
+     </tr>
+    </tbody>
+   </table> 
+   <h3><span class="mw-headline" id="Television">Television</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ana_Ortiz&amp;action=edit&amp;section=8" title="Edit section: Television">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+   <table class="wikitable sortable"> 
+    <tbody>
+     <tr> 
+      <th>Year </th> 
+      <th>Title </th> 
+      <th>Role </th> 
+      <th class="unsortable">Notes </th>
+     </tr> 
+     <tr> 
+      <td>1999 </td> 
+      <td><i><a href="/wiki/Dr._Quinn,_Medicine_Woman" title="Dr. Quinn, Medicine Woman">Dr. Quinn Medicine Woman: The Movie</a></i> </td> 
+      <td>Pregnant Woman </td> 
+      <td>Television film </td>
+     </tr> 
+     <tr> 
+      <td>2001 </td> 
+      <td><i><a href="/wiki/Kristin_(TV_series)" title="Kristin (TV series)">Kristin</a></i> </td> 
+      <td>Santa Clemente </td> 
+      <td>Series regular, 13 episodes </td>
+     </tr> 
+     <tr> 
+      <td>2001 </td> 
+      <td><i><a href="/wiki/Everybody_Loves_Raymond" title="Everybody Loves Raymond">Everybody Loves Raymond</a></i> </td> 
+      <td>Natasha </td> 
+      <td>Episode: "Raybert" </td>
+     </tr> 
+     <tr> 
+      <td>2000, 2002 </td> 
+      <td><i><a href="/wiki/NYPD_Blue" title="NYPD Blue">NYPD Blue</a></i> </td> 
+      <td>Luisa Lopez / Maria Alvarez </td> 
+      <td>Episodes: "A Hole in Juan" and "Dead Meat in New Deli" </td>
+     </tr> 
+     <tr> 
+      <td>2002 </td> 
+      <td><i><a href="/wiki/Strong_Medicine" title="Strong Medicine">Strong Medicine</a></i> </td> 
+      <td>Elena Delgado </td> 
+      <td>Episode: "Family History" </td>
+     </tr> 
+     <tr> 
+      <td>2002 </td> 
+      <td><i><a href="/wiki/Do_Over" title="Do Over">Do Over</a></i> </td> 
+      <td>Mrs. Rice </td> 
+      <td>Episode: "Rock 'n' Roll Parking Lot" </td>
+     </tr> 
+     <tr> 
+      <td>2002 </td> 
+      <td><i><a href="/wiki/ER_(TV_series)" title="ER (TV series)">ER</a></i> </td> 
+      <td>Laura </td> 
+      <td>Episode: "Hindsight" </td>
+     </tr> 
+     <tr> 
+      <td>2003 </td> 
+      <td><i><a href="/wiki/A.U.S.A." title="A.U.S.A.">A.U.S.A.</a></i> </td> 
+      <td>Ana Rivera </td> 
+      <td>Series regular, 13 episodes </td>
+     </tr> 
+     <tr> 
+      <td>2003 </td> 
+      <td><i><a href="/wiki/Greetings_from_Tucson" title="Greetings from Tucson">Greetings from Tucson</a></i> </td> 
+      <td>Angela </td> 
+      <td>Episode: "Eegee's vs. Hardee's" </td>
+     </tr> 
+     <tr> 
+      <td>2003 </td> 
+      <td><i>Life on Parole</i> </td> 
+      <td>Loretta </td> 
+      <td>TV pilot </td>
+     </tr> 
+     <tr> 
+      <td>2004 </td> 
+      <td><i><a href="/wiki/North_Shore_(TV_series)" title="North Shore (TV series)">North Shore</a></i> </td> 
+      <td>Ana Green </td> 
+      <td>Episode: "Secret Service" </td>
+     </tr> 
+     <tr> 
+      <td>2004 </td> 
+      <td><i>Foster Hall</i> </td> 
+      <td> </td> 
+      <td>TV pilot </td>
+     </tr> 
+     <tr> 
+      <td>2005 </td> 
+      <td><i><a href="/wiki/Blind_Justice_(TV_series)" title="Blind Justice (TV series)">Blind Justice</a></i> </td> 
+      <td>Letitia Barreras </td> 
+      <td>Episode: "Past Imperfect" </td>
+     </tr> 
+     <tr> 
+      <td>2005 </td> 
+      <td><i><a href="/wiki/Freddie_(TV_series)" title="Freddie (TV series)">Freddie</a></i> </td> 
+      <td>Gina </td> 
+      <td>Episode: "Rich Man, Poor Girl" </td>
+     </tr> 
+     <tr> 
+      <td>2005 </td> 
+      <td><i><a href="/wiki/Over_There_(American_TV_series)" class="mw-redirect" title="Over There (American TV series)">Over There</a></i> </td> 
+      <td>Anna </td> 
+      <td>Recurring role, 7 episodes </td>
+     </tr> 
+     <tr> 
+      <td>2006 </td> 
+      <td><i><a href="/wiki/Commander_in_Chief_(TV_series)" title="Commander in Chief (TV series)">Commander in Chief</a></i> </td> 
+      <td>Isabelle Rios </td> 
+      <td>Episode: "Wind Beneath My Wing" </td>
+     </tr> 
+     <tr> 
+      <td>2006 </td> 
+      <td><i><a href="/wiki/Boston_Legal" title="Boston Legal">Boston Legal</a></i> </td> 
+      <td>A.D.A. Holly Raines </td> 
+      <td>Recurring role, 4 episodes </td>
+     </tr> 
+     <tr> 
+      <td>2006 </td> 
+      <td><i><a href="/wiki/The_New_Adventures_of_Old_Christine" title="The New Adventures of Old Christine">The New Adventures of Old Christine</a></i> </td> 
+      <td>Belinda </td> 
+      <td>Episode: "Some of My Best Friends Are Portuguese" </td>
+     </tr> 
+     <tr> 
+      <td>2008 </td> 
+      <td><i><a href="/wiki/Army_Wives" title="Army Wives">Army Wives</a></i> </td> 
+      <td>Sandy </td> 
+      <td>Episode: "Loyalties" </td>
+     </tr> 
+     <tr> 
+      <td>2008 </td> 
+      <td><i><a href="/wiki/Little_Girl_Lost:_The_Delimar_Vera_Story" title="Little Girl Lost: The Delimar Vera Story">Little Girl Lost: The Delimar Vera Story</a></i> </td> 
+      <td>Valerie Valleja </td> 
+      <td>Television film </td>
+     </tr> 
+     <tr> 
+      <td>2006–10 </td> 
+      <td><i><a href="/wiki/Ugly_Betty" title="Ugly Betty">Ugly Betty</a></i> </td> 
+      <td><a href="/wiki/Hilda_Suarez" title="Hilda Suarez">Hilda Suarez</a> </td> 
+      <td>Series regular, 84 episodes </td>
+     </tr> 
+     <tr> 
+      <td>2010 </td> 
+      <td><i>True Blue</i> </td> 
+      <td>Maureen Minillo </td> 
+      <td>TV pilot </td>
+     </tr> 
+     <tr> 
+      <td>2011 </td> 
+      <td><i>Outnumbered</i> </td> 
+      <td>Sue Tulley </td> 
+      <td>TV pilot </td>
+     </tr> 
+     <tr> 
+      <td>2011 </td> 
+      <td><i><a href="/wiki/Hung_(TV_series)" title="Hung (TV series)">Hung</a></i> </td> 
+      <td>Lydia </td> 
+      <td>Recurring role, 5 episodes </td>
+     </tr> 
+     <tr> 
+      <td>2013–16 </td> 
+      <td><i><a href="/wiki/Devious_Maids" title="Devious Maids">Devious Maids</a></i> </td> 
+      <td><a href="/wiki/Marisol_Suarez" class="mw-redirect" title="Marisol Suarez">Marisol Suarez</a> </td> 
+      <td>Lead role, 49 episodes </td>
+     </tr> 
+     <tr> 
+      <td>2013 </td> 
+      <td><i><a href="/wiki/Revenge_(TV_series)" title="Revenge (TV series)">Revenge</a></i> </td> 
+      <td>Bizzy Preston </td> 
+      <td>Episode: "Resurgence" </td>
+     </tr> 
+     <tr> 
+      <td>2014 </td> 
+      <td><i><a href="/wiki/How_to_Get_Away_with_Murder" title="How to Get Away with Murder">How to Get Away with Murder</a></i> </td> 
+      <td>Paula Murphy / Elena Aguilar </td> 
+      <td>Episode: "Smile, or Go to Jail" </td>
+     </tr> 
+     <tr> 
+      <td>2014–17 </td> 
+      <td><i><a href="/wiki/Family_Guy" title="Family Guy">Family Guy</a></i> </td> 
+      <td>Cinnamon (voice) </td> 
+      <td>2 episodes </td>
+     </tr> 
+     <tr> 
+      <td>2015 </td> 
+      <td><i><a href="/wiki/Black-ish" title="Black-ish">Black-ish</a></i> </td> 
+      <td>Angelica Rodriguez </td> 
+      <td>Episode: "Black Santa/White Christmas" </td>
+     </tr> 
+     <tr> 
+      <td>2015 </td> 
+      <td><i><a href="/wiki/Marry_Me_(U.S._TV_series)" title="Marry Me (U.S. TV series)">Marry Me</a></i> </td> 
+      <td>Hailey </td> 
+      <td>Recurring role, 4 episodes </td>
+     </tr> 
+     <tr> 
+      <td>2016-18 </td> 
+      <td><i><a href="/wiki/Home:_Adventures_with_Tip_%26_Oh" title="Home: Adventures with Tip &amp; Oh">Home: Adventures with Tip &amp; Oh</a></i> </td> 
+      <td>Lucy Tucci (voice) </td> 
+      <td>Main role </td>
+     </tr> 
+     <tr> 
+      <td>2016-19 </td> 
+      <td><i><a href="/wiki/Elena_of_Avalor" title="Elena of Avalor">Elena of Avalor</a></i> </td> 
+      <td>Rafa (voice) </td> 
+      <td>Recurring role, 3 episodes </td>
+     </tr> 
+     <tr> 
+      <td>2016 </td> 
+      <td><i><a href="/wiki/Elena_and_the_Secret_of_Avalor" title="Elena and the Secret of Avalor">Elena and the Secret of Avalor</a></i> </td> 
+      <td>Rafa (voice) </td> 
+      <td>Television film </td>
+     </tr> 
+     <tr> 
+      <td>2017 </td> 
+      <td><i>Charlie Foxtrot</i> </td> 
+      <td>Angelina Torres </td> 
+      <td>TV pilot </td>
+     </tr> 
+     <tr> 
+      <td>2017 </td> 
+      <td><i><a href="/wiki/Angie_Tribeca" title="Angie Tribeca">Angie Tribeca</a></i> </td> 
+      <td><a href="/wiki/Betty_Crocker" title="Betty Crocker">Betty Crocker</a> </td> 
+      <td>Episode: "If You See Something, Solve Something" </td>
+     </tr> 
+     <tr> 
+      <td>2017 </td> 
+      <td><i><a href="/wiki/The_Mindy_Project" title="The Mindy Project">The Mindy Project</a></i> </td> 
+      <td>Dr. Mary Hernandez </td> 
+      <td>Recurring role, 4 episodes </td>
+     </tr> 
+     <tr> 
+      <td>2019 </td> 
+      <td><i><a href="/wiki/Whiskey_Cavalier" title="Whiskey Cavalier">Whiskey Cavalier</a></i> </td> 
+      <td>Susan Sampson </td> 
+      <td>Series regular </td>
+     </tr>
+    </tbody>
+   </table> 
+   <h2><span class="mw-headline" id="Awards_and_nominations">Awards and nominations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ana_Ortiz&amp;action=edit&amp;section=9" title="Edit section: Awards and nominations">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <table class="box-BLP_unsourced_section plainlinks metadata ambox ambox-content ambox-BLP_unsourced" role="presentation">
+    <tbody>
+     <tr>
+      <td class="mbox-image">
+       <div style="width:52px">
+        <img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40">
+       </div></td>
+      <td class="mbox-text">
+       <div class="mbox-text-span">
+        This section of a 
+        <a href="/wiki/Wikipedia:Biographies_of_living_persons" title="Wikipedia:Biographies of living persons">biography of a living person</a> 
+        <b>does not <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">include</a> any <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">references or sources</a></b>.
+        <span class="hide-when-compact"> Please help by adding <a href="/wiki/Wikipedia:Reliable_sources" title="Wikipedia:Reliable sources">reliable sources</a>. Contentious material about living people that is unsourced or poorly sourced <b>must be removed immediately</b>.<br><small><span class="plainlinks"><i>Find sources:</i>&nbsp;<a rel="nofollow" class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22Ana+Ortiz%22">"Ana Ortiz"</a>&nbsp;–&nbsp;<a rel="nofollow" class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22Ana+Ortiz%22+-wikipedia">news</a>&nbsp;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?&amp;q=%22Ana+Ortiz%22+site:news.google.com/newspapers&amp;source=newspapers">newspapers</a>&nbsp;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22Ana+Ortiz%22+-wikipedia">books</a>&nbsp;<b>·</b> <a rel="nofollow" class="external text" href="//scholar.google.com/scholar?q=%22Ana+Ortiz%22">scholar</a>&nbsp;<b>·</b> <a rel="nofollow" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22Ana+Ortiz%22&amp;acc=on&amp;wc=on">JSTOR</a></span></small></span> 
+        <small class="date-container"><i>(<span class="date">April 2018</span>)</i></small>
+        <small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small>
+       </div></td>
+     </tr>
+    </tbody>
+   </table> 
+   <table class="wikitable sortable plainrowheaders"> 
+    <tbody>
+     <tr> 
+      <th>Year </th> 
+      <th>Work </th> 
+      <th>Award </th> 
+      <th>Category </th> 
+      <th>Result </th>
+     </tr> 
+     <tr> 
+      <td>2007 </td> 
+      <td><i><a href="/wiki/Ugly_Betty" title="Ugly Betty">Ugly Betty</a></i> </td> 
+      <td><a href="/wiki/ALMA_Awards" class="mw-redirect" title="ALMA Awards">ALMA Awards</a> </td> 
+      <td><a href="/wiki/ALMA_Award" title="ALMA Award">ALMA Award for Outstanding Supporting Actress - Television Series, Mini-Series or Television Movie</a> </td> 
+      <td style="background: #99FF99; color: black; vertical-align: middle; text-align: center;" class="yes table-yes2">Won </td>
+     </tr> 
+     <tr> 
+      <td>2007 </td> 
+      <td><i><a href="/wiki/Ugly_Betty" title="Ugly Betty">Ugly Betty</a></i> </td> 
+      <td>OFTA Television Award </td> 
+      <td>Outstanding Supporting Actress </td> 
+      <td style="background: #99FF99; color: black; vertical-align: middle; text-align: center;" class="yes table-yes2">Won </td>
+     </tr> 
+     <tr> 
+      <td>2007 </td> 
+      <td><i><a href="/wiki/Ugly_Betty" title="Ugly Betty">Ugly Betty</a></i> </td> 
+      <td><a href="/wiki/Imagen_Awards" title="Imagen Awards">Imagen Award</a> </td> 
+      <td><a href="/wiki/Imagen_Awards" title="Imagen Awards">Imagen Award for Best Supporting Actress – Television</a> </td> 
+      <td style="background: #99FF99; color: black; vertical-align: middle; text-align: center;" class="yes table-yes2">Won </td>
+     </tr> 
+     <tr> 
+      <td>2007 </td> 
+      <td><i><a href="/wiki/Ugly_Betty" title="Ugly Betty">Ugly Betty</a></i> </td> 
+      <td><a href="/wiki/Screen_Actors_Guild_Award" title="Screen Actors Guild Award">Screen Actors Guild Award</a> </td> 
+      <td><a href="/wiki/Screen_Actors_Guild_Award_for_Outstanding_Performance_by_an_Ensemble_in_a_Comedy_Series" title="Screen Actors Guild Award for Outstanding Performance by an Ensemble in a Comedy Series">Screen Actors Guild Award for Outstanding Performance by an Ensemble in a Comedy Series</a> </td> 
+      <td style="background: #FDD; color: black; vertical-align: middle; text-align: center;" class="no table-no2">Nominated<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[31]</a></sup> </td>
+     </tr> 
+     <tr> 
+      <td>2008 </td> 
+      <td><i><a href="/wiki/Ugly_Betty" title="Ugly Betty">Ugly Betty</a></i> </td> 
+      <td><a href="/wiki/Ewwy_Awards" class="mw-redirect" title="Ewwy Awards">Ewwy Awards</a> </td> 
+      <td>Best Supporting Actress in a Comedy Series </td> 
+      <td style="background: #FDD; color: black; vertical-align: middle; text-align: center;" class="no table-no2">Nominated </td>
+     </tr> 
+     <tr> 
+      <td>2008 </td> 
+      <td><i><a href="/wiki/Ugly_Betty" title="Ugly Betty">Ugly Betty</a></i> </td> 
+      <td><a href="/wiki/Screen_Actors_Guild_Award" title="Screen Actors Guild Award">Screen Actors Guild Award</a> </td> 
+      <td><a href="/wiki/Screen_Actors_Guild_Award_for_Outstanding_Performance_by_an_Ensemble_in_a_Comedy_Series" title="Screen Actors Guild Award for Outstanding Performance by an Ensemble in a Comedy Series">Screen Actors Guild Award for Outstanding Performance by an Ensemble in a Comedy Series</a> </td> 
+      <td style="background: #FDD; color: black; vertical-align: middle; text-align: center;" class="no table-no2">Nominated<sup id="cite_ref-nomsentweekly_32-0" class="reference"><a href="#cite_note-nomsentweekly-32">[32]</a></sup> </td>
+     </tr> 
+     <tr> 
+      <td>2008 </td> 
+      <td><i><a href="/wiki/Ugly_Betty" title="Ugly Betty">Ugly Betty</a></i> </td> 
+      <td><a href="/wiki/Imagen_Awards" title="Imagen Awards">Imagen Award</a> </td> 
+      <td><a href="/wiki/Imagen_Awards" title="Imagen Awards">Imagen Award for Best Supporting Actress – Television</a> </td> 
+      <td style="background: #FDD; color: black; vertical-align: middle; text-align: center;" class="no table-no2">Nominated </td>
+     </tr> 
+     <tr> 
+      <td>2009 </td> 
+      <td><i><a href="/wiki/Little_Girl_Lost:_The_Delimar_Vera_Story" title="Little Girl Lost: The Delimar Vera Story">Little Girl Lost: The Delimar Vera Story</a></i> </td> 
+      <td><a href="/wiki/Imagen_Awards" title="Imagen Awards">Imagen Award</a> </td> 
+      <td><a href="/wiki/Imagen_Awards" title="Imagen Awards">Imagen Award for Best Supporting Actress</a> </td> 
+      <td style="background: #FDD; color: black; vertical-align: middle; text-align: center;" class="no table-no2">Nominated </td>
+     </tr> 
+     <tr> 
+      <td>2009 </td> 
+      <td><i><a href="/wiki/Ugly_Betty" title="Ugly Betty">Ugly Betty</a></i> </td> 
+      <td><a href="/wiki/Imagen_Awards" title="Imagen Awards">Imagen Award</a> </td> 
+      <td><a href="/wiki/Imagen_Awards" title="Imagen Awards">Imagen Award for Best Supporting Actress – Television</a> </td> 
+      <td style="background: #99FF99; color: black; vertical-align: middle; text-align: center;" class="yes table-yes2">Won </td>
+     </tr> 
+     <tr> 
+      <td>2009 </td> 
+      <td><i><a href="/wiki/Ugly_Betty" title="Ugly Betty">Ugly Betty</a></i> </td> 
+      <td><a href="/wiki/ALMA_Awards" class="mw-redirect" title="ALMA Awards">ALMA Awards</a> </td> 
+      <td><a href="/wiki/ALMA_Award" title="ALMA Award">ALMA Award for Outstanding Actress in Television - Comedy</a> </td> 
+      <td style="background: #FDD; color: black; vertical-align: middle; text-align: center;" class="no table-no2">Nominated </td>
+     </tr> 
+     <tr> 
+      <td>2010 </td> 
+      <td><i><a href="/wiki/Ugly_Betty" title="Ugly Betty">Ugly Betty</a></i> </td> 
+      <td><a href="/wiki/NAACP_Image_Awards" title="NAACP Image Awards">NAACP Image Awards</a> </td> 
+      <td><a href="/wiki/NAACP_Image_Award_for_Outstanding_Supporting_Actress_in_a_Comedy_Series" title="NAACP Image Award for Outstanding Supporting Actress in a Comedy Series">NAACP Image Award for Outstanding Supporting Actress in a Comedy Series</a> </td> 
+      <td style="background: #FDD; color: black; vertical-align: middle; text-align: center;" class="no table-no2">Nominated<sup id="cite_ref-imageawards08noms_33-0" class="reference"><a href="#cite_note-imageawards08noms-33">[33]</a></sup> </td>
+     </tr> 
+     <tr> 
+      <td>2013 </td> 
+      <td><i><a href="/wiki/Devious_Maids" title="Devious Maids">Devious Maids</a></i> </td> 
+      <td><a href="/wiki/ALMA_Awards" class="mw-redirect" title="ALMA Awards">ALMA Awards</a> </td> 
+      <td><a href="/wiki/ALMA_Award" title="ALMA Award">ALMA Award for Outstanding Actress in Television - Comedy</a> </td> 
+      <td style="background: #FDD; color: black; vertical-align: middle; text-align: center;" class="no table-no2">Nominated </td>
+     </tr> 
+     <tr> 
+      <td>2014 </td> 
+      <td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; font-size: smaller; text-align: center;" class="table-na">N/A </td> 
+      <td>2014 HOLA Awards </td> 
+      <td>José Ferrer Tespis Award </td> 
+      <td style="background: #99FF99; color: black; vertical-align: middle; text-align: center;" class="yes table-yes2">Won<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[34]</a></sup> </td>
+     </tr> 
+     <tr> 
+      <td>2014 </td> 
+      <td><i>Sleeping with the Fishes</i> </td> 
+      <td><a href="/wiki/Imagen_Awards" title="Imagen Awards">Imagen Award</a> </td> 
+      <td><a href="/wiki/Imagen_Awards" title="Imagen Awards">Imagen Award for Best Actress</a> </td> 
+      <td style="background: #FDD; color: black; vertical-align: middle; text-align: center;" class="no table-no2">Nominated </td>
+     </tr> 
+     <tr> 
+      <td>2014 </td> 
+      <td><i><a href="/wiki/Devious_Maids" title="Devious Maids">Devious Maids</a></i> </td> 
+      <td><a href="/wiki/Imagen_Awards" title="Imagen Awards">Imagen Award</a> </td> 
+      <td><a href="/wiki/Imagen_Awards" title="Imagen Awards">Imagen Award for Best Actress - Television</a> </td> 
+      <td style="background: #99FF99; color: black; vertical-align: middle; text-align: center;" class="yes table-yes2">Won<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">[35]</a></sup> </td>
+     </tr> 
+     <tr> 
+      <td>2015 </td> 
+      <td><i><a href="/wiki/Devious_Maids" title="Devious Maids">Devious Maids</a></i> </td> 
+      <td><a href="/wiki/Imagen_Awards" title="Imagen Awards">Imagen Award</a> </td> 
+      <td><a href="/wiki/Imagen_Awards" title="Imagen Awards">Imagen Award for Best Actress - Television</a> </td> 
+      <td style="background: #FDD; color: black; vertical-align: middle; text-align: center;" class="no table-no2">Nominated </td>
+     </tr> 
+     <tr> 
+      <td>2016 </td> 
+      <td><i><a href="/wiki/Devious_Maids" title="Devious Maids">Devious Maids</a></i> </td> 
+      <td>NAMIC Vision Awards </td> 
+      <td>Best Performance - Comedy </td> 
+      <td style="background: #FDD; color: black; vertical-align: middle; text-align: center;" class="no table-no2">Nominated </td>
+     </tr> 
+     <tr> 
+      <td>2017 </td> 
+      <td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; font-size: smaller; text-align: center;" class="table-na">N/A </td> 
+      <td>Upton Sinclair Awards </td> 
+      <td>Creative Vision Award </td> 
+      <td style="background: #99FF99; color: black; vertical-align: middle; text-align: center;" class="yes table-yes2">Won<sup id="cite_ref-36" class="reference"><a href="#cite_note-36">[36]</a></sup> </td>
+     </tr> 
+    </tbody>
+   </table> 
+   <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ana_Ortiz&amp;action=edit&amp;section=10" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <div class="reflist columns references-column-width" style="-moz-column-width: 25em; -webkit-column-width: 25em; column-width: 25em; list-style-type: decimal;"> 
+    <ol class="references"> 
+     <li id="cite_note-tvg-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-tvg_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-tvg_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-tvg_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-tvg_1-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20160527071822/https://www.tvguide.com/celebrities/ana-ortiz/bio/189463/">"Ana Ortiz"</a>. <a href="/wiki/TV_Guide" title="TV Guide">TVGuide.com</a>. Archived from <a rel="nofollow" class="external text" href="https://www.tvguide.com/celebrities/ana-ortiz/bio/189463/">the original</a> on May 27, 2016.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Ana+Ortiz&amp;rft.pub=TVGuide.com&amp;rft_id=https%3A%2F%2Fwww.tvguide.com%2Fcelebrities%2Fana-ortiz%2Fbio%2F189463%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAna+Ortiz" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span> </li> 
+     <li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web">Ryan, Maureen (November 16, 2006). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20061120050157/https://featuresblogs.chicagotribune.com/entertainment_tv/2006/11/ana_ortiz_on_ug.html">"Ana Ortiz on 'Ugly Betty': 'I definitely have a Queens connection<span class="cs1-kern-right">'</span>"</a>. <i><a href="/wiki/Chicago_Tribune" title="Chicago Tribune">Chicago Tribune</a></i>. Archived from <a rel="nofollow" class="external text" href="http://featuresblogs.chicagotribune.com/entertainment_tv/2006/11/ana_ortiz_on_ug.html">the original</a> on November 20, 2006.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Chicago+Tribune&amp;rft.atitle=Ana+Ortiz+on+%27Ugly+Betty%27%3A+%27I+definitely+have+a+Queens+connection%27&amp;rft.date=2006-11-16&amp;rft.aulast=Ryan&amp;rft.aufirst=Maureen&amp;rft_id=http%3A%2F%2Ffeaturesblogs.chicagotribune.com%2Fentertainment_tv%2F2006%2F11%2Fana_ortiz_on_ug.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAna+Ortiz" class="Z3988"></span>
+       <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+     <li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation news">Gray, Ellen (January 16, 2007). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20081221143702/https://www.philly.com/dailynews/features/5222136.html">"<span class="cs1-kern-left">'</span>Betty's' Ortiz relishes show's hit status<span class="cs1-kern-right">"</span>"</a>. <i><a href="/wiki/Philadelphia_Daily_News" title="Philadelphia Daily News">Philadelphia Daily News</a></i>. Archived from <a rel="nofollow" class="external text" href="http://www.philly.com/dailynews/features/5222136.html">the original</a> on December 21, 2007.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Philadelphia+Daily+News&amp;rft.atitle=%27Betty%27s%27+Ortiz+relishes+show%27s+hit+status%22&amp;rft.date=2007-01-16&amp;rft.aulast=Gray&amp;rft.aufirst=Ellen&amp;rft_id=http%3A%2F%2Fwww.philly.com%2Fdailynews%2Ffeatures%2F5222136.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAna+Ortiz" class="Z3988"></span>
+       <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+     <li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://people.com/parents/win-ana-ortizs-baby-shower-gift-a-599-value/">"Win Ana Ortiz's Baby Shower Gift! (A $599 Value!)"</a>. <i><a href="/wiki/People_(magazine)" title="People (magazine)">People</a></i>. April 27, 2009. <a rel="nofollow" class="external text" href="http://archive.is/2rJxA">Archived</a> from the original on February 6, 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">February 6,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=People&amp;rft.atitle=Win+Ana+Ortiz%27s+Baby+Shower+Gift%21+%28A+%24599+Value%21%29&amp;rft.date=2009-04-27&amp;rft_id=https%3A%2F%2Fpeople.com%2Fparents%2Fwin-ana-ortizs-baby-shower-gift-a-599-value%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAna+Ortiz" class="Z3988"></span>
+       <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+     <li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.labtheater.org/companymembers/member44.html">LAByrinth Theatre Company</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20070928123057/http://www.labtheater.org/companymembers/member44.html">Archived</a> September 28, 2007, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></span> </li> 
+     <li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.buddytv.com/articles/ugly-betty/ortiz-went-super-plain-for-ugl-15352.aspx">Claustro, Lisa, "Ortiz Went 'Super Plain' for 'Ugly Betty' Audition</a>, BuddyTV.com, January 5, 2008, reprinting quotes from Sheridan, Patricia, <i><a href="/wiki/Pittsburgh_Post-Gazette" title="Pittsburgh Post-Gazette">Pittsburgh Post-Gazette</a></i> article (no date or title given)</span> </li> 
+     <li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20080619224238/http://community.tvguide.com/blog-entry/TVGuide-News-Blog/Todays-News/Exclusive-Army-Wives/800041662">"Archived copy"</a>. Archived from <a rel="nofollow" class="external text" href="http://community.tvguide.com/blog-entry/TVGuide-News-Blog/Todays-News/Exclusive-Army-Wives/800041662">the original</a> on 2008-06-19<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-06-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Archived+copy&amp;rft_id=http%3A%2F%2Fcommunity.tvguide.com%2Fblog-entry%2FTVGuide-News-Blog%2FTodays-News%2FExclusive-Army-Wives%2F800041662&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAna+Ortiz" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: Archived copy as title (<a href="/wiki/Category:CS1_maint:_Archived_copy_as_title" title="Category:CS1 maint: Archived copy as title">link</a>)</span>
+       <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+     <li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.latina.com/entertainment/celebrity/ana-ortiz-enrique-iglesias-total-juicy-hunk">"Ana Ortiz: Enrique Iglesias is a Total, Juicy Hunk"</a>. Latina.com. 2010-07-29<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-12-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Ana+Ortiz%3A+Enrique+Iglesias+is+a+Total%2C+Juicy+Hunk&amp;rft.pub=Latina.com&amp;rft.date=2010-07-29&amp;rft_id=http%3A%2F%2Fwww.latina.com%2Fentertainment%2Fcelebrity%2Fana-ortiz-enrique-iglesias-total-juicy-hunk&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAna+Ortiz" class="Z3988"></span>
+       <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+     <li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.hollywoodreporter.com/news/ugly-bettys-ana-ortiz-joins-21305">"<span class="cs1-kern-left">'</span>Ugly Betty's' Ana Ortiz joins 'True Blue<span class="cs1-kern-right">'</span>"</a>. The Hollywood Reporter. 2010-03-03<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-12-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=%27Ugly+Betty%27s%27+Ana+Ortiz+joins+%27True+Blue%27&amp;rft.pub=The+Hollywood+Reporter&amp;rft.date=2010-03-03&amp;rft_id=http%3A%2F%2Fwww.hollywoodreporter.com%2Fnews%2Fugly-bettys-ana-ortiz-joins-21305&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAna+Ortiz" class="Z3988"></span>
+       <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+     <li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web">Andreeva, Nellie. <a rel="nofollow" class="external text" href="http://www.deadline.com/2010/11/ana-ortiz-to-star-in-fox-comedy-pilot-outnumbered/">"Ana Ortiz To Star In Fox Comedy Pilot 'Outnumbered<span class="cs1-kern-right">'</span>"</a>. Deadline.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-12-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Ana+Ortiz+To+Star+In+Fox+Comedy+Pilot+%27Outnumbered%27&amp;rft.pub=Deadline.com&amp;rft.aulast=Andreeva&amp;rft.aufirst=Nellie&amp;rft_id=http%3A%2F%2Fwww.deadline.com%2F2010%2F11%2Fana-ortiz-to-star-in-fox-comedy-pilot-outnumbered%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAna+Ortiz" class="Z3988"></span>
+       <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+     <li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web">Andreeva, Nellie. <a rel="nofollow" class="external text" href="http://www.deadline.com/2011/05/hbo-castings-alice-eve-to-recur-on-entourage-ana-ortiz-on-hung-more/">"HBO Castings: Alice Eve To Recur On 'Entourage', Ana Ortiz On 'Hung' &amp; More"</a>. Deadline.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-12-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=HBO+Castings%3A+Alice+Eve+To+Recur+On+%27Entourage%27%2C+Ana+Ortiz+On+%27Hung%27+%26+More&amp;rft.pub=Deadline.com&amp;rft.aulast=Andreeva&amp;rft.aufirst=Nellie&amp;rft_id=http%3A%2F%2Fwww.deadline.com%2F2011%2F05%2Fhbo-castings-alice-eve-to-recur-on-entourage-ana-ortiz-on-hung-more%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAna+Ortiz" class="Z3988"></span>
+       <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+     <li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.hollywoodreporter.com/heat-vision/gina-rodriguez-sleeping-with-the-fishes-350275">"Gina Rodriguez Lands Lead Role in Indie Pic 'Sleeping With the Fishes' (Exclusive)"</a>. Hollywoodreporter.com. 2012-07-17<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-12-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Gina+Rodriguez+Lands+Lead+Role+in+Indie+Pic+%27Sleeping+With+the+Fishes%27+%28Exclusive%29&amp;rft.pub=Hollywoodreporter.com&amp;rft.date=2012-07-17&amp;rft_id=http%3A%2F%2Fwww.hollywoodreporter.com%2Fheat-vision%2Fgina-rodriguez-sleeping-with-the-fishes-350275&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAna+Ortiz" class="Z3988"></span>
+       <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+     <li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://indieitpress.com/gay-comedy-such-good-people-wraps-production/">"Gay Comedy Such Good People Wraps Production"</a>. Indie It Press. 2013-08-19<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-12-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Gay+Comedy+Such+Good+People+Wraps+Production&amp;rft.pub=Indie+It+Press&amp;rft.date=2013-08-19&amp;rft_id=http%3A%2F%2Findieitpress.com%2Fgay-comedy-such-good-people-wraps-production%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAna+Ortiz" class="Z3988"></span>
+       <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+     <li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web">Andreeva, Nellie. <a rel="nofollow" class="external text" href="http://www.deadline.com/2012/02/ana-ortiz-to-lead-the-cast-of-marc-cherrys-abc-pilot-devious-maids/">"Ana Ortiz To Lead The Cast Of Marc Cherry's ABC Pilot 'Devious Maids<span class="cs1-kern-right">'</span>"</a>. Deadline.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-12-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Ana+Ortiz+To+Lead+The+Cast+Of+Marc+Cherry%27s+ABC+Pilot+%27Devious+Maids%27&amp;rft.pub=Deadline.com&amp;rft.aulast=Andreeva&amp;rft.aufirst=Nellie&amp;rft_id=http%3A%2F%2Fwww.deadline.com%2F2012%2F02%2Fana-ortiz-to-lead-the-cast-of-marc-cherrys-abc-pilot-devious-maids%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAna+Ortiz" class="Z3988"></span>
+       <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+     <li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web">Palomares, Sugey (May 16, 2012). <a rel="nofollow" class="external text" href="http://www.latina.com/entertainment/tv/devious-maids-pilot-fall-2012-tv-lineup">"<span class="cs1-kern-left">'</span>Devious Maids' Never Maes It on the Air&nbsp;— Would It Have Hurt Latinos?"</a>. <i>Latina</i><span class="reference-accessdate">. Retrieved <span class="nowrap">May 17,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Latina&amp;rft.atitle=%27Devious+Maids%27+Never+Maes+It+on+the+Air+%E2%80%94+Would+It+Have+Hurt+Latinos%3F&amp;rft.date=2012-05-16&amp;rft.aulast=Palomares&amp;rft.aufirst=Sugey&amp;rft_id=http%3A%2F%2Fwww.latina.com%2Fentertainment%2Ftv%2Fdevious-maids-pilot-fall-2012-tv-lineup&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAna+Ortiz" class="Z3988"></span>
+       <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+     <li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://insidetv.ew.com/2013/04/10/devious-maids-marc-cherry-lifetime/">"Marc Cherry's 'Devious Maids' comes to Lifetime this summer"</a>. <a href="/wiki/Entertainment_Weekly" title="Entertainment Weekly">Entertainment Weekly</a>. April 10, 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-06-10</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Marc+Cherry%27s+%27Devious+Maids%27+comes+to+Lifetime+this+summer&amp;rft.pub=Entertainment+Weekly&amp;rft.date=2013-04-10&amp;rft_id=http%3A%2F%2Finsidetv.ew.com%2F2013%2F04%2F10%2Fdevious-maids-marc-cherry-lifetime%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAna+Ortiz" class="Z3988"></span>
+       <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+     <li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.metacritic.com/tv/devious-maids">"Devious Maids - Season 1 Reviews"</a>. Metacritic<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-12-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Devious+Maids+-+Season+1+Reviews&amp;rft.pub=Metacritic&amp;rft_id=http%3A%2F%2Fwww.metacritic.com%2Ftv%2Fdevious-maids&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAna+Ortiz" class="Z3988"></span>
+       <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+     <li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation web">' + data.results.personName + ' (2013-09-27). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20131230234521/http://blog.zap2it.com/frominsidethebox/2013/09/revenge-devious-maids-ana-ortiz-will-guest-star.html">"<span class="cs1-kern-left">'</span>Revenge': 'Devious Maids' Ana Ortiz will guest-star - Zap2it"</a>. Blog.zap2it.com. Archived from <a rel="nofollow" class="external text" href="http://blog.zap2it.com/frominsidethebox/2013/09/revenge-devious-maids-ana-ortiz-will-guest-star.html">the original</a> on 2013-12-30<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-12-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=%27Revenge%27%3A+%27Devious+Maids%27+Ana+Ortiz+will+guest-star+-+Zap2it&amp;rft.pub=Blog.zap2it.com&amp;rft.date=2013-09-27&amp;rft.au=%27+%2B+data.results.personName+%2B+%27&amp;rft_id=http%3A%2F%2Fblog.zap2it.com%2Ffrominsidethebox%2F2013%2F09%2Frevenge-devious-maids-ana-ortiz-will-guest-star.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAna+Ortiz" class="Z3988"></span>
+       <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+     <li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation web">Michael Ausiello (2013-09-26). <a rel="nofollow" class="external text" href="http://tvline.com/2013/09/26/revenge-ana-ortiz-cast-season-3/">"<span class="cs1-kern-left">'</span>Revenge' Season 3: Ana Ortiz to Guest Star"</a>. TVLine<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-12-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=%27Revenge%27+Season+3%3A+Ana+Ortiz+to+Guest+Star&amp;rft.pub=TVLine&amp;rft.date=2013-09-26&amp;rft.au=Michael+Ausiello&amp;rft_id=http%3A%2F%2Ftvline.com%2F2013%2F09%2F26%2Frevenge-ana-ortiz-cast-season-3%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAna+Ortiz" class="Z3988"></span>
+       <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+     <li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation web">Vlada Gelman (August 8, 2014). <a rel="nofollow" class="external text" href="http://tvline.com/2014/08/08/ana-ortiz-how-to-get-away-with-murder-season-1-cast/">"TVLine Items: Ana Ortiz Takes Stab at Murder, Helix Adds Matt Long &amp; More"</a>. TVLine<span class="reference-accessdate">. Retrieved <span class="nowrap">9 August</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=TVLine+Items%3A+Ana+Ortiz+Takes+Stab+at+Murder%2C+Helix+Adds+Matt+Long+%26+More&amp;rft.pub=TVLine&amp;rft.date=2014-08-08&amp;rft.au=Vlada+Gelman&amp;rft_id=http%3A%2F%2Ftvline.com%2F2014%2F08%2F08%2Fana-ortiz-how-to-get-away-with-murder-season-1-cast%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAna+Ortiz" class="Z3988"></span>
+       <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+     <li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation web">Philiana Ng (22 October 2014). <a rel="nofollow" class="external text" href="http://www.hollywoodreporter.com/live-feed/black-ish-ana-ortiz-guest-743008">"<span class="cs1-kern-left">'</span>Black-ish': Ana Ortiz to Guest Star - Hollywood Reporter"</a>. <i>The Hollywood Reporter</i><span class="reference-accessdate">. Retrieved <span class="nowrap">23 October</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Hollywood+Reporter&amp;rft.atitle=%27Black-ish%27%3A+Ana+Ortiz+to+Guest+Star++-+Hollywood+Reporter&amp;rft.date=2014-10-22&amp;rft.au=Philiana+Ng&amp;rft_id=http%3A%2F%2Fwww.hollywoodreporter.com%2Flive-feed%2Fblack-ish-ana-ortiz-guest-743008&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAna+Ortiz" class="Z3988"></span>
+       <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+     <li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://deadline.com/2014/10/jeremy-sisto-join-love-is-all-you-need-kea-ho-urge-857370/">"Jeremy Sisto &amp; More Join 'Love Is All You Need,' Kea Ho Gets 'Urge<span class="cs1-kern-right">'</span>"</a>. <i>Deadline</i>. 22 October 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">27 October</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Deadline&amp;rft.atitle=Jeremy+Sisto+%26+More+Join+%27Love+Is+All+You+Need%2C%27+Kea+Ho+Gets+%27Urge%27&amp;rft.date=2014-10-22&amp;rft_id=http%3A%2F%2Fdeadline.com%2F2014%2F10%2Fjeremy-sisto-join-love-is-all-you-need-kea-ho-urge-857370%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAna+Ortiz" class="Z3988"></span>
+       <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+     <li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://insidemovies.ew.com/2014/10/23/casting-net-meg-ryan-fan-girl-jackie-weaver-zeroville/">"Casting Net: Meg Ryan boards 'Fan Girl,' Jacki Weaver signs on for 'Zeroville;' more"</a>. <i>EW.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">27 October</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=EW.com&amp;rft.atitle=Casting+Net%3A+Meg+Ryan+boards+%27Fan+Girl%2C%27+Jacki+Weaver+signs+on+for+%27Zeroville%3B%27+more&amp;rft_id=http%3A%2F%2Finsidemovies.ew.com%2F2014%2F10%2F23%2Fcasting-net-meg-ryan-fan-girl-jackie-weaver-zeroville%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAna+Ortiz" class="Z3988"></span>
+       <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+     <li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.tracking-board.com/ugly-betty-star-ana-ortiz-joins-voice-cast-of-disneys-wreck-it-ralph-sequel-exclusive/">"<span class="cs1-kern-left">"</span>Ugly Betty" Star Ana Ortiz Joins Voice Cast of Disney's "Wreck-It Ralph" Sequel (Exclusive)"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">4 March</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=%22Ugly+Betty%22+Star+Ana+Ortiz+Joins+Voice+Cast+of+Disney%27s+%22Wreck-It+Ralph%22+Sequel+%28Exclusive%29&amp;rft_id=http%3A%2F%2Fwww.tracking-board.com%2Fugly-betty-star-ana-ortiz-joins-voice-cast-of-disneys-wreck-it-ralph-sequel-exclusive%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAna+Ortiz" class="Z3988"></span>
+       <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+     <li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation web">Andreeva, Nellie (February 23, 2017). <a rel="nofollow" class="external text" href="http://deadline.com/2017/02/ana-ortiz-star-charlie-foxtrot-abc-comedy-pilot-1201946427/">"Ana Ortiz To Star In 'Charlie Foxtrot' ABC Comedy Pilot"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">March 4,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Ana+Ortiz+To+Star+In+%27Charlie+Foxtrot%27+ABC+Comedy+Pilot&amp;rft.date=2017-02-23&amp;rft.aulast=Andreeva&amp;rft.aufirst=Nellie&amp;rft_id=http%3A%2F%2Fdeadline.com%2F2017%2F02%2Fana-ortiz-star-charlie-foxtrot-abc-comedy-pilot-1201946427%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAna+Ortiz" class="Z3988"></span>
+       <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+     <li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation web">Andreeva, Nellie (February 22, 2018). <a rel="nofollow" class="external text" href="http://deadline.com/2018/02/whiskey-cavalier-ana-ortiz-cast-abc-pilot-1202298886/">"<span class="cs1-kern-left">'</span>Whiskey Cavalier': Ana Ortiz To Co-Star In ABC Pilot"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">March 4,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=%27Whiskey+Cavalier%27%3A+Ana+Ortiz+To+Co-Star+In+ABC+Pilot&amp;rft.date=2018-02-22&amp;rft.aulast=Andreeva&amp;rft.aufirst=Nellie&amp;rft_id=http%3A%2F%2Fdeadline.com%2F2018%2F02%2Fwhiskey-cavalier-ana-ortiz-cast-abc-pilot-1202298886%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAna+Ortiz" class="Z3988"></span>
+       <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+     <li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20071014234106/http://www.upi.com/NewsTrack/Entertainment/2007/06/11/actress_ana_ortiz_married_in_puerto_rico/8920/">"Actress Ana Ortiz married in Puerto Rico"</a>. <a href="/wiki/UPI" class="mw-redirect" title="UPI">UPI</a>. June 11, 2007. Archived from <a rel="nofollow" class="external text" href="http://www.upi.com/NewsTrack/Entertainment/2007/06/11/actress_ana_ortiz_married_in_puerto_rico/8920/">the original</a> on October 14, 2007.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Actress+Ana+Ortiz+married+in+Puerto+Rico&amp;rft.date=2007-06-11&amp;rft_id=http%3A%2F%2Fwww.upi.com%2FNewsTrack%2FEntertainment%2F2007%2F06%2F11%2Factress_ana_ortiz_married_in_puerto_rico%2F8920%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAna+Ortiz" class="Z3988"></span>
+       <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+     <li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text">Ortiz and Lebenzon in {[cite web|url=<a rel="nofollow" class="external free" href="https://people.com/parents/ana-ortiz-introduces-paloma-louise/%7Ctitle=">https://people.com/parents/ana-ortiz-introduces-paloma-louise/%7Ctitle=</a> Ana Ortiz Introduces Paloma Louise!|work=People|first=Paul|last= Chi|date=October 2, 2009|accessdate=February 6, 2019}}</span> </li> 
+     <li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><cite class="citation web">Hernandez, Lee. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20110926035204/http://www.latina.com/entertainment/buzz/exclusive-ana-ortiz-gives-birth-son-named-rafael">"Exclusive: Ana Ortiz Gives Birth to a Son Named Rafael!"</a>. <i><a href="/wiki/Latina_(magazine)" title="Latina (magazine)">Latina</a></i>. Archived from <a rel="nofollow" class="external text" href="http://www.latina.com/entertainment/buzz/exclusive-ana-ortiz-gives-birth-son-named-rafael">the original</a> on September 26, 2011.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Latina&amp;rft.atitle=Exclusive%3A+Ana+Ortiz+Gives+Birth+to+a+Son+Named+Rafael%21&amp;rft.aulast=Hernandez&amp;rft.aufirst=Lee&amp;rft_id=http%3A%2F%2Fwww.latina.com%2Fentertainment%2Fbuzz%2Fexclusive-ana-ortiz-gives-birth-son-named-rafael&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAna+Ortiz" class="Z3988"></span>
+       <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+     <li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.usatoday.com/life/television/news/2008-09-23-ortiz-ugly-betty_N.htm">"Ana Ortiz of 'Ugly Betty' let her pain fuel Hilda's"</a>. <i><a href="/wiki/USA_Today" title="USA Today">USA Today</a></i>. September 24, 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">October 23,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=USA+Today&amp;rft.atitle=Ana+Ortiz+of+%27Ugly+Betty%27+let+her+pain+fuel+Hilda%27s&amp;rft.date=2008-09-24&amp;rft_id=https%3A%2F%2Fwww.usatoday.com%2Flife%2Ftelevision%2Fnews%2F2008-09-23-ortiz-ugly-betty_N.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAna+Ortiz" class="Z3988"></span>
+       <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+     <li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.sagawards.org/media-pr/press-releases/13th-annual-screen-actors-guild-awards%C2%AE-nominations">"13th Annual Screen Actors Guild Awards Nominations"</a>. Screen Actors Guild. 4 January 2007. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20160304191905/http://www.sagawards.org/media-pr/press-releases/13th-annual-screen-actors-guild-awards%C2%AE-nominations">Archived</a> from the original on 4 March 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">23 June</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=13th+Annual+Screen+Actors+Guild+Awards+Nominations&amp;rft.pub=Screen+Actors+Guild&amp;rft.date=2007-01-04&amp;rft_id=http%3A%2F%2Fwww.sagawards.org%2Fmedia-pr%2Fpress-releases%2F13th-annual-screen-actors-guild-awards%25C2%25AE-nominations&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAna+Ortiz" class="Z3988"></span>
+       <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+     <li id="cite_note-nomsentweekly-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-nomsentweekly_32-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Bruno, Mike (2007-12-20). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20080103181246/http://www.ew.com/ew/article/0%2C%2C20167372%2C00.html?xid=rss-yahoogadget-todayslatest-20071220-SAG%20nominations%20go%20%27Wild%27">"The 14th Annual SAG Award Nominations"</a>. <a href="/wiki/Entertainment_Weekly" title="Entertainment Weekly">Entertainment Weekly</a>. Archived from <a rel="nofollow" class="external text" href="http://www.ew.com/ew/article/0,,20167372,00.html?xid=rss-yahoogadget-todayslatest-20071220-SAG+nominations+go+%27Wild%27">the original</a> on 3 January 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-12-20</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+14th+Annual+SAG+Award+Nominations&amp;rft.pub=Entertainment+Weekly&amp;rft.date=2007-12-20&amp;rft.aulast=Bruno&amp;rft.aufirst=Mike&amp;rft_id=http%3A%2F%2Fwww.ew.com%2Few%2Farticle%2F0%2C%2C20167372%2C00.html%3Fxid%3Drss-yahoogadget-todayslatest-20071220-SAG%2Bnominations%2Bgo%2B%2527Wild%2527&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAna+Ortiz" class="Z3988"></span>
+       <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+     <li id="cite_note-imageawards08noms-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-imageawards08noms_33-0">^</a></b></span> <span class="reference-text"><cite class="citation pressrelease"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20080807120844/http://www.naacpimageawards.net/PDFs/NOMINEES_FOR_39TH_NAACP_IMAGE_AWARDS_ANNOUNCED.pdf">"Nominees for 39th NAACP Image Awards Announced Live at Press Conference By Mara Brock Akil, Richard T. Jone, "Entertainment Tonight's" Kevin Frazier and NAACP Executives"</a> <span class="cs1-format">(PDF)</span>. <i><a href="/wiki/NAACP" title="NAACP">NAACP</a></i> (Press release). January 8, 2008. Archived from <a rel="nofollow" class="external text" href="http://www.naacpimageawards.net/PDFs/NOMINEES_FOR_39TH_NAACP_IMAGE_AWARDS_ANNOUNCED.pdf">the original</a> <span class="cs1-format">(PDF)</span> on August 7, 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">February 18,</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Nominees+for+39th+NAACP+Image+Awards+Announced+Live+at+Press+Conference+By+Mara+Brock+Akil%2C+Richard+T.+Jone%2C+%22Entertainment+Tonight%27s%22+Kevin+Frazier+and+NAACP+Executives&amp;rft.date=2008-01-08&amp;rft_id=http%3A%2F%2Fwww.naacpimageawards.net%2FPDFs%2FNOMINEES_FOR_39TH_NAACP_IMAGE_AWARDS_ANNOUNCED.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAna+Ortiz" class="Z3988"></span>
+       <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+     <li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://elblogdehola.blogspot.com/2014/10/report-on-2014-hola-awards.html?m=1">http://elblogdehola.blogspot.com/2014/10/report-on-2014-hola-awards.html?m=1</a></span> </li> 
+     <li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20140624024247/http://www.imagen.org/news/imagen-awards/2014/06/nominees-29th-annual-imagen-awards-announced">"Nominees for the 29th Annual Imagen Awards Announced"</a>. imagen.org/. Archived from <a rel="nofollow" class="external text" href="http://www.imagen.org/news/imagen-awards/2014/06/nominees-29th-annual-imagen-awards-announced">the original</a> on 24 June 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">10 May</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Nominees+for+the+29th+Annual+Imagen+Awards+Announced&amp;rft.pub=imagen.org%2F&amp;rft_id=http%3A%2F%2Fwww.imagen.org%2Fnews%2Fimagen-awards%2F2014%2F06%2Fnominees-29th-annual-imagen-awards-announced&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAna+Ortiz" class="Z3988"></span>
+       <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+     <li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.libertyhill.org/2017-upton-sinclair-awards-dinner">https://www.libertyhill.org/2017-upton-sinclair-awards-dinner</a></span> </li> 
+    </ol>
+   </div> 
+   <h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ana_Ortiz&amp;action=edit&amp;section=11" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000"> 
+    <tbody>
+     <tr> 
+      <td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376"></td> 
+      <td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Ana_Ortiz" class="extiw" title="commons:Category:Ana Ortiz">Ana Ortiz</a></b></i>.</td>
+     </tr>
+    </tbody>
+   </table> 
+   <ul>
+    <li><a rel="nofollow" class="external text" href="https://www.imdb.com/name/nm0651067/">Ana Ortiz</a> on <a href="/wiki/IMDb" title="IMDb">IMDb</a> </li> 
+    <li><a rel="nofollow" class="external text" href="https://twitter.com/TheRealAnaOrtiz">Ana Ortiz</a> on <a href="/wiki/Twitter" title="Twitter">Twitter</a> <a href="https://www.wikidata.org/wiki/Q237186#P2002" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/15px-Blue_pencil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png 2x" data-file-width="600" data-file-height="600"></a></li>
+   </ul> 
+   <div role="navigation" class="navbox" aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q237186&amp;#124;Edit_this_at_Wikidata" style="padding:3px">
+    <table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+     <tbody>
+      <tr>
+       <th id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q237186&amp;#124;Edit_this_at_Wikidata" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q237186" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/15px-Blue_pencil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png 2x" data-file-width="600" data-file-height="600"></a></th>
+       <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><span class="nowrap"><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni.org/isni/0000000054512651">0000 0000 5451 2651</a></span></span></li> 
+          <li><span class="nowrap"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/names/no2008071964">no2008071964</a></span></span></li> 
+          <li><span class="nowrap"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/7200767">7200767</a></span></span></li> 
+          <li><span class="nowrap"> <a href="/wiki/WorldCat_Identities" class="mw-redirect" title="WorldCat Identities">WorldCat Identities</a> (via VIAF): <a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/7200767">7200767</a></span></li>
+         </ul> 
+        </div></td>
+      </tr>
+     </tbody>
+    </table>
+   </div> 
+   <!-- 
+NewPP limit report
+Parsed by mw1240
+Cached time: 20190504130437
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.872 seconds
+Real time usage: 1.083 seconds
+Preprocessor visited node count: 2971/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 82861/2097152 bytes
+Template argument size: 3133/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 4/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 96871/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.407/10.000 seconds
+Lua memory usage: 7.22 MB/50 MB
+--> 
+   <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  872.761      1 -total
+ 43.48%  379.508      1 Template:Reflist
+ 31.13%  271.696     27 Template:Cite_web
+ 20.49%  178.868      1 Template:Infobox_person
+ 14.62%  127.575      1 Template:Infobox
+ 10.21%   89.086      1 Template:BLP_unsourced_section
+  9.31%   81.295      1 Template:BLP_unsourced
+  8.80%   76.762      1 Template:User_other
+  8.43%   73.584      1 Template:Ambox
+  6.34%   55.367      1 Template:Twitter
+--> 
+   <!-- Saved in parser cache with key enwiki:pcache:idhash:7555049-0!canonical and timestamp 20190504130436 and revision id 889224660
+ --> 
+  </div>
+  <noscript>
+   <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+  </noscript>
+ </div> 
+ <div class="printfooter">
+  Retrieved from "
+  <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Ana_Ortiz&amp;oldid=889224660">https://en.wikipedia.org/w/index.php?title=Ana_Ortiz&amp;oldid=889224660</a>"
+ </div> 
+ <div id="catlinks" class="catlinks" data-mw="interface">
+  <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+   <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+   <ul>
+    <li><a href="/wiki/Category:1971_births" title="Category:1971 births">1971 births</a></li>
+    <li><a href="/wiki/Category:Actresses_from_New_York_City" title="Category:Actresses from New York City">Actresses from New York City</a></li>
+    <li><a href="/wiki/Category:American_film_actresses" title="Category:American film actresses">American film actresses</a></li>
+    <li><a href="/wiki/Category:American_people_of_Irish_descent" title="Category:American people of Irish descent">American people of Irish descent</a></li>
+    <li><a href="/wiki/Category:American_television_actresses" title="Category:American television actresses">American television actresses</a></li>
+    <li><a href="/wiki/Category:American_actresses_of_Puerto_Rican_descent" title="Category:American actresses of Puerto Rican descent">American actresses of Puerto Rican descent</a></li>
+    <li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li>
+    <li><a href="/wiki/Category:University_of_the_Arts_(Philadelphia)_alumni" title="Category:University of the Arts (Philadelphia) alumni">University of the Arts (Philadelphia) alumni</a></li>
+    <li><a href="/wiki/Category:American_stage_actresses" title="Category:American stage actresses">American stage actresses</a></li>
+    <li><a href="/wiki/Category:20th-century_American_actresses" title="Category:20th-century American actresses">20th-century American actresses</a></li>
+    <li><a href="/wiki/Category:21st-century_American_actresses" title="Category:21st-century American actresses">21st-century American actresses</a></li>
+   </ul>
+  </div>
+  <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+   Hidden categories: 
+   <ul>
+    <li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li>
+    <li><a href="/wiki/Category:CS1_maint:_Archived_copy_as_title" title="Category:CS1 maint: Archived copy as title">CS1 maint: Archived copy as title</a></li>
+    <li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li>
+    <li><a href="/wiki/Category:BLP_articles_lacking_sources_from_April_2018" title="Category:BLP articles lacking sources from April 2018">BLP articles lacking sources from April 2018</a></li>
+    <li><a href="/wiki/Category:All_BLP_articles_lacking_sources" title="Category:All BLP articles lacking sources">All BLP articles lacking sources</a></li>
+    <li><a href="/wiki/Category:Commons_category_link_is_on_Wikidata" title="Category:Commons category link is on Wikidata">Commons category link is on Wikidata</a></li>
+    <li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li>
+    <li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li>
+    <li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li>
+    <li><a href="/wiki/Category:Wikipedia_articles_with_WorldCat-VIAF_identifiers" title="Categor

@@ -1,0 +1,192 @@
+<div id="bodyContent" class="mw-body-content"> 
+ <div id="siteSub" class="noprint">
+  From Wikipedia, the free encyclopedia
+ </div> 
+ <div id="contentSub"></div> 
+ <div id="jump-to-nav"></div> 
+ <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> 
+ <a class="mw-jump-link" href="#p-search">Jump to search</a> 
+ <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+  <div class="mw-parser-output">
+   <table class="box-Unreferenced plainlinks metadata ambox ambox-content ambox-Unreferenced" role="presentation">
+    <tbody>
+     <tr>
+      <td class="mbox-image">
+       <div style="width:52px">
+        <a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399"></a>
+       </div></td>
+      <td class="mbox-text">
+       <div class="mbox-text-span">
+        This article 
+        <b>does not <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">cite</a> any <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">sources</a></b>.
+        <span class="hide-when-compact"> Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Tsivory&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.</span> 
+        <small class="date-container"><i>(<span class="date">November 2012</span>)</i></small>
+        <small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small>
+       </div></td>
+     </tr>
+    </tbody>
+   </table> 
+   <p><b>Tsivory</b> is a large town in <a href="/wiki/Anosy" class="mw-redirect" title="Anosy">Anosy</a> region in southern <a href="/wiki/Madagascar" title="Madagascar">Madagascar</a>. From 1996 to 2008, Tsivory hosted the headquarters of the PHBM Project of the Government of Madagascar support by the <a href="/w/index.php?title=International_Fund_for_Agriculture_Development&amp;action=edit&amp;redlink=1" class="new" title="International Fund for Agriculture Development (page does not exist)">International Fund for Agriculture Development</a>. PHBM stands for "Projet de Développement du Haut Bassin du Mandrare". </p>
+   <p>This project has constructed or renovated more than 200 km of roads, and 5000 ha of irrigation schemes. The livelihood of the 146000 people living in the surrounding 11 communes has considerably improved during the past 10 years, and the production has doubled. The area now produces 22 000 tons of rice per year (compared to 1500 tons in the 1990s). </p>
+   <p>The project closed in September 2008 and farmers associations are pursuing the rural development work. The closing workshop was held in Fort Dauphin early December 2008. </p>
+   <p><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Tsivory&amp;params=24_04_06_S_46_04_32_E_region:MG_type:city"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">24°04′06″S</span> <span class="longitude">46°04′32″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">24.06833°S 46.07556°E</span><span style="display:none">﻿ / <span class="geo">-24.06833; 46.07556</span></span></span></a></span></span></span> </p> 
+   <div role="navigation" class="navbox" aria-labelledby="23x15px&amp;#124;border_&amp;#124;alt=Madagascar&amp;#124;link=Madagascar_Communes_in_the_Anosy_Region_of_the_Republic_of_Madagascar" style="padding:3px">
+    <table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+     <tbody>
+      <tr>
+       <th scope="col" class="navbox-title" colspan="3">
+        <div class="plainlinks hlist navbar mini">
+         <ul>
+          <li class="nv-view"><a href="/wiki/Template:Anosy_Region" title="Template:Anosy Region"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+          <li class="nv-talk"><a href="/wiki/Template_talk:Anosy_Region" title="Template talk:Anosy Region"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+          <li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Anosy_Region&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+         </ul>
+        </div>
+        <div id="23x15px&amp;#124;border_&amp;#124;alt=Madagascar&amp;#124;link=Madagascar_Communes_in_the_Anosy_Region_of_the_Republic_of_Madagascar" style="font-size:114%;margin:0 4em">
+         <span class="flagicon"><a href="/wiki/Madagascar" title="Madagascar"><img alt="Madagascar" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Madagascar.svg/23px-Flag_of_Madagascar.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Madagascar.svg/35px-Flag_of_Madagascar.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Madagascar.svg/45px-Flag_of_Madagascar.svg.png 2x" data-file-width="900" data-file-height="600"></a></span> Communes in the 
+         <a href="/wiki/Anosy" class="mw-redirect" title="Anosy">Anosy Region</a> of the 
+         <a href="/wiki/Madagascar" title="Madagascar">Republic of Madagascar</a>
+        </div></th>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%"><a href="/w/index.php?title=Amboasary_Sud_District&amp;action=edit&amp;redlink=1" class="new" title="Amboasary Sud District (page does not exist)">Amboasary Sud</a></th>
+       <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><a href="/wiki/Amboasary_Sud" title="Amboasary Sud">Amboasary Sud</a></li> 
+          <li><a href="/wiki/Behara" title="Behara">Behara</a></li> 
+          <li><a href="/wiki/Ebelo" title="Ebelo">Ebelo</a></li> 
+          <li><a href="/wiki/Elonty" title="Elonty">Elonty</a></li> 
+          <li><a href="/wiki/Esira" title="Esira">Esira</a></li> 
+          <li><a href="/wiki/Ifotaka" title="Ifotaka">Ifotaka</a></li> 
+          <li><a href="/wiki/Mahaly" title="Mahaly">Mahaly</a></li> 
+          <li><a href="/wiki/Manevy" title="Manevy">Manevy</a></li> 
+          <li><a href="/wiki/Maromby" title="Maromby">Maromby</a></li> 
+          <li><a href="/wiki/Marotsiraka" title="Marotsiraka">Marotsiraka</a></li> 
+          <li><a href="/wiki/Sampona" title="Sampona">Sampona</a></li> 
+          <li><a href="/wiki/Tanandava_Sud" title="Tanandava Sud">Tanandava Sud</a></li> 
+          <li><a href="/wiki/Tranomaro" title="Tranomaro">Tranomaro</a></li> 
+          <li><a class="mw-selflink selflink">Tsivory</a></li>
+         </ul> 
+        </div></td>
+       <td class="navbox-image" rowspan="3" style="width:1px;padding:0px 0px 0px 2px">
+        <div>
+         <a href="/wiki/File:Madagascar-Anosy_Region.png" class="image"><img alt="Madagascar-Anosy Region.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Madagascar-Anosy_Region.png/100px-Madagascar-Anosy_Region.png" decoding="async" width="100" height="155" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Madagascar-Anosy_Region.png/150px-Madagascar-Anosy_Region.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Madagascar-Anosy_Region.png/200px-Madagascar-Anosy_Region.png 2x" data-file-width="1403" data-file-height="2171"></a>
+        </div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Betroka_District" class="mw-redirect" title="Betroka District">Betroka</a></th>
+       <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><a href="/wiki/Ambalasoa" title="Ambalasoa">Ambalasoa</a></li> 
+          <li><a href="/wiki/Ambatomivary" title="Ambatomivary">Ambatomivary</a></li> 
+          <li><a href="/wiki/Analamary,_Betroka" title="Analamary, Betroka">Analamary</a></li> 
+          <li><a href="/wiki/Andriandampy" title="Andriandampy">Andriandampy</a></li> 
+          <li><a href="/wiki/Beapombo_I" title="Beapombo I">Beapombo I</a></li> 
+          <li><a href="/wiki/Beapombo_II" title="Beapombo II">Beapombo II</a></li> 
+          <li><a href="/wiki/Bekorobo" title="Bekorobo">Bekorobo</a></li> 
+          <li><a href="/wiki/Benato-Toby" title="Benato-Toby">Benato-Toby</a></li> 
+          <li><a href="/wiki/Betroka" title="Betroka">Betroka</a></li> 
+          <li><a href="/wiki/Iaborotra" title="Iaborotra">Iaborotra</a></li> 
+          <li><a href="/wiki/Ianabinda" title="Ianabinda">Ianabinda</a></li> 
+          <li><a href="/wiki/Ianakafy" title="Ianakafy">Ianakafy</a></li> 
+          <li><a href="/wiki/Isoanala" title="Isoanala">Isoanala</a></li> 
+          <li><a href="/wiki/Ivahona" title="Ivahona">Ivahona</a></li> 
+          <li><a href="/wiki/Jangany" title="Jangany">Jangany</a></li> 
+          <li><a href="/wiki/Mahabo,_Betroka" title="Mahabo, Betroka">Mahabo</a></li> 
+          <li><a href="/wiki/Mahasoa_Est" title="Mahasoa Est">Mahasoa Est</a></li> 
+          <li><a href="/wiki/Nagnarena" title="Nagnarena">Nagnarena</a></li> 
+          <li><a href="/wiki/Naninora" title="Naninora">Naninora</a></li> 
+          <li><a href="/wiki/Tsaraitso" title="Tsaraitso">Tsaraitso</a></li>
+         </ul> 
+        </div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Taolanaro_District" class="mw-redirect" title="Taolanaro District">Taolanaro</a></th>
+       <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><a href="/wiki/Ambatoabo" title="Ambatoabo">Ambatoabo</a></li> 
+          <li><a href="/wiki/Ampasimena" title="Ampasimena">Ampasimena</a></li> 
+          <li><a href="/wiki/Ampasy_Nahampoa" title="Ampasy Nahampoa">Ampasy Nahampoa</a></li> 
+          <li><a href="/wiki/Analamary,_Taolanaro" title="Analamary, Taolanaro">Analamary</a></li> 
+          <li><a href="/wiki/Analapatsy" title="Analapatsy">Analapatsy</a></li> 
+          <li><a href="/wiki/Andranombory" title="Andranombory">Andranombory</a></li> 
+          <li><a href="/wiki/Ankaramena,_Taolanaro" title="Ankaramena, Taolanaro">Ankaramena</a></li> 
+          <li><a href="/wiki/Bevoay" title="Bevoay">Bevoay</a></li> 
+          <li><a href="/wiki/Enakara-Haut" title="Enakara-Haut">Enakara-Haut</a></li> 
+          <li><a href="/wiki/Enaniliha" title="Enaniliha">Enaniliha</a></li> 
+          <li><a href="/wiki/Fenoevo" title="Fenoevo">Fenoevo</a></li> 
+          <li><a href="/wiki/Iabakoho" title="Iabakoho">Iabakoho</a></li> 
+          <li><a href="/wiki/Ifarantsa" title="Ifarantsa">Ifarantsa</a></li> 
+          <li><a href="/wiki/Isaka-Ivondro" title="Isaka-Ivondro">Isaka-Ivondro</a></li> 
+          <li><a href="/wiki/Mahatalaky" title="Mahatalaky">Mahatalaky</a></li> 
+          <li><a href="/wiki/Manambaro" title="Manambaro">Manambaro</a></li> 
+          <li><a href="/wiki/Manantenina" title="Manantenina">Manantenina</a></li> 
+          <li><a href="/wiki/Mandiso" title="Mandiso">Mandiso</a></li> 
+          <li><a href="/wiki/Mandromodromotra" title="Mandromodromotra">Mandromodromotra</a></li> 
+          <li><a href="/wiki/Ranomafana,_Taolanaro" title="Ranomafana, Taolanaro">Ranomafana</a></li> 
+          <li><a href="/wiki/Ranopiso" title="Ranopiso">Ranopiso</a></li> 
+          <li><a href="/wiki/Sarasambo" title="Sarasambo">Sarasambo</a></li> 
+          <li><a href="/wiki/Soanierana,_Taolanaro" title="Soanierana, Taolanaro">Soanierana</a></li> 
+          <li><a href="/wiki/T%C3%B4lanaro" title="Tôlanaro">Tôlanaro</a></li>
+         </ul> 
+        </div></td>
+      </tr>
+     </tbody>
+    </table>
+   </div> 
+   <table class="metadata plainlinks stub" role="presentation" style="background:transparent">
+    <tbody>
+     <tr>
+      <td><a href="/wiki/File:Flag-map_of_Madagascar.svg" class="image"><img alt="Stub icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Flag-map_of_Madagascar.svg/15px-Flag-map_of_Madagascar.svg.png" decoding="async" width="15" height="30" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Flag-map_of_Madagascar.svg/23px-Flag-map_of_Madagascar.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Flag-map_of_Madagascar.svg/30px-Flag-map_of_Madagascar.svg.png 2x" data-file-width="307" data-file-height="601"></a></td>
+      <td><i>This <a href="/wiki/Anosy_Region" title="Anosy Region">Anosy Region</a> location article is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="//en.wikipedia.org/w/index.php?title=Tsivory&amp;action=edit">expanding it</a>.</i>
+       <div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;">
+        <ul>
+         <li class="nv-view"><a href="/wiki/Template:Anosy-geo-stub" title="Template:Anosy-geo-stub"><abbr title="View this template">v</abbr></a></li>
+         <li class="nv-talk"><a href="/wiki/Template_talk:Anosy-geo-stub" title="Template talk:Anosy-geo-stub"><abbr title="Discuss this template">t</abbr></a></li>
+         <li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Anosy-geo-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+        </ul>
+       </div></td>
+     </tr>
+    </tbody>
+   </table> 
+   <!-- 
+NewPP limit report
+Parsed by mw1327
+Cached time: 20190417100806
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.120 seconds
+Real time usage: 0.184 seconds
+Preprocessor visited node count: 258/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 19708/2097152 bytes
+Template argument size: 112/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.051/10.000 seconds
+Lua memory usage: 1.54 MB/50 MB
+--> 
+   <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  150.946      1 -total
+ 51.25%   77.354      1 Template:Unreferenced
+ 33.06%   49.910      1 Template:Ambox
+ 21.43%   32.354      1 Template:Anosy_Region
+ 18.71%   28.235      1 Template:Navbox
+ 17.99%   27.150      1 Template:Coord
+ 10.15%   15.323      1 Template:Flagicon
+  9.13%   13.787      1 Template:Anosy-geo-stub
+  7.36%   11.114      1 Template:Asbox
+  3.71%    5.599      1 Template:Yesno-no
+--> 
+   <!-- Saved in parser cache with key enwiki:pcache:idhash:5745550-0!canonical and timestamp 20190417100806 and revision id 713482103
+ --> 
+  </div>
+  <noscript>
+   <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/

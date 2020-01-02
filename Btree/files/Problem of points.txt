@@ -1,0 +1,510 @@
+<div id="bodyContent" class="mw-body-content"> 
+ <div id="siteSub" class="noprint">
+  From Wikipedia, the free encyclopedia
+ </div> 
+ <div id="contentSub"></div> 
+ <div id="jump-to-nav"></div> 
+ <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> 
+ <a class="mw-jump-link" href="#p-search">Jump to search</a> 
+ <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+  <div class="mw-parser-output">
+   <p>The <b>problem of points</b>, also called the problem of <b>division of the stakes</b>, is a classical problem in <a href="/wiki/Probability_theory" title="Probability theory">probability theory</a>. One of the famous problems that motivated the beginnings of modern probability theory in the 17th century, it led <a href="/wiki/Blaise_Pascal" title="Blaise Pascal">Blaise Pascal</a> to the first explicit reasoning about what today is known as an <a href="/wiki/Expected_value" title="Expected value">expected value</a>. </p>
+   <p>The problem concerns a game of chance with two players who have equal chances of winning each round. The players contribute equally to a prize pot, and agree in advance that the first player to have won a certain number of rounds will collect the entire prize. Now suppose that the game is interrupted by external circumstances before either player has achieved victory. How does one then divide the pot fairly? It is tacitly understood that the division should depend somehow on the number of rounds won by each player, such that a player who is close to winning will get a larger part of the pot. But the problem is not merely one of calculation; it also involves deciding what a "fair" division actually is. </p> 
+   <div id="toc" class="toc">
+    <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+    <div class="toctitle" lang="en" dir="ltr">
+     <h2>Contents</h2>
+     <span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+    </div> 
+    <ul> 
+     <li class="toclevel-1 tocsection-1"><a href="#Early_solutions"><span class="tocnumber">1</span> <span class="toctext">Early solutions</span></a></li> 
+     <li class="toclevel-1 tocsection-2"><a href="#Pascal_and_Fermat"><span class="tocnumber">2</span> <span class="toctext">Pascal and Fermat</span></a></li> 
+     <li class="toclevel-1 tocsection-3"><a href="#Notes"><span class="tocnumber">3</span> <span class="toctext">Notes</span></a></li> 
+     <li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li> 
+     <li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li> 
+    </ul> 
+   </div> 
+   <h2><span class="mw-headline" id="Early_solutions">Early solutions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Problem_of_points&amp;action=edit&amp;section=1" title="Edit section: Early solutions">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <p><a href="/wiki/Luca_Pacioli" title="Luca Pacioli">Luca Pacioli</a> considered such a problem in his 1494 textbook <i><a href="/wiki/Summa_de_arithmetica" title="Summa de arithmetica">Summa de arithmetica, geometrica, proportioni et proportionalità</a></i>. His method was to divide the stakes in proportion to the number of rounds won by each player, and the number of rounds needed to win did not enter his calculations at all.<sup id="cite_ref-Katz1131_1-0" class="reference"><a href="#cite_note-Katz1131-1">[1]</a></sup> </p>
+   <p>In the mid-16th century <a href="/wiki/Niccol%C3%B2_Tartaglia" class="mw-redirect" title="Niccolò Tartaglia">Niccolò Tartaglia</a> noticed that Pacioli's method leads to counterintuitive results if the game is interrupted when only one round has been played. In that case, Pacioli's rule would award the entire pot to the winner of that single round, though a one-round lead early in a long game is far from decisive. Tartaglia constructed a method that avoids that particular problem by basing the division on the ratio between the size of the lead and the length of the game.<sup id="cite_ref-Katz1131_1-1" class="reference"><a href="#cite_note-Katz1131-1">[1]</a></sup> This solution is still not without problems, however; in a game to 100 it divides the stakes in the same way for a 65–55 lead as for a 99–89 lead, even though the former is still a relatively open game whereas in the latter situation victory for the leading player is almost certain. Tartaglia himself was unsure whether the problem was solvable at all in a way that would convince both players of its fairness: "in whatever way the division is made there will be cause for litigation".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> </p> 
+   <h2><span class="mw-headline" id="Pascal_and_Fermat">Pascal and Fermat</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Problem_of_points&amp;action=edit&amp;section=2" title="Edit section: Pascal and Fermat">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <p>The problem arose again around 1654 when <a href="/wiki/Chevalier_de_M%C3%A9r%C3%A9" class="mw-redirect" title="Chevalier de Méré">Chevalier de Méré</a> posed it to <a href="/wiki/Blaise_Pascal" title="Blaise Pascal">Blaise Pascal</a>. Pascal discussed the problem in his ongoing correspondence with <a href="/wiki/Pierre_de_Fermat" title="Pierre de Fermat">Pierre de Fermat</a>. Through this discussion, Pascal and Fermat not only provided a convincing, self-consistent solution to this problem, but also developed concepts that are still fundamental to probability theory. </p>
+   <p>The starting insight for Pascal and Fermat was that the division should not depend so much on the history of the part of the interrupted game that actually took place, as on the possible ways the game might have continued, were it not interrupted. It is intuitively clear that a player with a 7–5 lead in a game to 10 has the same chance of eventually winning as a player with a 17–15 lead in a game to 20, and Pascal and Fermat therefore thought that interruption in either of the two situations ought to lead to the same division of the stakes. In other words, what is important is not the number of rounds each player has won yet, but the number of rounds each player still needs to win in order to achieve overall victory. </p>
+   <p>Fermat now reasoned thus:<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> if one player needs <i>r</i> more rounds to win and the other needs <i>s</i>, the game will surely have been won by someone after <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle r+s-1}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <mi>
+           r
+          </mi> 
+          <mo>
+           +
+          </mo> 
+          <mi>
+           s
+          </mi> 
+          <mo>
+           −
+           <!-- − -->
+          </mo> 
+          <mn>
+           1
+          </mn> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle r+s-1}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6a8837d71bc2482280db152ca4d570a1f6f589f0" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.505ex; width:8.982ex; height:2.343ex;" alt="r+s-1"></span> additional rounds. Therefore, imagine that the players were to play <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle r+s-1}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <mi>
+           r
+          </mi> 
+          <mo>
+           +
+          </mo> 
+          <mi>
+           s
+          </mi> 
+          <mo>
+           −
+           <!-- − -->
+          </mo> 
+          <mn>
+           1
+          </mn> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle r+s-1}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6a8837d71bc2482280db152ca4d570a1f6f589f0" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.505ex; width:8.982ex; height:2.343ex;" alt="r+s-1"></span> more rounds; in total these rounds have <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle 2^{r+s-1}}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <msup> 
+           <mn>
+            2
+           </mn> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mi>
+             r
+            </mi> 
+            <mo>
+             +
+            </mo> 
+            <mi>
+             s
+            </mi> 
+            <mo>
+             −
+             <!-- − -->
+            </mo> 
+            <mn>
+             1
+            </mn> 
+           </mrow> 
+          </msup> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle 2^{r+s-1}}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f08faffb545ee2df22cde4c062375e0c5e64d738" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:6.286ex; height:2.676ex;" alt="2^{{r+s-1}}"></span> different possible outcomes. In some of these possible futures the game will actually have been decided in fewer than <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle r+s-1}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <mi>
+           r
+          </mi> 
+          <mo>
+           +
+          </mo> 
+          <mi>
+           s
+          </mi> 
+          <mo>
+           −
+           <!-- − -->
+          </mo> 
+          <mn>
+           1
+          </mn> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle r+s-1}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6a8837d71bc2482280db152ca4d570a1f6f589f0" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.505ex; width:8.982ex; height:2.343ex;" alt="r+s-1"></span> rounds, but it does no harm to imagine the players continuing to play with no purpose. Considering only equally long futures has the advantage that one easily convinces oneself that each of the <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle 2^{r+s-1}}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <msup> 
+           <mn>
+            2
+           </mn> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mi>
+             r
+            </mi> 
+            <mo>
+             +
+            </mo> 
+            <mi>
+             s
+            </mi> 
+            <mo>
+             −
+             <!-- − -->
+            </mo> 
+            <mn>
+             1
+            </mn> 
+           </mrow> 
+          </msup> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle 2^{r+s-1}}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f08faffb545ee2df22cde4c062375e0c5e64d738" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:6.286ex; height:2.676ex;" alt="2^{{r+s-1}}"></span> possibilities is equally likely. Fermat was thus able to compute the <a href="/wiki/Odds" title="Odds">odds</a> for each player to win, simply by writing down a table of all <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle 2^{r+s-1}}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <msup> 
+           <mn>
+            2
+           </mn> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mi>
+             r
+            </mi> 
+            <mo>
+             +
+            </mo> 
+            <mi>
+             s
+            </mi> 
+            <mo>
+             −
+             <!-- − -->
+            </mo> 
+            <mn>
+             1
+            </mn> 
+           </mrow> 
+          </msup> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle 2^{r+s-1}}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f08faffb545ee2df22cde4c062375e0c5e64d738" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:6.286ex; height:2.676ex;" alt="2^{{r+s-1}}"></span> possible continuations and counting how many of them would lead to each player winning. Fermat now considered it obviously fair to divide the stakes in proportion to those odds. </p>
+   <p>Fermat's solution, certainly "correct" by today's standards, was improved by Pascal in two ways. First, Pascal produced a more elaborate argument why the resulting division should be considered fair. Second, he showed how to calculate the correct division more efficiently than Fermat's tabular method, which becomes completely impractical (without modern computers) if <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle r+s-1}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <mi>
+           r
+          </mi> 
+          <mo>
+           +
+          </mo> 
+          <mi>
+           s
+          </mi> 
+          <mo>
+           −
+           <!-- − -->
+          </mo> 
+          <mn>
+           1
+          </mn> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle r+s-1}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6a8837d71bc2482280db152ca4d570a1f6f589f0" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.505ex; width:8.982ex; height:2.343ex;" alt="r+s-1"></span> is more than about 10. </p>
+   <p>Instead of just considering the probability of winning the <i>entire</i> remaining game, Pascal devised a principle of smaller steps: Suppose that the players had been able to play just <i>one</i> more round before being interrupted, and that we already had decided how to fairly divide the stakes after that one more round (possibly because that round lets one of the players win). The imagined extra round may lead to one of two possible futures with different fair divisions of the stakes, but since the two players have even chances of winning the next round, they should split the difference between the two future divisions evenly. In this way knowledge of the fair solutions in games with fewer rounds remaining can be used to calculate fair solutions for games with more rounds remaining.<sup id="cite_ref-Katz1132_4-0" class="reference"><a href="#cite_note-Katz1132-4">[4]</a></sup> </p>
+   <p>It is easier to convince oneself that this principle is fair than it is for Fermat's table of possible futures, which are doubly hypothetical because one must imagine that the game sometimes continues after having been won. Pascal's analysis here is one of the earliest examples of using <a href="/wiki/Expectation_value" class="mw-redirect" title="Expectation value">expectation values</a> instead of <a href="/wiki/Odds" title="Odds">odds</a> when reasoning about probability. Shortly after, this idea would become a basis for the first systematic treatise on probability by <a href="/wiki/Christiaan_Huygens" title="Christiaan Huygens">Christiaan Huygens</a>. Later the modern concept of <a href="/wiki/Probability_theory" title="Probability theory">probability</a> grew out of the use of expectation values by Pascal and Huygens. </p>
+   <p>The direct application of Pascal's step-by-step rule is significantly quicker than Fermat's method when many rounds remain. However, Pascal was able to use it as a starting point for developing more advanced computational methods. Through clever manipulation of identities involving what is today known as <a href="/wiki/Pascal%27s_triangle" title="Pascal's triangle">Pascal's triangle</a> (including several of the first explicit <a href="/wiki/Mathematical_induction" title="Mathematical induction">proofs by induction</a>) Pascal finally showed that in a game where one player needs <i>r</i> points to win and the other needs <i>s</i> points to win, the correct division of the stakes is in the ratio of (using modern notation) </p> 
+   <dl>
+    <dd>
+     <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+       <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \sum _{k=0}^{s-1}{\binom {r+s-1}{k}}{\mbox{ to }}\sum _{k=s}^{r+s-1}{\binom {r+s-1}{k}}}"> 
+        <semantics> 
+         <mrow class="MJX-TeXAtom-ORD"> 
+          <mstyle displaystyle="true" scriptlevel="0"> 
+           <munderover> 
+            <mo>
+             ∑
+             <!-- ∑ -->
+            </mo> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mi>
+              k
+             </mi> 
+             <mo>
+              =
+             </mo> 
+             <mn>
+              0
+             </mn> 
+            </mrow> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mi>
+              s
+             </mi> 
+             <mo>
+              −
+              <!-- − -->
+             </mo> 
+             <mn>
+              1
+             </mn> 
+            </mrow> 
+           </munderover> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mrow> 
+             <mrow class="MJX-TeXAtom-OPEN"> 
+              <mo maxsize="2.047em" minsize="2.047em">
+               (
+              </mo> 
+             </mrow> 
+             <mfrac linethickness="0"> 
+              <mrow> 
+               <mi>
+                r
+               </mi> 
+               <mo>
+                +
+               </mo> 
+               <mi>
+                s
+               </mi> 
+               <mo>
+                −
+                <!-- − -->
+               </mo> 
+               <mn>
+                1
+               </mn> 
+              </mrow> 
+              <mi>
+               k
+              </mi> 
+             </mfrac> 
+             <mrow class="MJX-TeXAtom-CLOSE"> 
+              <mo maxsize="2.047em" minsize="2.047em">
+               )
+              </mo> 
+             </mrow> 
+            </mrow> 
+           </mrow> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mstyle displaystyle="false" scriptlevel="0"> 
+             <mtext>
+              &nbsp;to&nbsp;
+             </mtext> 
+            </mstyle> 
+           </mrow> 
+           <munderover> 
+            <mo>
+             ∑
+             <!-- ∑ -->
+            </mo> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mi>
+              k
+             </mi> 
+             <mo>
+              =
+             </mo> 
+             <mi>
+              s
+             </mi> 
+            </mrow> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mi>
+              r
+             </mi> 
+             <mo>
+              +
+             </mo> 
+             <mi>
+              s
+             </mi> 
+             <mo>
+              −
+              <!-- − -->
+             </mo> 
+             <mn>
+              1
+             </mn> 
+            </mrow> 
+           </munderover> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mrow> 
+             <mrow class="MJX-TeXAtom-OPEN"> 
+              <mo maxsize="2.047em" minsize="2.047em">
+               (
+              </mo> 
+             </mrow> 
+             <mfrac linethickness="0"> 
+              <mrow> 
+               <mi>
+                r
+               </mi> 
+               <mo>
+                +
+               </mo> 
+               <mi>
+                s
+               </mi> 
+               <mo>
+                −
+                <!-- − -->
+               </mo> 
+               <mn>
+                1
+               </mn> 
+              </mrow> 
+              <mi>
+               k
+              </mi> 
+             </mfrac> 
+             <mrow class="MJX-TeXAtom-CLOSE"> 
+              <mo maxsize="2.047em" minsize="2.047em">
+               )
+              </mo> 
+             </mrow> 
+            </mrow> 
+           </mrow> 
+          </mstyle> 
+         </mrow> 
+         <annotation encoding="application/x-tex">
+          {\displaystyle \sum _{k=0}^{s-1}{\binom {r+s-1}{k}}{\mbox{ to }}\sum _{k=s}^{r+s-1}{\binom {r+s-1}{k}}}
+         </annotation> 
+        </semantics> 
+       </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8777ef4d9b205d4da3534c6e96f4c7ad8aee2c6f" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -3.171ex; width:37.443ex; height:7.509ex;" alt="{\displaystyle \sum _{k=0}^{s-1}{\binom {r+s-1}{k}}{\mbox{ to }}\sum _{k=s}^{r+s-1}{\binom {r+s-1}{k}}}"></span> where the 
+     <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+       <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle {\binom {r+s-1}{k}}}"> 
+        <semantics> 
+         <mrow class="MJX-TeXAtom-ORD"> 
+          <mstyle displaystyle="true" scriptlevel="0"> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mrow> 
+             <mrow class="MJX-TeXAtom-OPEN"> 
+              <mo maxsize="2.047em" minsize="2.047em">
+               (
+              </mo> 
+             </mrow> 
+             <mfrac linethickness="0"> 
+              <mrow> 
+               <mi>
+                r
+               </mi> 
+               <mo>
+                +
+               </mo> 
+               <mi>
+                s
+               </mi> 
+               <mo>
+                −
+                <!-- − -->
+               </mo> 
+               <mn>
+                1
+               </mn> 
+              </mrow> 
+              <mi>
+               k
+              </mi> 
+             </mfrac> 
+             <mrow class="MJX-TeXAtom-CLOSE"> 
+              <mo maxsize="2.047em" minsize="2.047em">
+               )
+              </mo> 
+             </mrow> 
+            </mrow> 
+           </mrow> 
+          </mstyle> 
+         </mrow> 
+         <annotation encoding="application/x-tex">
+          {\displaystyle {\binom {r+s-1}{k}}}
+         </annotation> 
+        </semantics> 
+       </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/88c56b13bc0b4a45bcc98f2118df784722da63ab" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.505ex; width:12.404ex; height:6.176ex;" alt="{\displaystyle {\binom {r+s-1}{k}}}"></span> term represents the 
+     <a href="/wiki/Combination" title="Combination">combination</a> operator.
+    </dd>
+   </dl> 
+   <p>The problem of dividing the stakes became a major motivating example for Pascal in his <i>Treatise on the arithmetic triangle</i>.<sup id="cite_ref-Katz1132_4-1" class="reference"><a href="#cite_note-Katz1132-4">[4]</a></sup> <sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> </p>
+   <p>Though Pascal's derivation of this result was independent of Fermat's tabular method, it is clear that it also describes exactly the counting of different outcomes of <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle r+s-1}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <mi>
+           r
+          </mi> 
+          <mo>
+           +
+          </mo> 
+          <mi>
+           s
+          </mi> 
+          <mo>
+           −
+           <!-- − -->
+          </mo> 
+          <mn>
+           1
+          </mn> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle r+s-1}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6a8837d71bc2482280db152ca4d570a1f6f589f0" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.505ex; width:8.982ex; height:2.343ex;" alt="r+s-1"></span> additional rounds that Fermat suggested. </p> 
+   <h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Problem_of_points&amp;action=edit&amp;section=3" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <div class="reflist" style="list-style-type: decimal;"> 
+    <div class="mw-references-wrap">
+     <ol class="references"> 
+      <li id="cite_note-Katz1131-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Katz1131_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Katz1131_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Katz, Victor J. (1993). <i>A history of mathematics</i>. HarperCollins College Publishers.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A+history+of+mathematics&amp;rft.pub=HarperCollins+College+Publishers&amp;rft.date=1993&amp;rft.aulast=Katz&amp;rft.aufirst=Victor+J.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AProblem+of+points" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style> Section 11.3.1</span> </li> 
+      <li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Tartaglia, quoted by Katz (<i>op.cit.</i>), from Oystein Ore, "Pascal and the Invention of Probability Theory", <i>American Mathematical Monthly</i> 67 (1960), 409–419, p.414.</span> </li> 
+      <li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Pascal, letter to Fermat, quoted in F. N. David (1962) <i>Games, Gods, and Gambling</i>, Griffin Press, p. 239.</span> </li> 
+      <li id="cite_note-Katz1132-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-Katz1132_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Katz1132_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Katz, <i>op.cit.</i>, Section 11.3.2</span> </li> 
+      <li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Blaise_Pascal" title="Blaise Pascal">Pascal, Blaise</a> (1665). <i>Traité du triangle arithmétique</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Trait%C3%A9+du+triangle+arithm%C3%A9tique&amp;rft.date=1665&amp;rft.aulast=Pascal&amp;rft.aufirst=Blaise&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AProblem+of+points" class="Z3988"></span>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"> <a rel="nofollow" class="external text" href="http://www.lib.cam.ac.uk/RareBooks/PascalTraite">Digital facsimile</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20040803130916/http://www.lib.cam.ac.uk/RareBooks/PascalTraite/">Archived</a> 2004-08-03 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> at the Cambridge University Library <span class="languageicon">(in French)</span> with short English summary</span> </li> 
+     </ol>
+    </div>
+   </div> 
+   <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Problem_of_points&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <ul>
+    <li>Anders Hald: <i>A history of Probability and Statistics and their Applications before 1750</i>. Wiley 2003, 
+     <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-0-471-47129-5" title="Special:BookSources/978-0-471-47129-5">978-0-471-47129-5</a>, p.&nbsp;35, 54</li> 
+    <li>Keith Devlin: <i>The Unfinished Game: Pascal, Fermat, and the Seventeenth-Century Letter that Made the World Modern</i>. Basic Books 2010, 
+     <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-0465018963" title="Special:BookSources/978-0465018963">978-0465018963</a></li>
+   </ul> 
+   <h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Problem_of_points&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <ul>
+    <li><span class="citation mathworld" id="Reference-Mathworld-Pascal's_triangle"><cite class="citation web"><a href="/wiki/Eric_W._Weisstein" title="Eric W. Weisstein">Weisstein, Eric W.</a> <a

@@ -1,0 +1,247 @@
+<div id="bodyContent" class="mw-body-content"> 
+ <div id="siteSub" class="noprint">
+  From Wikipedia, the free encyclopedia
+ </div> 
+ <div id="contentSub"></div> 
+ <div id="jump-to-nav"></div> 
+ <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> 
+ <a class="mw-jump-link" href="#p-search">Jump to search</a> 
+ <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+  <div class="mw-parser-output">
+   <div role="note" class="hatnote navigation-not-searchable">
+    For other people named Franz Wolf, see 
+    <a href="/wiki/Franz_Wolf_(disambiguation)" class="mw-redirect mw-disambig" title="Franz Wolf (disambiguation)">Franz Wolf</a>.
+   </div> 
+   <table class="infobox vcard" style="width:22em;border-spacing:2px;">
+    <tbody>
+     <tr>
+      <th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;background-color:#C3D6EF;">
+       <div style="display:inline" class="fn">
+        Franz Wolf
+       </div></th>
+     </tr>
+     <tr>
+      <td colspan="2" style="text-align:center;border-bottom: 1px solid #aaa;; line-height: 1.5em"><a href="/wiki/File:Franz_Wolf_(Nazi).jpg" class="image"><img alt="Franz Wolf (Nazi).jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Franz_Wolf_%28Nazi%29.jpg/170px-Franz_Wolf_%28Nazi%29.jpg" decoding="async" width="170" height="260" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Franz_Wolf_%28Nazi%29.jpg/255px-Franz_Wolf_%28Nazi%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/0/0a/Franz_Wolf_%28Nazi%29.jpg 2x" data-file-width="307" data-file-height="469"></a>
+       <div style="font-size: 100%">
+        <i><a href="/wiki/SS-Oberscharf%C3%BChrer" class="mw-redirect" title="SS-Oberscharführer">SS-Oberscharführer</a></i> Franz Wolf in civilian clothing
+       </div></td>
+     </tr>
+     <tr>
+      <th scope="row" style="padding-right: 1em">Born</th>
+      <td>9 April 1907<br><a href="/wiki/%C4%8Cesk%C3%BD_Krumlov" title="Český Krumlov">Krummau</a>, German Empire</td>
+     </tr>
+     <tr>
+      <th scope="row" style="padding-right: 1em">Allegiance</th>
+      <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Germany_%281935%E2%80%931945%29.svg/23px-Flag_of_Germany_%281935%E2%80%931945%29.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Germany_%281935%E2%80%931945%29.svg/35px-Flag_of_Germany_%281935%E2%80%931945%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Germany_%281935%E2%80%931945%29.svg/46px-Flag_of_Germany_%281935%E2%80%931945%29.svg.png 2x" data-file-width="1000" data-file-height="600">&nbsp;</span><a href="/wiki/Nazi_Germany" title="Nazi Germany">Nazi Germany</a></td>
+     </tr>
+     <tr>
+      <th scope="row" style="padding-right: 1em">Service/<wbr>branch</th>
+      <td><a href="/wiki/File:Flag_of_the_Schutzstaffel.svg" class="image"><img alt="Flag of the Schutzstaffel.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Flag_of_the_Schutzstaffel.svg/23px-Flag_of_the_Schutzstaffel.svg.png" decoding="async" width="23" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Flag_of_the_Schutzstaffel.svg/35px-Flag_of_the_Schutzstaffel.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Flag_of_the_Schutzstaffel.svg/46px-Flag_of_the_Schutzstaffel.svg.png 2x" data-file-width="512" data-file-height="341"></a> <a href="/wiki/Schutzstaffel" title="Schutzstaffel">Schutzstaffel</a></td>
+     </tr>
+     <tr>
+      <th scope="row" style="padding-right: 1em">Rank</th>
+      <td><a href="/wiki/File:SS-Oberscharf%C3%BChrer_Collar_Rank.svg" class="image"><img alt="SS-Oberscharführer Collar Rank.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/SS-Oberscharf%C3%BChrer_Collar_Rank.svg/30px-SS-Oberscharf%C3%BChrer_Collar_Rank.svg.png" decoding="async" width="30" height="23" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/SS-Oberscharf%C3%BChrer_Collar_Rank.svg/45px-SS-Oberscharf%C3%BChrer_Collar_Rank.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/43/SS-Oberscharf%C3%BChrer_Collar_Rank.svg/60px-SS-Oberscharf%C3%BChrer_Collar_Rank.svg.png 2x" data-file-width="300" data-file-height="233"></a> <a href="/wiki/Oberscharf%C3%BChrer" title="Oberscharführer">Oberscharführer</a></td>
+     </tr>
+     <tr>
+      <th scope="row" style="padding-right: 1em">Unit</th>
+      <td><a href="/wiki/File:3rd_SS_Division_Logo.svg" class="image"><img alt="3rd SS Division Logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/3rd_SS_Division_Logo.svg/23px-3rd_SS_Division_Logo.svg.png" decoding="async" width="23" height="28" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/3rd_SS_Division_Logo.svg/35px-3rd_SS_Division_Logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cf/3rd_SS_Division_Logo.svg/46px-3rd_SS_Division_Logo.svg.png 2x" data-file-width="512" data-file-height="617"></a> <a href="/wiki/SS-Totenkopfverb%C3%A4nde" title="SS-Totenkopfverbände">SS-Totenkopfverbände</a></td>
+     </tr>
+     <tr>
+      <th scope="row" style="padding-right: 1em">Commands held</th>
+      <td><a href="/wiki/Sobibor_extermination_camp" title="Sobibor extermination camp">Sobibor extermination camp</a></td>
+     </tr>
+    </tbody>
+   </table> 
+   <p><i><a href="/wiki/SS-Oberscharf%C3%BChrer" class="mw-redirect" title="SS-Oberscharführer">SS-Oberscharführer</a></i> <b>Franz Wolf</b> (born 9 April 1907) was a German Nazi senior squad leader serving with the <a href="/wiki/Action_T4" class="mw-redirect" title="Action T4">Action T4</a> <a href="/wiki/Involuntary_euthanasia" title="Involuntary euthanasia">forced euthanasia</a> program, and later, at the <a href="/wiki/Sobib%C3%B3r_extermination_camp" class="mw-redirect" title="Sobibór extermination camp">Sobibór extermination camp</a> in <a href="/wiki/Occupied_Poland" class="mw-redirect" title="Occupied Poland">occupied Poland</a> during the most deadly phase of <a href="/wiki/The_Holocaust" title="The Holocaust">the Holocaust</a>, codenamed <a href="/wiki/Operation_Reinhard" title="Operation Reinhard">Operation Reinhard</a>. Leading a normal life in West Germany for the next twenty years,<sup id="cite_ref-Blatt_1-0" class="reference"><a href="#cite_note-Blatt-1">[1]</a></sup><sup id="cite_ref-H.E.A.R.T_2-0" class="reference"><a href="#cite_note-H.E.A.R.T-2">[2]</a></sup> along with thousands of war criminals protected by <a href="/wiki/Konrad_Adenauer" title="Konrad Adenauer">Konrad Adenauer</a>,<sup id="cite_ref-Simon_Wiesenthal_Center_3-0" class="reference"><a href="#cite_note-Simon_Wiesenthal_Center-3">[3]</a></sup><sup id="cite_ref-Hartmann_4-0" class="reference"><a href="#cite_note-Hartmann-4">[4]</a></sup> Wolf was arrested in 1964,<sup id="cite_ref-Blatt_1-1" class="reference"><a href="#cite_note-Blatt-1">[1]</a></sup><sup id="cite_ref-H.E.A.R.T_2-1" class="reference"><a href="#cite_note-H.E.A.R.T-2">[2]</a></sup> and indicted during the <a href="/wiki/Sobib%C3%B3r_trial" class="mw-redirect" title="Sobibór trial">Sobibór trial</a> with participating in the murder of 115,000 Jews. On 20 December 1966,<sup id="cite_ref-H.E.A.R.T_2-2" class="reference"><a href="#cite_note-H.E.A.R.T-2">[2]</a></sup> the court in Hagen sentenced him to eight years in prison for taking part in the mass murder of "at least 39,000 Jews".<sup id="cite_ref-Blatt_1-2" class="reference"><a href="#cite_note-Blatt-1">[1]</a></sup><sup id="cite_ref-H.E.A.R.T_2-3" class="reference"><a href="#cite_note-H.E.A.R.T-2">[2]</a></sup> </p> 
+   <h2><span class="mw-headline" id="Career">Career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Franz_Wolf_(SS_officer)&amp;action=edit&amp;section=1" title="Edit section: Career">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <p>Little is known about his private life except that Wolf came from <a href="/wiki/%C4%8Cesk%C3%BD_Krumlov" title="Český Krumlov">Krummau</a>. He was in the Czechoslovak Army and in the German <a href="/wiki/Wehrmacht" title="Wehrmacht">Wehrmacht</a>, before he was posted to <a href="/wiki/Hadamar_Euthanasia_Centre" title="Hadamar Euthanasia Centre">Hadamar Euthanasia Centre</a> and the <a href="/wiki/Heidelberg" title="Heidelberg">Heidelberg</a> Psychiatric Clinic where the killing of patients deemed beyond the reach of therapy was taking place.<sup id="cite_ref-Seeman_5-0" class="reference"><a href="#cite_note-Seeman-5">[5]</a></sup> In the name of science, Wolf photographed the mentally ill before they were gassed.<sup id="cite_ref-Kommando_6-0" class="reference"><a href="#cite_note-Kommando-6">[6]</a></sup> </p>
+   <p>Together with his brother Josef Wolf (1900–1943), he was sent to Sobibór <a href="/wiki/Extermination_camp" title="Extermination camp">extermination camp</a> in German <a href="/wiki/Occupied_Poland" class="mw-redirect" title="Occupied Poland">occupied Poland</a> sometime in early March 1943, as a specialist in euthanasia. The mass gassing operations at Sobibór were at full throttle already since mid-May 1942. In total, up to 200,000 (or more)<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> mostly Jewish prisoners were murdered there. Wolf was in Sobibór until the prisoner uprising. He liked to hang around the victims' "barber shop" where his brother was a squad leader<sup id="cite_ref-Kommando_6-1" class="reference"><a href="#cite_note-Kommando-6">[6]</a></sup> and watch naked women having their hair shorn off by the <i>Sonderkommando</i>.<sup id="cite_ref-Interviews_8-0" class="reference"><a href="#cite_note-Interviews-8">[8]</a></sup> He supervised the sorting barracks where belongings of the victims were processed, but also led the <i>Waldkommando</i> forest brigade,<sup id="cite_ref-Interviews_8-1" class="reference"><a href="#cite_note-Interviews-8">[8]</a></sup> cutting trees for the fuelling of corpse cremation <a href="/wiki/Pyre" title="Pyre">pyres</a> in the camp's killing zone.<sup id="cite_ref-Waldkommando_9-0" class="reference"><a href="#cite_note-Waldkommando-9">[9]</a></sup> </p> 
+   <h2><span class="mw-headline" id="Arrest">Arrest</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Franz_Wolf_(SS_officer)&amp;action=edit&amp;section=2" title="Edit section: Arrest">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <p>Wolf was presented with an arrest warrant in 1964 at Eppelheim<sup id="cite_ref-ZEIT_10-0" class="reference"><a href="#cite_note-ZEIT-10">[10]</a></sup> as one of a selected twelve former members of the SS camp personnel, which constituted about a quarter of the German staff there. The rest went on to live normal lives. In 1966 the court in Hagen sentenced Wolf to eight years in prison for his role as an overseer of a <a href="/wiki/Forced_labour_under_German_rule_during_World_War_II" title="Forced labour under German rule during World War II">slave labour</a> commando that sorted the belongings of victims already "processed". Wolf, in his work as the warehouse clerk, was charged with personally killing one Jew and with helping to murder an additional 115,000 Jews. He was found guilty of having assisted in the murder of "at least 39,000 Jews", a number chosen arbitrarily for judicial purposes.<sup id="cite_ref-Urteil_LG_Hagen_11-0" class="reference"><a href="#cite_note-Urteil_LG_Hagen-11">[11]</a></sup> Sentenced to eight years in prison, Wolf, age 58 (at the time of his arrest), likely served at least a part of the sentence. This is all that is known about him,<sup id="cite_ref-Blatt_1-3" class="reference"><a href="#cite_note-Blatt-1">[1]</a></sup><sup id="cite_ref-H.E.A.R.T_2-4" class="reference"><a href="#cite_note-H.E.A.R.T-2">[2]</a></sup> other than he lived somewhere in Bavaria. His brother, <i><a href="/wiki/SS-Scharf%C3%BChrer" class="mw-redirect" title="SS-Scharführer">SS-Scharführer</a></i> Josef Wolf, was killed in the Sobibór uprising.<sup id="cite_ref-Wolf_12-0" class="reference"><a href="#cite_note-Wolf-12">[12]</a></sup> </p> 
+   <h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Franz_Wolf_(SS_officer)&amp;action=edit&amp;section=3" title="Edit section: Notes and references">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <div class="reflist" style="list-style-type: decimal;"> 
+    <div class="mw-references-wrap mw-references-columns">
+     <ol class="references"> 
+      <li id="cite_note-Blatt-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Blatt_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Blatt_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Blatt_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Blatt_1-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20080504213347/http://www.sobibor.info/murderers.html">"Murderers"</a>. <i>The Forgotten Revolt</i>. Thomas T. Blatt. Archived from <a rel="nofollow" class="external text" href="http://www.sobibor.info/murderers.html">the original</a> on 4 May 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">27 September</span> 2014</span>. <q>3. Wolf, Franz, warehouse clerk; arrested in 1964.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Forgotten+Revolt&amp;rft.atitle=Murderers&amp;rft_id=http%3A%2F%2Fwww.sobibor.info%2Fmurderers.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFranz+Wolf+%28SS+officer%29" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span> </li> 
+      <li id="cite_note-H.E.A.R.T-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-H.E.A.R.T_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-H.E.A.R.T_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-H.E.A.R.T_2-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-H.E.A.R.T_2-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-H.E.A.R.T_2-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Chris Webb; Carmelo Lisciotto; Victor Smart (2009). <a rel="nofollow" class="external text" href="http://www.holocaustresearchproject.net/ar/sobibor.html">"The Sobibor Trial"</a>. <i>The Sobibor Death Camp</i>. H.E.A.R.T – Holocaust Research Project.org<span class="reference-accessdate">. Retrieved <span class="nowrap">27 September</span> 2014</span>. <q>20 December 1966, the following sentences were handed out: Franz Wolf. Arrested in 1964. Found guilty of participation in the mass murder of at least 39,000 Jews.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Sobibor+Death+Camp&amp;rft.atitle=The+Sobibor+Trial&amp;rft.date=2009&amp;rft.au=Chris+Webb&amp;rft.au=Carmelo+Lisciotto&amp;rft.au=Victor+Smart&amp;rft_id=http%3A%2F%2Fwww.holocaustresearchproject.net%2Far%2Fsobibor.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFranz+Wolf+%28SS+officer%29" class="Z3988"></span>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+      <li id="cite_note-Simon_Wiesenthal_Center-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-Simon_Wiesenthal_Center_3-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.wiesenthal.com/site/pp.asp?c=lsKWLbPJLnF&amp;b=4441293#.UokrCZHKJZY">"About Simon Wiesenthal"</a>. <i>Simon Wiesenthal Center</i>. 2013. Section 11<span class="reference-accessdate">. Retrieved <span class="nowrap">27 September</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Simon+Wiesenthal+Center&amp;rft.atitle=About+Simon+Wiesenthal&amp;rft.pages=Section+11&amp;rft.date=2013&amp;rft_id=http%3A%2F%2Fwww.wiesenthal.com%2Fsite%2Fpp.asp%3Fc%3DlsKWLbPJLnF%26b%3D4441293%23.UokrCZHKJZY&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFranz+Wolf+%28SS+officer%29" class="Z3988"></span>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+      <li id="cite_note-Hartmann-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-Hartmann_4-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Hartmann, Ralph (2010). <a rel="nofollow" class="external text" href="http://www.sopos.org/aufsaetze/4bdfd55e42f57/1.phtml">"Der Alibiprozeß"</a>. <i>Den Aufsatz kommentieren</i> (in German). Ossietzky 9/2010<span class="reference-accessdate">. Retrieved <span class="nowrap">27 September</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Den+Aufsatz+kommentieren&amp;rft.atitle=Der+Alibiproze%C3%9F&amp;rft.date=2010&amp;rft.aulast=Hartmann&amp;rft.aufirst=Ralph&amp;rft_id=http%3A%2F%2Fwww.sopos.org%2Faufsaetze%2F4bdfd55e42f57%2F1.phtml&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFranz+Wolf+%28SS+officer%29" class="Z3988"></span>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+      <li id="cite_note-Seeman-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-Seeman_5-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Mary V Seeman, MD (March 2005). <a rel="nofollow" class="external text" href="https://ww1.cpa-apc.org/Publications/Archives/CJP/2005/march2/cjp-mar2-05-Seeman-RP.pdf">"Psychiatry in the Nazi Era"</a> <span class="cs1-format">(PDF file, direct download)</span>. <i>Can J Psychiatry</i>. <b>50</b> (4): 223<span class="reference-accessdate">. Retrieved <span class="nowrap">27 September</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Can+J+Psychiatry&amp;rft.atitle=Psychiatry+in+the+Nazi+Era&amp;rft.volume=50&amp;rft.issue=4&amp;rft.pages=223&amp;rft.date=2005-03&amp;rft.au=Mary+V+Seeman%2C+MD&amp;rft_id=https%3A%2F%2Fww1.cpa-apc.org%2FPublications%2FArchives%2FCJP%2F2005%2Fmarch2%2Fcjp-mar2-05-Seeman-RP.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFranz+Wolf+%28SS+officer%29" class="Z3988"></span>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+      <li id="cite_note-Kommando-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-Kommando_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Kommando_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">S.J., H.E.A.R.T (2007). <a rel="nofollow" class="external text" href="http://www.holocaustresearchproject.org/ar/Jewish%20Kommando/jewishkommando.html">"SS man Josef Wolf at The Hair Cutters ( Friseurs)"</a>. <i>Jewish Working Kommando's in the Aktion Reinhard Death Camps</i>. Holocaust Research Project.org<span class="reference-accessdate">. Retrieved <span class="nowrap">2 October</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Jewish+Working+Kommando%27s+in+the+Aktion+Reinhard+Death+Camps&amp;rft.atitle=SS+man+Josef+Wolf+at+The+Hair+Cutters+%28+Friseurs%29&amp;rft.date=2007&amp;rft.au=S.J.%2C+H.E.A.R.T&amp;rft_id=http%3A%2F%2Fwww.holocaustresearchproject.org%2Far%2FJewish%2520Kommando%2Fjewishkommando.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFranz+Wolf+%28SS+officer%29" class="Z3988"></span>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+      <li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Peter_Hayes_(historian)" title="Peter Hayes (historian)">Peter Hayes</a>; <a href="/wiki/Dagmar_Herzog" title="Dagmar Herzog">Dagmar Herzog</a> (2006). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=--fhfkLjI8AC&amp;lpg=PA272&amp;ots=Baznxm7jDl&amp;dq=Sobibor%20200%2C000&amp;pg=PA272#v=onepage&amp;q=Sobibor%20200,000&amp;f=false"><i>Lessons and Legacies VII: The Holocaust in International Perspective</i></a>. Northwestern University Press. p.&nbsp;272<span class="reference-accessdate">. Retrieved <span class="nowrap">11 October</span> 2014</span>. <q>Between May 1942 and October 1943 some 200,000 to 250,000 Jews were killed at Sobibor according to the recently published <i>Holocaust Encyclopedia</i> edited by Judith Tydor Baumel.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Lessons+and+Legacies+VII%3A+The+Holocaust+in+International+Perspective&amp;rft.pages=272&amp;rft.pub=Northwestern+University+Press&amp;rft.date=2006&amp;rft.au=Peter+Hayes&amp;rft.au=Dagmar+Herzog&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D--fhfkLjI8AC%26lpg%3DPA272%26ots%3DBaznxm7jDl%26dq%3DSobibor%2520200%252C000%26pg%3DPA272%23v%3Donepage%26q%3DSobibor%2520200%2C000%26f%3Dfalse&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFranz+Wolf+%28SS+officer%29" class="Z3988"></span>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+      <li id="cite_note-Interviews-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-Interviews_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Interviews_8-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">De Ree Archiefsystemen (2014). <a rel="nofollow" class="external text" href="http://www.sobiborinterviews.nl/en/extermination-camp/biographies-of-ss-men">"WOLF, Franz (9 April 1907, Krummau)"</a>. <i>Biographies of SS-men</i>. Sobibor Interviews.nl<span class="reference-accessdate">. Retrieved <span class="nowrap">27 September</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Biographies+of+SS-men&amp;rft.atitle=WOLF%2C+Franz+%289+April+1907%2C+Krummau%29&amp;rft.date=2014&amp;rft.au=De+Ree+Archiefsystemen&amp;rft_id=http%3A%2F%2Fwww.sobiborinterviews.nl%2Fen%2Fextermination-camp%2Fbiographies-of-ss-men&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFranz+Wolf+%28SS+officer%29" class="Z3988"></span>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+      <li id="cite_note-Waldkommando-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-Waldkommando_9-0">^</a></b></span> <span class="reference-text"><cite class="citation web">ARC (1 May 2006). <a rel="nofollow" class="external text" href="http://www.deathcamps.org/reinhard/work_commandos.html">"The Forest Team (Waldkommando)"</a>. <i>Jewish Work Commandos in the Death Camps</i>. ARC, Death Camps.org<span class="reference-accessdate">. Retrieved <span class="nowrap">2 October</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Jewish+Work+Commandos+in+the+Death+Camps&amp;rft.atitle=The+Forest+Team+%28Waldkommando%29&amp;rft.date=2006-05-01&amp;rft.au=ARC&amp;rft_id=http%3A%2F%2Fwww.deathcamps.org%2Freinhard%2Fwork_commandos.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFranz+Wolf+%28SS+officer%29" class="Z3988"></span>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+      <li id="cite_note-ZEIT-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-ZEIT_10-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.zeit.de/1966/13/ohne-scham-und-ohne-reue">"Ohne Scham und ohne Reue"</a> (in German). DIE ZEIT Archiv. Ausgabe 13/1966. 25 March 1966<span class="reference-accessdate">. Retrieved <span class="nowrap">28 September</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Ohne+Scham+und+ohne+Reue&amp;rft.pub=DIE+ZEIT+Archiv.+Ausgabe+13%2F1966&amp;rft.date=1966-03-25&amp;rft_id=http%3A%2F%2Fwww.zeit.de%2F1966%2F13%2Fohne-scham-und-ohne-reue&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFranz+Wolf+%28SS+officer%29" class="Z3988"></span>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+      <li id="cite_note-Urteil_LG_Hagen-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-Urteil_LG_Hagen_11-0">^</a></b></span> <span class="reference-text"><cite class="citation book">J. Harrison; R. Muehlenkamp; J. Myers; S. Romanov; N. Terry (December 2011). <a rel="nofollow" class="external text" href="http://www.adelaideinstitute.org/HomePage28April2009/Belzec%20Sobibor%20Treblinka%20Holocaust%20Controversies.pdf"><i>Belzec, Sobibor, Treblinka</i></a> <span class="cs1-format">(PDF file, direct download 5.30 MB)</span>. Holocaust Controversies, First Edition. pp.&nbsp;459 (PDF, 460) / 571<span class="reference-accessdate">. Retrieved <span class="nowrap">9 October</span> 2014</span>. <q><i>Source:</i> Urteil LG Hagen, 20 December 1966, 11 Ks 1/64. The Hagen Court expressly pointed out that the total figure it arrived at made no claim to historical completeness but was merely a minimum number established for judicial purposes.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Belzec%2C+Sobibor%2C+Treblinka&amp;rft.pages=459+%28PDF%2C+460%29+%2F+571&amp;rft.pub=Holocaust+Controversies%2C+First+Edition&amp;rft.date=2011-12&amp;rft.au=J.+Harrison&amp;rft.au=R.+Muehlenkamp&amp;rft.au=J.+Myers&amp;rft.au=S.+Romanov&amp;rft.au=N.+Terry&amp;rft_id=http%3A%2F%2Fwww.adelaideinstitute.org%2FHomePage28April2009%2FBelzec%2520Sobibor%2520Treblinka%2520Holocaust%2520Controversies.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFranz+Wolf+%28SS+officer%29" class="Z3988"></span>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+      <li id="cite_note-Wolf-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-Wolf_12-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Jules Schelvis (May 20, 2014). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=OB1nAwAAQBAJ&amp;q=%22Josef+Wolf%22#v=snippet&amp;q=%22Josef%20Wolf%22&amp;f=false"><i>Josef Wolf</i></a>. <i>Sobibor: A History of a Nazi Death Camp</i>. Bloomsbury Publishing. pp.&nbsp;155, 175. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/1-4725-8906-8" title="Special:BookSources/1-4725-8906-8"><bdi>1-4725-8906-8</bdi></a><span class="reference-accessdate">. Retrieved <span class="nowrap">2 October</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Josef+Wolf&amp;rft.pages=155%2C+175&amp;rft.pub=Bloomsbury+Publishing&amp;rft.date=2014-05-20&amp;rft.isbn=1-4725-8906-8&amp;rft.au=Jules+Schelvis&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DOB1nAwAAQBAJ%26q%3D%2522Josef%2BWolf%2522%23v%3Dsnippet%26q%3D%2522Josef%2520Wolf%2522%26f%3Dfalse&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFranz+Wolf+%28SS+officer%29" class="Z3988"></span>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+     </ol>
+    </div>
+   </div> 
+   <div role="navigation" class="navbox" aria-labelledby="Sobibór_extermination_camp" style="padding:3px">
+    <table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+     <tbody>
+      <tr>
+       <th scope="col" class="navbox-title" colspan="2">
+        <div class="plainlinks hlist navbar mini">
+         <ul>
+          <li class="nv-view"><a href="/wiki/Template:Sobib%C3%B3r_extermination_camp" title="Template:Sobibór extermination camp"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+          <li class="nv-talk"><a href="/wiki/Template_talk:Sobib%C3%B3r_extermination_camp" title="Template talk:Sobibór extermination camp"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+          <li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Sobib%C3%B3r_extermination_camp&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+         </ul>
+        </div>
+        <div id="Sobibór_extermination_camp" style="font-size:114%;margin:0 4em">
+         <a href="/wiki/Sobib%C3%B3r_extermination_camp" class="mw-redirect" title="Sobibór extermination camp">Sobibór extermination camp</a>
+        </div></th>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%">Camp organizers</th>
+       <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><a href="/wiki/Odilo_Globo%C4%8Dnik" title="Odilo Globočnik">Odilo Globočnik</a></li> 
+          <li><a href="/wiki/Hermann_H%C3%B6fle" title="Hermann Höfle">Hermann Höfle</a></li> 
+          <li><a href="/wiki/Richard_Thomalla" title="Richard Thomalla">Richard Thomalla</a></li> 
+          <li><a href="/wiki/Erwin_Lambert" title="Erwin Lambert">Erwin Lambert</a></li> 
+          <li><a href="/wiki/Karl_Steubl" title="Karl Steubl">Karl Steubl</a></li> 
+          <li><a href="/wiki/Christian_Wirth" title="Christian Wirth">Christian Wirth</a></li>
+         </ul> 
+        </div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%">Commandant</th>
+       <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><a href="/wiki/Franz_Stangl" title="Franz Stangl">Franz Stangl</a>&nbsp;<sup>a</sup></li> 
+          <li><a href="/wiki/Franz_Reichleitner" title="Franz Reichleitner">Franz Reichleitner</a>&nbsp;<sup>b</sup></li>
+         </ul> 
+        </div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%">Deputies</th>
+       <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><a href="/wiki/Karl_Frenzel" title="Karl Frenzel">Karl Frenzel</a></li> 
+          <li><a href="/wiki/Hermann_Michel" title="Hermann Michel">Hermann Michel</a></li> 
+          <li><a href="/wiki/Johann_Niemann" title="Johann Niemann">Johann Niemann</a></li> 
+          <li><a href="/wiki/Gustav_Wagner" title="Gustav Wagner">Gustav Wagner</a></li>
+         </ul> 
+        </div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%">Gas chamber<br>executioners</th>
+       <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><a href="/wiki/Erich_Bauer" title="Erich Bauer">Erich Bauer</a></li> 
+          <li><a href="/wiki/Kurt_Bolender" title="Kurt Bolender">Kurt Bolender</a></li>
+         </ul> 
+        </div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%">Other officers</th>
+       <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><a href="/wiki/Rudolf_Beckmann" title="Rudolf Beckmann">Rudolf Beckmann</a></li> 
+          <li><a href="/wiki/Paul_Bredow" title="Paul Bredow">Paul Bredow</a></li> 
+          <li><a href="/wiki/Herbert_Floss" title="Herbert Floss">Herbert Floss</a></li> 
+          <li><a href="/wiki/Erich_Fuchs" title="Erich Fuchs">Erich Fuchs</a></li> 
+          <li><a href="/wiki/Siegfried_Graetschus" title="Siegfried Graetschus">Siegfried Graetschus</a></li> 
+          <li><a href="/wiki/Lorenz_Hackenholt" title="Lorenz Hackenholt">Lorenz Hackenholt</a></li> 
+          <li><a href="/wiki/Josef_Hirtreiter" title="Josef Hirtreiter">Josef "Sepp" Hirtreiter</a></li> 
+          <li><a href="/wiki/Alfred_Ittner" title="Alfred Ittner">Alfred Ittner</a></li> 
+          <li><a href="/wiki/Erich_Lachmann" title="Erich Lachmann">Erich Lachmann</a></li> 
+          <li><a href="/wiki/Willi_Mentz" title="Willi Mentz">Willi Mentz</a></li> 
+          <li><a href="https://de.wikipedia.org/wiki/Paul_Rost" class="extiw" title="de:Paul Rost">Paul Rost</a></li> 
+          <li><a href="/wiki/Ernst_Stengelin" title="Ernst Stengelin">Ernst Stengelin</a></li> 
+          <li><a href="/wiki/Ernst_Zierke" title="Ernst Zierke">Ernst Zierke</a></li> 
+          <li><a href="/wiki/Heinrich_Barbl" title="Heinrich Barbl">Heinrich Barbl</a></li>
+         </ul> 
+        </div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%">Guards</th>
+       <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"></div>
+        <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+         <tbody>
+          <tr>
+           <th id="Ukrainians" scope="row" class="navbox-group" style="width:1%;font-weight:normal;">Ukrainians</th>
+           <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+            <div style="padding:0em 0.25em"> 
+             <ul>
+              <li><a href="/wiki/John_Demjanjuk" title="John Demjanjuk">Ivan Demjanjuk</a></li> 
+              <li>"<a href="/wiki/Trawniki_men" title="Trawniki men">Trawnikis</a>"&nbsp;<sup>c</sup></li> 
+              <li><i><a href="/wiki/Volksdeutsche" title="Volksdeutsche">Volksdeutsche</a></i></li>
+             </ul> 
+            </div></td>
+          </tr>
+         </tbody>
+        </table>
+        <div></div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Category:People_who_died_in_Sobib%C3%B3r_extermination_camp" title="Category:People who died in Sobibór extermination camp">Prominent victims</a></th>
+       <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><a href="/wiki/Helga_Deen" title="Helga Deen">Helga Deen</a></li> 
+          <li><a href="/wiki/Anna_Dresden-Polak" title="Anna Dresden-Polak">Anna Dresden-Polak</a></li> 
+          <li><a href="/wiki/Emanuel_Lodewijk_Elte" title="Emanuel Lodewijk Elte">Emanuel Lodewijk Elte</a></li> 
+          <li><a href="/wiki/Else_Feldmann" title="Else Feldmann">Else Feldmann</a></li> 
+          <li><a href="/wiki/Isidore_Goudeket" title="Isidore Goudeket">Isidore Goudeket</a></li> 
+          <li><a href="/wiki/Jakob_van_Hoddis" title="Jakob van Hoddis">Jakob van Hoddis</a></li> 
+          <li><a href="/wiki/Han_Hollander" title="Han Hollander">Han Hollander</a></li> 
+          <li><a href="/wiki/Gerrit_Kleerekoper" title="Gerrit Kleerekoper">Gerrit Kleerekoper</a></li> 
+          <li><a href="/wiki/Pati_Kremer" title="Pati Kremer">Pati Kremer</a></li> 
+          <li><a href="/wiki/Kurt_Lilien" title="Kurt Lilien">Kurt Lilien</a></li> 
+          <li><a href="/wiki/Juan_Luria" title="Juan Luria">Juan Luria</a></li> 
+          <li><a href="/wiki/Messaoud_El_Mediouni" title="Messaoud El Mediouni">Messaoud El Mediouni</a></li> 
+          <li><a href="/wiki/Helena_Nordheim" title="Helena Nordheim">Helena Nordheim</a></li> 
+          <li><a href="/wiki/Abraham_de_Oliveira" title="Abraham de Oliveira">Abraham de Oliveira</a></li> 
+          <li><a href="/wiki/Emanuel_Querido" title="Emanuel Querido">Emanuel Querido</a></li> 
+          <li><a href="/wiki/Jud_Simons" title="Jud Simons">Jud Simons</a></li> 
+          <li><a href="/wiki/Philip_Slier" title="Philip Slier">Philip Slier</a></li> 
+          <li><a href="/wiki/Leo_Smit_(Dutch_composer)" title="Leo Smit (Dutch composer)">Leo Smit</a></li> 
+          <li><a href="/wiki/Max_van_Dam" title="Max van Dam">Max van Dam</a></li> 
+          <li><a href="/wiki/Michel_Velleman" title="Michel Velleman">Michel Velleman</a></li>
+         </ul> 
+        </div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%">
+        <div class="hlist hlist-separated">
+         <ul>
+          <li>Resistance</li>
+          <li>Survivors</li>
+         </ul>
+        </div></th>
+       <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"></div>
+        <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+         <tbody>
+          <tr>
+           <th id="Survivors" scope="row" class="navbox-group" style="width:1%;font-weight:normal;"><a href="/wiki/List_of_survivors_of_Sobib%C3%B3r" class="mw-redirect" title="List of survivors of Sobibór">Survivors</a></th>
+           <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+            <div style="padding:0em 0.25em"> 
+             <ul>
+              <li><a href="/wiki/Philip_Bialowitz" title="Philip Bialowitz">Philip Bialowitz</a></li> 
+              <li><a href="/wiki/Thomas_Blatt" title="Thomas Blatt">Thomas Blatt</a></li> 
+              <li><a href="/wiki/Selma_Engel-Wijnberg" title="Selma Engel-Wijnberg">Selma Engel-Wijnberg</a></li> 
+              <li><a href="/wiki/Leon_Feldhendler" title="Leon Feldhendler">Leon Feldhendler</a></li> 
+              <li><a href="/wiki/Dov_Freiberg" title="Dov Freiberg">Dov Freiberg</a></li> 
+              <li><a href="/wiki/Alexander_Pechersky" title="Alexander Pechersky">Alexander Pechersky</a></li> 
+              <li><a href="/wiki/Jules_Schelvis" title="Jules Schelvis">Jules

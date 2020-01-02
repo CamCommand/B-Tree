@@ -1,0 +1,394 @@
+<div id="bodyContent" class="mw-body-content"> 
+ <div id="siteSub" class="noprint">
+  From Wikipedia, the free encyclopedia
+ </div> 
+ <div id="contentSub"></div> 
+ <div id="jump-to-nav"></div> 
+ <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> 
+ <a class="mw-jump-link" href="#p-search">Jump to search</a> 
+ <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+  <div class="mw-parser-output">
+   <div class="thumb tright">
+    <div class="thumbinner" style="width:235px;">
+     <a href="/wiki/File:Raymond_Cattell.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Raymond_Cattell.jpg/233px-Raymond_Cattell.jpg" decoding="async" width="233" height="318" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/f/fe/Raymond_Cattell.jpg 1.5x" data-file-width="243" data-file-height="332"></a> 
+     <div class="thumbcaption">
+      <div class="magnify">
+       <a href="/wiki/File:Raymond_Cattell.jpg" class="internal" title="Enlarge"></a>
+      </div>
+      <a href="/wiki/Raymond_Cattell" title="Raymond Cattell">Raymond B. Cattell</a>: British-American Psychologist
+     </div>
+    </div>
+   </div> 
+   <div class="thumb tright">
+    <div class="thumbinner" style="width:116px;">
+     <a href="/wiki/File:Picture_of_John_L_Horn.jpg" class="image"><img alt="John Leonard Horn: American Psychologist" src="//upload.wikimedia.org/wikipedia/commons/8/82/Picture_of_John_L_Horn.jpg" decoding="async" width="114" height="160" class="thumbimage" data-file-width="114" data-file-height="160"></a> 
+     <div class="thumbcaption">
+      <div class="magnify">
+       <a href="/wiki/File:Picture_of_John_L_Horn.jpg" class="internal" title="Enlarge"></a>
+      </div>John Leonard Horn: American Psychologist
+     </div>
+    </div>
+   </div> 
+   <p>The <b>Cattell–Horn–Carroll theory</b> (commonly abbreviated to <b>CHC</b>), is a prominent psychological theory on the structure of human <a href="/wiki/Cognition" title="Cognition">cognitive</a> abilities. Based on the work of three psychologists, <a href="/wiki/Raymond_Cattell" title="Raymond Cattell">Raymond B. Cattell</a>, <a href="/wiki/John_L._Horn" title="John L. Horn">John L. Horn</a> and <a href="/wiki/John_Bissell_Carroll" title="John Bissell Carroll">John B. Carroll</a>, the Cattell–Horn–Carroll theory is widely regarded as the most influential theory in the study of human intelligence. Based on a large body of research, spanning over 70 years, the theory was developed using the psychometric approach, the objective measurement of individual differences in abilities, and the application of <a href="/wiki/Factor_analysis" title="Factor analysis">factor analysis</a>, a statistical technique which uncovers relationships between variables and the underlying structure of concepts such as 'intelligence' (Keith &amp; Reynolds, 2010). The psychometric approach has consistently facilitated the development of reliable and valid measurement tools and continues to dominate the field of intelligence research (Neisser, 1996). </p>
+   <p>The Cattell–Horn–Carroll theory is an integration of two previously established theoretical models of intelligence: the <a href="/wiki/Fluid_and_crystallized_intelligence" title="Fluid and crystallized intelligence"><i>Gf-Gc</i></a> theory of <i><a href="/wiki/Fluid_and_crystallized_intelligence" title="Fluid and crystallized intelligence">fluid</a></i> and <i><a href="/wiki/Fluid_and_crystallized_intelligence" title="Fluid and crystallized intelligence">crystallised intelligence</a></i> (Cattell, 1941; Horn 1965), and Carroll's <a href="/wiki/Three-stratum_theory" title="Three-stratum theory">three-stratum theory</a> (1993), a hierarchical, three-stratum model of intelligence. Due to substantial similarities between the two theories they were successfully amalgamated to form the Cattell–Horn–Carroll theory (Willis, 2011, p.&nbsp;45). </p>
+   <p>In the late 1990s the CHC model was expanded by McGrew, later revised with the help of Flanagan. Later extensions of the model are detailed in McGrew (2011)<sup id="cite_ref-McGrew_1-0" class="reference"><a href="#cite_note-McGrew-1">[1]</a></sup> and Schneider and McGrew (2012)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> There are a fairly large number of distinct individual differences in cognitive ability, and CHC theory holds that the relationships among them can be derived by classifying them into three different strata: stratum I, "narrow" abilities; stratum II, "broad abilities"; and stratum III, consisting of a single "<a href="/wiki/G_factor_(psychometrics)" title="G factor (psychometrics)">general ability</a>" (or <i>g</i>).<sup id="cite_ref-FlanaganHarrison_3-0" class="reference"><a href="#cite_note-FlanaganHarrison-3">[3]</a></sup> </p>
+   <p>Today, the Cattell–Horn–Carroll theory is widely accepted as the most comprehensive and empirically supported theory of cognitive abilities, informing a substantial body of research and the ongoing development of IQ (Intelligence Quotient) tests (Kaufmann, 2009. p.&nbsp;91).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> </p> 
+   <div id="toc" class="toc">
+    <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+    <div class="toctitle" lang="en" dir="ltr">
+     <h2>Contents</h2>
+     <span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+    </div> 
+    <ul> 
+     <li class="toclevel-1 tocsection-1"><a href="#Background"><span class="tocnumber">1</span> <span class="toctext">Background</span></a> 
+      <ul> 
+       <li class="toclevel-2 tocsection-2"><a href="#Development_of_the_CHC_model"><span class="tocnumber">1.1</span> <span class="toctext">Development of the CHC model</span></a> 
+        <ul> 
+         <li class="toclevel-3 tocsection-3"><a href="#Cattell_and_Horn's_Gf–Gc_Model"><span class="tocnumber">1.1.1</span> <span class="toctext">Cattell and Horn's <i>Gf–Gc</i> Model</span></a> 
+          <ul> 
+           <li class="toclevel-4 tocsection-4"><a href="#Carroll's_three-stratum_hierarchy"><span class="tocnumber">1.1.1.1</span> <span class="toctext">Carroll's three-stratum hierarchy</span></a></li> 
+          </ul> </li> 
+        </ul> </li> 
+      </ul> </li> 
+     <li class="toclevel-1 tocsection-5"><a href="#Abilities"><span class="tocnumber">2</span> <span class="toctext">Abilities</span></a> 
+      <ul> 
+       <li class="toclevel-2 tocsection-6"><a href="#Broad_and_narrow_abilities"><span class="tocnumber">2.1</span> <span class="toctext">Broad and narrow abilities</span></a></li> 
+      </ul> </li> 
+     <li class="toclevel-1 tocsection-7"><a href="#Model_tests"><span class="tocnumber">3</span> <span class="toctext">Model tests</span></a></li> 
+     <li class="toclevel-1 tocsection-8"><a href="#Other_related_issues"><span class="tocnumber">4</span> <span class="toctext">Other related issues</span></a></li> 
+     <li class="toclevel-1 tocsection-9"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li> 
+     <li class="toclevel-1 tocsection-10"><a href="#Notes"><span class="tocnumber">6</span> <span class="toctext">Notes</span></a></li> 
+     <li class="toclevel-1 tocsection-11"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li> 
+     <li class="toclevel-1 tocsection-12"><a href="#Further_reading"><span class="tocnumber">8</span> <span class="toctext">Further reading</span></a></li> 
+    </ul> 
+   </div> 
+   <h2><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cattell%E2%80%93Horn%E2%80%93Carroll_theory&amp;action=edit&amp;section=1" title="Edit section: Background">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <h3><span class="mw-headline" id="Development_of_the_CHC_model">Development of the CHC model</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cattell%E2%80%93Horn%E2%80%93Carroll_theory&amp;action=edit&amp;section=2" title="Edit section: Development of the CHC model">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+   <p>The Cattell–Horn–Carroll theory of intelligence is a synthesis of Cattell and Horn's <i><a href="/wiki/Fluid_and_crystallized_intelligence" title="Fluid and crystallized intelligence">Gf-Gc</a></i> model of <a href="/wiki/Fluid_and_crystallized_intelligence" title="Fluid and crystallized intelligence">fluid and crystallised intelligence</a> and Carroll's Three Stratum Hierarchy (Sternberg &amp; Kauffman, 1998). Awareness of the similarities between Cattel and Horn's <i>Gf-Gc</i> expanded model abilities and Carroll's Broad Stratum II abilities were highlighted at a meeting in 1985 concerning the revision of the Woodcock-Johnson Psycho-Educational Battery (Woodcock &amp; Johnson, 1989). At this meeting Horn presented the <i>Gf-Gc</i> theory to several prominent figures in intelligence testing, including John B. Carroll (McGrew, 2005). Carroll was already a vocal proponent of the Cattell-Horn theory, stating in 1993 that the <i>Gf-Gc</i> model "appears to offer the most well-founded and reasonable approach to an acceptable theory of the structure of cognitive abilities" (Carroll, 1993, p.&nbsp;62). This fortuitous meeting was the starting point for the integration of the two theories. The integration of the two theories evolved through a series of bridging events that occurred over two decades. Although there are many similarities between the two models, Horn consistently and unyieldingly argued against a single general ability g factor (McGrew, 2005, p.&nbsp;174). <a href="/wiki/Charles_Spearman" title="Charles Spearman">Charles Spearman</a> first proposed the existence of the <i>g</i>-factor (also known as general intelligence) in the early 20th century after discovering significant positive correlations between children's scores in seemingly unrelated academic subjects (Spearman, 1904). Unlike Horn, Carroll argued that evidence for a single 'general' ability was overwhelming, and insisted that <i>g</i> was essential to a theory of human intelligence (Carroll, 1997). </p> 
+   <h4><span id="Cattell_and_Horn.27s_Gf.E2.80.93Gc_Model"></span><span class="mw-headline" id="Cattell_and_Horn's_Gf–Gc_Model">Cattell and Horn's <i>Gf–Gc</i> Model</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cattell%E2%80%93Horn%E2%80%93Carroll_theory&amp;action=edit&amp;section=3" title="Edit section: Cattell and Horn's Gf–Gc Model">edit</a><span class="mw-editsection-bracket">]</span></span></h4> 
+   <p><a href="/wiki/Raymond_Cattell" title="Raymond Cattell">Raymond B. Cattell</a> (20 March 1905 – 2 February 1998) was the first to propose a distinction between "fluid intelligence" (<i>Gf</i>) and "crystallised intelligence" (<i>Gc</i>). <a href="/wiki/Charles_Spearman" title="Charles Spearman">Charles Spearman</a>'s <i>s</i> factors are considered a prequel to this idea (Spearman, 1927), along with Thurstone's theory of Primary Mental Abilities (Thurstone, 1947). By 1991, John Horn, a student of Cattell's, had expanded the <i>Gf-Gc</i> model to include 8 or 9 broad abilities (Horn, 1994). </p>
+   <p>Fluid intelligence refers to quantitative reasoning, processing ability, adaptability to new environments and novel problem solving. Crystallised intelligence (<i>Gc</i>) refers to the accumulation of knowledge (general, procedural and declarative). <i>Gc</i> tasks include problem solving with familiar materials and culture-fair tests of general knowledge and vocabulary (Horn &amp; Cattell, 1966). <i>Gf</i> and <i>Gc</i> are both factors of <i>g</i> (general intelligence). Though distinct, there is interaction, as fluid intelligence is a determining factor in the speed with which crystallised knowledge is accumulated (Cattell, 1963). Crystallised intelligence is known to increase with age as we accumulate knowledge throughout the lifespan. Fluid processing ability reaches a peak around late adolescence, then declines steadily (Horn, 1981). Recent research has explored the idea that training on working memory tasks can transfer to improvements in fluid intelligence (Jaeggi, 2015). This idea did not hold under further scrutiny (Melby-Lervåg, Redick, &amp; Hulme, 2016).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> </p> 
+   <h5><span id="Carroll.27s_three-stratum_hierarchy"></span><span class="mw-headline" id="Carroll's_three-stratum_hierarchy">Carroll's three-stratum hierarchy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cattell%E2%80%93Horn%E2%80%93Carroll_theory&amp;action=edit&amp;section=4" title="Edit section: Carroll's three-stratum hierarchy">edit</a><span class="mw-editsection-bracket">]</span></span></h5> 
+   <p>The American psychologist <a href="/wiki/John_Bissell_Carroll" title="John Bissell Carroll">John B. Carroll</a> (June 5, 1916 – July 1, 2003) made substantial contributions to psychology, psychometrics and educational linguistics. In 1993, Carroll published <i>Human Cognitive Abilities: A Survey of Factor-Analytic Studies</i>, in which he presented 'A Theory of Cognitive Abilities: The Three-Stratum Theory'. Carroll had re-analysed data-sets from 461 classic factor analytic studies of human cognition, distilling the results into 800 pages, thus providing a solid foundation for future research in human intelligence (Carroll, 1993, p.&nbsp;78-91). </p>
+   <p>Carroll's three-stratum theory presented three levels of cognition: narrow abilities (stratum I), broad abilities (stratum II) and general abilities (stratum III). </p> 
+   <div class="floatleft">
+    <a href="/wiki/File:Carroll_three_stratum_model_of_human_Intelligence.png" class="image" title="Carroll's Three Stratum Model of Human Intelligence: General intelligence (g) fluid intelligence (Gf), crystallized intelligence (Gc), general memory and learning (Gy), broad visual perception (Gv), broad auditory perception (Gu), broad retrieval ability (Gr), broad cognitive speediness (Gs), and processing speed (Gt)."><img alt="Carroll's Three Stratum Model of Human Intelligence: General intelligence (g) fluid intelligence (Gf), crystallized intelligence (Gc), general memory and learning (Gy), broad visual perception (Gv), broad auditory perception (Gu), broad retrieval ability (Gr), broad cognitive speediness (Gs), and processing speed (Gt)." src="//upload.wikimedia.org/wikipedia/commons/thumb/5/50/Carroll_three_stratum_model_of_human_Intelligence.png/713px-Carroll_three_stratum_model_of_human_Intelligence.png" decoding="async" width="713" height="326" srcset="//upload.wikimedia.org/wikipedia/commons/5/50/Carroll_three_stratum_model_of_human_Intelligence.png 1.5x" data-file-width="757" data-file-height="346"></a>
+   </div> 
+   <div style="clear:both;"></div> 
+   <h2><span class="mw-headline" id="Abilities">Abilities</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cattell%E2%80%93Horn%E2%80%93Carroll_theory&amp;action=edit&amp;section=5" title="Edit section: Abilities">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <h3><span class="mw-headline" id="Broad_and_narrow_abilities">Broad and narrow abilities</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cattell%E2%80%93Horn%E2%80%93Carroll_theory&amp;action=edit&amp;section=6" title="Edit section: Broad and narrow abilities">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+   <p>The broad abilities are:<sup id="cite_ref-FlanaganOrtiz_6-0" class="reference"><a href="#cite_note-FlanaganOrtiz-6">[6]</a></sup> </p> 
+   <ul>
+    <li>Comprehension-Knowledge (<i>Gc</i>): includes the breadth and depth of a person's acquired knowledge, the ability to communicate one's knowledge, and the ability to reason using previously learned experiences or procedures.</li> 
+    <li>Fluid reasoning (<i>Gf</i>): includes the broad ability to reason, form concepts, and solve problems using unfamiliar information or novel procedures.</li> 
+    <li>Quantitative knowledge (<i>Gq</i>): is the ability to comprehend quantitative concepts and relationships and to manipulate numerical symbols.<sup id="cite_ref-FlanaganOrtiz_6-1" class="reference"><a href="#cite_note-FlanaganOrtiz-6">[6]</a></sup></li> 
+    <li>Reading &amp; Writing Ability (<i>Grw</i>): includes basic reading and writing skills.</li> 
+    <li>Short-Term Memory (<i>Gsm</i>): is the ability to apprehend and hold information in immediate awareness and then use it within a few seconds.</li> 
+    <li>Long-Term Storage and Retrieval (<i>Glr</i>): is the ability to store information and fluently retrieve it later in the process of thinking.</li> 
+    <li>Visual Processing (<i>Gv</i>): is the ability to perceive, analyze, synthesize, and think with visual patterns, including the ability to store and recall visual representations.</li> 
+    <li>Auditory Processing (<i>Ga</i>): is the ability to analyze, synthesize, and discriminate auditory stimuli, including the ability to process and discriminate speech sounds that may be presented under distorted conditions.<sup id="cite_ref-FlanaganOrtiz_6-2" class="reference"><a href="#cite_note-FlanaganOrtiz-6">[6]</a></sup></li> 
+    <li>Processing Speed (<i>Gs</i>): is the ability to perform automatic cognitive tasks, particularly when measured under pressure to maintain focused attention.</li>
+   </ul> 
+   <p>A tenth ability, Decision/Reaction Time/Speed (<i>Gt</i>), is considered part of the theory, but is not currently assessed by any major intellectual ability test, although it can be assessed with a supplemental measure such as a continuous performance test.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> </p> 
+   <ul>
+    <li>Decision/Reaction Time/Speed (<i>Gt</i>): reflects the immediacy with which an individual can react to stimuli or a task (typically measured in seconds or fractions of seconds; not to be confused with Gs, which typically is measured in intervals of 2–3 minutes).</li>
+   </ul> 
+   <p>McGrew proposes a number of extensions to CHC theory, including Domain-specific knowledge (<i>Gkn</i>), Psychomotor ability (<i>Gp</i>), and Psychomotor speed (<i>Gps</i>). In addition, additional sensory processing abilities are proposed, including tactile (Gh), kinesthetic (Gk), and olfactory (Go).<sup id="cite_ref-McGrew_1-1" class="reference"><a href="#cite_note-McGrew-1">[1]</a></sup> </p>
+   <p>The narrow abilities are: </p> 
+   <table class="wikitable"> 
+    <tbody>
+     <tr> 
+      <th>Quantitative knowledge </th> 
+      <th>Reading &amp; writing </th> 
+      <th>Comprehension-Knowledge </th> 
+      <th>Fluid reasoning </th> 
+      <th>Short-term memory </th> 
+      <th>Long term storage and retrieval </th> 
+      <th>Visual processing </th> 
+      <th>Auditory processing </th> 
+      <th>Processing speed </th>
+     </tr> 
+     <tr> 
+      <td>Mathematical knowledge </td> 
+      <td>Reading decoding </td> 
+      <td>General verbal information </td> 
+      <td>Inductive reasoning </td> 
+      <td>Memory span </td> 
+      <td>Associative memory </td> 
+      <td>Visualization </td> 
+      <td>Phonetic coding </td> 
+      <td>Perceptual speed </td>
+     </tr> 
+     <tr> 
+      <td>Mathematical achievement </td> 
+      <td>Reading comprehension </td> 
+      <td>Language development </td> 
+      <td>General sequential reasoning </td> 
+      <td>Working memory capacity </td> 
+      <td>Meaningful memory </td> 
+      <td>Speeded rotation </td> 
+      <td>Speech sound discrimination </td> 
+      <td>Rate of test taking </td>
+     </tr> 
+     <tr> 
+      <td> </td> 
+      <td>Reading speed </td> 
+      <td>Lexical knowledge </td> 
+      <td>Deductive reasoning </td> 
+      <td> </td> 
+      <td>Free-recall memory </td> 
+      <td>Closure speed </td> 
+      <td>Resistance to auditory stimulus distortion </td> 
+      <td>Number facility </td>
+     </tr> 
+     <tr> 
+      <td> </td> 
+      <td>Spelling ability </td> 
+      <td>Listening ability </td> 
+      <td>Piagetian reasoning </td> 
+      <td> </td> 
+      <td>Ideational fluency </td> 
+      <td>Flexibility of closure </td> 
+      <td>Memory for sound patterns </td> 
+      <td>Reading speed/fluency </td>
+     </tr> 
+     <tr> 
+      <td> </td> 
+      <td>English usage </td> 
+      <td>Communication ability </td> 
+      <td>Quantitative reasoning </td> 
+      <td> </td> 
+      <td>Associative fluency </td> 
+      <td>Visual memory </td> 
+      <td>Maintaining and judging rhythms </td> 
+      <td>Writing speed/fluency </td>
+     </tr> 
+     <tr> 
+      <td> </td> 
+      <td>Writing ability </td> 
+      <td>Grammatical sensitivity </td> 
+      <td>Speed of reasoning </td> 
+      <td> </td> 
+      <td>Expressional fluency </td> 
+      <td>Spatial scanning </td> 
+      <td>Musical discrimination and judgement </td> 
+      <td> </td>
+     </tr> 
+     <tr> 
+      <td> </td> 
+      <td>Writing speed </td> 
+      <td>Oral production &amp; fluency </td> 
+      <td> </td> 
+      <td> </td> 
+      <td>Originality </td> 
+      <td>Serial perceptual integration </td> 
+      <td>Absolute pitch </td> 
+      <td> </td>
+     </tr> 
+     <tr> 
+      <td> </td> 
+      <td>Cloze ability </td> 
+      <td>Foreign language aptitude </td> 
+      <td> </td> 
+      <td> </td> 
+      <td>Naming facility </td> 
+      <td>Length estimation </td> 
+      <td>Sound localization </td> 
+      <td> </td>
+     </tr> 
+     <tr> 
+      <td> </td> 
+      <td> </td> 
+      <td> </td> 
+      <td> </td> 
+      <td> </td> 
+      <td>Word fluency </td> 
+      <td>Perceptual illusions </td> 
+      <td>Temporal tracking </td> 
+      <td> </td>
+     </tr> 
+     <tr> 
+      <td> </td> 
+      <td> </td> 
+      <td> </td> 
+      <td> </td> 
+      <td> </td> 
+      <td>Figural fluency </td> 
+      <td>Perceptual alternations </td> 
+      <td> </td> 
+      <td> </td>
+     </tr> 
+     <tr> 
+      <td> </td> 
+      <td> </td> 
+      <td> </td> 
+      <td> </td> 
+      <td> </td> 
+      <td>Figural flexbility </td> 
+      <td>Imagery </td> 
+      <td> </td> 
+      <td> </td>
+     </tr> 
+     <tr> 
+      <td> </td> 
+      <td> </td> 
+      <td> </td> 
+      <td> </td> 
+      <td> </td> 
+      <td>Learning ability </td> 
+      <td> </td> 
+      <td> </td> 
+      <td> </td>
+     </tr>
+    </tbody>
+   </table> 
+   <h2><span class="mw-headline" id="Model_tests">Model tests</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cattell%E2%80%93Horn%E2%80%93Carroll_theory&amp;action=edit&amp;section=7" title="Edit section: Model tests">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <p>Many tests of cognitive ability have been classified using the CHC model and are described in The Intelligence Test Desk Reference (ITDR) (McGrew &amp; Flanagan, 1998). CHC theory is particularly relevant to <a href="/wiki/School_psychology" title="School psychology">school psychologists</a> for psychoeducational assessment. 5 of the 7 major tests of intelligence have changed to incorporate CHC theory as their foundation for specifying and operationalizing cognitive abilities/processes. Since even all modern intellectual test instruments fail to effectively measure all 10 broad stratum abilities an alternative method of cognitive assessment and interpretation called <a href="/wiki/Cross_Battery_Assessment" class="mw-redirect" title="Cross Battery Assessment">Cross Battery Assessment</a> (XBA; Flanagan, Ortiz, Alfonso, &amp; Dynda, 2008) was developed. </p> 
+   <h2><span class="mw-headline" id="Other_related_issues">Other related issues</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cattell%E2%80%93Horn%E2%80%93Carroll_theory&amp;action=edit&amp;section=8" title="Edit section: Other related issues">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <p>Consistent with the evolving nature of the theory, the Cattell-Horn-Carroll framework remains "an open-ended empirical theory to which future tests of as yet unmeasured or unknown abilities could possibly result in additional factors at one or more levels in Carroll's hierarchy" (Jensen, 2003, p.&nbsp;5). There is still some debate on the broad (stratum II) abilities, and the narrow (stratum I) abilities, and these remain open for refinement. </p>
+   <p>MacCallum (2003, p.&nbsp;113–115) highlights the need to recognise the limitations of artificial measurement tools built upon mathematical models "Simply put, our models are implausible if taken as exact or literal representations of real world phenomena. They cannot capture the complexity of the real world which they purport to represent. At best, they can provide an approximation of the real world that has some substantive meaning and some utility." </p> 
+   <h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cattell%E2%80%93Horn%E2%80%93Carroll_theory&amp;action=edit&amp;section=9" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <ul>
+    <li><a href="/wiki/Fluid_and_crystallized_intelligence" title="Fluid and crystallized intelligence">Fluid and crystallized intelligence</a> for Gf-Gc theory</li>
+   </ul> 
+   <h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cattell%E2%80%93Horn%E2%80%93Carroll_theory&amp;action=edit&amp;section=10" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;"> 
+    <ol class="references"> 
+     <li id="cite_note-McGrew-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-McGrew_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-McGrew_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">McGrew, K. <a rel="nofollow" class="external free" href="http://www.iapsych.com/CHCPP/CHCPP.HTML">http://www.iapsych.com/CHCPP/CHCPP.HTML</a> Retrieved 12/6/2011.</span> </li> 
+     <li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Schneider, W. J., &amp; McGrew, K. S. (2012). The Cattell-Horn-Carroll model of intelligence. In D. Flanagan &amp; P. Harrison (Eds.), Contemporary intellectual assessment: Theories, tests, and issues (3rd ed., pp. 99–144). New York: Guilford.</span> </li> 
+     <li id="cite_note-FlanaganHarrison-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-FlanaganHarrison_3-0">^</a></b></span> <span class="reference-text">Flanagan, D. P., &amp; Harrison, P. L. (2005). Contemporary intellectual assessment: Theories, tests, and issues. (2nd Edition). New York, NY: The Guilford Press</span> </li> 
+     <li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">McGrew, K. S. (2005). The Cattell-Horn-Carroll theory of cognitive abilities: Past, present, and future. In D. P. Flanagan, J. L. Genshaft, &amp; P. L. Harrison (Eds.), Contemporary intellectual assessment: Theories, tests, and issues (pp.136–182). New York: Guilford.</span> </li> 
+     <li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation journal">Melby-Lervåg, Monica; Redick, Thomas S.; Hulme, Charles (2016). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC4968033">"SAGE Journals: Your gateway to world-class journal research"</a>. <i>Perspectives on Psychological Science</i>. <b>11</b> (4): 512–534. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1177%2F1745691616635612">10.1177/1745691616635612</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&nbsp;<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC4968033">4968033</a></span>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&nbsp;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/27474138">27474138</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Perspectives+on+Psychological+Science&amp;rft.atitle=SAGE+Journals%3A+Your+gateway+to+world-class+journal+research&amp;rft.volume=11&amp;rft.issue=4&amp;rft.pages=512-534&amp;rft.date=2016&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC4968033&amp;rft_id=info%3Apmid%2F27474138&amp;rft_id=info%3Adoi%2F10.1177%2F1745691616635612&amp;rft.aulast=Melby-Lerv%C3%A5g&amp;rft.aufirst=Monica&amp;rft.au=Redick%2C+Thomas+S.&amp;rft.au=Hulme%2C+Charles&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC4968033&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACattell%E2%80%93Horn%E2%80%93Carroll+theory" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span> </li> 
+     <li id="cite_note-FlanaganOrtiz-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-FlanaganOrtiz_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FlanaganOrtiz_6-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-FlanaganOrtiz_6-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Flanagan, D. P., Ortiz, S. O., &amp; Alfonso, V. C. (2007). Essentials of cross-battery assessment. (2nd Edition). New Jersey: John Wiley &amp; Sons, Inc</span> </li> 
+     <li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://alpha.fdu.edu/psychology/chc_theory.htm">CHC Theory</a></span> </li> 
+    </ol>
+   </div> 
+   <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cattell%E2%80%93Horn%E2%80%93Carroll_theory&amp;action=edit&amp;section=11" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <ul>
+    <li>Carroll, J.B. (1993). <i>Human cognitive abilities: A survey of factor-analytic studies</i>. Cambridge, England: Cambridge University Press.</li> 
+    <li>Carroll, J. B. (2003). <i>The higher-stratum structure of cognitive abilities: Current evidence supports g and about ten broad factors.</i> In H. Nyborg (Ed.), <i>The scientific study of general intelligence: Tribute to Arthur R. Jensen</i> (pp.&nbsp;5–22). San Diego: Pergamon.</li> 
+    <li>Cattell, R. B. (1941). Some theoretical issues in adult intelligence testing. <i>Psychological Bulletin</i>, 38, 592.</li> 
+    <li>Cattell, R. B. (1963). Theory of fluid and crystallized intelligence: A critical experiment. <i>Journal of educational psychology</i>, 54(1), 1.</li> 
+    <li>Cattell, R. B. (1966). (Ed.), <i>Handbook of Multivariate Experimental Psychology</i>. Chicago, IL: Rand McNally.</li> 
+    <li>Child, D. (2006). <i>The Essentials of Factor Analysis, 3rd edition</i>. Bloomsbury Academic Press.</li> 
+    <li>Cohen, R. J., &amp; Swerdlik, M. E. (2004). <i>Psychological testing and assessment</i>. Chicago, IL: McGraw-Hill (6th ed.)</li> 
+    <li>Flanagan, D. P., McGrew, K. S., &amp; Ortiz, S. O. (2000). <i>The Wechsler Intelligence Scales and Gf-Gc theory: A contemporary approach to interpretation.</i> Allyn &amp; Bacon.</li> 
+    <li>Flanagan, D. P., Ortiz, S. O., &amp; Alfonso, V. C. (2013). <i>Essentials of cross-battery assessment (3rd edition)</i>. New York: Wiley.</li> 
+    <li>Flanagan, D. P., Ortiz, S. O., Alfonso, V. C., &amp; Dynda, A. M. (2008). Best practices in cognitive assessment. <i>Best Practices in School Psychology V</i>, Bethesda: NASP Publications.</li> 
+    <li>Gustafsson, J. E., &amp; Undheim, J. O. (1996). Individual differences in cognitive functions. In D.C. Berliner &amp; R. C. Calfee (Eds.), <i>Handbook of educational psychology</i> (pp.&nbsp;186–242). New York: Macmillan Library Reference USA.</li> 
+    <li>Horn, J. L. (1965). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20110713000813/http://www.iapsych.com/articles/horn1965.pdf">Fluid and crystallized intelligence: A factor analytic and developmental study of the structure among primary mental abilities</a>. Unpublished doctoral dissertation, University of Illinois, Champaign.</li> 
+    <li>Horn, J. L., Donaldson, G., &amp; Engstrom, R. (1981). Apprehension, memory, and fluid intelligence decline in adulthood. <i>Research on Aging</i>, <i>3</i>(1), 33-84.</li> 
+    <li>Keith, T. Z., &amp; Reynolds, M. R. (2010). Cattell–Horn–Carroll abilities and cognitive tests: What we've learned from 20 years of research. <i>Psychology in the Schools</i>, <i>47</i>(7), 635-650.</li> 
+    <li>MacCallum, R. C. (2003). Working with imperfect models. Multivariate Behavioral Research, 38(1), 113-139.</li> 
+    <li>McGrew, K. &amp; Flanagan, D. (1998). <i>The Intelligence Test Desk Reference: Gf-Gc cross-battery assessment</i>. Allyn &amp; Bacon.</li> 
+    <li>McGrew, K. S. (2005). The Cattell-Horn-Carroll Theory of Cognitive Abilities. In D. P. Flanagan &amp; P. L. Harrison (Eds.). (2012). <i>Contemporary intellectual assessment</i>: <i>Theories, tests, and issues.</i> (pp.&nbsp;151–179). New York: Guilford Press.</li> 
+    <li>Neisser, U., Boodoo, G., Bouchard Jr, T. J., Boykin, A. W., Brody, N., Ceci, S. J., ... &amp; Urbina, S. (1996). Intelligence: knowns and unknowns. <i>American psychologist</i>, <i>51</i>(2), 77.</li> 
+    <li>Sheehan, E., Tsai, N., Duncan, G. J., Buschkuehl, M., &amp; Jaeggi, S. M. (2015). Improving fluid intelligence with training on working memory: a meta-analysis. <i>Psychonomic bulletin &amp; review</i>, <i>22</i>(2), 366-377.</li> 
+    <li>Spearman, C. (1904). " General Intelligence," objectively determined and measured. <i>The American Journal of Psychology</i>, <i>15</i>(2), 201-292.</li> 
+    <li>Spearman, C. (1927). <i>The abilities of man</i>: <i>Their nature and measurement.</i> New York, NY: Macmillan.</li> 
+    <li>Sternberg, R. J., &amp; Kaufman, J. C. (1998). Human abilities. <i>Annual review of psychology</i>, <i>49</i>(1), 479-502.</li> 
+    <li>Willis, J. O., Dumont, R., &amp; Kaufman, A. S. Factor-analytic models of intelligence. In Sternberg, R. J., &amp; Kaufman, S. B. (Eds.). (2011). <i>The Cambridge handbook of intelligence</i>. (pp.&nbsp;39–57). Cambridge University Press.</li> 
+    <li>Woodcock, R. W, and Johnson M. B. (1989). <i>Woodcock-Johnson Psycho-Educational Battery-Revised.</i> Chicago, IL: Riverside Publishing.</li>
+   </ul> 
+   <h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cattell%E2%80%93Horn%E2%80%93Carroll_theory&amp;action=edit&amp;section=12" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <ul>
+    <li><cite id="CITEREFGregory2011" class="citation book">Gregory, Robert J. (2011). <i>Psychological Testing: History, Principles, and Applications</i> (Sixth ed.). Boston: Allyn &amp; Bacon. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-0-205-78214-7" title="Special:BookSources/978-0-205-78214-7"><bdi>978-0-205-78214-7</bdi></a>. <a rel="nofollow" class="external text" href="http://www.pearsonhighered.com/bookseller/product/Psychological-Testing-History-Principles-and-Applications-6E/9780205782147.page">Lay summary</a> (7 November 2010).</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Psychological+Testing%3A+History%2C+Principles%2C+and+Applications&amp;rft.place=Boston&amp;rft.edition=Sixth&amp;rft.pub=Allyn+%26+Bacon&amp;rft.date=2011&amp;rft.isbn=978-0-205-78214-7&amp;rft.aulast=Gregory&amp;rft.aufirst=Robert+J.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACattell%E2%80%93Horn%E2%80%93Carroll+theory" class="Z3988"></span>
+     <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></li> 
+    <li><cite id="CITEREFKaufman2009" class="citation book"><a href="/wiki/Alan_S._Kaufman" title="Alan S. Kaufman">Kaufman, Alan S.</a> (2009). <i>IQ Testing 101</i>. New York: Springer Publishing. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-0-8261-0629-2" title="Special:BookSources/978-0-8261-0629-2"><bdi>978-0-8261-0629-2</bdi></a>. <a rel="nofollow" class="external text" href="http://www.springerpub.com/product/9780826106292">Lay summary</a> (10 August 2010).</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=IQ+Testing+101&amp;rft.place=New+York&amp;rft.pub=Springer+Publishing&amp;rft.date=2009&amp;rft.isbn=978-0-8261-0629-2&amp;rft.aulast=Kaufman&amp;rft.aufirst=Alan+S.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACattell%E2%80%93Horn%E2%80%93Carroll+theory" class="Z3988"></span>
+     <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></li> 
+    <li><cite id="CITEREFTucker2009" class="citation book"><a href="/wiki/William_H._Tucker" title="William H. Tucker">Tucker, William H.</a> (2009). <i>The Cattell Controversy: Race, Science, and Ideology</i>. <a href="/wiki/University_of_Illinois_Press" title="University of Illinois Press">University of Illinois Press</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-0-252-03400-8" title="Special:BookSources/978-0-252-03400-8"><bdi>978-0-252-03400-8</bdi></a>. <a rel="nofollow" class="external text" href="http://www.insidehighered.com/news/2009/03/20/cattell">Lay summary</a> (30 August 2010).</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Cattell+Controversy%3A+Race%2C+Science%2C+and+Ideology&amp;rft.pub=University+of+Illinois+Press&amp;rft.date=2009&amp;rft.isbn=978-0-252-03400-8&amp;rft.aulast=Tucker&amp;rft.aufirst=William+H.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACattell%E2%80%93Horn%E2%80%93Carroll+theory" class="Z3988"></span>
+     <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></li> 
+    <li>Newton, J. H., &amp; McGrew, K. S. (2010). Introduction to the special issue: Current research in Cattell–Horn–Carroll–based assessment. <i><a href="/w/index.php?title=Psychology_in_the_Schools,_47(7),_621-634.&amp;action=edit&amp;redlink=1" class="new" title="Psychology in the Schools, 47(7), 621-634. (page does not exist)">Psychology in the Schools</a></i><a href="/w/index.php?title=Psychology_in_the_Schools,_47(7),_621-634.&amp;action=edit&amp;redlink=1" class="new" title="Psychology in the Schools, 47(7), 621-634. (page does not exist)">, <i>47</i>(7), 621-634.</a></li>
+   </ul> 
+   <div role="navigation" class="navbox" aria-labelledby="Human_intelligence_topics" style="padding:3px">
+    <table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+     <tbody>
+      <tr>
+       <th scope="col" class="navbox-title" colspan="2">
+        <div class="plainlinks hlist navbar mini">
+         <ul>
+          <li class="nv-view"><a href="/wiki/Template:Human_intelligence_topics" title="Template:Human intelligence topics"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+          <li class="nv-talk"><a href="/wiki/Template_talk:Human_intelligence_topics" title="Template talk:Human intelligence topics"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+          <li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Human_intelligence_topics&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+         </ul>
+        </div>
+        <div id="Human_intelligence_topics" style="font-size:114%;margin:0 4em">
+         <a href="/wiki/Human_intelligence" title="Human intelligence">Human intelligence</a> 
+         <a href="/wiki/Outline_of_human_intelligence" title="Outline of human intelligence">topics</a>
+        </div></th>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%">Types</th>
+       <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><a href="/wiki/Collective_intelligence" title="Collective intelligence">Collective</a></li> 
+          <li><a href="/wiki/Emotional_intelligence" title="Emotional intelligence">Emotional</a></li> 
+          <li><a href="/wiki/Intellectual_giftedness" title="Intellectual giftedness">Intellectual</a></li> 
+          <li><a href="/wiki/Linguistic_intelligence" title="Linguistic intelligence">Linguistic</a></li> 
+          <li><a href="/wiki/Theory_of_multiple_intelligences" title="Theory of multiple intelligences">Multiple</a></li> 
+          <li><a href="/wiki/Social_intelligence" title="Social intelligence">Social</a></li> 
+          <li><a href="/wiki/Spatial_intelligence_(psychology)" title="Spatial intelligence (psychology)">Spatial</a>&nbsp;(<a href="/wiki/Spatial_visualization_ability" title="Spatial visualization ability">visuospatial</a>)</li>
+         </ul> 
+        </div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%">
+        <div class="hlist hlist-separated">
+         <ul>
+          <li>Abilities</li>
+          <li>Traits</li>
+          <li>Constructs</li>
+         </ul>
+        </div></th>
+       <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><a href="/wiki/Cognition" title="Cognition">Cognition</a></li> 
+          <li><a href="/wiki/Communication" title="Communication">Communication</a></li> 
+          <li><a href="/wiki/Creativity" title="Creativity">Creativity</a></li> 
+          <li><a href="/wiki/Fluid_and_crystallized_intelligence" title="Fluid and crystallized intelligence">Fluid and crystallized intelligence</a></li> 
+          <li><a href="/wiki/G_factor_(psychometrics)" title="G factor (psychometrics)"><i>g</i> factor</a></li> 
+          <li><a href="/wiki/Intelligence_quotient" title="Intelligence quotient">Intelligence quotient</a></li> 
+          <li><a href="/wiki/Knowledge" title="Knowledge">Knowledge</a></li> 
+          <li><a href="/wiki/Learning" title="Learning">Learning</a></li> 
+          <li><a href="/wiki/Memory" title="Memory">Memory</a></li> 
+          <li><a href="/wiki/Problem_solving" title="Problem solving">Problem solving</a></li> 
+          <li><a href="/wiki/Reason" title="Reason">Reasoning</a></li> 
+          <li><a href="/wiki/Thought" title="Thought">Thought</a>&nbsp;(<a href="/wiki/Abstraction" title="Abstraction">abstraction</a>)</li> 
+          <li><a href="/wiki/Understanding" title="Understanding">Understanding</a></li> 
+          <li><a href="/wiki/Visual_system" title="Visual system">Visual processing</a></li>
+         </ul> 
+        </div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%">Models and theories</th>
+       <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><a class="mw-selflink selflink">Cattell–Horn–Carroll theory</a></li> 
+          <li><a href="/wiki/Fluid_and_crystallized_intelligence" title="Fluid and crystallized intelligence">Fluid and crystallized intelligence</a></li> 
+          <li><a href="/wiki/Theory_of_multiple_intelligences" title="Theory of multiple intelligences">Multiple-intelligences theory</a></li> 
+          <li><a href="/wiki/Three-stratum_theory" title="Three-stratum theory">Three-stratum theory</a></li> 
+          <li><a href="/wiki/Triarchic_theory_of_intelligence" title="Triarchic theory of intelligence">Triarchic theory</a></li> 
+          <li><a href="/wiki/PASS_theory_of_intelligence" title="PASS theory of intelligence">PASS theory</a></li>
+         </ul> 
+        </div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%">Areas of research</th>
+       <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><a href="/wiki/Evolution_of_human_intelligence" title="Evolution of human intelligence">Evolution of human intelligence</a></li> 
+          <li><a href="/wiki/Heritability_of_IQ" title="Heritability of IQ">Heritability of IQ</a></li> 
+          <li><a href="/wiki/Psychometrics" title="Psychometrics">Psychometrics</a></li> 
+          <li><a href="/wiki/Environment_and_intelligence" title="Environment and intelligence">Intelligence and environment</a>&nbsp;/ <a href="/wiki/Impact_of_health_on_intelligence" title="Impact of health on intelligence">health</a>&nbsp;/ <a href="/wiki/Cognitive_epidemiology" title="Cognitive epidemiology">longevity</a>&nbsp;/ <a href="/wiki/Neuroscience_and_intelligence" title="Neuroscience and intelligence">neuroscience</a>&nbsp;/ <a href="/wiki/Race_and_intelligence" title="Race and intelligence">race</a>&nbsp;/ <a href="/wiki/Sex_differences_in_intelligence" title="Sex differences in intelligence">gender</a></li>
+         </ul> 
+        </div></td>
+      </tr>
+      <tr>
+       <td class="navbox-abovebelow plainlist" colspan="2">
+        <div> 
+         <ul>
+          <li><img alt="Outline" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Global_thinking.svg/10px-Global_thinking.svg.png" decoding="async" title="Outline" width="10" height="16" srcset="//upload.wikimedia.org/wikipedia/com

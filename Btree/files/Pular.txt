@@ -1,0 +1,126 @@
+<div id="bodyContent" class="mw-body-content"> 
+ <div id="siteSub" class="noprint">
+  From Wikipedia, the free encyclopedia
+ </div> 
+ <div id="contentSub"></div> 
+ <div id="jump-to-nav"></div> 
+ <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> 
+ <a class="mw-jump-link" href="#p-search">Jump to search</a> 
+ <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+  <div class="mw-parser-output">
+   <table class="infobox vcard" style="width:22em;line-height:normal; width:23.5em;">
+    <tbody>
+     <tr>
+      <th colspan="2" class="fn org" style="text-align:center;font-size:125%;font-weight:bold;background-color: #e7dcc3;">Pular</th>
+     </tr>
+     <tr>
+      <td colspan="2" style="text-align:center;padding: 0.2em 0.2em 0.2em 0.2em;"><a href="/wiki/File:Pular_Volcano_Chile_015.jpg" class="image"><img alt="Pular Volcano Chile 015.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Pular_Volcano_Chile_015.jpg/270px-Pular_Volcano_Chile_015.jpg" decoding="async" width="270" height="203" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Pular_Volcano_Chile_015.jpg/405px-Pular_Volcano_Chile_015.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Pular_Volcano_Chile_015.jpg/540px-Pular_Volcano_Chile_015.jpg 2x" data-file-width="2048" data-file-height="1536"></a>
+       <div style="padding: 0.2em 0em;">
+        <a href="/wiki/Mi%C3%B1iques" title="Miñiques">Miñiques</a> surrounding area with Pular, Cerro Pajonales and Socompa in the distance.
+       </div></td>
+     </tr>
+     <tr>
+      <th colspan="2" style="text-align:center;background-color: #e7dcc3;">Highest point</th>
+     </tr>
+     <tr>
+      <th scope="row" style="padding: 0.2em 0.4em 0.2em 0em; vertical-align:text-bottom; white-space: nowrap;"><a href="/wiki/Summit" title="Summit">Elevation</a></th>
+      <td style="padding: 0.2em 0em; vertical-align:text-top;">6,233&nbsp;m (20,449&nbsp;ft) <sup id="cite_ref-gvp_1-0" class="reference"><a href="#cite_note-gvp-1">[1]</a></sup></td>
+     </tr>
+     <tr>
+      <th scope="row" style="padding: 0.2em 0.4em 0.2em 0em; vertical-align:text-bottom; white-space: nowrap;"><a href="/wiki/Topographic_prominence" title="Topographic prominence">Prominence</a></th>
+      <td style="padding: 0.2em 0em; vertical-align:text-top;">1,898&nbsp;m (6,227&nbsp;ft) <sup id="cite_ref-peaklist_2-0" class="reference"><a href="#cite_note-peaklist-2">[2]</a></sup></td>
+     </tr>
+     <tr>
+      <th scope="row" style="padding: 0.2em 0.4em 0.2em 0em; vertical-align:text-bottom; white-space: nowrap;"><a href="/wiki/List_of_mountain_lists" title="List of mountain lists">Listing</a></th>
+      <td class="category" style="padding: 0.2em 0em; vertical-align:text-top;"><a href="/wiki/Ultra_prominent_peak" class="mw-redirect" title="Ultra prominent peak">Ultra</a></td>
+     </tr>
+     <tr>
+      <th scope="row" style="padding: 0.2em 0.4em 0.2em 0em; vertical-align:text-bottom; white-space: nowrap;"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a></th>
+      <td style="padding: 0.2em 0em; vertical-align:text-top;"><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Pular_(volcano)&amp;params=24_11_15_S_68_03_15_W_type:mountain_region:CL_scale:100000"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">24°11′15″S</span> <span class="longitude">68°03′15″W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">24.18750°S 68.05417°W</span><span style="display:none">﻿ / <span class="geo">-24.18750; -68.05417</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Pular_(volcano)&amp;params=24_11_15_S_68_03_15_W_type:mountain_region:CL_scale:100000"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">24°11′15″S</span> <span class="longitude">68°03′15″W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">24.18750°S 68.05417°W</span><span style="display:none">﻿ / <span class="geo">-24.18750; -68.05417</span></span></span></a></span></span></span> <sup id="cite_ref-gvp_1-1" class="reference"><a href="#cite_note-gvp-1">[1]</a></sup></td>
+     </tr>
+     <tr>
+      <th colspan="2" style="text-align:center;background-color: #e7dcc3;">Naming</th>
+     </tr>
+     <tr>
+      <th scope="row" style="padding: 0.2em 0.4em 0.2em 0em; vertical-align:text-bottom; white-space: nowrap;">English translation</th>
+      <td style="padding: 0.2em 0em; vertical-align:text-top;">The Eyebrow</td>
+     </tr>
+     <tr>
+      <th scope="row" style="padding: 0.2em 0.4em 0.2em 0em; vertical-align:text-bottom; white-space: nowrap;">Language of name</th>
+      <td style="padding: 0.2em 0em; vertical-align:text-top;"><a href="/wiki/Kunza_language" title="Kunza language">Kunza</a></td>
+     </tr>
+     <tr>
+      <th colspan="2" style="text-align:center;background-color: #e7dcc3;">Geography</th>
+     </tr>
+     <tr>
+      <td colspan="2" style="text-align:center;padding: 0.2em 0em; vertical-align:text-top;">
+       <div style="padding:0.2em 0.2em 0.5em 0.2em;">
+        <div class="center">
+         <div style="width:200px;float:none;clear:both;margin-left:auto;margin-right:auto">
+          <div style="width:200px;padding:0">
+           <div style="position:relative;width:200px">
+            <a href="/wiki/File:Relief_Map_of_Chile.jpg" class="image" title="Pular is located in Chile"><img alt="Pular is located in Chile" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Relief_Map_of_Chile.jpg/200px-Relief_Map_of_Chile.jpg" decoding="async" width="200" height="449" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Relief_Map_of_Chile.jpg/300px-Relief_Map_of_Chile.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Relief_Map_of_Chile.jpg/400px-Relief_Map_of_Chile.jpg 2x" data-file-width="668" data-file-height="1500"></a>
+            <div style="position:absolute;top:17.359%;left:67.229%">
+             <div style="position:absolute;left:-8px;top:-8px;line-height:0">
+              <img alt="Pular" src="//upload.wikimedia.org/wikipedia/en/thumb/3/39/Red_triangle_with_thick_white_border.svg/16px-Red_triangle_with_thick_white_border.svg.png" decoding="async" title="Pular" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/3/39/Red_triangle_with_thick_white_border.svg/24px-Red_triangle_with_thick_white_border.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/3/39/Red_triangle_with_thick_white_border.svg/32px-Red_triangle_with_thick_white_border.svg.png 2x" data-file-width="270" data-file-height="240">
+             </div>
+             <div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;left:9px;text-align:left">
+              <div style="display:inline;padding:1px;float:left">
+               Pular
+              </div>
+             </div>
+            </div>
+           </div>
+           <div>
+            Chile
+           </div>
+          </div>
+         </div>
+        </div> 
+       </div></td>
+     </tr>
+     <tr>
+      <th scope="row" style="padding: 0.2em 0.4em 0.2em 0em; vertical-align:text-bottom; white-space: nowrap;">Location</th>
+      <td class="label" style="padding: 0.2em 0em; vertical-align:text-top;"><a href="/wiki/Antofagasta_Region" title="Antofagasta Region">Antofagasta Region</a>, <a href="/wiki/Chile" title="Chile">Chile</a></td>
+     </tr>
+     <tr>
+      <th scope="row" style="padding: 0.2em 0.4em 0.2em 0em; vertical-align:text-bottom; white-space: nowrap;"><a href="/wiki/Mountain_range" title="Mountain range">Parent range</a></th>
+      <td class="category" style="padding: 0.2em 0em; vertical-align:text-top;"><a href="/wiki/Andes" title="Andes">Andes</a></td>
+     </tr>
+     <tr>
+      <th colspan="2" style="text-align:center;background-color: #e7dcc3;">Geology</th>
+     </tr>
+     <tr>
+      <th scope="row" style="padding: 0.2em 0.4em 0.2em 0em; vertical-align:text-bottom; white-space: nowrap;"><a href="/wiki/List_of_mountain_types" title="List of mountain types">Mountain type</a></th>
+      <td style="padding: 0.2em 0em; vertical-align:text-top;"><a href="/wiki/Stratovolcano" title="Stratovolcano">Stratovolcanoes</a></td>
+     </tr>
+     <tr>
+      <th scope="row" style="padding: 0.2em 0.4em 0.2em 0em; vertical-align:text-bottom; white-space: nowrap;"><a href="/wiki/Types_of_volcanic_eruptions" title="Types of volcanic eruptions">Last eruption</a></th>
+      <td style="padding: 0.2em 0em; vertical-align:text-top;">Unknown<sup id="cite_ref-gvp_1-2" class="reference"><a href="#cite_note-gvp-1">[1]</a></sup></td>
+     </tr>
+     <tr>
+      <th colspan="2" style="text-align:center;background-color: #e7dcc3;">Climbing</th>
+     </tr>
+     <tr>
+      <th scope="row" style="padding: 0.2em 0.4em 0.2em 0em; vertical-align:text-bottom; white-space: nowrap;"><a href="/wiki/First_ascent" title="First ascent">First ascent</a></th>
+      <td style="padding: 0.2em 0em; vertical-align:text-top;"><a href="/wiki/Inca" class="mw-redirect" title="Inca">Inca</a>, <a href="/wiki/Pre-Columbian" class="mw-redirect" title="Pre-Columbian">pre-Columbian</a><sup id="cite_ref-aaj_1974_3-0" class="reference"><a href="#cite_note-aaj_1974-3">[3]</a></sup></td>
+     </tr>
+    </tbody>
+   </table> 
+   <p><b>Pular</b> is a massive <a href="/wiki/Stratovolcano" title="Stratovolcano">stratovolcano</a> located in the <a href="/wiki/Antofagasta_Region" title="Antofagasta Region">Antofagasta Region</a> of northern <a href="/wiki/Chile" title="Chile">Chile</a>, about 15&nbsp;km west of the border with <a href="/wiki/Argentina" title="Argentina">Argentina</a>, which in this area is a straight line between the summits of <a href="/wiki/Socompa" title="Socompa">Socompa</a> volcano and <i>Cerro del Rincón</i>. Pular, along with <i>Cerro Pajonales</i>, forms a high volcanic ridge, which runs in a generally north-east to south-west direction for 12&nbsp;km (7&nbsp;mi). Southward, following the same direction as the ridge, lies Socompa volcano. The ridge's crest forms a <a href="/wiki/Drainage_divide" title="Drainage divide">drainage divide</a> between <a href="/wiki/Salar_de_Atacama" title="Salar de Atacama">Salar de Atacama</a> basin and <i>Salar de Pular</i> basin. This latter is a bowl-shaped basin enclosed on the east by <a href="/wiki/Aracar" title="Aracar">Aracar</a> volcano. </p>
+   <p>In the <a href="/wiki/Kunza_language" title="Kunza language">Kunza</a> language Pular means "The Eyebrow".<sup id="cite_ref-aaj_1974_3-1" class="reference"><a href="#cite_note-aaj_1974-3">[3]</a></sup> </p> 
+   <h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pular_(volcano)&amp;action=edit&amp;section=1" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <ul>
+    <li><a href="/wiki/List_of_volcanoes_in_Chile" title="List of volcanoes in Chile">List of volcanoes in Chile</a></li> 
+    <li><a href="/wiki/List_of_Ultras_of_South_America" title="List of Ultras of South America">List of Ultras of South America</a></li> 
+    <li><a href="/wiki/Caichinque" title="Caichinque">Caichinque</a></li> 
+    <li><a href="/wiki/Monturaqui_crater" title="Monturaqui crater">Monturaqui crater</a></li> 
+    <li><a href="/wiki/List_of_andean_peaks_with_known_pre-columbian_ascents" class="mw-redirect" title="List of andean peaks with known pre-columbian ascents">List of andean peaks with known pre-columbian ascents</a></li>
+   </ul> 
+   <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pular_(volcano)&amp;action=edit&amp;section=2" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <div class="reflist" style="list-style-type: decimal;"> 
+    <div class="mw-references-wrap">
+     <ol class="references"> 
+      <li id="cite_note-gvp-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-gvp_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-gvp_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-gvp_1-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://volcano.si.edu/volcano.cfm?vnum=1505-107">"Pular"</a>. <i><a href="/wiki/Global_Volcanism_Program" title="Global Volcanism Program">Global Volcanism Program</a></i>. <a href="/wiki/Smithsonian_Institution" title="Smithsonian Institution">Smithsonian Institution</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2010-04-10</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Global+Volcanism+Program&amp;rft.atitle=Pular&amp;rft_id=https%3A%2F%2Fvolcano.si.edu%2Fvolcano.cfm%3Fvnum%3D1505-107&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APular+%28volcano%29" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span> </li> 
+      <li id="cite_note-peaklist-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-peaklist_2-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.peaklist.org/WWlists/ultras/andes1.html">"Argentina and Chile North: Ultra-Prominences"</a> Peaklist.org. Retrieved 2013-02-26.</span> </li> 
+      <li id="cite_note-aaj_1974-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-aaj_1974_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-aaj_1974_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Humberto Barrera, "Cerro Pular", <i><a href="/wiki/American_Alpine_Journal" title="American Alpine Journal">American Alpine Journal</a></i>, 1974, p. 194. Available at <a rel="nofollow" class="external text" href="http://www.americanalpineclub.org

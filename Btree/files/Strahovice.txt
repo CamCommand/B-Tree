@@ -1,0 +1,196 @@
+<div id="bodyContent" class="mw-body-content"> 
+ <div id="siteSub" class="noprint">
+  From Wikipedia, the free encyclopedia
+ </div> 
+ <div id="contentSub"></div> 
+ <div id="jump-to-nav"></div> 
+ <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> 
+ <a class="mw-jump-link" href="#p-search">Jump to search</a> 
+ <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+  <div class="mw-parser-output">
+   <p><b>Strahovice</b> (<a href="/wiki/German_language" title="German language">German</a>: <i lang="de">Strandorf</i>) is a village in <a href="/wiki/Moravian-Silesian_Region" title="Moravian-Silesian Region">Moravian-Silesian Region</a> of the <a href="/wiki/Czech_Republic" title="Czech Republic">Czech Republic</a>. It is part of micro-region <a href="/wiki/Hlu%C4%8D%C3%ADnsko" class="mw-redirect" title="Hlučínsko">Hlučínsko</a>. It has around 900 inhabitants. </p> 
+   <h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Strahovice&amp;action=edit&amp;section=1" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <ul>
+    <li><a rel="nofollow" class="external text" href="http://www.strahovice.cz/">Official website</a></li>
+   </ul> 
+   <table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000"> 
+    <tbody>
+     <tr> 
+      <td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376"></td> 
+      <td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Strahovice" class="extiw" title="commons:Category:Strahovice">Strahovice</a></b></i>.</td>
+     </tr>
+    </tbody>
+   </table> 
+   <div role="navigation" class="navbox" aria-labelledby="Towns,_market_towns_and_villages_of_Opava_District" style="padding:3px">
+    <table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+     <tbody>
+      <tr>
+       <th scope="col" class="navbox-title" colspan="2">
+        <div class="plainlinks hlist navbar mini">
+         <ul>
+          <li class="nv-view"><a href="/wiki/Template:Opava_District" title="Template:Opava District"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+          <li class="nv-talk"><a href="/wiki/Template_talk:Opava_District" title="Template talk:Opava District"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+          <li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Opava_District&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+         </ul>
+        </div>
+        <div id="Towns,_market_towns_and_villages_of_Opava_District" style="font-size:114%;margin:0 4em">
+         Towns, 
+         <i><a href="/wiki/M%C4%9Bstys" title="Městys">market towns</a></i> and villages of 
+         <a href="/wiki/Opava_District" title="Opava District">Opava District</a>
+        </div></th>
+      </tr>
+      <tr>
+       <td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><a href="/wiki/B%C4%9Bl%C3%A1_(Opava_District)" title="Bělá (Opava District)">Bělá</a></li> 
+          <li><a href="/wiki/Bohuslavice_(Opava_District)" class="mw-redirect" title="Bohuslavice (Opava District)">Bohuslavice</a></li> 
+          <li><a href="/wiki/Bolatice" title="Bolatice">Bolatice</a></li> 
+          <li><a href="/wiki/Branka_u_Opavy" title="Branka u Opavy">Branka u Opavy</a></li> 
+          <li><a href="/wiki/Brat%C5%99%C3%ADkovice" title="Bratříkovice">Bratříkovice</a></li> 
+          <li><a href="/wiki/Brumovice_(Opava_District)" title="Brumovice (Opava District)">Brumovice</a></li> 
+          <li><a href="/wiki/B%C5%99ezov%C3%A1_(Opava_Distrct)" class="mw-redirect" title="Březová (Opava Distrct)">Březová</a></li> 
+          <li><b><a href="/wiki/Budi%C5%A1ov_nad_Budi%C5%A1ovkou" title="Budišov nad Budišovkou">Budišov nad Budišovkou</a></b></li> 
+          <li><a href="/wiki/Budi%C5%A1ovice" title="Budišovice">Budišovice</a></li> 
+          <li><a href="/wiki/%C4%8Cermn%C3%A1_ve_Slezsku" title="Čermná ve Slezsku">Čermná ve Slezsku</a></li> 
+          <li><a href="/wiki/Darkovice" title="Darkovice">Darkovice</a></li> 
+          <li><a href="/wiki/D%C4%9Bhylov" title="Děhylov">Děhylov</a></li> 
+          <li><a href="/wiki/Dobroslavice" title="Dobroslavice">Dobroslavice</a></li> 
+          <li><b><a href="/wiki/Doln%C3%AD_Bene%C5%A1ov" title="Dolní Benešov">Dolní Benešov</a></b></li> 
+          <li><a href="/wiki/Doln%C3%AD_%C5%BDivotice" title="Dolní Životice">Dolní Životice</a></li> 
+          <li><a href="/wiki/H%C3%A1j_ve_Slezsku" title="Háj ve Slezsku">Háj ve Slezsku</a></li> 
+          <li><a href="/wiki/Ha%C5%A5" title="Hať">Hať</a></li> 
+          <li><a href="/wiki/Hlavnice" title="Hlavnice">Hlavnice</a></li> 
+          <li><a href="/wiki/Hlubo%C4%8Dec" title="Hlubočec">Hlubočec</a></li> 
+          <li><b><a href="/wiki/Hlu%C4%8D%C3%ADn" title="Hlučín">Hlučín</a></b></li> 
+          <li><a href="/wiki/Hn%C4%9Bvo%C5%A1ice" title="Hněvošice">Hněvošice</a></li> 
+          <li><a href="/wiki/Holasovice" title="Holasovice">Holasovice</a></li> 
+          <li><a href="/wiki/Hrabyn%C4%9B" title="Hrabyně">Hrabyně</a></li> 
+          <li><b><a href="/wiki/Hradec_nad_Moravic%C3%AD" title="Hradec nad Moravicí">Hradec nad Moravicí</a></b></li> 
+          <li><a href="/wiki/Chlebi%C4%8Dov" title="Chlebičov">Chlebičov</a></li> 
+          <li><a href="/wiki/Chucheln%C3%A1_(Opava_District)" class="mw-redirect" title="Chuchelná (Opava District)">Chuchelná</a></li> 
+          <li><a href="/wiki/Chval%C3%ADkovice" title="Chvalíkovice">Chvalíkovice</a></li> 
+          <li><a href="/wiki/Jakartovice" title="Jakartovice">Jakartovice</a></li> 
+          <li><a href="/wiki/Jamnice,_Czech_Republic" title="Jamnice, Czech Republic">Jamnice</a></li> 
+          <li><a href="/wiki/Jezdkovice" title="Jezdkovice">Jezdkovice</a></li> 
+          <li><a href="/wiki/Kobe%C5%99ice" title="Kobeřice">Kobeřice</a></li> 
+          <li><a href="/wiki/Kozmice_(Opava_District)" title="Kozmice (Opava District)">Kozmice</a></li> 
+          <li><b><a href="/wiki/Krava%C5%99e" title="Kravaře">Kravaře</a></b></li> 
+          <li><a href="/wiki/Kru%C5%BEberk" title="Kružberk">Kružberk</a></li> 
+          <li><a href="/wiki/Kyjovice_(Opava_District)" title="Kyjovice (Opava District)">Kyjovice</a></li> 
+          <li><a href="/wiki/Lhotka_u_Litultovic" title="Lhotka u Litultovic">Lhotka u Litultovic</a></li> 
+          <li><i><a href="/wiki/Litultovice" title="Litultovice">Litultovice</a></i></li> 
+          <li><a href="/wiki/Ludge%C5%99ovice" title="Ludgeřovice">Ludgeřovice</a></li> 
+          <li><a href="/wiki/Markvartovice" title="Markvartovice">Markvartovice</a></li> 
+          <li><a href="/wiki/Mel%C4%8D" title="Melč">Melč</a></li> 
+          <li><a href="/wiki/Mikolajice" title="Mikolajice">Mikolajice</a></li> 
+          <li><a href="/wiki/Mladecko" title="Mladecko">Mladecko</a></li> 
+          <li><a href="/wiki/Mokr%C3%A9_Lazce" title="Mokré Lazce">Mokré Lazce</a></li> 
+          <li><a href="/wiki/Moravice,_Czech_Republic" title="Moravice, Czech Republic">Moravice</a></li> 
+          <li><a href="/wiki/Neplachovice" title="Neplachovice">Neplachovice</a></li> 
+          <li><a href="/wiki/Nov%C3%A9_Lublice" title="Nové Lublice">Nové Lublice</a></li> 
+          <li><a href="/wiki/Nov%C3%A9_Sedlice" title="Nové Sedlice">Nové Sedlice</a></li> 
+          <li><a href="/wiki/Old%C5%99i%C5%A1ov" title="Oldřišov">Oldřišov</a></li> 
+          <li><b><a href="/wiki/Opava" title="Opava">Opava</a></b></li> 
+          <li><a href="/wiki/Otice" title="Otice">Otice</a></li> 
+          <li><a href="/wiki/P%C3%AD%C5%A1%C5%A5_(Opava_District)" title="Píšť (Opava District)">Píšť</a></li> 
+          <li><a href="/wiki/Pust%C3%A1_Polom" title="Pustá Polom">Pustá Polom</a></li> 
+          <li><a href="/wiki/Radkov_(Opava_District)" title="Radkov (Opava District)">Radkov</a></li> 
+          <li><a href="/wiki/Radu%C5%88" title="Raduň">Raduň</a></li> 
+          <li><a href="/wiki/Rohov_(Opava_District)" title="Rohov (Opava District)">Rohov</a></li> 
+          <li><a href="/wiki/Sk%C5%99ipov" title="Skřipov">Skřipov</a></li> 
+          <li><a href="/wiki/Slavkov_(Opava_District)" title="Slavkov (Opava District)">Slavkov</a></li> 
+          <li><a href="/wiki/Slu%C5%BEovice" title="Služovice">Služovice</a></li> 
+          <li><a href="/wiki/Sosnov%C3%A1_(Opava_District)" title="Sosnová (Opava District)">Sosnová</a></li> 
+          <li><a href="/wiki/Star%C3%A9_T%C4%9Bchanovice" title="Staré Těchanovice">Staré Těchanovice</a></li> 
+          <li><a href="/wiki/St%C4%9Bbo%C5%99ice" title="Stěbořice">Stěbořice</a></li> 
+          <li><a class="mw-selflink selflink">Strahovice</a></li> 
+          <li><a href="/wiki/Sudice_(Opava_District)" title="Sudice (Opava District)">Sudice</a></li> 
+          <li><a href="/wiki/Svato%C5%88ovice" title="Svatoňovice">Svatoňovice</a></li> 
+          <li><a href="/wiki/%C5%A0ilhe%C5%99ovice" title="Šilheřovice">Šilheřovice</a></li> 
+          <li><a href="/wiki/%C5%A0t%C3%A1blovice" title="Štáblovice">Štáblovice</a></li> 
+          <li><a href="/wiki/%C5%A0t%C4%9Bp%C3%A1nkovice" title="Štěpánkovice">Štěpánkovice</a></li> 
+          <li><a href="/wiki/%C5%A0t%C3%ADtina" title="Štítina">Štítina</a></li> 
+          <li><a href="/wiki/T%C4%9B%C5%A1kovice" title="Těškovice">Těškovice</a></li> 
+          <li><a href="/wiki/T%C5%99ebom" title="Třebom">Třebom</a></li> 
+          <li><a href="/wiki/Uhl%C3%AD%C5%99ov" title="Uhlířov">Uhlířov</a></li> 
+          <li><a href="/wiki/Velk%C3%A9_Heraltice" title="Velké Heraltice">Velké Heraltice</a></li> 
+          <li><a href="/wiki/Velk%C3%A9_Ho%C5%A1tice" title="Velké Hoštice">Velké Hoštice</a></li> 
+          <li><a href="/wiki/V%C4%9Bt%C5%99kovice" title="Větřkovice">Větřkovice</a></li> 
+          <li><b><a href="/wiki/V%C3%ADtkov_(Opava_District)" title="Vítkov (Opava District)">Vítkov</a></b></li> 
+          <li><a href="/wiki/Vr%C5%A1ovice_(Opava_District)" title="Vršovice (Opava District)">Vršovice</a></li> 
+          <li><a href="/wiki/V%C5%99esina_(Opava_District)" title="Vřesina (Opava District)">Vřesina</a></li> 
+          <li><a href="/wiki/Z%C3%A1vada_(Opava_District)" title="Závada (Opava District)">Závada</a></li>
+         </ul> 
+        </div></td>
+      </tr>
+     </tbody>
+    </table>
+   </div> 
+   <p><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Strahovice&amp;params=49_59_59_N_18_05_06_E_region:CZ_type:city(893)"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">49°59′59″N</span> <span class="longitude">18°05′06″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">49.99972°N 18.08500°E</span><span style="display:none">﻿ / <span class="geo">49.99972; 18.08500</span></span></span></a></span></span></span> </p>
+   <p><br> </p> 
+   <table class="metadata plainlinks stub" role="presentation" style="background:transparent">
+    <tbody>
+     <tr>
+      <td><a href="/wiki/File:Flag-map_of_Moravian-Silesian_Region.svg" class="image"><img alt="Stub icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag-map_of_Moravian-Silesian_Region.svg/30px-Flag-map_of_Moravian-Silesian_Region.svg.png" decoding="async" width="30" height="24" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag-map_of_Moravian-Silesian_Region.svg/45px-Flag-map_of_Moravian-Silesian_Region.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag-map_of_Moravian-Silesian_Region.svg/60px-Flag-map_of_Moravian-Silesian_Region.svg.png 2x" data-file-width="1104" data-file-height="891"></a></td>
+      <td><i>This <a href="/wiki/Moravian-Silesian_Region" title="Moravian-Silesian Region">Moravian-Silesian Region</a> location article is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="//en.wikipedia.org/w/index.php?title=Strahovice&amp;action=edit">expanding it</a>.</i>
+       <div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;">
+        <ul>
+         <li class="nv-view"><a href="/wiki/Template:MoraviaSilesia-geo-stub" title="Template:MoraviaSilesia-geo-stub"><abbr title="View this template">v</abbr></a></li>
+         <li class="nv-talk"><a href="/wiki/Template_talk:MoraviaSilesia-geo-stub" title="Template talk:MoraviaSilesia-geo-stub"><abbr title="Discuss this template">t</abbr></a></li>
+         <li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:MoraviaSilesia-geo-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+        </ul>
+       </div></td>
+     </tr>
+    </tbody>
+   </table> 
+   <!-- 
+NewPP limit report
+Parsed by mw1273
+Cached time: 20190505070521
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.272 seconds
+Real time usage: 0.383 seconds
+Preprocessor visited node count: 235/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 16843/2097152 bytes
+Template argument size: 204/2097152 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.202/10.000 seconds
+Lua memory usage: 10.18 MB/50 MB
+--> 
+   <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  349.406      1 -total
+ 49.65%  173.471      1 Template:Lang-de
+ 25.43%   88.858      1 Template:Coord
+ 15.99%   55.864      1 Template:Commons_category
+  4.46%   15.588      1 Template:Opava_District
+  4.35%   15.196      1 Template:MoraviaSilesia-geo-stub
+  4.05%   14.141      1 Template:Commons
+  3.71%   12.979      1 Template:Asbox
+  3.66%   12.789      1 Template:Navbox
+  3.19%   11.159      1 Template:Sister_project
+--> 
+   <!-- Saved in parser cache with key enwiki:pcache:idhash:2879485-0!canonical and timestamp 20190505070520 and revision id 808721028
+ --> 
+  </div>
+  <noscript>
+   <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+  </noscript>
+ </div> 
+ <div class="printfooter">
+  Retrieved from "
+  <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Strahovice&amp;oldid=808721028">https://en.wikipedia.org/w/index.php?title=Strahovice&amp;oldid=808721028</a>"
+ </div> 
+ <div id="catlinks" class="catlinks" data-mw="interface">
+  <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+   <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+   <ul>
+    <li><a href="/wiki/Category:Villages_in_Opava_District" title="Category:Villages in Opava District">Villages in Opava District</a></li>
+    <li><a href="/wik

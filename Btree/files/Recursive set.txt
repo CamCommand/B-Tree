@@ -1,0 +1,436 @@
+<div id="bodyContent" class="mw-body-content"> 
+ <div id="siteSub" class="noprint">
+  From Wikipedia, the free encyclopedia
+ </div> 
+ <div id="contentSub"></div> 
+ <div id="jump-to-nav"></div> 
+ <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> 
+ <a class="mw-jump-link" href="#p-search">Jump to search</a> 
+ <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+  <div class="mw-parser-output">
+   <p>In <a href="/wiki/Computability_theory" title="Computability theory">computability theory</a>, a <a href="/wiki/Set_(mathematics)" title="Set (mathematics)">set</a> of <a href="/wiki/Natural_number" title="Natural number">natural numbers</a> is called <b>recursive</b>, <b>computable</b> or <b>decidable</b> if there is an <a href="/wiki/Algorithm" title="Algorithm">algorithm</a> which takes a number as input, terminates after a finite amount of time (possibly depending on the given number) and correctly decides whether the number belongs to the set or not. </p>
+   <p>A more general class of sets consists of the <a href="/wiki/Recursively_enumerable_set" title="Recursively enumerable set">recursively enumerable sets</a>, also called <b>semidecidable</b> sets. For these sets, it is only required that there is an algorithm that correctly decides when a number <i>is</i> in the set; the algorithm may give no answer (but not the wrong answer) for numbers not in the set. </p>
+   <p>A set which is not computable is called <b>noncomputable</b> or <b>undecidable</b>. </p> 
+   <div id="toc" class="toc">
+    <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+    <div class="toctitle" lang="en" dir="ltr">
+     <h2>Contents</h2>
+     <span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+    </div> 
+    <ul> 
+     <li class="toclevel-1 tocsection-1"><a href="#Formal_definition"><span class="tocnumber">1</span> <span class="toctext">Formal definition</span></a></li> 
+     <li class="toclevel-1 tocsection-2"><a href="#Examples"><span class="tocnumber">2</span> <span class="toctext">Examples</span></a></li> 
+     <li class="toclevel-1 tocsection-3"><a href="#Properties"><span class="tocnumber">3</span> <span class="toctext">Properties</span></a></li> 
+     <li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li> 
+     <li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li> 
+    </ul> 
+   </div> 
+   <h2><span class="mw-headline" id="Formal_definition">Formal definition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Recursive_set&amp;action=edit&amp;section=1" title="Edit section: Formal definition">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <p>A subset <span class="texhtml"><var>S</var></span> of the <a href="/wiki/Natural_number" title="Natural number">natural numbers</a> is called <b>recursive</b> if there exists a <a href="/wiki/Total_function" class="mw-redirect" title="Total function">total</a> <a href="/wiki/Computable_function" title="Computable function">computable function</a> <span class="texhtml"><i>f</i> </span> such that <span class="texhtml"><i>f</i>(<var>x</var>) = 1 </span> if <span class="texhtml"><var>x</var> ∈ <var>S</var> </span> and <span class="texhtml"><i>f</i>(<var>x</var>) = 0 </span> if <span class="texhtml"><var>x</var> ∉ <var>S</var> </span>. In other words, the set <span class="texhtml"><var>S</var></span> is recursive <a href="/wiki/If_and_only_if" title="If and only if">if and only if</a> the <a href="/wiki/Indicator_function" title="Indicator function">indicator function</a> <span class="texhtml">1<sub><var>S</var></sub></span> is <a href="/wiki/Computable_function" title="Computable function">computable</a>. </p> 
+   <h2><span class="mw-headline" id="Examples">Examples</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Recursive_set&amp;action=edit&amp;section=2" title="Edit section: Examples">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <ul>
+    <li>Every finite or <a href="/wiki/Cofinite" class="mw-redirect" title="Cofinite">cofinite</a> subset of the natural numbers is computable. This includes these special cases: 
+     <ul>
+      <li>The <a href="/wiki/Empty_set" title="Empty set">empty set</a> is computable.</li> 
+      <li>The entire set of natural numbers is computable.</li> 
+      <li>Each natural number (<a href="/wiki/Set-theoretic_definition_of_natural_numbers#The_contemporary_standard" title="Set-theoretic definition of natural numbers">as defined in standard set theory</a>) is computable; that is, the set of natural numbers less than a given natural number is computable.</li>
+     </ul></li> 
+    <li>The set of <a href="/wiki/Prime_number" title="Prime number">prime numbers</a> is computable.</li> 
+    <li>A <a href="/wiki/Recursive_language" title="Recursive language">recursive language</a> is a recursive subset of a <a href="/wiki/Formal_language" title="Formal language">formal language</a>.</li> 
+    <li>The set of Gödel numbers of arithmetic proofs described in Kurt Gödel's paper "On formally undecidable propositions of Principia Mathematica and related systems I" is computable; see <a href="/wiki/G%C3%B6del%27s_incompleteness_theorems" title="Gödel's incompleteness theorems">Gödel's incompleteness theorems</a>.</li>
+   </ul> 
+   <h2><span class="mw-headline" id="Properties">Properties</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Recursive_set&amp;action=edit&amp;section=3" title="Edit section: Properties">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <p>If <i>A</i> is a recursive set then the <a href="/wiki/Complement_(set_theory)" title="Complement (set theory)">complement</a> of <i>A</i> is a recursive set. If <i>A</i> and <i>B</i> are recursive sets then <i>A</i> ∩ <i>B</i>, <i>A</i> ∪ <i>B</i> and the image of <i>A</i> × <i>B</i> under the <a href="/wiki/Cantor_pairing_function" class="mw-redirect" title="Cantor pairing function">Cantor pairing function</a> are recursive sets. </p>
+   <p>A set <i>A</i> is a recursive set <a href="/wiki/If_and_only_if" title="If and only if">if and only if</a> <i>A</i> and the <a href="/wiki/Complement_(set_theory)" title="Complement (set theory)">complement</a> of <i>A</i> are both <a href="/wiki/Recursively_enumerable_set" title="Recursively enumerable set">recursively enumerable sets</a>. The <a href="/wiki/Preimage" class="mw-redirect" title="Preimage">preimage</a> of a recursive set under a <a href="/wiki/Total_function" class="mw-redirect" title="Total function">total</a> <a href="/wiki/Computable_function" title="Computable function">computable function</a> is a recursive set. The image of a computable set under a total computable <a href="/wiki/Bijection" title="Bijection">bijection</a> is computable. </p>
+   <p>A set is recursive if and only if it is at level <span class="texhtml"> Δ<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">0</sup><br><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">1</sub></span> </span> of the <a href="/wiki/Arithmetical_hierarchy" title="Arithmetical hierarchy">arithmetical hierarchy</a>. </p>
+   <p>A set is recursive if and only if it is either the range of a nondecreasing total computable function or the empty set. The image of a computable set under a nondecreasing total computable function is computable. </p> 
+   <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Recursive_set&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <ul>
+    <li>Cutland, N. <i>Computability.</i> Cambridge University Press, Cambridge-New York, 1980. <style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/0-521-22384-9" title="Special:BookSources/0-521-22384-9">0-521-22384-9</a>; 
+     <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/0-521-29465-7" title="Special:BookSources/0-521-29465-7">0-521-29465-7</a></li> 
+    <li>Rogers, H. <i>The Theory of Recursive Functions and Effective Computability</i>, MIT Press. 
+     <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/0-262-68052-1" title="Special:BookSources/0-262-68052-1">0-262-68052-1</a>; 
+     <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/0-07-053522-1" title="Special:BookSources/0-07-053522-1">0-07-053522-1</a></li> 
+    <li>Soare, R. <i>Recursively enumerable sets and degrees.</i> Perspectives in Mathematical Logic. Springer-Verlag, Berlin, 1987. 
+     <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/3-540-15299-7" title="Special:BookSources/3-540-15299-7">3-540-15299-7</a></li>
+   </ul> 
+   <h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Recursive_set&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <ul>
+    <li><span class="citation mathworld" id="Reference-Mathworld-Recursive_Set"><cite class="citation web"><a href="/w/index.php?title=Alex_Sakharov&amp;action=edit&amp;redlink=1" class="new" title="Alex Sakharov (page does not exist)">Sakharov, Alex</a>. <a rel="nofollow" class="external text" href="http://mathworld.wolfram.com/RecursiveSet.html">"Recursive Set"</a>. <i><a href="/wiki/MathWorld" title="MathWorld">MathWorld</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=MathWorld&amp;rft.atitle=Recursive+Set&amp;rft.au=Sakharov%2C+Alex&amp;rft_id=http%3A%2F%2Fmathworld.wolfram.com%2FRecursiveSet.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARecursive+set" class="Z3988"></span>
+      <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span></li>
+   </ul> 
+   <div role="navigation" class="navbox" aria-labelledby="Mathematical_logic" style="padding:3px">
+    <table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+     <tbody>
+      <tr>
+       <th scope="col" class="navbox-title" colspan="2">
+        <div class="plainlinks hlist navbar mini">
+         <ul>
+          <li class="nv-view"><a href="/wiki/Template:Mathematical_logic" title="Template:Mathematical logic"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+          <li class="nv-talk"><a href="/wiki/Template_talk:Mathematical_logic" title="Template talk:Mathematical logic"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+          <li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Mathematical_logic&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+         </ul>
+        </div>
+        <div id="Mathematical_logic" style="font-size:114%;margin:0 4em">
+         <a href="/wiki/Mathematical_logic" title="Mathematical logic">Mathematical logic</a>
+        </div></th>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%">General</th>
+       <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><a href="/wiki/Formal_language" title="Formal language">Formal language</a></li> 
+          <li><a href="/wiki/Formation_rule" title="Formation rule">Formation rule</a></li> 
+          <li><a href="/wiki/Formal_proof" title="Formal proof">Formal proof</a></li> 
+          <li><a href="/wiki/Formal_semantics_(logic)" class="mw-redirect" title="Formal semantics (logic)">Formal semantics</a></li> 
+          <li><a href="/wiki/Well-formed_formula" title="Well-formed formula">Well-formed formula</a></li> 
+          <li><a href="/wiki/Set_(mathematics)" title="Set (mathematics)">Set</a></li> 
+          <li><a href="/wiki/Element_(mathematics)" title="Element (mathematics)">Element</a></li> 
+          <li><a href="/wiki/Class_(set_theory)" title="Class (set theory)">Class</a></li> 
+          <li><a href="/wiki/Classical_logic" title="Classical logic">Classical logic</a></li> 
+          <li><a href="/wiki/Axiom" title="Axiom">Axiom</a></li> 
+          <li><a href="/wiki/Rule_of_inference" title="Rule of inference">Rule of inference</a></li> 
+          <li><a href="/wiki/Finitary_relation" title="Finitary relation">Relation</a></li> 
+          <li><a href="/wiki/Theorem" title="Theorem">Theorem</a></li> 
+          <li><a href="/wiki/Logical_consequence" title="Logical consequence">Logical consequence</a></li> 
+          <li><a href="/wiki/Type_theory" title="Type theory">Type theory</a></li> 
+          <li><a href="/wiki/Symbol_(formal)" title="Symbol (formal)">Symbol</a></li> 
+          <li><a href="/wiki/Syntax_(logic)" title="Syntax (logic)">Syntax</a></li> 
+          <li><a href="/wiki/Theory_(mathematical_logic)" title="Theory (mathematical logic)">Theory</a></li>
+         </ul> 
+        </div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%">Systems</th>
+       <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><a href="/wiki/Formal_system" title="Formal system">Formal system</a></li> 
+          <li><a href="/wiki/Deductive_system" class="mw-redirect" title="Deductive system">Deductive system</a></li> 
+          <li><a href="/wiki/Axiomatic_system" title="Axiomatic system">Axiomatic system</a></li> 
+          <li><a href="/wiki/Hilbert_system" title="Hilbert system">Hilbert style systems</a></li> 
+          <li><a href="/wiki/Natural_deduction" title="Natural deduction">Natural deduction</a></li> 
+          <li><a href="/wiki/Sequent_calculus" title="Sequent calculus">Sequent calculus</a></li>
+         </ul> 
+        </div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Term_logic" title="Term logic">Traditional logic</a></th>
+       <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><a href="/wiki/Proposition" title="Proposition">Proposition</a></li> 
+          <li><a href="/wiki/Inference" title="Inference">Inference</a></li> 
+          <li><a href="/wiki/Argument" title="Argument">Argument</a></li> 
+          <li><a href="/wiki/Validity_(logic)" title="Validity (logic)">Validity</a></li> 
+          <li><a href="/w/index.php?title=Cogency&amp;action=edit&amp;redlink=1" class="new" title="Cogency (page does not exist)">Cogency</a></li> 
+          <li><a href="/wiki/Syllogism" title="Syllogism">Syllogism</a></li> 
+          <li><a href="/wiki/Square_of_opposition" title="Square of opposition">Square of opposition</a></li> 
+          <li><a href="/wiki/Venn_diagram" title="Venn diagram">Venn diagram</a></li>
+         </ul> 
+        </div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%">
+        <div style="padding:0.1em 0;line-height:1.2em;">
+         <a href="/wiki/Propositional_calculus" title="Propositional calculus">Propositional calculus</a>
+         <br>and 
+         <a href="/wiki/Boolean_algebra" title="Boolean algebra">Boolean logic</a>
+        </div></th>
+       <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><a href="/wiki/Boolean_function" title="Boolean function">Boolean functions</a></li> 
+          <li><a href="/wiki/Propositional_calculus" title="Propositional calculus">Propositional calculus</a></li> 
+          <li><a href="/wiki/Propositional_formula" title="Propositional formula">Propositional formula</a></li> 
+          <li><a href="/wiki/Logical_connective" title="Logical connective">Logical connectives</a></li> 
+          <li><a href="/wiki/Truth_table" title="Truth table">Truth tables</a></li> 
+          <li><a href="/wiki/Many-valued_logic" title="Many-valued logic">Many-valued logic</a></li>
+         </ul> 
+        </div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Predicate_logic" class="mw-redirect" title="Predicate logic">Predicate logic</a></th>
+       <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><a href="/wiki/First-order_logic" title="First-order logic">First-order</a></li> 
+          <li><a href="/wiki/Quantifier_(logic)" title="Quantifier (logic)">Quantifiers</a></li> 
+          <li><a href="/wiki/Predicate_(mathematical_logic)" title="Predicate (mathematical logic)">Predicate</a></li> 
+          <li><a href="/wiki/Second-order_logic" title="Second-order logic">Second-order</a></li> 
+          <li><a href="/wiki/Monadic_predicate_calculus" title="Monadic predicate calculus">Monadic predicate calculus</a></li>
+         </ul> 
+        </div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Naive_set_theory" title="Naive set theory">Naive set theory</a></th>
+       <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><a href="/wiki/Set_(mathematics)" title="Set (mathematics)">Set</a></li> 
+          <li><a href="/wiki/Empty_set" title="Empty set">Empty set</a></li> 
+          <li><a href="/wiki/Element_(mathematics)" title="Element (mathematics)">Element</a></li> 
+          <li><a href="/wiki/Enumeration" title="Enumeration">Enumeration</a></li> 
+          <li><a href="/wiki/Extensionality" title="Extensionality">Extensionality</a></li> 
+          <li><a href="/wiki/Finite_set" title="Finite set">Finite set</a></li> 
+          <li><a href="/wiki/Infinite_set" title="Infinite set">Infinite set</a></li> 
+          <li><a href="/wiki/Subset" title="Subset">Subset</a></li> 
+          <li><a href="/wiki/Power_set" title="Power set">Power set</a></li> 
+          <li><a href="/wiki/Countable_set" title="Countable set">Countable set</a></li> 
+          <li><a href="/wiki/Uncountable_set" title="Uncountable set">Uncountable set</a></li> 
+          <li><a class="mw-selflink selflink">Recursive set</a></li> 
+          <li><a href="/wiki/Domain_of_a_function" title="Domain of a function">Domain</a></li> 
+          <li><a href="/wiki/Codomain" title="Codomain">Codomain</a></li> 
+          <li><a href="/wiki/Image_(mathematics)" title="Image (mathematics)">Image</a></li> 
+          <li><a href="/wiki/Map_(mathematics)" title="Map (mathematics)">Map</a></li> 
+          <li><a href="/wiki/Function_(mathematics)" title="Function (mathematics)">Function</a></li> 
+          <li><a href="/wiki/Binary_operation" title="Binary operation">Relation</a></li> 
+          <li><a href="/wiki/Ordered_pair" title="Ordered pair">Ordered pair</a></li>
+         </ul> 
+        </div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Set_theory" title="Set theory">Set theory</a></th>
+       <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><a href="/wiki/Foundations_of_mathematics" title="Foundations of mathematics">Foundations of mathematics</a></li> 
+          <li><a href="/wiki/Zermelo%E2%80%93Fraenkel_set_theory" title="Zermelo–Fraenkel set theory">Zermelo–Fraenkel set theory</a></li> 
+          <li><a href="/wiki/Axiom_of_choice" title="Axiom of choice">Axiom of choice</a></li> 
+          <li><a href="/wiki/General_set_theory" title="General set theory">General set theory</a></li> 
+          <li><a href="/wiki/Kripke%E2%80%93Platek_set_theory" title="Kripke–Platek set theory">Kripke–Platek set theory</a></li> 
+          <li><a href="/wiki/Von_Neumann%E2%80%93Bernays%E2%80%93G%C3%B6del_set_theory" title="Von Neumann–Bernays–Gödel set theory">Von Neumann–Bernays–Gödel set theory</a></li> 
+          <li><a href="/wiki/Morse%E2%80%93Kelley_set_theory" title="Morse–Kelley set theory">Morse–Kelley set theory</a></li> 
+          <li><a href="/wiki/Tarski%E2%80%93Grothendieck_set_theory" title="Tarski–Grothendieck set theory">Tarski–Grothendieck set theory</a></li>
+         </ul> 
+        </div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Model_theory" title="Model theory">Model theory</a></th>
+       <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><a href="/wiki/Structure_(mathematical_logic)" title="Structure (mathematical logic)">Model</a></li> 
+          <li><a href="/wiki/Interpretation_(logic)" title="Interpretation (logic)">Interpretation</a></li> 
+          <li><a href="/wiki/Non-standard_model" title="Non-standard model">Non-standard model</a></li> 
+          <li><a href="/wiki/Finite_model_theory" title="Finite model theory">Finite model theory</a></li> 
+          <li><a href="/wiki/Truth_value" title="Truth value">Truth value</a></li> 
+          <li><a href="/wiki/Validity_(logic)" title="Validity (logic)">Validity</a></li>
+         </ul> 
+        </div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Proof_theory" title="Proof theory">Proof theory</a></th>
+       <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><a href="/wiki/Formal_proof" title="Formal proof">Formal proof</a></li> 
+          <li><a href="/wiki/Deductive_system" class="mw-redirect" title="Deductive system">Deductive system</a></li> 
+          <li><a href="/wiki/Formal_system" title="Formal system">Formal system</a></li> 
+          <li><a href="/wiki/Theorem" title="Theorem">Theorem</a></li> 
+          <li><a href="/wiki/Logical_consequence" title="Logical consequence">Logical consequence</a></li> 
+          <li><a href="/wiki/Rule_of_inference" title="Rule of inference">Rule of inference</a></li> 
+          <li><a href="/wiki/Syntax_(logic)" title="Syntax (logic)">Syntax</a></li>
+         </ul> 
+        </div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Computability_theory" title="Computability theory">Computability <br>theory</a></th>
+       <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><a href="/wiki/Recursion" title="Recursion">Recursion</a></li> 
+          <li><a class="mw-selflink selflink">Recursive set</a></li> 
+          <li><a href="/wiki/Recursively_enumerable_set" title="Recursively enumerable set">Recursively enumerable set</a></li> 
+          <li><a href="/wiki/Decision_problem" title="Decision problem">Decision problem</a></li> 
+          <li><a href="/wiki/Church%E2%80%93Turing_thesis" title="Church–Turing thesis">Church–Turing thesis</a></li> 
+          <li><a href="/wiki/Computable_function" title="Computable function">Computable function</a></li> 
+          <li><a href="/wiki/Primitive_recursive_function" title="Primitive recursive function">Primitive recursive function</a></li>
+         </ul> 
+        </div></td>
+      </tr>
+     </tbody>
+    </table>
+   </div> 
+   <div role="navigation" class="navbox" aria-labelledby="Set_theory" style="padding:3px">
+    <table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+     <tbody>
+      <tr>
+       <th scope="col" class="navbox-title" colspan="3">
+        <div class="plainlinks hlist navbar mini">
+         <ul>
+          <li class="nv-view"><a href="/wiki/Template:Set_theory" title="Template:Set theory"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+          <li class="nv-talk"><a href="/wiki/Template_talk:Set_theory" title="Template talk:Set theory"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+          <li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Set_theory&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+         </ul>
+        </div>
+        <div id="Set_theory" style="font-size:114%;margin:0 4em">
+         <a href="/wiki/Set_theory" title="Set theory">Set theory</a>
+        </div></th>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Axiom" title="Axiom">Axioms</a></th>
+       <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><a href="/wiki/Axiom_of_adjunction" title="Axiom of adjunction">Adjunction</a></li> 
+          <li><a href="/wiki/Axiom_of_choice" title="Axiom of choice">Choice</a> 
+           <ul>
+            <li><a href="/wiki/Axiom_of_countable_choice" title="Axiom of countable choice">countable</a></li> 
+            <li><a href="/wiki/Axiom_of_dependent_choice" title="Axiom of dependent choice">dependent</a></li>
+           </ul></li> 
+          <li><a href="/wiki/Axiom_of_constructibility" title="Axiom of constructibility">Constructibility (V=L)</a></li> 
+          <li><a href="/wiki/Axiom_of_determinacy" title="Axiom of determinacy">Determinacy</a></li> 
+          <li><a href="/wiki/Axiom_of_extensionality" title="Axiom of extensionality">Extensionality</a></li> 
+          <li><a href="/wiki/Axiom_of_infinity" title="Axiom of infinity">Infinity</a></li> 
+          <li><a href="/wiki/Axiom_of_limitation_of_size" title="Axiom of limitation of size">Limitation of size</a></li> 
+          <li><a href="/wiki/Axiom_of_pairing" title="Axiom of pairing">Pairing</a></li> 
+          <li><a href="/wiki/Axiom_of_power_set" title="Axiom of power set">Power set</a></li> 
+          <li><a href="/wiki/Axiom_of_regularity" title="Axiom of regularity">Regularity</a></li> 
+          <li><a href="/wiki/Axiom_of_union" title="Axiom of union">Union</a></li> 
+          <li><a href="/wiki/Martin%27s_axiom" title="Martin's axiom">Martin's axiom</a></li>
+         </ul> 
+         <ul>
+          <li><a href="/wiki/Axiom_schema" title="Axiom schema">Axiom schema</a> 
+           <ul>
+            <li><a href="/wiki/Axiom_schema_of_replacement" title="Axiom schema of replacement">replacement</a></li> 
+            <li><a href="/wiki/Axiom_schema_of_specification" title="Axiom schema of specification">specification</a></li>
+           </ul></li>
+         </ul> 
+        </div></td>
+       <td class="navbox-image" rowspan="7" style="width:1px;padding:0px 0px 0px 2px">
+        <div>
+         <a href="/wiki/Venn_diagram" title="Venn diagram"><img alt="Venn diagram of set intersection" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Venn_A_intersect_B.svg/100px-Venn_A_intersect_B.svg.png" decoding="async" width="100" height="71" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Venn_A_intersect_B.svg/150px-Venn_A_intersect_B.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Venn_A_intersect_B.svg/200px-Venn_A_intersect_B.svg.png 2x" data-file-width="350" data-file-height="250"></a>
+        </div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Set_(mathematics)#Basic_operations" title="Set (mathematics)">Operations</a></th>
+       <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><a href="/wiki/Cartesian_product" title="Cartesian product">Cartesian product</a></li> 
+          <li><a href="/wiki/Complement_(set_theory)" title="Complement (set theory)">Complement</a></li> 
+          <li><a href="/wiki/De_Morgan%27s_laws" title="De Morgan's laws">De Morgan's laws</a></li> 
+          <li><a href="/wiki/Disjoint_union" title="Disjoint union">Disjoint union</a></li> 
+          <li><a href="/wiki/Intersection_(set_theory)" title="Intersection (set theory)">Intersection</a></li> 
+          <li><a href="/wiki/Power_set" title="Power set">Power set</a></li> 
+          <li><a href="/wiki/Complement_(set_theory)" title="Complement (set theory)">Set difference</a></li> 
+          <li><a href="/wiki/Symmetric_difference" title="Symmetric difference">Symmetric difference</a></li> 
+          <li><a href="/wiki/Union_(set_theory)" title="Union (set theory)">Union</a></li>
+         </ul> 
+        </div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%">
+        <div class="hlist hlist-separated">
+         <ul>
+          <li>Concepts</li>
+          <li>Methods</li>
+         </ul>
+        </div></th>
+       <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><a href="/wiki/Cardinality" title="Cardinality">Cardinality</a></li> 
+          <li><a href="/wiki/Cardinal_number" title="Cardinal number">Cardinal number</a>&nbsp;(<a href="/wiki/Large_cardinal" title="Large cardinal">large</a>)</li> 
+          <li><a href="/wiki/Class_(set_theory)" title="Class (set theory)">Class</a></li> 
+          <li><a href="/wiki/Constructible_universe" title="Constructible universe">Constructible universe</a></li> 
+          <li><a href="/wiki/Continuum_hypothesis" title="Continuum hypothesis">Continuum hypothesis</a></li> 
+          <li><a href="/wiki/Cantor%27s_diagonal_argument" title="Cantor's diagonal argument">Diagonal argument</a></li> 
+          <li><a href="/wiki/Element_(mathematics)" title="Element (mathematics)">Element</a> 
+           <ul>
+            <li><a href="/wiki/Ordered_pair" title="Ordered pair">ordered pair</a></li> 
+            <li><a href="/wiki/Tuple" title="Tuple">tuple</a></li>
+           </ul></li> 
+          <li><a href="/wiki/Family_of_sets" title="Family of sets">Family</a></li> 
+          <li><a href="/wiki/Forcing_(mathematics)" title="Forcing (mathematics)">Forcing</a></li> 
+          <li><a href="/wiki/Bijection" title="Bijection">One-to-one correspondence</a></li> 
+          <li><a href="/wiki/Ordinal_number" title="Ordinal number">Ordinal number</a></li> 
+          <li><a href="/wiki/Transfinite_induction" title="Transfinite induction">Transfinite induction</a></li> 
+          <li><a href="/wiki/Venn_diagram" title="Venn diagram">Venn diagram</a></li>
+         </ul> 
+        </div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Set_(mathematics)" title="Set (mathematics)">Set</a> types</th>
+       <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><a href="/wiki/Countable_set" title="Countable set">Countable</a></li> 
+          <li><a href="/wiki/Empty_set" title="Empty set">Empty</a></li> 
+          <li><a href="/wiki/Finite_set" title="Finite set">Finite</a>&nbsp;(<a href="/wiki/Hereditarily_finite_set" title="Hereditarily finite set">hereditarily</a>)</li> 
+          <li><a href="/wiki/Fuzzy_set" title="Fuzzy set">Fuzzy</a></li> 
+          <li><a href="/wiki/Infinite_set" title="Infinite set">Infinite</a> (<a href="/wiki/Dedekind-infinite_set" title="Dedekind-infinite set">Dedekind-infinite</a>)</li> 
+          <li><a class="mw-selflink selflink">Recursive</a></li> 
+          <li><a href="/wiki/Subset_and_superset" class="mw-redirect" title="Subset and superset">Subset&nbsp;<b>·</b> Superset</a></li> 
+          <li><a href="/wiki/Transitive_set" title="Transitive set">Transitive</a></li> 
+          <li><a href="/wiki/Uncountable_set" title="Uncountable set">Uncountable</a></li> 
+          <li><a href="/wiki/Universal_set" title="Universal set">Universal</a></li>
+         </ul> 
+        </div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%">Theories</th>
+       <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><a href="/wiki/Alternative_set_theory" title="Alternative set theory">Alternative</a></li> 
+          <li><a href="/wiki/Axiomatic_set_theory" class="mw-redirect" title="Axiomatic set theory">Axiomatic</a></li> 
+          <li><a href="/wiki/Naive_set_theory" title="Naive set theory">Naive</a></li> 
+          <li><a href="/wiki/Cantor%27s_theorem" title="Cantor's theorem">Cantor's theorem</a></li>
+         </ul> 
+         <ul>
+          <li><a href="/wiki/Zermelo_set_theory" title="Zermelo set theory">Zermelo</a> 
+           <ul>
+            <li><a href="/wiki/General_set_theory" title="General set theory">General</a></li>
+           </ul></li> 
+          <li><i><a href="/wiki/Principia_Mathematica" title="Principia Mathematica">Principia Mathematica</a></i> 
+           <ul>
+            <li><a href="/wiki/New_Foundations" title="New Foundations">New Foundations</a></li>
+           </ul></li> 
+          <li><a href="/wiki/Zermelo%E2%80%93Fraenkel_set_theory" title="Zermelo–Fraenkel set theory">Zermelo–Fraenkel </a> 
+           <ul>
+            <li><a href="/wiki/Von_Neumann%E2%80%93Bernays%E2%80%93G%C3%B6del_set_theory" title="Von Neumann–Bernays–Gödel set theory">von Neumann–Bernays–Gödel </a> 
+             <ul>
+              <li><a href="/wiki/Morse%E2%80%93Kelley_set_theory" title="Morse–Kelley set theory">Morse–Kelley</a></li>
+             </ul></li> 
+            <li><a href="/wiki/Kripke%E2%80%93Platek_set_theory" title="Kripke–Platek set theory">Kripke–Platek</a></li> 
+            <li><a href="/wiki/Tarski%E2%80%93Grothendieck_set_theory" title="Tarski–Grothendieck set theory">Tarski–Grothendieck</a></li>
+           </ul></li>
+         </ul> 
+        </div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%">
+        <div class="hlist hlist-separated">
+         <ul>
+          <li><a href="/wiki/Paradoxes_of_set_theory" title="Paradoxes of set theory">Paradoxes</a></li>
+          <li>Problems</li>
+         </ul>
+        </div></th>
+       <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><a href="/wiki/Russell%27s_paradox" title="Russell's paradox">Russell's paradox</a></li> 
+          <li><a href="/wiki/Suslin%27s_problem" title="Suslin's problem">Suslin's problem</a></li> 
+          <li><a href="/wiki/Burali-Forti_paradox" title="Burali-Forti paradox">Burali-Forti paradox</a></li>
+         </ul> 
+        </div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Category:Set_theorists" title="Category:Set theorists">Set theorists</a></th>
+       <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><a href="/wiki/Abraham_Fraenkel" title="Abraham Fraenkel">Abraham Fraenkel</a></li> 
+          <li><a href="/wiki/Bertrand_Russell" title="Bertrand Russell">Bertrand Russell</a></li> 
+          <li><a href="/wiki/Ernst_Zermelo" title="Ernst Zermelo">Ernst Zermelo</a></li> 
+          <li><a href="/wiki/Georg_Cantor" title="Georg Cantor">Georg Cantor</a></li> 
+          <li><a href="/wiki/John_von_Neumann" title="John von Neumann">John von Neumann</a></li> 
+          <li><a href="/wiki/Kurt_G%C3%B6del" title="Kurt Gödel">Kurt Gödel</a></li> 
+          <li><a href="/wiki/Paul_Bernays" title="Paul Bernays">Paul Bernays</a></li> 
+          <li><a href="/wiki/Paul_Cohen" title="Paul Cohen">Paul Cohen</a></li> 
+          <li><a href="/wiki/Richard_Dedekind" title="Richard Dedekind">Richard Dedekind</a></li> 
+          <li><a href="/wiki/Thomas_Jech" title="Thomas Jech">Thomas Jech</a></li> 
+          <li><a href="/wiki/Thoralf

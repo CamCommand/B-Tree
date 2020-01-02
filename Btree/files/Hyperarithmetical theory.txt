@@ -1,0 +1,2500 @@
+<div id="bodyContent" class="mw-body-content"> 
+ <div id="siteSub" class="noprint">
+  From Wikipedia, the free encyclopedia
+ </div> 
+ <div id="contentSub"></div> 
+ <div id="jump-to-nav"></div> 
+ <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> 
+ <a class="mw-jump-link" href="#p-search">Jump to search</a> 
+ <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+  <div class="mw-parser-output">
+   <p>In <a href="/wiki/Recursion_theory" class="mw-redirect" title="Recursion theory">recursion theory</a>, <b>hyperarithmetic theory</b> is a generalization of <a href="/wiki/Computable_function" title="Computable function">Turing computability</a>. It has close connections with definability in <a href="/wiki/Second-order_arithmetic" title="Second-order arithmetic">second-order arithmetic</a> and with weak systems of <a href="/wiki/Set_theory" title="Set theory">set theory</a> such as <a href="/wiki/Kripke%E2%80%93Platek_set_theory" title="Kripke–Platek set theory">Kripke–Platek set theory</a>. It is an important tool in <a href="/wiki/Effective_descriptive_set_theory" title="Effective descriptive set theory">effective descriptive set theory</a>. </p>
+   <p>The central focus of hyperarithmetic theory is the sets of <a href="/wiki/Natural_number" title="Natural number">natural numbers</a> known as <b>hyperarithmetic sets</b>. There are three equivalent ways of defining this class of sets; the study of the relationships between these different definitions is one motivation for the study of hyperarithmetical theory. </p> 
+   <div id="toc" class="toc">
+    <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+    <div class="toctitle" lang="en" dir="ltr">
+     <h2>Contents</h2>
+     <span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+    </div> 
+    <ul> 
+     <li class="toclevel-1 tocsection-1"><a href="#Hyperarithmetical_sets_and_definability"><span class="tocnumber">1</span> <span class="toctext">Hyperarithmetical sets and definability</span></a></li> 
+     <li class="toclevel-1 tocsection-2"><a href="#Hyperarithmetical_sets_and_iterated_Turing_jumps:_the_hyperarithmetical_hierarchy"><span class="tocnumber">2</span> <span class="toctext">Hyperarithmetical sets and iterated Turing jumps: the hyperarithmetical hierarchy</span></a></li> 
+     <li class="toclevel-1 tocsection-3"><a href="#Hyperarithmetical_sets_and_recursion_in_higher_types"><span class="tocnumber">3</span> <span class="toctext">Hyperarithmetical sets and recursion in higher types</span></a></li> 
+     <li class="toclevel-1 tocsection-4"><a href="#Example:_the_truth_set_of_arithmetic"><span class="tocnumber">4</span> <span class="toctext">Example: the truth set of arithmetic</span></a></li> 
+     <li class="toclevel-1 tocsection-5"><a href="#Fundamental_results"><span class="tocnumber">5</span> <span class="toctext">Fundamental results</span></a></li> 
+     <li class="toclevel-1 tocsection-6"><a href="#Relativized_hyperarithmeticity_and_hyperdegrees"><span class="tocnumber">6</span> <span class="toctext">Relativized hyperarithmeticity and hyperdegrees</span></a></li> 
+     <li class="toclevel-1 tocsection-7"><a href="#Generalizations"><span class="tocnumber">7</span> <span class="toctext">Generalizations</span></a></li> 
+     <li class="toclevel-1 tocsection-8"><a href="#Relation_to_other_hierarchies"><span class="tocnumber">8</span> <span class="toctext">Relation to other hierarchies</span></a></li> 
+     <li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li> 
+     <li class="toclevel-1 tocsection-10"><a href="#External_links"><span class="tocnumber">10</span> <span class="toctext">External links</span></a></li> 
+    </ul> 
+   </div> 
+   <h2><span class="mw-headline" id="Hyperarithmetical_sets_and_definability">Hyperarithmetical sets and definability</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hyperarithmetical_theory&amp;action=edit&amp;section=1" title="Edit section: Hyperarithmetical sets and definability">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <p>The first definition of the hyperarithmetic sets uses the <a href="/wiki/Analytical_hierarchy" title="Analytical hierarchy">analytical hierarchy</a>. A set of natural numbers is classified at level <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \Sigma _{1}^{1}}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <msubsup> 
+           <mi mathvariant="normal">
+            Σ
+            <!-- Σ -->
+           </mi> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mn>
+             1
+            </mn> 
+           </mrow> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mn>
+             1
+            </mn> 
+           </mrow> 
+          </msubsup> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle \Sigma _{1}^{1}}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/253bf5a8d60183537e1b309e490ed3cd7583f849" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:2.732ex; height:3.176ex;" alt="\Sigma _{1}^{1}"></span> of this hierarchy if it is definable by a formula of <a href="/wiki/Second-order_arithmetic" title="Second-order arithmetic">second-order arithmetic</a> with only existential set quantifiers and no other set quantifiers. A set is classified at level <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \Pi _{1}^{1}}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <msubsup> 
+           <mi mathvariant="normal">
+            Π
+            <!-- Π -->
+           </mi> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mn>
+             1
+            </mn> 
+           </mrow> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mn>
+             1
+            </mn> 
+           </mrow> 
+          </msubsup> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle \Pi _{1}^{1}}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0fd076fb78a7a5ee340920a3d846ddf67455f941" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:2.797ex; height:3.176ex;" alt="\Pi _{1}^{1}"></span> of the analytical hierarchy if it is definable by a formula of second-order arithmetic with only universal set quantifiers and no other set quantifiers. A set is <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \Delta _{1}^{1}}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <msubsup> 
+           <mi mathvariant="normal">
+            Δ
+            <!-- Δ -->
+           </mi> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mn>
+             1
+            </mn> 
+           </mrow> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mn>
+             1
+            </mn> 
+           </mrow> 
+          </msubsup> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle \Delta _{1}^{1}}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c6e18a003a02e8b704ccc02dbded53054df3eeaf" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:2.99ex; height:3.176ex;" alt="\Delta _{1}^{1}"></span> if it is both <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \Sigma _{1}^{1}}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <msubsup> 
+           <mi mathvariant="normal">
+            Σ
+            <!-- Σ -->
+           </mi> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mn>
+             1
+            </mn> 
+           </mrow> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mn>
+             1
+            </mn> 
+           </mrow> 
+          </msubsup> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle \Sigma _{1}^{1}}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/253bf5a8d60183537e1b309e490ed3cd7583f849" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:2.732ex; height:3.176ex;" alt="\Sigma _{1}^{1}"></span> and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \Pi _{1}^{1}}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <msubsup> 
+           <mi mathvariant="normal">
+            Π
+            <!-- Π -->
+           </mi> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mn>
+             1
+            </mn> 
+           </mrow> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mn>
+             1
+            </mn> 
+           </mrow> 
+          </msubsup> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle \Pi _{1}^{1}}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0fd076fb78a7a5ee340920a3d846ddf67455f941" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:2.797ex; height:3.176ex;" alt="\Pi _{1}^{1}"></span>. The hyperarithmetical sets are exactly the <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \Delta _{1}^{1}}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <msubsup> 
+           <mi mathvariant="normal">
+            Δ
+            <!-- Δ -->
+           </mi> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mn>
+             1
+            </mn> 
+           </mrow> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mn>
+             1
+            </mn> 
+           </mrow> 
+          </msubsup> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle \Delta _{1}^{1}}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c6e18a003a02e8b704ccc02dbded53054df3eeaf" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:2.99ex; height:3.176ex;" alt="\Delta _{1}^{1}"></span> sets. </p> 
+   <h2><span class="mw-headline" id="Hyperarithmetical_sets_and_iterated_Turing_jumps:_the_hyperarithmetical_hierarchy">Hyperarithmetical sets and iterated Turing jumps: the hyperarithmetical hierarchy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hyperarithmetical_theory&amp;action=edit&amp;section=2" title="Edit section: Hyperarithmetical sets and iterated Turing jumps: the hyperarithmetical hierarchy">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <p>The definition of hyperarithmetical sets as <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \Delta _{1}^{1}}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <msubsup> 
+           <mi mathvariant="normal">
+            Δ
+            <!-- Δ -->
+           </mi> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mn>
+             1
+            </mn> 
+           </mrow> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mn>
+             1
+            </mn> 
+           </mrow> 
+          </msubsup> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle \Delta _{1}^{1}}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c6e18a003a02e8b704ccc02dbded53054df3eeaf" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:2.99ex; height:3.176ex;" alt="\Delta _{1}^{1}"></span> does not directly depend on computability results. A second, equivalent, definition shows that the hyperarithmetical sets can be defined using infinitely iterated <a href="/wiki/Turing_jump" title="Turing jump">Turing jumps</a>. This second definition also shows that the hyperarithmetical sets can be classified into a hierarchy extending the <a href="/wiki/Arithmetical_hierarchy" title="Arithmetical hierarchy">arithmetical hierarchy</a>; the hyperarithmetical sets are exactly the sets that are assigned a rank in this hierarchy. </p>
+   <p>Each level of the hyperarithmetical hierarchy corresponds to a countable <a href="/wiki/Ordinal_number" title="Ordinal number">ordinal number</a> (ordinal), but not all countable ordinals correspond to a level of the hierarchy. The ordinals used by the hierarchy are those with an <b><a href="/wiki/Ordinal_notation" title="Ordinal notation">ordinal notation</a></b>, which is a concrete, effective description of the ordinal. </p>
+   <p>An ordinal notation is an effective description of a countable ordinal by a natural number. A system of ordinal notations is required in order to define the hyperarithmetic hierarchy. The fundamental property an ordinal notation must have is that it describes the ordinal in terms of small ordinals in an effective way. The following inductive definition is typical; it uses a <a href="/wiki/Pairing_function" title="Pairing function">pairing function</a> <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \langle \cdot ,\cdot \rangle }"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <mo fence="false" stretchy="false">
+           ⟨
+           <!-- ⟨ -->
+          </mo> 
+          <mo>
+           ⋅
+           <!-- ⋅ -->
+          </mo> 
+          <mo>
+           ,
+          </mo> 
+          <mo>
+           ⋅
+           <!-- ⋅ -->
+          </mo> 
+          <mo fence="false" stretchy="false">
+           ⟩
+           <!-- ⟩ -->
+          </mo> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle \langle \cdot ,\cdot \rangle }
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9a50080b735975d8001c9552ac2134b49ad534c0" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:4.137ex; height:2.843ex;" alt="\langle \cdot ,\cdot \rangle "></span>. </p> 
+   <ul>
+    <li>The number 0 is a notation for the ordinal 0.</li> 
+    <li>If <i>n</i> is a notation for an ordinal λ then <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+       <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \langle 1,n\rangle }"> 
+        <semantics> 
+         <mrow class="MJX-TeXAtom-ORD"> 
+          <mstyle displaystyle="true" scriptlevel="0"> 
+           <mo fence="false" stretchy="false">
+            ⟨
+            <!-- ⟨ -->
+           </mo> 
+           <mn>
+            1
+           </mn> 
+           <mo>
+            ,
+           </mo> 
+           <mi>
+            n
+           </mi> 
+           <mo fence="false" stretchy="false">
+            ⟩
+            <!-- ⟩ -->
+           </mo> 
+          </mstyle> 
+         </mrow> 
+         <annotation encoding="application/x-tex">
+          {\displaystyle \langle 1,n\rangle }
+         </annotation> 
+        </semantics> 
+       </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f3967b378252d9f300f888cb02cb67214dc3d521" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:5.4ex; height:2.843ex;" alt="\langle 1,n\rangle "></span> is a notation for λ + 1;</li> 
+    <li>Suppose that δ is a limit ordinal. A notation for δ is a number of the form <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+       <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \langle 2,e\rangle }"> 
+        <semantics> 
+         <mrow class="MJX-TeXAtom-ORD"> 
+          <mstyle displaystyle="true" scriptlevel="0"> 
+           <mo fence="false" stretchy="false">
+            ⟨
+            <!-- ⟨ -->
+           </mo> 
+           <mn>
+            2
+           </mn> 
+           <mo>
+            ,
+           </mo> 
+           <mi>
+            e
+           </mi> 
+           <mo fence="false" stretchy="false">
+            ⟩
+            <!-- ⟩ -->
+           </mo> 
+          </mstyle> 
+         </mrow> 
+         <annotation encoding="application/x-tex">
+          {\displaystyle \langle 2,e\rangle }
+         </annotation> 
+        </semantics> 
+       </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fba5321d91c5ff86231af21656b1602ca1a4a350" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:5.089ex; height:2.843ex;" alt="\langle 2,e\rangle "></span>, where <i>e</i> is the index of a total computable function <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+       <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \phi _{e}}"> 
+        <semantics> 
+         <mrow class="MJX-TeXAtom-ORD"> 
+          <mstyle displaystyle="true" scriptlevel="0"> 
+           <msub> 
+            <mi>
+             ϕ
+             <!-- ϕ -->
+            </mi> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mi>
+              e
+             </mi> 
+            </mrow> 
+           </msub> 
+          </mstyle> 
+         </mrow> 
+         <annotation encoding="application/x-tex">
+          {\displaystyle \phi _{e}}
+         </annotation> 
+        </semantics> 
+       </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/707f07db8f3ec363463ae671d945e6c2fc7a520d" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:2.384ex; height:2.509ex;" alt="\phi _{e}"></span> such that for each <i>n</i>, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+       <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \phi _{e}(n)}"> 
+        <semantics> 
+         <mrow class="MJX-TeXAtom-ORD"> 
+          <mstyle displaystyle="true" scriptlevel="0"> 
+           <msub> 
+            <mi>
+             ϕ
+             <!-- ϕ -->
+            </mi> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mi>
+              e
+             </mi> 
+            </mrow> 
+           </msub> 
+           <mo stretchy="false">
+            (
+           </mo> 
+           <mi>
+            n
+           </mi> 
+           <mo stretchy="false">
+            )
+           </mo> 
+          </mstyle> 
+         </mrow> 
+         <annotation encoding="application/x-tex">
+          {\displaystyle \phi _{e}(n)}
+         </annotation> 
+        </semantics> 
+       </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/799377d750f95858d65454865f378b2e4ddeb834" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:5.588ex; height:2.843ex;" alt="\phi _{e}(n)"></span> is a notation for an ordinal λ<sub>n</sub> less than δ and δ is the <a href="/wiki/Supremum" class="mw-redirect" title="Supremum">sup</a> of the set <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+       <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \{\lambda _{n}\mid n\in \mathbb {N} \}}"> 
+        <semantics> 
+         <mrow class="MJX-TeXAtom-ORD"> 
+          <mstyle displaystyle="true" scriptlevel="0"> 
+           <mo fence="false" stretchy="false">
+            {
+           </mo> 
+           <msub> 
+            <mi>
+             λ
+             <!-- λ -->
+            </mi> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mi>
+              n
+             </mi> 
+            </mrow> 
+           </msub> 
+           <mo>
+            ∣
+            <!-- ∣ -->
+           </mo> 
+           <mi>
+            n
+           </mi> 
+           <mo>
+            ∈
+            <!-- ∈ -->
+           </mo> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mi mathvariant="double-struck">
+             N
+            </mi> 
+           </mrow> 
+           <mo fence="false" stretchy="false">
+            }
+           </mo> 
+          </mstyle> 
+         </mrow> 
+         <annotation encoding="application/x-tex">
+          {\displaystyle \{\lambda _{n}\mid n\in \mathbb {N} \}}
+         </annotation> 
+        </semantics> 
+       </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a3d0a85b86ae8c73461cc44a76cee65f7bdbed78" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:12.749ex; height:2.843ex;" alt="\{\lambda _{n}\mid n\in {\mathbb  {N}}\}"></span>.</li>
+   </ul> 
+   <p>There are only countably many ordinal notations, since each notation is a natural number; thus there is a countable ordinal which is the supremum of all ordinals that have a notation. This ordinal is known as the <a href="/wiki/Large_countable_ordinal#The_Church–Kleene_ordinal" title="Large countable ordinal">Church-Kleene ordinal</a> and is denoted <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \omega _{1}^{CK}}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <msubsup> 
+           <mi>
+            ω
+            <!-- ω -->
+           </mi> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mn>
+             1
+            </mn> 
+           </mrow> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mi>
+             C
+            </mi> 
+            <mi>
+             K
+            </mi> 
+           </mrow> 
+          </msubsup> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle \omega _{1}^{CK}}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/eb66d543cd0b0a963413261772a07e275cf52247" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:4.388ex; height:3.176ex;" alt="\omega _{1}^{{CK}}"></span>. Note that this ordinal is still countable, the symbol being only an analogy with the first uncountable ordinal, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \omega _{1}}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <msub> 
+           <mi>
+            ω
+            <!-- ω -->
+           </mi> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mn>
+             1
+            </mn> 
+           </mrow> 
+          </msub> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle \omega _{1}}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e20e29ac56d6cc52eaeb2f9c0bf79ef706428ddf" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:2.5ex; height:2.009ex;" alt="\omega _{{1}}"></span>. The set of all natural numbers that are ordinal notations is denoted <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle {\mathcal {O}}}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <mrow class="MJX-TeXAtom-ORD"> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mi class="MJX-tex-caligraphic" mathvariant="script">
+             O
+            </mi> 
+           </mrow> 
+          </mrow> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle {\mathcal {O}}}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d6ae2ed4058fb748a183d9ada8aea50a00d0c89f" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.85ex; height:2.176ex;" alt="{\mathcal {O}}"></span> and called <i>Kleene's <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+       <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle {\mathcal {O}}}"> 
+        <semantics> 
+         <mrow class="MJX-TeXAtom-ORD"> 
+          <mstyle displaystyle="true" scriptlevel="0"> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mi class="MJX-tex-caligraphic" mathvariant="script">
+              O
+             </mi> 
+            </mrow> 
+           </mrow> 
+          </mstyle> 
+         </mrow> 
+         <annotation encoding="application/x-tex">
+          {\displaystyle {\mathcal {O}}}
+         </annotation> 
+        </semantics> 
+       </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d6ae2ed4058fb748a183d9ada8aea50a00d0c89f" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.85ex; height:2.176ex;" alt="{\mathcal {O}}"></span></i>. </p>
+   <p>Ordinal notations are used to define iterated Turing jumps. These are sets of natural numbers denoted <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle 0^{(\delta )}}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <msup> 
+           <mn>
+            0
+           </mn> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mo stretchy="false">
+             (
+            </mo> 
+            <mi>
+             δ
+             <!-- δ -->
+            </mi> 
+            <mo stretchy="false">
+             )
+            </mo> 
+           </mrow> 
+          </msup> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle 0^{(\delta )}}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/beb92482f30c1e754f2d2b347be44c07ce1d7492" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:3.416ex; height:2.843ex;" alt="0^{{(\delta )}}"></span> for each <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \delta <\omega _{1}^{CK}}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <mi>
+           δ
+           <!-- δ -->
+          </mi> 
+          <mo>
+           &lt;
+          </mo> 
+          <msubsup> 
+           <mi>
+            ω
+            <!-- ω -->
+           </mi> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mn>
+             1
+            </mn> 
+           </mrow> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mi>
+             C
+            </mi> 
+            <mi>
+             K
+            </mi> 
+           </mrow> 
+          </msubsup> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle \delta &lt;\omega _{1}^{CK}}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/baad0c293927e27b08d21d440d274d99b4acd43d" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:8.535ex; height:3.176ex;" alt="\delta <\omega _{1}^{{CK}}"></span>. Suppose that δ has notation <i>e</i>. The set <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle 0^{(\delta )}}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <msup> 
+           <mn>
+            0
+           </mn> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mo stretchy="false">
+             (
+            </mo> 
+            <mi>
+             δ
+             <!-- δ -->
+            </mi> 
+            <mo stretchy="false">
+             )
+            </mo> 
+           </mrow> 
+          </msup> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle 0^{(\delta )}}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/beb92482f30c1e754f2d2b347be44c07ce1d7492" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:3.416ex; height:2.843ex;" alt="0^{{(\delta )}}"></span> is defined using <i>e</i> as follows. </p> 
+   <ul>
+    <li>If δ = 0 then <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+       <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle 0^{(\delta )}=0}"> 
+        <semantics> 
+         <mrow class="MJX-TeXAtom-ORD"> 
+          <mstyle displaystyle="true" scriptlevel="0"> 
+           <msup> 
+            <mn>
+             0
+            </mn> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mo stretchy="false">
+              (
+             </mo> 
+             <mi>
+              δ
+              <!-- δ -->
+             </mi> 
+             <mo stretchy="false">
+              )
+             </mo> 
+            </mrow> 
+           </msup> 
+           <mo>
+            =
+           </mo> 
+           <mn>
+            0
+           </mn> 
+          </mstyle> 
+         </mrow> 
+         <annotation encoding="application/x-tex">
+          {\displaystyle 0^{(\delta )}=0}
+         </annotation> 
+        </semantics> 
+       </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5f84d9f08b1b4765c43057b79fdd00524ffd0ca8" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:7.677ex; height:2.843ex;" alt="0^{{(\delta )}}=0"></span> is the empty set.</li> 
+    <li>If δ = λ + 1 then <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+       <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle 0^{(\delta )}}"> 
+        <semantics> 
+         <mrow class="MJX-TeXAtom-ORD"> 
+          <mstyle displaystyle="true" scriptlevel="0"> 
+           <msup> 
+            <mn>
+             0
+            </mn> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mo stretchy="false">
+              (
+             </mo> 
+             <mi>
+              δ
+              <!-- δ -->
+             </mi> 
+             <mo stretchy="false">
+              )
+             </mo> 
+            </mrow> 
+           </msup> 
+          </mstyle> 
+         </mrow> 
+         <annotation encoding="application/x-tex">
+          {\displaystyle 0^{(\delta )}}
+         </annotation> 
+        </semantics> 
+       </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/beb92482f30c1e754f2d2b347be44c07ce1d7492" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:3.416ex; height:2.843ex;" alt="0^{{(\delta )}}"></span> is the Turing jump of <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+       <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle 0^{(\lambda )}}"> 
+        <semantics> 
+         <mrow class="MJX-TeXAtom-ORD"> 
+          <mstyle displaystyle="true" scriptlevel="0"> 
+           <msup> 
+            <mn>
+             0
+            </mn> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mo stretchy="false">
+              (
+             </mo> 
+             <mi>
+              λ
+              <!-- λ -->
+             </mi> 
+             <mo stretchy="false">
+              )
+             </mo> 
+            </mrow> 
+           </msup> 
+          </mstyle> 
+         </mrow> 
+         <annotation encoding="application/x-tex">
+          {\displaystyle 0^{(\lambda )}}
+         </annotation> 
+        </semantics> 
+       </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/57cc13809533487bb4af247da3ad58b4edde2453" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:3.632ex; height:2.843ex;" alt="0^{{(\lambda )}}"></span>. The notations <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+       <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle 0'}"> 
+        <semantics> 
+         <mrow class="MJX-TeXAtom-ORD"> 
+          <mstyle displaystyle="true" scriptlevel="0"> 
+           <msup> 
+            <mn>
+             0
+            </mn> 
+            <mo>
+             ′
+            </mo> 
+           </msup> 
+          </mstyle> 
+         </mrow> 
+         <annotation encoding="application/x-tex">
+          {\displaystyle 0'}
+         </annotation> 
+        </semantics> 
+       </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ed8770da197ea2be2d3dce9fafad5b5c568e633d" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.847ex; height:2.509ex;" alt="0'"></span> and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+       <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle 0''}"> 
+        <semantics> 
+         <mrow class="MJX-TeXAtom-ORD"> 
+          <mstyle displaystyle="true" scriptlevel="0"> 
+           <msup> 
+            <mn>
+             0
+            </mn> 
+            <mo>
+             ″
+            </mo> 
+           </msup> 
+          </mstyle> 
+         </mrow> 
+         <annotation encoding="application/x-tex">
+          {\displaystyle 0''}
+         </annotation> 
+        </semantics> 
+       </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f12351a630336c5b9cd706469c28b3cae6268673" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:2.3ex; height:2.509ex;" alt="0''"></span> are commonly used for <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+       <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle 0^{(1)}}"> 
+        <semantics> 
+         <mrow class="MJX-TeXAtom-ORD"> 
+          <mstyle displaystyle="true" scriptlevel="0"> 
+           <msup> 
+            <mn>
+             0
+            </mn> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mo stretchy="false">
+              (
+             </mo> 
+             <mn>
+              1
+             </mn> 
+             <mo stretchy="false">
+              )
+             </mo> 
+            </mrow> 
+           </msup> 
+          </mstyle> 
+         </mrow> 
+         <annotation encoding="application/x-tex">
+          {\displaystyle 0^{(1)}}
+         </annotation> 
+        </semantics> 
+       </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2fb3742a9b020651bab7a8bb8393dd3c5d329eb9" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:3.496ex; height:2.843ex;" alt="0^{{(1)}}"></span> and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+       <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle 0^{(2)}}"> 
+        <semantics> 
+         <mrow class="MJX-TeXAtom-ORD"> 
+          <mstyle displaystyle="true" scriptlevel="0"> 
+           <msup> 
+            <mn>
+             0
+            </mn> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mo stretchy="false">
+              (
+             </mo> 
+             <mn>
+              2
+             </mn> 
+             <mo stretchy="false">
+              )
+             </mo> 
+            </mrow> 
+           </msup> 
+          </mstyle> 
+         </mrow> 
+         <annotation encoding="application/x-tex">
+          {\displaystyle 0^{(2)}}
+         </annotation> 
+        </semantics> 
+       </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/bba60b0870b751c5c97d1c3f5ba69223cbd6515e" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:3.496ex; height:2.843ex;" alt="0^{{(2)}}"></span>, respectively.</li> 
+    <li>If δ is a limit ordinal, let <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+       <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \langle \lambda _{n}\mid n\in \mathbb {N} \rangle }"> 
+        <semantics> 
+         <mrow class="MJX-TeXAtom-ORD"> 
+          <mstyle displaystyle="true" scriptlevel="0"> 
+           <mo fence="false" stretchy="false">
+            ⟨
+            <!-- ⟨ -->
+           </mo> 
+           <msub> 
+            <mi>
+             λ
+             <!-- λ -->
+            </mi> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mi>
+              n
+             </mi> 
+            </mrow> 
+           </msub> 
+           <mo>
+            ∣
+            <!-- ∣ -->
+           </mo> 
+           <mi>
+            n
+           </mi> 
+           <mo>
+            ∈
+            <!-- ∈ -->
+           </mo> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mi mathvariant="double-struck">
+             N
+            </mi> 
+           </mrow> 
+           <mo fence="false" stretchy="false">
+            ⟩
+            <!-- ⟩ -->
+           </mo> 
+          </mstyle> 
+         </mrow> 
+         <annotation encoding="application/x-tex">
+          {\displaystyle \langle \lambda _{n}\mid n\in \mathbb {N} \rangle }
+         </annotation> 
+        </semantics> 
+       </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/34981c65abca2186c615ab5f4b60a8cd4a3ce81b" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:12.234ex; height:2.843ex;" alt="\langle \lambda _{n}\mid n\in {\mathbb  {N}}\rangle "></span> be the sequence of ordinals less than δ given by the notation <i>e</i>. The set <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+       <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle 0^{(\delta )}}"> 
+        <semantics> 
+         <mrow class="MJX-TeXAtom-ORD"> 
+          <mstyle displaystyle="true" scriptlevel="0"> 
+           <msup> 
+            <mn>
+             0
+            </mn> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mo stretchy="false">
+              (
+             </mo> 
+             <mi>
+              δ
+              <!-- δ -->
+             </mi> 
+             <mo stretchy="false">
+              )
+             </mo> 
+            </mrow> 
+           </msup> 
+          </mstyle> 
+         </mrow> 
+         <annotation encoding="application/x-tex">
+          {\displaystyle 0^{(\delta )}}
+         </annotation> 
+        </semantics> 
+       </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/beb92482f30c1e754f2d2b347be44c07ce1d7492" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:3.416ex; height:2.843ex;" alt="0^{{(\delta )}}"></span> is given by the rule <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+       <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle 0^{(\delta )}=\{\langle n,i\rangle \mid i\in 0^{(\lambda _{n})}\}}"> 
+        <semantics> 
+         <mrow class="MJX-TeXAtom-ORD"> 
+          <mstyle displaystyle="true" scriptlevel="0"> 
+           <msup> 
+            <mn>
+             0
+            </mn> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mo stretchy="false">
+              (
+             </mo> 
+             <mi>
+              δ
+              <!-- δ -->
+             </mi> 
+             <mo stretchy="false">
+              )
+             </mo> 
+            </mrow> 
+           </msup> 
+           <mo>
+            =
+           </mo> 
+           <mo fence="false" stretchy="false">
+            {
+           </mo> 
+           <mo fence="false" stretchy="false">
+            ⟨
+            <!-- ⟨ -->
+           </mo> 
+           <mi>
+            n
+           </mi> 
+           <mo>
+            ,
+           </mo> 
+           <mi>
+            i
+           </mi> 
+           <mo fence="false" stretchy="false">
+            ⟩
+            <!-- ⟩ -->
+           </mo> 
+           <mo>
+            ∣
+            <!-- ∣ -->
+           </mo> 
+           <mi>
+            i
+           </mi> 
+           <mo>
+            ∈
+            <!-- ∈ -->
+           </mo> 
+           <msup> 
+            <mn>
+             0
+            </mn> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mo stretchy="false">
+              (
+             </mo> 
+             <msub> 
+              <mi>
+               λ
+               <!-- λ -->
+              </mi> 
+              <mrow class="MJX-TeXAtom-ORD"> 
+               <mi>
+                n
+               </mi> 
+              </mrow> 
+             </msub> 
+             <mo stretchy="false">
+              )
+             </mo> 
+            </mrow> 
+           </msup> 
+           <mo fence="false" stretchy="false">
+            }
+           </mo> 
+          </mstyle> 
+         </mrow> 
+         <annotation encoding="application/x-tex">
+          {\displaystyle 0^{(\delta )}=\{\langle n,i\rangle \mid i\in 0^{(\lambda _{n})}\}}
+         </annotation> 
+        </semantics> 
+       </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/da72de969b84b32876abbeaa3bcbb169eb9db7ec" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:24.057ex; height:3.343ex;" alt="0^{{(\delta )}}=\{\langle n,i\rangle \mid i\in 0^{{(\lambda _{n})}}\}"></span>. This is the <a href="/w/index.php?title=Effective_join&amp;action=edit&amp;redlink=1" class="new" title="Effective join (page does not exist)">effective join</a> of the sets <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+       <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle 0^{(\lambda _{n})}}"> 
+        <semantics> 
+         <mrow class="MJX-TeXAtom-ORD"> 
+          <mstyle displaystyle="true" scriptlevel="0"> 
+           <msup> 
+            <mn>
+             0
+            </mn> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mo stretchy="false">
+              (
+             </mo> 
+             <msub> 
+              <mi>
+               λ
+               <!-- λ -->
+              </mi> 
+              <mrow class="MJX-TeXAtom-ORD"> 
+               <mi>
+                n
+               </mi> 
+              </mrow> 
+             </msub> 
+             <mo stretchy="false">
+              )
+             </mo> 
+            </mrow> 
+           </msup> 
+          </mstyle> 
+         </mrow> 
+         <annotation encoding="application/x-tex">
+          {\displaystyle 0^{(\lambda _{n})}}
+         </annotation> 
+        </semantics> 
+       </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d1a81c6a1d9060568d4920c9006a04b1678661d6" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:4.597ex; height:2.843ex;" alt="0^{{(\lambda _{n})}}"></span>.</li>
+   </ul> 
+   <p>Although the construction of <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle 0^{(\delta )}}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <msup> 
+           <mn>
+            0
+           </mn> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mo stretchy="false">
+             (
+            </mo> 
+            <mi>
+             δ
+             <!-- δ -->
+            </mi> 
+            <mo stretchy="false">
+             )
+            </mo> 
+           </mrow> 
+          </msup> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle 0^{(\delta )}}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/beb92482f30c1e754f2d2b347be44c07ce1d7492" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:3.416ex; height:2.843ex;" alt="0^{{(\delta )}}"></span> depends on having a fixed notation for δ, and each infinite ordinal has many notations, a theorem of Spector shows that the <a href="/wiki/Turing_degree" title="Turing degree">Turing degree</a> of <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle 0^{(\delta )}}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <msup> 
+           <mn>
+            0
+           </mn> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mo stretchy="false">
+             (
+            </mo> 
+            <mi>
+             δ
+             <!-- δ -->
+            </mi> 
+            <mo stretchy="false">
+             )
+            </mo> 
+           </mrow> 
+          </msup> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle 0^{(\delta )}}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/beb92482f30c1e754f2d2b347be44c07ce1d7492" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:3.416ex; height:2.843ex;" alt="0^{{(\delta )}}"></span> depends only on δ, not on the particular notation used, and thus <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle 0^{(\delta )}}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <msup> 
+           <mn>
+            0
+           </mn> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mo stretchy="false">
+             (
+            </mo> 
+            <mi>
+             δ
+             <!-- δ -->
+            </mi> 
+            <mo stretchy="false">
+             )
+            </mo> 
+           </mrow> 
+          </msup> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle 0^{(\delta )}}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/beb92482f30c1e754f2d2b347be44c07ce1d7492" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:3.416ex; height:2.843ex;" alt="0^{{(\delta )}}"></span> is well defined up to Turing degree. </p>
+   <p>The hyperarithmetical hierarchy is defined from these iterated Turing jumps. A set <i>X</i> of natural numbers is classified at level δ of the hyperarithmetical hierarchy, for <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \delta <\omega _{1}^{CK}}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <mi>
+           δ
+           <!-- δ -->
+          </mi> 
+          <mo>
+           &lt;
+          </mo> 
+          <msubsup> 
+           <mi>
+            ω
+            <!-- ω -->
+           </mi> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mn>
+             1
+            </mn> 
+           </mrow> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mi>
+             C
+            </mi> 
+            <mi>
+             K
+            </mi> 
+           </mrow> 
+          </msubsup> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle \delta &lt;\omega _{1}^{CK}}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/baad0c293927e27b08d21d440d274d99b4acd43d" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:8.535ex; height:3.176ex;" alt="\delta <\omega _{1}^{{CK}}"></span>, if <i>X</i> is <a href="/wiki/Turing_reduction" title="Turing reduction">Turing reducible</a> to <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle 0^{(\delta )}}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <msup> 
+           <mn>
+            0
+           </mn> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mo stretchy="false">
+             (
+            </mo> 
+            <mi>
+             δ
+             <!-- δ -->
+            </mi> 
+            <mo stretchy="false">
+             )
+            </mo> 
+           </mrow> 
+          </msup> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle 0^{(\delta )}}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/beb92482f30c1e754f2d2b347be44c07ce1d7492" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:3.416ex; height:2.843ex;" alt="0^{{(\delta )}}"></span>. There will always be a least such δ if there is any; it is this least δ that measures the level of uncomputability of <i>X</i>. </p> 
+   <h2><span class="mw-headline" id="Hyperarithmetical_sets_and_recursion_in_higher_types">Hyperarithmetical sets and recursion in higher types</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hyperarithmetical_theory&amp;action=edit&amp;section=3" title="Edit section: Hyperarithmetical sets and recursion in higher types">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <p>A third characterization of the hyperarithmetical sets, due to Kleene, uses <a href="/wiki/Type_theory" title="Type theory">higher-type</a> computable functionals. The type-2 functional <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle {}^{2}E\colon \mathbb {N} ^{\mathbb {N} }\to \mathbb {N} }"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <msup> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+           </mrow> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mn>
+             2
+            </mn> 
+           </mrow> 
+          </msup> 
+          <mi>
+           E
+          </mi> 
+          <mo>
+           :
+           <!-- : -->
+          </mo> 
+          <msup> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mi mathvariant="double-struck">
+             N
+            </mi> 
+           </mrow> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mi mathvariant="double-struck">
+              N
+             </mi> 
+            </mrow> 
+           </mrow> 
+          </msup> 
+          <mo stretchy="false">
+           →
+           <!-- → -->
+          </mo> 
+          <mrow class="MJX-TeXAtom-ORD"> 
+           <mi mathvariant="double-struck">
+            N
+           </mi> 
+          </mrow> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle {}^{2}E\colon \mathbb {N} ^{\mathbb {N} }\to \mathbb {N} }
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4e4d85f121edd07a37d1d59720aa0e29b227f1b7" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:12.253ex; height:2.676ex;" alt="{}^{2}E\colon {\mathbb  {N}}^{{{\mathbb  {N}}}}\to {\mathbb  {N}}"></span> is defined by the following rules: </p> 
+   <dl>
+    <dd>
+     <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+       <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle {}^{2}E(f)=1\quad }"> 
+        <semantics> 
+         <mrow class="MJX-TeXAtom-ORD"> 
+          <mstyle displaystyle="true" scriptlevel="0"> 
+           <msup> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+            </mrow> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mn>
+              2
+             </mn> 
+            </mrow> 
+           </msup> 
+           <mi>
+            E
+           </mi> 
+           <mo stretchy="false">
+            (
+           </mo> 
+           <mi>
+            f
+           </mi> 
+           <mo stretchy="false">
+            )
+           </mo> 
+           <mo>
+            =
+           </mo> 
+           <mn>
+            1
+           </mn> 
+           <mspace width="1em" /> 
+          </mstyle> 
+         </mrow> 
+         <annotation encoding="application/x-tex">
+          {\displaystyle {}^{2}E(f)=1\quad }
+         </annotation> 
+        </semantics> 
+       </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3b9306d1d32c7cdac3e4a19931e7b2e22ff98f00" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:12.501ex; height:3.176ex;" alt="{}^{2}E(f)=1\quad "></span> if there is an 
+     <i>i</i> such that 
+     <i>f</i>(
+     <i>i</i>) &gt; 0,
+    </dd> 
+    <dd>
+     <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+       <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle {}^{2}E(f)=0\quad }"> 
+        <semantics> 
+         <mrow class="MJX-TeXAtom-ORD"> 
+          <mstyle displaystyle="true" scriptlevel="0"> 
+           <msup> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+            </mrow> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mn>
+              2
+             </mn> 
+            </mrow> 
+           </msup> 
+           <mi>
+            E
+           </mi> 
+           <mo stretchy="false">
+            (
+           </mo> 
+           <mi>
+            f
+           </mi> 
+           <mo stretchy="false">
+            )
+           </mo> 
+           <mo>
+            =
+           </mo> 
+           <mn>
+            0
+           </mn> 
+           <mspace width="1em" /> 
+          </mstyle> 
+         </mrow> 
+         <annotation encoding="application/x-tex">
+          {\displaystyle {}^{2}E(f)=0\quad }
+         </annotation> 
+        </semantics> 
+       </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d60917608e598d3c82363b036439af8ba3ab1962" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:12.501ex; height:3.176ex;" alt="{}^{2}E(f)=0\quad "></span> if there is no 
+     <i>i</i> such that 
+     <i>f</i>(
+     <i>i</i>) &gt; 0.
+    </dd>
+   </dl> 
+   <p>Using a precise definition of computability relative to a type-2 functional, Kleene showed that a set of natural numbers is hyperarithmetical if and only if it is computable relative to <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle {}^{2}E}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <msup> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+           </mrow> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mn>
+             2
+            </mn> 
+           </mrow> 
+          </msup> 
+          <mi>
+           E
+          </mi> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle {}^{2}E}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/08d0dc7eded1715620ca59a15ab6c6bdd90f72f3" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:2.83ex; height:2.676ex;" alt="{}^{2}E"></span>. </p> 
+   <h2><span class="mw-headline" id="Example:_the_truth_set_of_arithmetic">Example: the truth set of arithmetic</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hyperarithmetical_theory&amp;action=edit&amp;section=4" title="Edit section: Example: the truth set of arithmetic">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <p>Every <a href="/wiki/Arithmetical_set" title="Arithmetical set">arithmetical set</a> is hyperarithmetical, but there are many other hyperarithmetical sets. One example of a hyperarithmetical, nonarithmetical set is the set <i>T</i> of Gödel numbers of formulas of <a href="/wiki/Peano_axioms" title="Peano axioms">Peano arithmetic</a> that are true in the standard natural numbers <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \mathbb {N} }"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <mrow class="MJX-TeXAtom-ORD"> 
+           <mi mathvariant="double-struck">
+            N
+           </mi> 
+          </mrow> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle \mathbb {N} }
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fdf9a96b565ea202d0f4322e9195613fb26a9bed" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.678ex; height:2.176ex;" alt="\mathbb {N} "></span>. The set <i>T</i> is <a href="/wiki/Turing_reduction" title="Turing reduction">Turing equivalent</a> to the set <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle 0^{(\omega )}}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <msup> 
+           <mn>
+            0
+           </mn> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mo stretchy="false">
+             (
+            </mo> 
+            <mi>
+             ω
+             <!-- ω -->
+            </mi> 
+            <mo stretchy="false">
+             )
+            </mo> 
+           </mrow> 
+          </msup> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle 0^{(\omega )}}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/26636d942100fb4701c286f1c3aa5a7b3a95ba58" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:3.696ex; height:2.843ex;" alt="0^{{(\omega )}}"></span>, and so is not high in the hyperarithmetical hierarchy, although it is not arithmetically definable by <a href="/wiki/Tarski%27s_indefinability_theorem" class="mw-redirect" title="Tarski's indefinability theorem">Tarski's indefinability theorem</a>. </p> 
+   <h2><span class="mw-headline" id="Fundamental_results">Fundamental results</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hyperarithmetical_theory&amp;action=edit&amp;section=5" title="Edit section: Fundamental results">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <p>The fundamental results of hyperarithmetic theory show that the three definitions above define the same collection of sets of natural numbers. These equivalences are due to Kleene. </p>
+   <p>Completeness results are also fundamental to the theory. A set of natural numbers is <b><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+       <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \Pi _{1}^{1}}"> 
+        <semantics> 
+         <mrow class="MJX-TeXAtom-ORD"> 
+          <mstyle displaystyle="true" scriptlevel="0"> 
+           <msubsup> 
+            <mi mathvariant="normal">
+             Π
+             <!-- Π -->
+            </mi> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mn>
+              1
+             </mn> 
+            </mrow> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mn>
+              1
+             </mn> 
+            </mrow> 
+           </msubsup> 
+          </mstyle> 
+         </mrow> 
+         <annotation encoding="application/x-tex">
+          {\displaystyle \Pi _{1}^{1}}
+         </annotation> 
+        </semantics> 
+       </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0fd076fb78a7a5ee340920a3d846ddf67455f941" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:2.797ex; height:3.176ex;" alt="\Pi _{1}^{1}"></span> complete</b> if it is at level <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \Pi _{1}^{1}}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <msubsup> 
+           <mi mathvariant="normal">
+            Π
+            <!-- Π -->
+           </mi> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mn>
+             1
+            </mn> 
+           </mrow> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mn>
+             1
+            </mn> 
+           </mrow> 
+          </msubsup> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle \Pi _{1}^{1}}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0fd076fb78a7a5ee340920a3d846ddf67455f941" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:2.797ex; height:3.176ex;" alt="\Pi _{1}^{1}"></span> of the <a href="/wiki/Analytical_hierarchy" title="Analytical hierarchy">analytical hierarchy</a> and every <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \Pi _{1}^{1}}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <msubsup> 
+           <mi mathvariant="normal">
+            Π
+            <!-- Π -->
+           </mi> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mn>
+             1
+            </mn> 
+           </mrow> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mn>
+             1
+            </mn> 
+           </mrow> 
+          </msubsup> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle \Pi _{1}^{1}}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0fd076fb78a7a5ee340920a3d846ddf67455f941" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:2.797ex; height:3.176ex;" alt="\Pi _{1}^{1}"></span> set of natural numbers is <a href="/wiki/Many-one_reduction" title="Many-one reduction">many-one reducible</a> to it. The definition of a <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \Pi _{1}^{1}}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <msubsup> 
+           <mi mathvariant="normal">
+            Π
+            <!-- Π -->
+           </mi> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mn>
+             1
+            </mn> 
+           </mrow> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mn>
+             1
+            </mn> 
+           </mrow> 
+          </msubsup> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle \Pi _{1}^{1}}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0fd076fb78a7a5ee340920a3d846ddf67455f941" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:2.797ex; height:3.176ex;" alt="\Pi _{1}^{1}"></span> complete subset of Baire space (<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \mathbb {N} ^{\mathbb {N} }}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <msup> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mi mathvariant="double-struck">
+             N
+            </mi> 
+           </mrow> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mi mathvariant="double-struck">
+              N
+             </mi> 
+            </mrow> 
+           </mrow> 
+          </msup> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle \mathbb {N} ^{\mathbb {N} }}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d21f68ea2744de7fc0a11e441727935fbaf31839" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:3.097ex; height:2.676ex;" alt="{\mathbb  {N}}^{{\mathbb  {N}}}"></span>) is similar. Several sets associated with hyperarithmetic theory are <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \Pi _{1}^{1}}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <msubsup> 
+           <mi mathvariant="normal">
+            Π
+            <!-- Π -->
+           </mi> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mn>
+             1
+            </mn> 
+           </mrow> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mn>
+             1
+            </mn> 
+           </mrow> 
+          </msubsup> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle \Pi _{1}^{1}}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0fd076fb78a7a5ee340920a3d846ddf67455f941" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:2.797ex; height:3.176ex;" alt="\Pi _{1}^{1}"></span> complete: </p> 
+   <ul>
+    <li>Kleene's <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+       <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle {\mathcal {O}}}"> 
+        <semantics> 
+         <mrow class="MJX-TeXAtom-ORD"> 
+          <mstyle displaystyle="true" scriptlevel="0"> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mi class="MJX-tex-caligraphic" mathvariant="script">
+              O
+             </mi> 
+            </mrow> 
+           </mrow> 
+          </mstyle> 
+         </mrow> 
+         <annotation encoding="application/x-tex">
+          {\displaystyle {\mathcal {O}}}
+         </annotation> 
+        </semantics> 
+       </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d6ae2ed4058fb748a183d9ada8aea50a00d0c89f" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.85ex; height:2.176ex;" alt="{\mathcal {O}}"></span>, the set of natural numbers that are notations for ordinal numbers</li> 
+    <li>The set of natural numbers <i>e</i> such that the computable function <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+       <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \phi _{e}(x,y)}"> 
+        <semantics> 
+         <mrow class="MJX-TeXAtom-ORD"> 
+          <mstyle displaystyle="true" scriptlevel="0"> 
+           <msub> 
+            <mi>
+             ϕ
+             <!-- ϕ -->
+            </mi> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mi>
+              e
+             </mi> 
+            </mrow> 
+           </msub> 
+           <mo stretchy="false">
+            (
+           </mo> 
+           <mi>
+            x
+           </mi> 
+           <mo>
+            ,
+           </mo> 
+           <mi>
+            y
+           </mi> 
+           <mo stretchy="false">
+            )
+           </mo> 
+          </mstyle> 
+         </mrow> 
+         <annotation encoding="application/x-tex">
+          {\displaystyle \phi _{e}(x,y)}
+         </annotation> 
+        </semantics> 
+       </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ae8d741e4f2057bff2187578f6299724f3c80225" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:7.712ex; height:2.843ex;" alt="\phi _{e}(x,y)"></span> computes the characteristic function of a well ordering of the natural numbers. These are the indices of <a href="/wiki/Recursive_ordinal" title="Recursive ordinal">recursive ordinals</a>.</li> 
+    <li>The set of elements of Baire space that are the characteristic functions of a well ordering of the natural numbers (using an effective isomorphism <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+       <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \mathbb {N} ^{\mathbb {N} }\cong \mathbb {N} ^{\mathbb {N} \times \mathbb {N} })}"> 
+        <semantics> 
+         <mrow class="MJX-TeXAtom-ORD"> 
+          <mstyle displaystyle="true" scriptlevel="0"> 
+           <msup> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mi mathvariant="double-struck">
+              N
+             </mi> 
+            </mrow> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mrow class="MJX-TeXAtom-ORD"> 
+              <mi mathvariant="double-struck">
+               N
+              </mi> 
+             </mrow> 
+            </mrow> 
+           </msup> 
+           <mo>
+            ≅
+            <!-- ≅ -->
+           </mo> 
+           <msup> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mi mathvariant="double-struck">
+              N
+             </mi> 
+            </mrow> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mrow class="MJX-TeXAtom-ORD"> 
+              <mi mathvariant="double-struck">
+               N
+              </mi> 
+             </mrow> 
+             <mo>
+              ×
+              <!-- × -->
+             </mo> 
+             <mrow class="MJX-TeXAtom-ORD"> 
+              <mi mathvariant="double-struck">
+               N
+              </mi> 
+             </mrow> 
+            </mrow> 
+           </msup> 
+           <mo stretchy="false">
+            )
+           </mo> 
+          </mstyle> 
+         </mrow> 
+         <annotation encoding="application/x-tex">
+          {\displaystyle \mathbb {N} ^{\mathbb {N} }\cong \mathbb {N} ^{\mathbb {N} \times \mathbb {N} })}
+         </annotation> 
+        </semantics> 
+       </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/74ca03dc6f69f79049101a3057a53f60df3b6928" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:12.662ex; height:3.176ex;" alt="{\mathbb  {N}}^{{\mathbb  {N}}}\cong {\mathbb  {N}}^{{{\mathbb  {N}}\times {\mathbb  {N}}}})"></span>.</li>
+   </ul> 
+   <p>Results known as <b><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+       <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \Sigma _{1}^{1}}"> 
+        <semantics> 
+         <mrow class="MJX-TeXAtom-ORD"> 
+          <mstyle displaystyle="true" scriptlevel="0"> 
+           <msubsup> 
+            <mi mathvariant="normal">
+             Σ
+             <!-- Σ -->
+            </mi> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mn>
+              1
+             </mn> 
+            </mrow> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mn>
+              1
+             </mn> 
+            </mrow> 
+           </msubsup> 
+          </mstyle> 
+         </mrow> 
+         <annotation encoding="application/x-tex">
+          {\displaystyle \Sigma _{1}^{1}}
+         </annotation> 
+        </semantics> 
+       </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/253bf5a8d60183537e1b309e490ed3cd7583f849" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:2.732ex; height:3.176ex;" alt="\Sigma _{1}^{1}"></span> bounding</b> follow from these completeness results. For any <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \Sigma _{1}^{1}}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <msubsup> 
+           <mi mathvariant="normal">
+            Σ
+            <!-- Σ -->
+           </mi> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mn>
+             1
+            </mn> 
+           </mrow> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mn>
+             1
+            </mn> 
+           </mrow> 
+          </msubsup> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle \Sigma _{1}^{1}}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/253bf5a8d60183537e1b309e490ed3cd7583f849" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:2.732ex; height:3.176ex;" alt="\Sigma _{1}^{1}"></span> set <i>S</i> of ordinal notations, there is an <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \alpha <\omega _{1}^{CK}}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <mi>
+           α
+           <!-- α -->
+          </mi> 
+          <mo>
+           &lt;
+          </mo> 
+          <msubsup> 
+           <mi>
+            ω
+            <!-- ω -->
+           </mi> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mn>
+             1
+            </mn> 
+           </mrow> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mi>
+             C
+            </mi> 
+            <mi>
+             K
+            </mi> 
+           </mrow> 
+          </msubsup> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle \alpha &lt;\omega _{1}^{CK}}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6908bca402ecbfc2250f30c899a03af0f03ba505" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:8.974ex; height:3.176ex;" alt="\alpha <\omega _{1}^{{CK}}"></span> such that every element of <i>S</i> is a notation for an ordinal less than <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \alpha }"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <mi>
+           α
+           <!-- α -->
+          </mi> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle \alpha }
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b79333175c8b3f0840bfb4ec41b8072c83ea88d3" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.488ex; height:1.676ex;" alt="\alpha "></span>. For any subset <i>T</i> of Baire space consisting only of characteristic functions of well orderings, there is an <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \alpha <\omega _{1}^{CK}}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <mi>
+           α
+           <!-- α -->
+          </mi> 
+          <mo>
+           &lt;
+          </mo> 
+          <msubsup> 
+           <mi>
+            ω
+            <!-- ω -->
+           </mi> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mn>
+             1
+            </mn> 
+           </mrow> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mi>
+             C
+            </mi> 
+            <mi>
+             K
+            </mi> 
+           </mrow> 
+          </msubsup> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle \alpha &lt;\omega _{1}^{CK}}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6908bca402ecbfc2250f30c899a03af0f03ba505" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:8.974ex; height:3.176ex;" alt="\alpha <\omega _{1}^{{CK}}"></span> such that each ordinal represented in <i>T</i> is less than <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \alpha }"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <mi>
+           α
+           <!-- α -->
+          </mi> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle \alpha }
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b79333175c8b3f0840bfb4ec41b8072c83ea88d3" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.488ex; height:1.676ex;" alt="\alpha "></span>. </p> 
+   <h2><span class="mw-headline" id="Relativized_hyperarithmeticity_and_hyperdegrees">Relativized hyperarithmeticity and hyperdegrees</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hyperarithmetical_theory&amp;action=edit&amp;section=6" title="Edit section: Relativized hyperarithmeticity and hyperdegrees">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <p>The definition of <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle {\mathcal {O}}}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <mrow class="MJX-TeXAtom-ORD"> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mi class="MJX-tex-caligraphic" mathvariant="script">
+             O
+            </mi> 
+           </mrow> 
+          </mrow> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle {\mathcal {O}}}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d6ae2ed4058fb748a183d9ada8aea50a00d0c89f" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.85ex; height:2.176ex;" alt="{\mathcal {O}}"></span> can be relativized to a set <i>X</i> of natural numbers: in the definition of an ordinal notation, the clause for limit ordinals is changed so that the computable enumeration of a sequence of ordinal notations is allowed to use <i>X</i> as an oracle. The set of numbers that are ordinal notations relative to <i>X</i> is denoted <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle {\mathcal {O}}^{X}}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <msup> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mi class="MJX-tex-caligraphic" mathvariant="script">
+              O
+             </mi> 
+            </mrow> 
+           </mrow> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mi>
+             X
+            </mi> 
+           </mrow> 
+          </msup> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle {\mathcal {O}}^{X}}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4b23c88a7f857c8130f8b77c3456caeb48d288b7" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:3.482ex; height:2.676ex;" alt="{\mathcal  {O}}^{X}"></span>. The supremum of ordinals represented in <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle {\mathcal {O}}^{X}}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <msup> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mi class="MJX-tex-caligraphic" mathvariant="script">
+              O
+             </mi> 
+            </mrow> 
+           </mrow> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mi>
+             X
+            </mi> 
+           </mrow> 
+          </msup> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle {\mathcal {O}}^{X}}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4b23c88a7f857c8130f8b77c3456caeb48d288b7" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:3.482ex; height:2.676ex;" alt="{\mathcal  {O}}^{X}"></span> is denoted <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \omega _{1}^{X}}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <msubsup> 
+           <mi>
+            ω
+            <!-- ω -->
+           </mi> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mn>
+             1
+            </mn> 
+           </mrow> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mi>
+             X
+            </mi> 
+           </mrow> 
+          </msubsup> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle \omega _{1}^{X}}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9da303ced68ca15f4d832fbddefee30d93cfc887" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:3.078ex; height:3.176ex;" alt="\omega _{1}^{{X}}"></span>; this is a countable ordinal no smaller than <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \omega _{1}^{CK}}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <msubsup> 
+           <mi>
+            ω
+            <!-- ω -->
+           </mi> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mn>
+             1
+            </mn> 
+           </mrow> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mi>
+             C
+            </mi> 
+            <mi>
+             K
+            </mi> 
+           </mrow> 
+          </msubsup> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle \omega _{1}^{CK}}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/eb66d543cd0b0a963413261772a07e275cf52247" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:4.388ex; height:3.176ex;" alt="\omega _{1}^{{CK}}"></span>. </p>
+   <p>The definition of <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle 0^{(\delta )}}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <msup> 
+           <mn>
+            0
+           </mn> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mo stretchy="false">
+             (
+            </mo> 
+            <mi>
+             δ
+             <!-- δ -->
+            </mi> 
+            <mo stretchy="false">
+             )
+            </mo> 
+           </mrow> 
+          </msup> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle 0^{(\delta )}}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/beb92482f30c1e754f2d2b347be44c07ce1d7492" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:3.416ex; height:2.843ex;" alt="0^{{(\delta )}}"></span> can also be relativized to an arbitrary set <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle X}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <mi>
+           X
+          </mi> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle X}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/68baa052181f707c662844a465bfeeb135e82bab" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.98ex; height:2.176ex;" alt="X"></span> of natural numbers. The only change in the definition is that <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle X^{(0)}}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <msup> 
+           <mi>
+            X
+           </mi> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mo stretchy="false">
+             (
+            </mo> 
+            <mn>
+             0
+            </mn> 
+            <mo stretchy="false">
+             )
+            </mo> 
+           </mrow> 
+          </msup> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle X^{(0)}}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1b92be2543f8f205ae0004ff7d685418956a6523" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:4.33ex; height:2.843ex;" alt="X^{{(0)}}"></span> is defined to be <i>X</i> rather than the empty set, so that <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle X^{(1)}=X'}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <msup> 
+           <mi>
+            X
+           </mi> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mo stretchy="false">
+             (
+            </mo> 
+            <mn>
+             1
+            </mn> 
+            <mo stretchy="false">
+             )
+            </mo> 
+           </mrow> 
+          </msup> 
+          <mo>
+           =
+          </mo> 
+          <msup> 
+           <mi>
+            X
+           </mi> 
+           <mo>
+            ′
+           </mo> 
+          </msup> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle X^{(1)}=X'}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d464d10418af6f5133412e82edd3699bd72c3b8f" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:10.11ex; height:2.843ex;" alt="X^{{(1)}}=X'"></span> is the Turing jump of <i>X</i>, and so on. Rather than terminating at <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \omega _{1}^{CK}}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <msubsup> 
+           <mi>
+            ω
+            <!-- ω -->
+           </mi> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mn>
+             1
+            </mn> 
+           </mrow> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mi>
+             C
+            </mi> 
+            <mi>
+             K
+            </mi> 
+           </mrow> 
+          </msubsup> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle \omega _{1}^{CK}}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/eb66d543cd0b0a963413261772a07e275cf52247" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:4.388ex; height:3.176ex;" alt="\omega _{1}^{{CK}}"></span> the hierarchy relative to <i>X</i> runs through all ordinals less than <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \omega _{1}^{X}}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <msubsup> 
+           <mi>
+            ω
+            <!-- ω -->
+           </mi> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mn>
+             1
+            </mn> 
+           </mrow> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mi>
+             X
+            </mi> 
+           </mrow> 
+          </msubsup> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle \omega _{1}^{X}}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9da303ced68ca15f4d832fbddefee30d93cfc887" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:3.078ex; height:3.176ex;" alt="\omega _{1}^{{X}}"></span>. </p>
+   <p>The relativized hyperarithmetical hierarchy is used to define <b>hyperarithmetical reducibility</b>. Given sets <i>X</i> and <i>Y</i>, we say <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle X\leq _{HYP}Y}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <mi>
+           X
+          </mi> 
+          <msub> 
+           <mo>
+            ≤
+            <!-- ≤ -->
+           </mo> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mi>
+             H
+            </mi> 
+            <mi>
+             Y
+            </mi> 
+            <mi>
+             P
+            </mi> 
+           </mrow> 
+          </msub> 
+          <mi>
+           Y
+          </mi> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle X\leq _{HYP}Y}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/00aef61216af20a310c9bc8b1f6801993f90505e" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:11.031ex; height:2.509ex;" alt="X\leq _{{HYP}}Y"></span> if and only if there is a <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \delta <\omega _{1}^{Y}}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <mi>
+           δ
+           <!-- δ -->
+          </mi> 
+          <mo>
+           &lt;
+          </mo> 
+          <msubsup> 
+           <mi>
+            ω
+            <!-- ω -->
+           </mi> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mn>
+             1
+            </mn> 
+           </mrow> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mi>
+             Y
+            </mi> 
+           </mrow> 
+          </msubsup> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle \delta &lt;\omega _{1}^{Y}}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/228b206198df4a533b5817a8929f20f3eebc0d2d" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:7.079ex; height:3.176ex;" alt="\delta <\omega _{1}^{Y}"></span> such that <i>X</i> is Turing reducible to <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle Y^{(\delta )}}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <msup> 
+           <mi>
+            Y
+           </mi> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mo stretchy="false">
+             (
+            </mo> 
+            <mi>
+             δ
+             <!-- δ -->
+            </mi> 
+            <mo stretchy="false">
+             )
+            </mo> 
+           </mrow> 
+          </msup> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle Y^{(\delta )}}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c596797163cc55c5ce1142463505c4c449f55b87" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.171ex; width:4.153ex; height:2.676ex;" alt="Y^{{(\delta )}}"></span>. If <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle X\leq _{HYP}Y}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <mi>
+           X
+          </mi> 
+          <msub> 
+           <mo>
+            ≤
+            <!-- ≤ -->
+           </mo> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mi>
+             H
+            </mi> 
+            <mi>
+             Y
+            </mi> 
+            <mi>
+             P
+            </mi> 
+           </mrow> 
+          </msub> 
+          <mi>
+           Y
+          </mi> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle X\leq _{HYP}Y}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/00aef61216af20a310c9bc8b1f6801993f90505e" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:11.031ex; height:2.509ex;" alt="X\leq _{{HYP}}Y"></span> and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle Y\leq _{HYP}X}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <mi>
+           Y
+          </mi> 
+          <msub> 
+           <mo>
+            ≤
+            <!-- ≤ -->
+           </mo> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mi>
+             H
+            </mi> 
+            <mi>
+             Y
+            </mi> 
+            <mi>
+             P
+            </mi> 
+           </mrow> 
+          </msub> 
+          <mi>
+           X
+          </mi> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle Y\leq _{HYP}X}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/af2ab03269950aeac893ddfea26446dc75e2ebde" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:11.031ex; height:2.509ex;" alt="Y\leq _{{HYP}}X"></span> then the notation <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle X\equiv _{HYP}Y}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <mi>
+           X
+          </mi> 
+          <msub> 
+           <mo>
+            ≡
+            <!-- ≡ -->
+           </mo> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mi>
+             H
+            </mi> 
+            <mi>
+             Y
+            </mi> 
+            <mi>
+             P
+            </mi> 
+           </mrow> 
+          </msub> 
+          <mi>
+           Y
+          </mi> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle X\equiv _{HYP}Y}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/095b412d5e0fc22e4d8952dcb1e567db5c9e9443" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:11.031ex; height:2.509ex;" alt="X\equiv _{{HYP}}Y"></span> is used to indicate <i>X</i> and <i>Y</i> are <b>hyperarithmetically equivalent</b>. This is a coarser equivalence relation than <a href="/wiki/Turing_reduction" title="Turing reduction">Turing equivalence</a>; for example, every set of natural numbers is hyperarithmetically equivalent to its <a href="/wiki/Turing_jump" title="Turing jump">Turing jump</a> but not Turing equivalent to its Turing jump. The equivalence classes of hyperarithmetical equivalence are known as <b>hyperdegrees</b>. </p>
+   <p>The function that takes a set <i>X</i> to <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle {\mathcal {O}}^{X}}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <msup> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mi class="MJX-tex-caligraphic" mathvariant="script">
+              O
+             </mi> 
+            </mrow> 
+           </mrow> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mi>
+             X
+            </mi> 
+           </mrow> 
+          </msup> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle {\mathcal {O}}^{X}}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4b23c88a7f857c8130f8b77c3456caeb48d288b7" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:3.482ex; height:2.676ex;" alt="{\mathcal  {O}}^{X}"></span> is known as the <b>hyperjump</b> by analogy with the Turing jump. Many properties of the hyperjump and hyperdegrees have been established. In particular, it is known that <a href="/wiki/Turing_degree#Post.27s_problem_and_the_priority_method" title="Turing degree">Post's problem</a> for hyperdegrees has a positive answer: for every set <i>X</i> of natural numbers there is a set <i>Y</i> of natural numbers such that <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle X<_{HYP}Y<_{HYP}{\mathcal {O}}^{X}}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <mi>
+           X
+          </mi> 
+          <msub> 
+           <mo>
+            &lt;
+           </mo> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mi>
+             H
+            </mi> 
+            <mi>
+             Y
+            </mi> 
+            <mi>
+             P
+            </mi> 
+           </mrow> 
+          </msub> 
+          <mi>
+           Y
+          </mi> 
+          <msub> 
+           <mo>
+            &lt;
+           </mo> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mi>
+             H
+            </mi> 
+            <mi>
+             Y
+            </mi> 
+            <mi>
+             P
+            </mi> 
+           </mrow> 
+          </msub> 
+          <msup> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mi class="MJX-tex-caligraphic" mathvariant="script">
+              O
+             </mi> 
+            </mrow> 
+           </mrow> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mi>
+             X
+            </mi> 
+           </mrow> 
+          </msup> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle X&lt;_{HYP}Y&lt;_{HYP}{\mathcal {O}}^{X}}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/636ed6eeb8f2bf92fc5d37f400728e310f467e4a" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:21.792ex; height:3.009ex;" alt="X<_{{HYP}}Y<_{{HYP}}{\mathcal  {O}}^{X}"></span>. </p> 
+   <h2><span class="mw-headline" id="Generalizations">Generalizations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hyperarithmetical_theory&amp;action=edit&amp;section=7" title="Edit section: Generalizations">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <p>Hyperarithmetical theory is generalized by <a href="/wiki/Alpha_recursion_theory" title="Alpha recursion theory">α-recursion theory</a>, which is the study of definable subsets of <a href="/wiki/Admissible_ordinal" title="Admissible ordinal">admissible ordinals</a>. Hyperarithmetical theory is the special case in which α is <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \omega _{1}^{CK}}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <msubsup> 
+           <mi>
+            ω
+            <!-- ω -->
+           </mi> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mn>
+             1
+            </mn> 
+           </mrow> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mi>
+             C
+            </mi> 
+            <mi>
+             K
+            </mi> 
+           </mrow> 
+          </msubsup> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle \omega _{1}^{CK}}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/eb66d543cd0b0a963413261772a07e275cf52247" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:4.388ex; height:3.176ex;" alt="\omega _{1}^{{CK}}"></span>. </p> 
+   <h2><span class="mw-headline" id="Relation_to_other_hierarchies">Relation to other hierarchies</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hyperarithmetical_theory&amp;action=edit&amp;section=8" title="Edit section: Relation to other hierarchies">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <table class="wikitable" style="text-align: center;"> 
+    <tbody>
+     <tr> 
+      <td colspan="2"><a href="/wiki/Lightface_hierarchy" class="mw-redirect" title="Lightface hierarchy">Lightface</a> </td> 
+      <td colspan="2"><a href="/wiki/Boldface_hierarchy" class="mw-redirect" title="Boldface hierarchy"><b>Boldface</b></a> </td>
+     </tr> 
+     <tr> 
+      <td colspan="2">Σ<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">0</sup><br><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">0</sub></span> = Π<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">0</sup><br><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">0</sub></span> = Δ<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">0</sup><br><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">0</sub></span> (sometimes the same as Δ<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">0</sup><br><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">1</sub></span>) </td> 
+      <td colspan="2"><b>Σ<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">0</sup><br><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">0</sub></span></b> = <b>Π<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">0</sup><br><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">0</sub></span></b> = <b>Δ<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">0</sup><br><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">0</sub></span></b> (if defined) </td>
+     </tr> 
+     <tr> 
+      <td colspan="2">Δ<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">0</sup><br><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">1</sub></span> = <a href="/wiki/Recursive_set" title="Recursive set">recursive</a> </td> 
+      <td colspan="2"><b>Δ<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">0</sup><br><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">1</sub></span></b> = <a href="/wiki/Clopen" class="mw-redirect" title="Clopen">clopen</a> </td>
+     </tr> 
+     <tr> 
+      <td>Σ<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">0</sup><br><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">1</sub></span> = <a href="/wiki/Recursively_enumerable" class="mw-redirect" title="Recursively enumerable">recursively enumerable</a> </td> 
+      <td>Π<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">0</sup><br><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">1</sub></span> = co-recursively enumerable </td> 
+      <td><b>Σ<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">0</sup><br><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">1</sub></span></b> = <i>G</i> = <a href="/wiki/Open_set" title="Open set">open</a> </td> 
+      <td><b>Π<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">0</sup><br><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">1</sub></span></b> = <i>F</i> = <a href="/wiki/Closed_set" title="Closed set">closed</a> </td>
+     </tr> 
+     <tr> 
+      <td colspan="2">Δ<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">0</sup><br><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span> </td> 
+      <td colspan="2"><b>Δ<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">0</sup><br><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></b> </td>
+     </tr> 
+     <tr> 
+      <td>Σ<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">0</sup><br><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span> </td> 
+      <td>Π<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">0</sup><br><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span> </td> 
+      <td><b>Σ<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">0</sup><br><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></b> = <a href="/wiki/F_sigma_set" class="mw-redirect" title="F sigma set"><i>F</i><sub>σ</sub></a> </td> 
+      <td><b>Π<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">0</sup><br><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></b> = <a href="/wiki/G_delta_set" class="mw-redirect" title="G delta set"><i>G</i><sub>δ</sub></a> </td>
+     </tr> 
+     <tr> 
+      <td colspan="2">Δ<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">0</sup><br><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span> </td> 
+      <td colspan="2"><b>Δ<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">0</sup><br><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span></b> </td>
+     </tr> 
+     <tr> 
+      <td>Σ<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">0</sup><br><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span> </td> 
+      <td>Π<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">0</sup><br><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span> </td> 
+      <td><b>Σ<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">0</sup><br><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span></b> = <i>G</i><sub>δσ</sub> </td> 
+      <td><b>Π<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">0</sup><br><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span></b> = <i>F</i><sub>σδ</sub> </td>
+     </tr> 
+     <tr> 
+      <td colspan="2">⋮ </td> 
+      <td colspan="2">⋮ </td>
+     </tr> 
+     <tr> 
+      <td colspan="2">Σ<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">0</sup><br><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">&lt;ω</sub></span> = Π<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">0</sup><br><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">&lt;ω</sub></span> = Δ<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">0</sup><br><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">&lt;ω</sub></span> = Σ<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">1</sup><br><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">0</sub></span> = Π<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">1</sup><br><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">0</sub></span> = Δ<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">1</sup><br><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">0</sub></span> = <a href="/wiki/Arithmetical_set" title="Arithmetical set">arithmetical</a> </td> 
+      <td colspan="2"><b>Σ<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">0</sup><br><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">&lt;ω</sub></span></b> = <b>Π<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">0</sup><br><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">&lt;ω</sub></span></b> = <b>Δ<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">0</sup><br><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">&lt;ω</sub></span></b> = <b>Σ<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">1</sup><br><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">0</sub></span></b> = <b>Π<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">1</sup><br><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">0</sub></span></b> = <b> Δ<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">1</sup><br><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">0</sub></span></b> = boldface arithmetical </td>
+     </tr> 
+     <tr> 
+      <td colspan="2">⋮ </td> 
+      <td colspan="2">⋮ </td>
+     </tr> 
+     <tr> 
+      <td colspan="2">Δ<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">0</sup><br><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">α</sub></span> (α <a href="/wiki/Recursive_ordinal" title="Recursive ordinal">recursive</a>) </td> 
+      <td colspan="2"><b>Δ<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">0</sup><br><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">α</sub></span></b> (α <a href="/wiki/Countable_ordinal" class="mw-redirect" title="Countable ordinal">countable</a>) </td>
+     </tr> 
+     <tr> 
+      <td>Σ<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">0</sup><br><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">α</sub></span> </td> 
+      <td>Π<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">0</sup><br><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">α</sub></span> </td> 
+      <td><b>Σ<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">0</sup><br><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">α</sub></span></b> </td> 
+      <td><b>Π<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">0</sup><br><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">α</sub></span></b> </td>
+     </tr> 
+     <tr> 
+      <td colspan="2">⋮ </td> 
+      <td colspan="2">⋮ </td>
+     </tr> 
+     <tr> 
+      <td colspan="2">Σ<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">0</sup><br><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"><a href="/wiki/Church%E2%80%93Kleene_ordinal" title="Church–Kleene ordinal">ω<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">CK</sup><br><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">1</sub></span></a></sub></span> = Π<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">0</sup><br><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"><a href="/wiki/Church%E2%80%93Kleene_ordinal" title="Church–Kleene ordinal">ω<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">CK</sup><br><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">1</sub></span></a></sub></span> = Δ<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">0</sup><br><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"><a href="/wiki/Church%E2%80%93Kleene_ordinal" title="Church–Kleene ordinal">ω<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">CK</sup><br><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">1</sub></span></a></sub></span> = Δ<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">1</sup><br><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">1</sub></span> = <a href="/wiki/Hyperarithmetical" class="mw-redirect" title="Hyperarithmetical">hyperarithmetical</a> </td> 
+      <td colspan="2"><b>Σ<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">0</sup><br><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">ω<sub>1</sub></sub></span></b> = <b>Π<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">0</sup><br><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">ω<sub>1</sub></sub></span></b> = <b>Δ<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">0</sup><br><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">ω<sub>1</sub></sub></span></b> = <b>Δ<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">1</sup><br><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">1</sub></span></b> = <b>B</b> = <a href="/wiki/Borel_set" title="Borel set">Borel</a> </td>
+     </tr> 
+     <tr> 
+      <td>Σ<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">1</sup><br><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">1</sub></span> = lightface analytic </td> 
+      <td>Π<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">1</sup><br><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">1</sub></span> = lightface coanalytic </td> 
+      <td><b>Σ<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">1</sup><br><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">1</sub></span></b> = A = <a href="/wiki/Analytic_set" title="Analytic set">analytic</a> </td> 
+      <td><b>Π<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">1</sup><br><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">1</sub></span></b> = CA = <a href="/wiki/Coanalytic" class="mw-redirect" title="Coanalytic">coanalytic</a> </td>
+     </tr> 
+     <tr> 
+      <td colspan="2">Δ<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">1</sup><br><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span> </td> 
+      <td colspan="2"><b>Δ<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">1</sup><br><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></b> </td>
+     </tr> 
+     <tr> 
+      <td>Σ<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">1</sup><br><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span> </td> 
+      <td>Π<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">1</sup><br><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span> </td> 
+      <td><b>Σ<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">1</sup><br><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></b> = PCA </td> 
+      <td><b>Π<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">1</sup><br><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></b> = CPCA </td>
+     </tr> 
+     <tr> 
+      <td colspan="2">Δ<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">1</sup><br><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span> </td> 
+      <td colspan="2"><b>Δ<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">1</sup><br><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span></b> </td>
+     </tr> 
+     <tr> 
+      <td>Σ<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">1</sup><br><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span> </td> 
+      <td>Π<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">1</sup><br><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span> </td> 
+      <td><b>Σ<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">1</sup><br><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span></b> = PCPCA </td> 
+      <td><b>Π<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">1</sup><br><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span></b> = CPCPCA </td>
+     </tr> 
+     <tr> 
+      <td colspan="2">⋮ </td> 
+      <td colspan="2">⋮ </td>
+     </tr> 
+     <tr> 
+      <td colspan="2">Σ<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">1</sup><br><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">&lt;ω</sub></span> = Π<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">1</sup><br><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">&lt;ω</sub></span> = Δ<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">1</sup><br><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">&lt;ω</sub></span> = Σ<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sup><br><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">0</sub></span> = Π<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sup><br><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">0</sub></span> = Δ<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sup><br><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">0</sub></span> = <a href="/wiki/Analytical_hierarchy" title="Analytical hierarchy">analytical</a> </td> 
+      <td colspan="2"><b>Σ<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">1</sup><br><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">&lt;ω</sub></span></b> = <b>Π<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">1</sup><br><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">&lt;ω</sub></span></b> = <b>Δ<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">1</sup><br><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">&lt;ω</sub></span></b> = <b>Σ<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sup><br><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">0</sub></span></b> = <b>Π<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sup><br><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">0</sub></span></b> = <b> Δ<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sup><br><s

@@ -1,0 +1,372 @@
+<div id="bodyContent" class="mw-body-content"> 
+ <div id="siteSub" class="noprint">
+  From Wikipedia, the free encyclopedia
+ </div> 
+ <div id="contentSub"></div> 
+ <div id="jump-to-nav"></div> 
+ <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> 
+ <a class="mw-jump-link" href="#p-search">Jump to search</a> 
+ <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+  <div class="mw-parser-output">
+   <div id="mp-topbanner" style="clear:both; position:relative; box-sizing:border-box; width:100%; margin:1.2em 0 6px; min-width:47em; border:1px solid #ddd; background-color:#f9f9f9; color:#000; white-space:nowrap;"> 
+    <div style="margin:0.4em; width:22em; text-align:center;"> 
+     <div style="font-size:162%; padding:.1em;">
+      Welcome to 
+      <a href="/wiki/Wikipedia" title="Wikipedia">Wikipedia</a>,
+     </div> 
+     <div style="font-size:95%;">
+      the 
+      <a href="/wiki/Free_content" title="Free content">free</a> 
+      <a href="/wiki/Encyclopedia" title="Encyclopedia">encyclopedia</a> that 
+      <a href="/wiki/Wikipedia:Introduction" title="Wikipedia:Introduction">anyone can edit</a>.
+     </div> 
+     <div id="articlecount" style="font-size:85%;">
+      <a href="/wiki/Special:Statistics" title="Special:Statistics">5,846,286</a> articles in 
+      <a href="/wiki/English_language" title="English language">English</a>
+     </div> 
+    </div> 
+    <ul style="position:absolute; right:-1em; top:50%; margin-top:-2.4em; width:38%; min-width:25em; font-size:95%;"> 
+     <li style="position:absolute; left:0; top:0;"><a href="/wiki/Portal:Arts" title="Portal:Arts">Arts</a></li> 
+     <li style="position:absolute; left:0; top:1.6em;"><a href="/wiki/Portal:Biography" title="Portal:Biography">Biography</a></li> 
+     <li style="position:absolute; left:0; top:3.2em;"><a href="/wiki/Portal:Geography" title="Portal:Geography">Geography</a></li> 
+     <li style="position:absolute; left:33%; top:0;"><a href="/wiki/Portal:History" title="Portal:History">History</a></li> 
+     <li style="position:absolute; left:33%; top:1.6em;"><a href="/wiki/Portal:Mathematics" title="Portal:Mathematics">Mathematics</a></li> 
+     <li style="position:absolute; left:33%; top:3.2em;"><a href="/wiki/Portal:Science" title="Portal:Science">Science</a></li> 
+     <li style="position:absolute; left:66%; top:0;"><a href="/wiki/Portal:Society" title="Portal:Society">Society</a></li> 
+     <li style="position:absolute; left:66%; top:1.6em;"><a href="/wiki/Portal:Technology" title="Portal:Technology">Technology</a></li> 
+     <li style="position:absolute; left:66%; top:3.2em;"><strong><a href="/wiki/Portal:Contents/Portals" title="Portal:Contents/Portals">All portals</a></strong></li> 
+    </ul> 
+   </div> 
+   <table role="presentation" id="mp-upper" style="width: 100%; margin-top:4px; border-spacing: 0px;"> 
+    <tbody>
+     <tr> 
+      <td id="mp-left" class="MainPageBG" style="width:55%; border:1px solid #cef2e0; padding:0; background:#f5fffa; vertical-align:top; color:#000;"> <h2 id="mp-tfa-h2" style="margin:0.5em; background:#cef2e0; font-family:inherit; font-size:120%; font-weight:bold; border:1px solid #a3bfb1; color:#000; padding:0.2em 0.4em;"><span id="From_today.27s_featured_article"></span><span class="mw-headline" id="From_today's_featured_article">From today's featured article</span></h2> 
+       <div id="mp-tfa" style="padding:0.1em 0.6em;">
+        <div id="mp-tfa-img" style="float: left; margin: 0.5em 0.9em 0.4em 0em;">
+         <div class="thumbinner mp-thumb" style="background: transparent; border: none; padding: 0; max-width: 150px;"> 
+          <a href="/wiki/File:Approximate_extension_of_Alodia_based_on_accounts_of_Ibn_Hawqal.png" title="Estimated extent of Alodia in the 10th century"><img alt="Estimated extent of Alodia in the 10th century" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Approximate_extension_of_Alodia_based_on_accounts_of_Ibn_Hawqal_%28TFA%29.jpg/150px-Approximate_extension_of_Alodia_based_on_accounts_of_Ibn_Hawqal_%28TFA%29.jpg" decoding="async" width="150" height="150" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Approximate_extension_of_Alodia_based_on_accounts_of_Ibn_Hawqal_%28TFA%29.jpg/225px-Approximate_extension_of_Alodia_based_on_accounts_of_Ibn_Hawqal_%28TFA%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/9/9e/Approximate_extension_of_Alodia_based_on_accounts_of_Ibn_Hawqal_%28TFA%29.jpg 2x" data-file-width="300" data-file-height="300"></a>
+         </div> 
+        </div> 
+        <p><b><a href="/wiki/Alodia" title="Alodia">Alodia</a></b> was a medieval <a href="/wiki/Nubians" title="Nubians">Nubian</a> kingdom in what is now central and southern <a href="/wiki/Sudan" title="Sudan">Sudan</a>. Its capital was <a href="/wiki/Soba_(city)" title="Soba (city)">Soba</a>, near modern-day <a href="/wiki/Khartoum" title="Khartoum">Khartoum</a> at the confluence of the <a href="/wiki/Blue_Nile" title="Blue Nile">Blue</a> and <a href="/wiki/White_Nile" title="White Nile">White Nile</a> rivers. In 580 it became a part of the Christian world, following the other two Nubian kingdoms, <a href="/wiki/Nobatia" title="Nobatia">Nobadia</a> and <a href="/wiki/Makuria" title="Makuria">Makuria</a>. Alodia reached its peak during the 9th–12th centuries, when it exceeded its northern neighbor and close ally, Makuria, in size, military power and economic prosperity. A large, multicultural state, Alodia was ruled by a powerful king and provincial governors appointed by him. Soba was a prosperous town and trading hub, and literacy in <a href="/wiki/Nubian_languages" title="Nubian languages">Nubian</a> and <a href="/wiki/Medieval_Greek" title="Medieval Greek">Greek</a> flourished. Goods arrived from Makuria, the Middle East, western Africa, India and even China. Alodia began a slow decline in the 12th century, possibly because of invasions from the south, droughts and a shift of trade routes, before finally collapsing around 1500. (<a href="/wiki/Alodia" title="Alodia"><b>Full&nbsp;article...</b></a>) </p> 
+        <div class="tfa-recent" style="text-align: right;">
+          Recently featured: 
+         <div class="hlist inline"> 
+          <ul>
+           <li><a href="/wiki/%C3%86thelberht,_King_of_Wessex" title="Æthelberht, King of Wessex">Æthelberht, King of Wessex</a></li> 
+           <li><a href="/wiki/Marjorie_Cameron" title="Marjorie Cameron">Marjorie Cameron</a></li> 
+           <li><a href="/wiki/Lynchburg_Sesquicentennial_half_dollar" title="Lynchburg Sesquicentennial half dollar">Lynchburg Sesquicentennial half dollar</a></li>
+          </ul> 
+         </div>
+        </div> 
+        <div class="tfa-footer hlist noprint" style="text-align: right;"> 
+         <ul>
+          <li><b><a href="/wiki/Wikipedia:Today%27s_featured_article/April_2019" title="Wikipedia:Today's featured article/April 2019">Archive</a></b></li> 
+          <li><b><a href="https://lists.wikimedia.org/mailman/listinfo/daily-article-l" class="extiw" title="mail:daily-article-l">By email</a></b></li> 
+          <li><b><a href="/wiki/Wikipedia:Featured_articles" title="Wikipedia:Featured articles">More featured articles</a></b></li>
+         </ul> 
+        </div>
+       </div> <h2 id="mp-dyk-h2" style="clear:both; margin:0.5em; background:#cef2e0; font-family:inherit; font-size:120%; font-weight:bold; border:1px solid #a3bfb1; color:#000; padding:0.2em 0.4em;"><span class="mw-headline" id="Did_you_know...">Did you know...</span></h2> 
+       <div id="mp-dyk" style="padding:0.1em 0.6em 0.5em;"> 
+        <div style="float:right; margin-left:0.5em;" id="mp-dyk-img"> 
+         <div class="thumbinner mp-thumb" style="background: transparent; border: none; padding: 0; max-width: 169px;"> 
+          <a href="/wiki/File:Coronaviruses_004_lores.jpg" class="image" title="SARS coronavirus"><img alt="SARS coronavirus" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Coronaviruses_004_lores.jpg/169px-Coronaviruses_004_lores.jpg" decoding="async" width="169" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Coronaviruses_004_lores.jpg/254px-Coronaviruses_004_lores.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/78/Coronaviruses_004_lores.jpg/338px-Coronaviruses_004_lores.jpg 2x" data-file-width="1920" data-file-height="1368"></a>
+          <div class="thumbcaption" style="padding: 0.25em 0; word-wrap: break-word;">
+           SARS coronavirus
+          </div>
+         </div> 
+        </div> 
+        <ul>
+         <li>... that the largest in-flight transmission of <a href="/wiki/Severe_acute_respiratory_syndrome" title="Severe acute respiratory syndrome">SARS</a> <i>(virus pictured)</i> took place on <b><a href="/wiki/Air_China_Flight_112" title="Air China Flight 112">an Air China flight</a></b> in March 2003?</li> 
+         <li>... that Canadian investigative journalist <b><a href="/wiki/Bruce_Dowbiggin" title="Bruce Dowbiggin">Bruce Dowbiggin</a></b> won a <a href="/wiki/Gemini_Awards" title="Gemini Awards">Gemini Award</a> for his reporting on <a href="/wiki/National_Hockey_League" title="National Hockey League">National Hockey League</a> pension fraud?</li> 
+         <li>... that while investigating the <b><a href="/wiki/Disappearance_of_Brittanee_Drexel" title="Disappearance of Brittanee Drexel">case of Brittanee Drexel</a></b>, who disappeared 10 years ago today, the FBI <a href="/wiki/Double_Jeopardy_Clause#Dual_sovereignty_doctrine" title="Double Jeopardy Clause">brought federal charges against someone who had already served</a> state <a href="/wiki/Probation" title="Probation">probation</a> for the same crime?</li> 
+         <li>... that <b><a href="/wiki/Mark_M._Ravitch" title="Mark M. Ravitch">Mark M. Ravitch</a></b> and <a href="/wiki/F%C3%A9licien_M._Steichen" title="Félicien M. Steichen">Félicien M. Steichen</a> introduced <a href="/wiki/Surgical_staple" title="Surgical staple">surgical staples</a>, a time-saving replacement for <a href="/wiki/Surgical_suture" title="Surgical suture">suturing</a> by hand, to American operating rooms?</li> 
+         <li>... that the <b><a href="/wiki/Eklakhi_Mausoleum" title="Eklakhi Mausoleum">Eklakhi Mausoleum</a></b> was the first square-shaped building with a single dome built in India?</li> 
+         <li>... that Venezuelan politician <b><a href="/wiki/Miguel_Pizarro" title="Miguel Pizarro">Miguel Pizarro</a></b> was expelled from high school for starting protests against military education?</li> 
+         <li>... that an "alarming" decline in <a href="/wiki/Arthropod" title="Arthropod">arthropod</a> populations in <b><a href="/wiki/Luquillo_Experimental_Forest" title="Luquillo Experimental Forest">Luquillo Experimental Forest</a></b> in Puerto Rico has been linked to the warming climate?</li> 
+         <li>... that <b><a href="/wiki/Ronald_Read_(philanthropist)" title="Ronald Read (philanthropist)">Ronald Read</a></b>, whose last job was working 17 years as a <a href="/wiki/J._C._Penney" title="J. C. Penney">J. C. Penney</a> janitor, left US$1.2 million to <a href="/wiki/Brooks_Memorial_Library" title="Brooks Memorial Library">his local library</a> and $4.8 million to <a href="/wiki/Brattleboro_Memorial_Hospital" title="Brattleboro Memorial Hospital">the hospital where he died</a>?</li>
+        </ul> 
+        <div class="dyk-footer hlist noprint" style="margin-top: 0.5em; text-align: right;"> 
+         <ul>
+          <li><b><a href="/wiki/Wikipedia:Recent_additions" title="Wikipedia:Recent additions">Archive</a></b></li> 
+          <li><b><a href="/wiki/Wikipedia:Your_first_article" title="Wikipedia:Your first article">Start a new article</a></b></li> 
+          <li><b><a href="/wiki/Template_talk:Did_you_know" title="Template talk:Did you know">Nominate an article</a></b></li>
+         </ul> 
+        </div> 
+       </div> </td> 
+      <td style="border:1px solid transparent;"> </td> 
+      <td id="mp-right" class="MainPageBG" style="width:45%; border:1px solid #cedff2; padding:0; background:#f5faff; vertical-align:top;"> <h2 id="mp-itn-h2" style="margin:0.5em; background:#cedff2; font-family:inherit; font-size:120%; font-weight:bold; border:1px solid #a3b0bf; color:#000; padding:0.2em 0.4em;"><span class="mw-headline" id="In_the_news">In the news</span></h2> 
+       <div id="mp-itn" style="padding:0.1em 0.6em;">
+        <div role="figure" class="itn-img" style="float: right; margin-left: 0.5em;"> 
+         <div class="thumbinner mp-thumb" style="background: transparent; border: none; padding: 0; max-width: 120px;"> 
+          <a href="/wiki/File:Volodymyr_Zelensky,_31_March_2019.jpg" class="image" title="Volodymyr Zelensky"><img alt="Volodymyr Zelensky" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Volodymyr_Zelensky%2C_31_March_2019.jpg/120px-Volodymyr_Zelensky%2C_31_March_2019.jpg" decoding="async" width="120" height="160" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Volodymyr_Zelensky%2C_31_March_2019.jpg/180px-Volodymyr_Zelensky%2C_31_March_2019.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Volodymyr_Zelensky%2C_31_March_2019.jpg/240px-Volodymyr_Zelensky%2C_31_March_2019.jpg 2x" data-file-width="792" data-file-height="1056"></a>
+          <div class="thumbcaption" style="padding: 0.25em 0; word-wrap: break-word;">
+           Volodymyr Zelensky
+          </div>
+         </div> 
+        </div> 
+        <ul>
+         <li><b><a href="/wiki/2019_Luzon_earthquake" title="2019 Luzon earthquake">An earthquake</a></b> in <a href="/wiki/Luzon" title="Luzon">Luzon</a>, the Philippines, kills at least 16 people.</li> 
+         <li><a href="/wiki/Volodymyr_Zelensky" title="Volodymyr Zelensky">Volodymyr Zelensky</a> <i>(pictured)</i> wins the <b><a href="/wiki/2019_Ukrainian_presidential_election" title="2019 Ukrainian presidential election">Ukrainian presidential election</a></b>.</li> 
+         <li>At least 250 people are killed and hundreds of others are injured in <b><a href="/wiki/2019_Sri_Lanka_Easter_bombings" title="2019 Sri Lanka Easter bombings">multiple bombings</a></b> at churches and hotels in Sri Lanka.</li> 
+         <li>Scientists announce the discovery of naturally occurring <b><a href="/wiki/Helium_hydride_ion" title="Helium hydride ion">helium hydride ions</a></b>, believed to be the first compound to have formed in the universe, in the <a href="/wiki/Planetary_nebula" title="Planetary nebula">planetary nebula</a> <a href="/wiki/NGC_7027" title="NGC 7027">NGC 7027</a>.</li>
+        </ul> 
+        <div class="itn-footer" style="margin-top: 0.5em;"> 
+         <div>
+          <b><a href="/wiki/Portal:Current_events" title="Portal:Current events">Ongoing</a></b>: 
+          <div class="hlist inline"> 
+           <ul>
+            <li><a href="/wiki/Mueller_Report" title="Mueller Report">Mueller Report</a></li> 
+            <li><a href="/wiki/2019_Venezuelan_presidential_crisis" title="2019 Venezuelan presidential crisis">Venezuelan presidential crisis</a></li>
+           </ul>
+          </div>
+         </div> 
+         <div>
+          <b><a href="/wiki/Deaths_in_2019" title="Deaths in 2019">Recent deaths</a></b>: 
+          <div class="hlist inline"> 
+           <ul>
+            <li><a href="/wiki/Lyra_McKee" title="Lyra McKee">Lyra McKee</a></li> 
+            <li><a href="/wiki/Heather_Harper" title="Heather Harper">Heather Harper</a></li> 
+            <li><a href="/wiki/Billy_McNeill" title="Billy McNeill">Billy McNeill</a></li> 
+            <li><a href="/wiki/Polly_Higgins" title="Polly Higgins">Polly Higgins</a></li> 
+            <li><a href="/wiki/Hannelore_Elsner" title="Hannelore Elsner">Hannelore Elsner</a></li> 
+            <li><a href="/wiki/Hansj%C3%B6rg_Auer" title="Hansjörg Auer">Hansjörg Auer</a></li>
+           </ul>
+          </div>
+         </div>
+        </div> 
+        <div class="itn-footer hlist noprint" style="text-align: right;"> 
+         <ul>
+          <li><b><a href="/wiki/Wikipedia:In_the_news/Candidates" title="Wikipedia:In the news/Candidates">Nominate an article</a></b></li>
+         </ul>
+        </div> 
+       </div> <h2 id="mp-otd-h2" style="clear:both; margin:0.5em; background:#cedff2; font-family:inherit; font-size:120%; font-weight:bold; border:1px solid #a3b0bf; color:#000; padding:0.2em 0.4em;"><span class="mw-headline" id="On_this_day">On this day</span></h2> 
+       <div id="mp-otd" style="padding:0.1em 0.6em 0.5em;"> 
+        <p><b><a href="/wiki/April_25" title="April 25">April 25</a></b>: <b><a href="/wiki/Anzac_Day" title="Anzac Day">Anzac Day</a></b> in Australia and New Zealand (<a href="/wiki/1915" title="1915">1915</a>) </p> 
+        <div style="float:right;margin-left:0.5em;" id="mp-otd-img"> 
+         <div class="thumbinner mp-thumb" style="background: transparent; border: none; padding: 0; max-width: 150px;"> 
+          <a href="/wiki/File:USS_Triton_SSRN-586_Anaconda_ad.JPG" class="image" title="USS Triton (SSRN-586)"><img alt="USS Triton (SSRN-586)" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/USS_Triton_SSRN-586_Anaconda_ad.JPG/150px-USS_Triton_SSRN-586_Anaconda_ad.JPG" decoding="async" width="150" height="140" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/USS_Triton_SSRN-586_Anaconda_ad.JPG/225px-USS_Triton_SSRN-586_Anaconda_ad.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2a/USS_Triton_SSRN-586_Anaconda_ad.JPG/300px-USS_Triton_SSRN-586_Anaconda_ad.JPG 2x" data-file-width="726" data-file-height="680"></a>
+          <div class="thumbcaption" style="padding: 0.25em 0; word-wrap: break-word;">
+           USS 
+           <i>Triton</i> (SSRN-586)
+          </div>
+         </div> 
+        </div> 
+        <ul>
+         <li><a href="/wiki/799" title="799">799</a> – <b><a href="/wiki/Pope_Leo_III" title="Pope Leo III">Pope Leo III</a></b> was attacked by partisans of his predecessor <a href="/wiki/Pope_Adrian_I" title="Pope Adrian I"><span class="nowrap">Adrian I</span></a>, but was rescued and taken to <a href="/wiki/Charlemagne" title="Charlemagne">Charlemagne</a>, as described in the epic <i><b><a href="/wiki/Karolus_magnus_et_Leo_papa" title="Karolus magnus et Leo papa">Karolus magnus et Leo papa</a></b></i>.</li> 
+         <li><a href="/wiki/1644" title="1644">1644</a> – The <b><a href="/wiki/Ming_dynasty" title="Ming dynasty">Ming dynasty</a></b> of China fell when the <a href="/wiki/Chongzhen_Emperor" title="Chongzhen Emperor">Chongzhen Emperor</a> committed suicide during a peasant rebellion led by <a href="/wiki/Li_Zicheng" title="Li Zicheng">Li Zicheng</a>.</li> 
+         <li><a href="/wiki/1792" title="1792">1792</a> – The French <a href="/wiki/Highwayman" title="Highwayman">highwayman</a> <b><a href="/wiki/Nicolas_Jacques_Pelletier" title="Nicolas Jacques Pelletier">Nicolas Jacques Pelletier</a></b> became the first person to be executed by <a href="/wiki/Guillotine" title="Guillotine">guillotine</a>.</li> 
+         <li><a href="/wiki/1920" title="1920">1920</a> – At the <b><a href="/wiki/San_Remo_conference" title="San Remo conference">San Remo conference</a></b>, the principal <a href="/wiki/Allies_of_World_War_I" title="Allies of World War I">Allied Powers of World <span class="nowrap">War I</span></a> decided upon the <a href="/wiki/League_of_Nations_mandate" title="League of Nations mandate">League of Nations mandates</a> for administration of the former <a href="/wiki/Ottoman_Empire" title="Ottoman Empire">Ottoman</a>-ruled lands of the <a href="/wiki/Middle_East" title="Middle East">Middle East</a>.</li> 
+         <li><a href="/wiki/1960" title="1960">1960</a> – The <a href="/wiki/United_States_Navy" title="United States Navy">U.S. Navy</a> submarine <b><a href="/wiki/USS_Triton_(SSRN-586)" title="USS Triton (SSRN-586)">USS&nbsp;<i>Triton</i>&nbsp;(SSRN-586)</a></b> <i>(pictured)</i> completed the <b><a href="/wiki/Operation_Sandblast" title="Operation Sandblast">first submerged circumnavigation of the globe</a></b>.</li>
+        </ul> 
+        <p><b><a href="/wiki/G%C3%A9za_I_of_Hungary" title="Géza I of Hungary">Géza I of Hungary</a></b> (d.&nbsp;1077)&nbsp;<b>·</b> <b><a href="/wiki/Charles_Sumner_Tainter" title="Charles Sumner Tainter">Charles Sumner Tainter</a></b> (b.&nbsp;1854)&nbsp;<b>·</b> <b><a href="/wiki/Stefanie_Zweig" title="Stefanie Zweig">Stefanie Zweig</a></b> (d.&nbsp;2014) </p> 
+        <div style="margin-top: 0.5em;">
+          More anniversaries: 
+         <div class="hlist inline nowraplinks"> 
+          <ul>
+           <li><a href="/wiki/April_24" title="April 24">April 24</a></li> 
+           <li><b><a href="/wiki/April_25" title="April 25">April 25</a></b></li> 
+           <li><a href="/wiki/April_26" title="April 26">April 26</a></li>
+          </ul> 
+         </div>
+        </div> 
+        <div class="otd-footer hlist noprint" style="text-align: right;"> 
+         <ul>
+          <li><b><a href="/wiki/Wikipedia:Selected_anniversaries/April" title="Wikipedia:Selected anniversaries/April">Archive</a></b></li> 
+          <li><b><a href="https://lists.wikimedia.org/mailman/listinfo/daily-article-l" class="extiw" title="mail:daily-article-l">By email</a></b></li> 
+          <li><b><a href="/wiki/List_of_historical_anniversaries" title="List of historical anniversaries">List of historical anniversaries</a></b></li>
+         </ul> 
+        </div> 
+       </div> </td>
+     </tr>
+    </tbody>
+   </table> 
+   <div id="mp-lower" class="MainPageBG" style="margin-top:4px; border:1px solid #ddcef2; background:#faf5ff; overflow:auto;"> 
+    <div id="mp-bottom"> 
+     <h2 id="mp-tfp-h2" style="margin:0.5em; background:#ddcef2; font-family:inherit; font-size:120%; font-weight:bold; border:1px solid #afa3bf; color:#000; padding:0.2em 0.4em"><span id="Today.27s_featured_picture"></span><span class="mw-headline" id="Today's_featured_picture">Today's featured picture</span></h2> 
+     <div id="mp-tfp" style="margin:0.1em 0.4em 0.6em;"> 
+      <table role="presentation" style="margin:0 3px 3px; width:100%; box-sizing:border-box; text-align:left; background-color:transparent; border-collapse: collapse;"> 
+       <tbody>
+        <tr> 
+         <td style="padding:0 0.9em 0 0;"><a href="/wiki/File:Bathwick_Hill,_Bath,_Somerset,_UK_-_Diliff.jpg" class="image" title="Bath"><img alt="Bath" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Bathwick_Hill%2C_Bath%2C_Somerset%2C_UK_-_Diliff.jpg/399px-Bathwick_Hill%2C_Bath%2C_Somerset%2C_UK_-_Diliff.jpg" decoding="async" width="399" height="280" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Bathwick_Hill%2C_Bath%2C_Somerset%2C_UK_-_Diliff.jpg/599px-Bathwick_Hill%2C_Bath%2C_Somerset%2C_UK_-_Diliff.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/91/Bathwick_Hill%2C_Bath%2C_Somerset%2C_UK_-_Diliff.jpg/798px-Bathwick_Hill%2C_Bath%2C_Somerset%2C_UK_-_Diliff.jpg 2x" data-file-width="4000" data-file-height="2810"></a> </td> 
+         <td style="padding:0 6px 0 0"> <p>A row of <a href="/wiki/Terraced_house" title="Terraced house">terraced houses</a> on <a href="/wiki/Bathwick_Hill" title="Bathwick Hill">Bathwick Hill</a> in the city of <b><a href="/wiki/Bath,_Somerset" title="Bath, Somerset">Bath</a></b>. Like much of the city the houses are built using the local golden-coloured <a href="/wiki/Bath_stone" title="Bath stone">Bath stone</a>, a type of limestone. Located in south-west England, Bath is notable for its baths fed by three <a href="/wiki/Hot_spring" title="Hot spring">hot springs</a>. It was first recorded as a Roman spa and temple named <i><a href="/wiki/Aquae_Sulis" title="Aquae Sulis">Aquae Sulis</a></i>, although archaeological evidence suggests that the main spring of the baths may have been treated as a shrine by the Britons before the Roman invasion. From <a href="/wiki/Elizabethan_era" title="Elizabethan era">Elizabethan</a> to <a href="/wiki/Georgian_era" title="Georgian era">Georgian</a> times it was a resort city for the wealthy. As a result of its popularity during the latter period, the city contains many fine examples of <a href="/wiki/Georgian_architecture" title="Georgian architecture">Georgian architecture</a>, particularly the <a href="/wiki/Royal_Crescent" title="Royal Crescent">Royal Crescent</a>. </p> <p><small>Photograph: <a href="/wiki/User:Diliff" title="User:Diliff">David Iliff</a></small></p> 
+          <div class="potd-recent" style="text-align:right;">
+            Recently featured: 
+           <div class="hlist inline"> 
+            <ul>
+             <li><a href="/wiki/Template:POTD/2019-04-24" title="Template:POTD/2019-04-24">Niagara Falls Suspension Bridge</a></li> 
+             <li><a href="/wiki/Template:POTD/2019-04-23" title="Template:POTD/2019-04-23">James Buchanan</a></li> 
+             <li><a href="/wiki/Template:POTD/2019-04-22" title="Template:POTD/2019-04-22">Funifor</a></li>
+            </ul> 
+           </div>
+          </div> 
+          <div class="potd-footer hlist noprint" style="text-align:right;"> 
+           <ul>
+            <li><b><a href="/wiki/Wikipedia:Picture_of_the_day/April_2019" title="Wikipedia:Picture of the day/April 2019">Archive</a></b></li> 
+            <li><b><a href="/wiki/Wikipedia:Featured_pictures" title="Wikipedia:Featured pictures">More featured pictures</a></b></li>
+           </ul> 
+          </div> </td>
+        </tr>
+       </tbody>
+      </table>
+     </div> 
+    </div> 
+   </div> 
+   <div id="mp-other-lower" style="padding-top:4px; padding-bottom:2px; border:1px solid #e2e2e2; overflow:auto; margin-top:4px;"> 
+    <h2 id="mp-other" style="margin:0.5em; background:#eeeeee; border:1px solid #ddd; color:#222; padding:0.2em 0.4em; font-size:120%; font-weight:bold; font-family:inherit;"><span class="mw-headline" id="Other_areas_of_Wikipedia">Other areas of Wikipedia</span></h2> 
+    <div id="mp-other-content" style="padding:0.1em 0.6em;"> 
+     <ul>
+      <li><b><a href="/wiki/Wikipedia:Community_portal" title="Wikipedia:Community portal">Community portal</a></b> – Bulletin board, projects, resources and activities covering a wide range of Wikipedia areas.</li> 
+      <li><b><a href="/wiki/Wikipedia:Help_desk" title="Wikipedia:Help desk">Help desk</a></b> – Ask questions about using Wikipedia.</li> 
+      <li><b><a href="/wiki/Wikipedia:Local_Embassy" title="Wikipedia:Local Embassy">Local embassy</a></b> – For Wikipedia-related communication in languages other than English.</li> 
+      <li><b><a href="/wiki/Wikipedia:Reference_desk" title="Wikipedia:Reference desk">Reference desk</a></b> – Serving as virtual librarians, Wikipedia volunteers tackle your questions on a wide range of subjects.</li> 
+      <li><b><a href="/wiki/Wikipedia:News" title="Wikipedia:News">Site news</a></b> – Announcements, updates, articles and press releases on Wikipedia and the Wikimedia Foundation.</li> 
+      <li><b><a href="/wiki/Wikipedia:Village_pump" title="Wikipedia:Village pump">Village pump</a></b> – For discussions about Wikipedia itself, including areas for technical issues and policies.</li>
+     </ul> 
+    </div> 
+    <h2 id="mp-sister" style="margin:0.5em; background:#eeeeee; border:1px solid #ddd; color:#222; padding:0.2em 0.4em; font-size:120%; font-weight:bold; font-family:inherit;"><span id="Wikipedia.27s_sister_projects"></span><span class="mw-headline" id="Wikipedia's_sister_projects">Wikipedia's sister projects</span></h2> 
+    <div id="mp-sister-content" style="padding:0.1em 0.6em;">
+     <style data-mw-deduplicate="TemplateStyles:r886190367">.mw-parser-output #sister-projects-list{text-align:left;background:transparent;margin:1px}.mw-parser-output #sister-projects-list>div{width:32%;min-width:20em;white-space:nowrap;margin:0 1px;display:inline-block}.mw-parser-output #sister-projects-list>div>div{display:inline-block;vertical-align:middle;margin:1px 0;padding:4px}.mw-parser-output #sister-projects-list>div>div:first-child{min-width:50px;text-align:center}</style> 
+     <p>Wikipedia is hosted by the <a href="/wiki/Wikimedia_Foundation" title="Wikimedia Foundation">Wikimedia Foundation</a>, a non-profit organization that also hosts a range of other <a href="https://wikimediafoundation.org/our-work/wikimedia-projects/" class="extiw" title="foundationsite:our-work/wikimedia-projects/">projects</a>: </p> 
+     <div id="sister-projects-list" class="layout plainlinks"> 
+      <div> 
+       <div> 
+        <a href="https://commons.wikimedia.org/wiki/" title="Commons"><img alt="Commons" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/31px-Commons-logo.svg.png" decoding="async" width="31" height="42" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/47px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/62px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376"></a> 
+       </div> 
+       <div> 
+        <b><a class="external text" href="//commons.wikimedia.org/">Commons</a></b> 
+        <br> Free media repository 
+       </div> 
+      </div> 
+      <div> 
+       <div> 
+        <a href="https://www.mediawiki.org/wiki/" title="MediaWiki"><img alt="MediaWiki" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Mediawiki-logo.png/35px-Mediawiki-logo.png" decoding="async" width="35" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Mediawiki-logo.png/53px-Mediawiki-logo.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Mediawiki-logo.png/70px-Mediawiki-logo.png 2x" data-file-width="135" data-file-height="102"></a> 
+       </div> 
+       <div> 
+        <b><a class="external text" href="//mediawiki.org/">MediaWiki</a></b> 
+        <br> Wiki software development 
+       </div> 
+      </div> 
+      <div> 
+       <div> 
+        <a href="https://meta.wikimedia.org/wiki/" title="Meta-Wiki"><img alt="Meta-Wiki" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/35px-Wikimedia_Community_Logo.svg.png" decoding="async" width="35" height="35" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/53px-Wikimedia_Community_Logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/70px-Wikimedia_Community_Logo.svg.png 2x" data-file-width="900" data-file-height="900"></a> 
+       </div> 
+       <div> 
+        <b><a class="external text" href="//meta.wikimedia.org/">Meta-Wiki</a></b> 
+        <br> Wikimedia project coordination 
+       </div> 
+      </div> 
+      <div> 
+       <div> 
+        <a href="https://en.wikibooks.org/wiki/" title="Wikibooks"><img alt="Wikibooks" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/35px-Wikibooks-logo.svg.png" decoding="async" width="35" height="35" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/53px-Wikibooks-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/70px-Wikibooks-logo.svg.png 2x" data-file-width="300" data-file-height="300"></a> 
+       </div> 
+       <div> 
+        <b><a class="external text" href="//en.wikibooks.org/">Wikibooks</a></b> 
+        <br> Free textbooks and manuals 
+       </div> 
+      </div> 
+      <div> 
+       <div> 
+        <a href="https://www.wikidata.org/wiki/" title="Wikidata"><img alt="Wikidata" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/47px-Wikidata-logo.svg.png" decoding="async" width="47" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/71px-Wikidata-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/94px-Wikidata-logo.svg.png 2x" data-file-width="1050" data-file-height="590"></a> 
+       </div> 
+       <div> 
+        <b><a class="external text" href="//www.wikidata.org/">Wikidata</a></b> 
+        <br> Free knowledge base 
+       </div> 
+      </div> 
+      <div> 
+       <div> 
+        <a href="https://en.wikinews.org/wiki/" title="Wikinews"><img alt="Wikinews" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/51px-Wikinews-logo.svg.png" decoding="async" width="51" height="28" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/77px-Wikinews-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/102px-Wikinews-logo.svg.png 2x" data-file-width="759" data-file-height="415"></a> 
+       </div> 
+       <div> 
+        <b><a class="external text" href="//en.wikinews.org/">Wikinews</a></b> 
+        <br> Free-content news 
+       </div> 
+      </div> 
+      <div> 
+       <div> 
+        <a href="https://en.wikiquote.org/wiki/" title="Wikiquote"><img alt="Wikiquote" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/35px-Wikiquote-logo.svg.png" decoding="async" width="35" height="41" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/53px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/70px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355"></a> 
+       </div> 
+       <div> 
+        <b><a class="external text" href="//en.wikiquote.org/">Wikiquote</a></b> 
+        <br> Collection of quotations 
+       </div> 
+      </div> 
+      <div> 
+       <div> 
+        <a href="https://en.wikisource.org/wiki/" title="Wikisource"><img alt="Wikisource" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/35px-Wikisource-logo.svg.png" decoding="async" width="35" height="37" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/53px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/70px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430"></a> 
+       </div> 
+       <div> 
+        <b><a class="external text" href="//en.wikisource.org/">Wikisource</a></b> 
+        <br> Free-content library 
+       </div> 
+      </div> 
+      <div> 
+       <div> 
+        <a href="https://species.wikimedia.org/wiki/" title="Wikispecies"><img alt="Wikispecies" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/35px-Wikispecies-logo.svg.png" decoding="async" width="35" height="41" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/53px-Wikispecies-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/70px-Wikispecies-logo.svg.png 2x" data-file-width="941" data-file-height="1103"></a> 
+       </div> 
+       <div> 
+        <b><a class="external text" href="//species.wikimedia.org/">Wikispecies</a></b> 
+        <br> Directory of species 
+       </div> 
+      </div> 
+      <div> 
+       <div> 
+        <a href="https://en.wikiversity.org/wiki/" title="Wikiversity"><img alt="Wikiversity" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Wikiversity_logo_2017.svg/41px-Wikiversity_logo_2017.svg.png" decoding="async" width="41" height="34" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Wikiversity_logo_2017.svg/62px-Wikiversity_logo_2017.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Wikiversity_logo_2017.svg/82px-Wikiversity_logo_2017.svg.png 2x" data-file-width="626" data-file-height="512"></a> 
+       </div> 
+       <div> 
+        <b><a class="external text" href="//en.wikiversity.org/">Wikiversity</a></b> 
+        <br> Free learning materials and activities 
+       </div> 
+      </div> 
+      <div> 
+       <div> 
+        <a href="https://en.wikivoyage.org/wiki/" title="Wikivoyage"><img alt="Wikivoyage" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/35px-Wikivoyage-Logo-v3-icon.svg.png" decoding="async" width="35" height="35" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/53px-Wikivoyage-Logo-v3-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/70px-Wikivoyage-Logo-v3-icon.svg.png 2x" data-file-width="193" data-file-height="193"></a> 
+       </div> 
+       <div> 
+        <b><a class="external text" href="//en.wikivoyage.org/">Wikivoyage</a></b> 
+        <br> Free travel guide 
+       </div> 
+      </div> 
+      <div> 
+       <div> 
+        <a href="https://en.wiktionary.org/wiki/" title="Wiktionary"><img alt="Wiktionary" src="//upload.wikimedia.org/wikipedia/en/thumb/0/06/Wiktionary-logo-v2.svg/35px-Wiktionary-logo-v2.svg.png" decoding="async" width="35" height="35" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/06/Wiktionary-logo-v2.svg/53px-Wiktionary-logo-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/06/Wiktionary-logo-v2.svg/70px-Wiktionary-logo-v2.svg.png 2x" data-file-width="391" data-file-height="391"></a> 
+       </div> 
+       <div> 
+        <b><a class="external text" href="//en.wiktionary.org/">Wiktionary</a></b> 
+        <br> Dictionary and thesaurus 
+       </div> 
+      </div> 
+     </div>
+    </div> 
+    <h2 id="mp-lang" style="margin:0.5em; background:#efefef; border:1px solid #ddd; color:#222; padding:0.2em 0.4em; font-size:120%; font-weight:bold; font-family:inherit;"><span class="mw-headline" id="Wikipedia_languages">Wikipedia languages</span></h2> 
+    <div style="padding:0.1em 0.6em;"> 
+     <div id="lang" class="nowraplinks nourlexpansion plainlinks"> 
+      <p>This Wikipedia is written in <a href="/wiki/English_language" title="English language">English</a>. Started in 2001<span style="display:none">&nbsp;(<span class="bday dtstart published updated">2001</span>)</span>, it currently contains <a href="/wiki/Special:Statistics" title="Special:Statistics">5,846,286</a> articles. Many other Wikipedias are available; some of the largest are listed below. </p> 
+      <ul> 
+       <li id="lang-3">More than 1,000,000 articles: 
+        <div class="hlist inline"> 
+         <ul>
+          <li><a class="external text" href="https://de.wikipedia.org/wiki/"><span class="autonym" title="German (de:)" lang="de">Deutsch</span></a></li> 
+          <li><a class="external text" href="https://es.wikipedia.org/wiki/"><span class="autonym" title="Spanish (es:)" lang="es">Español</span></a></li> 
+          <li><a class="external text" href="https://fr.wikipedia.org/wiki/"><span class="autonym" title="French (fr:)" lang="fr">Français</span></a></li> 
+          <li><a class="external text" href="https://it.wikipedia.org/wiki/"><span class="autonym" title="Italian (it:)" lang="it">Italiano</span></a></li> 
+          <li><a class="external text" href="https://nl.wikipedia.org/wiki/"><span class="autonym" title="Dutch (nl:)" lang="nl">Nederlands</span></a></li> 
+          <li><a class="external text" href="https://ja.wikipedia.org/wiki/"><span class="autonym" title="Japanese (ja:)" lang="ja">日本語</span></a></li> 
+          <li><a class="external text" href="https://pl.wikipedia.org/wiki/"><span class="autonym" title="Polish (pl:)" lang="pl">Polski</span></a></li> 
+          <li><a class="external text" href="https://pt.wikipedia.org/wiki/"><span class="autonym" title="Portuguese (pt:)" lang="pt">Português</span></a></li> 
+          <li><a class="external text" href="https://ru.wikipedia.org/wiki/"><span class="autonym" title="Russian (ru:)" lang="ru">Русский</span></a></li> 
+          <li><a class="external text" href="https://sv.wikipedia.org/wiki/"><span class="autonym" title="Swedish (sv:)" lang="sv">Svenska</span></a></li> 
+          <li><a class="external text" href="https://vi.wikipedia.org/wiki/"><span class="autonym" title="Vietnamese (vi:)" lang="vi">Tiếng Việt</span></a></li> 
+          <li><a class="external text" href="https://zh.wikipedia.org/wiki/"><span class="autonym" title="Chinese (zh:)" lang="zh">中文</span></a></li>
+         </ul> 
+        </div></li> 
+       <li id="lang-2">More than 250,000 articles: 
+        <div class="hlist inline"> 
+         <ul>
+          <li><a class="external text" href="https://ar.wikipedia.org/wiki/"><span class="autonym" title="Arabic (ar:)" lang="ar">العربية</span></a></li> 
+          <li><a class="external text" href="https://id.wikipedia.org/wiki/"><span class="autonym" title="Indonesian (id:)" lang="id">Bahasa Indonesia</span></a></li> 
+          <li><a class="external text" href="https://ms.wikipedia.org/wiki/"><span class="autonym" title="Malay (ms:)" lang="ms">Bahasa Melayu</span></a></li> 
+          <li><a class="external text" href="https://bg.wikipedia.org/wiki/"><span class="autonym" title="Bulgarian (bg:)" lang="bg">Български</span></a></li> 
+          <li><a class="external text" href="https://ca.wikipedia.org/wiki/"><span class="autonym" title="Catalan (ca:)" lang="ca">Català</span></a></li> 
+          <li><a class="external text" href="https://cs.wikipedia.org/wiki/"><span class="autonym" title="Czech (cs:)" lang="cs">Čeština</span></a></li> 
+          <li><a class="external text" href="https://eo.wikipedia.org/wiki

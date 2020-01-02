@@ -1,0 +1,269 @@
+<div id="bodyContent" class="mw-body-content"> 
+ <div id="siteSub" class="noprint">
+  From Wikipedia, the free encyclopedia
+ </div> 
+ <div id="contentSub"></div> 
+ <div id="jump-to-nav"></div> 
+ <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> 
+ <a class="mw-jump-link" href="#p-search">Jump to search</a> 
+ <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+  <div class="mw-parser-output">
+   <div role="note" class="hatnote navigation-not-searchable">
+    For the term in intelligent design, see 
+    <a href="/wiki/Intelligent_designer" title="Intelligent designer">intelligent designer</a>.
+   </div> 
+   <table class="box-Expert_needed plainlinks metadata ambox ambox-content" role="presentation">
+    <tbody>
+     <tr>
+      <td class="mbox-image">
+       <div style="width:52px">
+        <img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40">
+       </div></td>
+      <td class="mbox-text">
+       <div class="mbox-text-span">
+        This article 
+        <b>needs attention from an expert in Robotics</b>.
+        <span class="hide-when-compact"> Please add a <i>reason</i> or a <i>talk</i> parameter to this template to explain the issue with the article. <a href="/wiki/Wikipedia:WikiProject_Robotics" title="Wikipedia:WikiProject Robotics">WikiProject Robotics</a> may be able to help recruit an expert.</span> 
+        <small class="date-container"><i>(<span class="date">October 2009</span>)</i></small>
+       </div></td>
+     </tr>
+    </tbody>
+   </table> 
+   <p>In <a href="/wiki/Artificial_intelligence" title="Artificial intelligence">artificial intelligence</a>, an <b>intelligent agent</b> (<b>IA</b>) refers to an <a href="/wiki/Autonomous" class="mw-redirect" title="Autonomous">autonomous</a> entity which acts, directing its activity towards achieving goals (i.e. it is an <a href="/wiki/Software_agent" title="Software agent">agent</a>), upon an <a href="/wiki/Environment_(biophysical)" class="mw-redirect" title="Environment (biophysical)">environment</a> using observation through sensors and consequent actuators (i.e. it is intelligent).<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (April 2019)">citation needed</span></a></i>]</sup> Intelligent agents may also <a href="/wiki/Machine_learning" title="Machine learning">learn</a> or use <a href="/wiki/Knowledge_representation" class="mw-redirect" title="Knowledge representation">knowledge</a> to achieve their goals. They may be very simple or <a href="/wiki/Complexity" title="Complexity">very complex</a>. A reflex machine, such as a <a href="/wiki/Thermostat" title="Thermostat">thermostat</a>, is considered an example of an intelligent agent.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> </p> 
+   <div class="thumb tright">
+    <div class="thumbinner" style="width:410px;">
+     <a href="/wiki/File:IntelligentAgent-SimpleReflex.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/IntelligentAgent-SimpleReflex.png/408px-IntelligentAgent-SimpleReflex.png" decoding="async" width="408" height="301" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/3/3f/IntelligentAgent-SimpleReflex.png 1.5x" data-file-width="480" data-file-height="354"></a> 
+     <div class="thumbcaption">
+      <div class="magnify">
+       <a href="/wiki/File:IntelligentAgent-SimpleReflex.png" class="internal" title="Enlarge"></a>
+      </div>Simple reflex agent
+     </div>
+    </div>
+   </div> 
+   <p>Intelligent agents are often described schematically as an abstract functional system similar to a computer program. For this reason, intelligent agents are sometimes called <b>abstract intelligent agents</b> (<b>AIA</b>) to distinguish them from their real world implementations as computer systems, biological systems, or organizations. Some definitions of intelligent agents emphasize their autonomy, and so prefer the term <b>autonomous intelligent agents</b>. Still others (notably <a href="#CITEREFRussellNorvig2003">Russell &amp; Norvig (2003)</a>) considered goal-directed behavior as the essence of intelligence and so prefer a term borrowed from <a href="/wiki/Economics" title="Economics">economics</a>, "<a href="/wiki/Rational_agent" title="Rational agent">rational agent</a>". </p>
+   <p>Intelligent agents in artificial intelligence are closely related to <a href="/wiki/Agent_(economics)" title="Agent (economics)">agents</a> in <a href="/wiki/Agent-based_computational_economics" title="Agent-based computational economics">economics</a>, and versions of the intelligent agent paradigm are studied in <a href="/wiki/Cognitive_science" title="Cognitive science">cognitive science</a>, <a href="/wiki/Ethic" class="mw-redirect" title="Ethic">ethics</a>, the philosophy of <a href="/wiki/Practical_reason" title="Practical reason">practical reason</a>, as well as in many <a href="/wiki/Interdisciplinary" class="mw-redirect" title="Interdisciplinary">interdisciplinary</a> <a href="/wiki/Socio-cognitive" title="Socio-cognitive">socio-cognitive</a> <a href="/wiki/Scientific_modelling" title="Scientific modelling">modeling</a> and computer <a href="/wiki/Social_simulation" title="Social simulation">social simulations</a>. </p>
+   <p>Intelligent agents are also closely related to <a href="/wiki/Software_agent" title="Software agent">software agents</a> (an autonomous computer program that carries out tasks on behalf of users). In <a href="/wiki/Computer_science" title="Computer science">computer science</a>, the term <i>intelligent agent</i> may be used to refer to a software agent that has some intelligence, regardless if it is not a rational agent by Russell and Norvig's definition. For example, autonomous programs used for operator assistance or <a href="/wiki/Data_mining" title="Data mining">data mining</a> (sometimes referred to as <i><a href="/wiki/Software_agent" title="Software agent">bots</a></i>) are also called "intelligent agents". </p> 
+   <div id="toc" class="toc">
+    <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+    <div class="toctitle" lang="en" dir="ltr">
+     <h2>Contents</h2>
+     <span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+    </div> 
+    <ul> 
+     <li class="toclevel-1 tocsection-1"><a href="#A_variety_of_definitions"><span class="tocnumber">1</span> <span class="toctext">A variety of definitions</span></a></li> 
+     <li class="toclevel-1 tocsection-2"><a href="#Structure_of_agents"><span class="tocnumber">2</span> <span class="toctext">Structure of agents</span></a></li> 
+     <li class="toclevel-1 tocsection-3"><a href="#Architectures"><span class="tocnumber">3</span> <span class="toctext">Architectures</span></a></li> 
+     <li class="toclevel-1 tocsection-4"><a href="#Classes"><span class="tocnumber">4</span> <span class="toctext">Classes</span></a> 
+      <ul> 
+       <li class="toclevel-2 tocsection-5"><a href="#Simple_reflex_agents"><span class="tocnumber">4.1</span> <span class="toctext">Simple reflex agents</span></a></li> 
+       <li class="toclevel-2 tocsection-6"><a href="#Model-based_reflex_agents"><span class="tocnumber">4.2</span> <span class="toctext">Model-based reflex agents</span></a></li> 
+       <li class="toclevel-2 tocsection-7"><a href="#Goal-based_agents"><span class="tocnumber">4.3</span> <span class="toctext">Goal-based agents</span></a></li> 
+       <li class="toclevel-2 tocsection-8"><a href="#Utility-based_agents"><span class="tocnumber">4.4</span> <span class="toctext">Utility-based agents</span></a></li> 
+       <li class="toclevel-2 tocsection-9"><a href="#Learning_agents"><span class="tocnumber">4.5</span> <span class="toctext">Learning agents</span></a></li> 
+      </ul> </li> 
+     <li class="toclevel-1 tocsection-10"><a href="#Hierarchies_of_agents"><span class="tocnumber">5</span> <span class="toctext">Hierarchies of agents</span></a></li> 
+     <li class="toclevel-1 tocsection-11"><a href="#Applications"><span class="tocnumber">6</span> <span class="toctext">Applications</span></a></li> 
+     <li class="toclevel-1 tocsection-12"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li> 
+     <li class="toclevel-1 tocsection-13"><a href="#Notes"><span class="tocnumber">8</span> <span class="toctext">Notes</span></a></li> 
+     <li class="toclevel-1 tocsection-14"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li> 
+     <li class="toclevel-1 tocsection-15"><a href="#External_links"><span class="tocnumber">10</span> <span class="toctext">External links</span></a></li> 
+    </ul> 
+   </div> 
+   <h2><span class="mw-headline" id="A_variety_of_definitions">A variety of definitions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Intelligent_agent&amp;action=edit&amp;section=1" title="Edit section: A variety of definitions">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <p>Intelligent agents have been defined in many different ways.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> According to <a href="/w/index.php?title=Nikola_Kasabov&amp;action=edit&amp;redlink=1" class="new" title="Nikola Kasabov (page does not exist)">Nikola Kasabov</a><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> AI systems should exhibit the following characteristics: </p> 
+   <ul>
+    <li>Accommodate new <a href="/wiki/Problem_solving" title="Problem solving">problem solving</a> rules incrementally</li> 
+    <li>Adapt <a href="/wiki/Online" class="mw-redirect" title="Online">online</a> and in <a href="/wiki/Real-time_computing" title="Real-time computing">real time</a></li> 
+    <li>Are able to analyze <a href="/wiki/Self-concept" title="Self-concept">themselves</a> in terms of behavior, error and success.</li> 
+    <li>Learn and improve through interaction with the environment (<a href="/wiki/Embodied_agent" title="Embodied agent">embodiment</a>)</li> 
+    <li>Learn quickly from large amounts of <a href="/wiki/Data_(computing)" title="Data (computing)">data</a></li> 
+    <li>Have memory-based exemplar <a href="/wiki/Computer_storage" class="mw-redirect" title="Computer storage">storage</a> and retrieval capacities</li> 
+    <li>Have <a href="/wiki/Parameter_(computer_science)" class="mw-redirect" title="Parameter (computer science)">parameters</a> to represent short and long term memory, age, forgetting, etc.</li>
+   </ul> 
+   <h2><span class="mw-headline" id="Structure_of_agents">Structure of agents</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Intelligent_agent&amp;action=edit&amp;section=2" title="Edit section: Structure of agents">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <p>A simple agent program can be defined mathematically as an <a href="/wiki/Function_(mathematics)" title="Function (mathematics)">function</a> f (called the "agent function")<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> which maps every possible <a href="/wiki/Percept_(artificial_intelligence)" title="Percept (artificial intelligence)">percepts</a> sequence to a possible action the agent can perform or to a coefficient, feedback element, function or constant that affects eventual actions: </p> 
+   <dl>
+    <dd>
+     <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+       <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle f:P^{\ast }\rightarrow A}"> 
+        <semantics> 
+         <mrow class="MJX-TeXAtom-ORD"> 
+          <mstyle displaystyle="true" scriptlevel="0"> 
+           <mi>
+            f
+           </mi> 
+           <mo>
+            :
+           </mo> 
+           <msup> 
+            <mi>
+             P
+            </mi> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mo>
+              ∗
+              <!-- ∗ -->
+             </mo> 
+            </mrow> 
+           </msup> 
+           <mo stretchy="false">
+            →
+            <!-- → -->
+           </mo> 
+           <mi>
+            A
+           </mi> 
+          </mstyle> 
+         </mrow> 
+         <annotation encoding="application/x-tex">
+          {\displaystyle f:P^{\ast }\rightarrow A}
+         </annotation> 
+        </semantics> 
+       </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/16ab099fefe177b93572b9922194d8894910ed77" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:11.449ex; height:2.676ex;" alt="f:P^{\ast }\rightarrow A"></span>
+    </dd>
+   </dl> 
+   <p>Agent function is an abstract concept as it could incorporate various principles of decision making like calculation of <a href="/wiki/Utility" title="Utility">utility</a> of individual options, deduction over logic rules, <a href="/wiki/Fuzzy_logic" title="Fuzzy logic">fuzzy logic</a>, etc.<sup id="cite_ref-Salamon2011_5-0" class="reference"><a href="#cite_note-Salamon2011-5">[5]</a></sup> </p>
+   <p>The <a href="/w/index.php?title=Program_agent&amp;action=edit&amp;redlink=1" class="new" title="Program agent (page does not exist)">program agent</a>, instead, maps every possible percept to an action<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (August 2017)">citation needed</span></a></i>]</sup>. </p>
+   <p>We use the term percept to refer to the agent's perceptional inputs at any given instant. In the following figures an agent is anything that can be viewed as perceiving its environment through sensors and acting upon that environment through actuators. </p> 
+   <h2><span class="mw-headline" id="Architectures">Architectures</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Intelligent_agent&amp;action=edit&amp;section=3" title="Edit section: Architectures">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <p><a href="#CITEREFWeiss2013">Weiss (2013)</a> defines four classes of agents: </p> 
+   <ul>
+    <li>Logic-based agents – in which the decision about what action to perform is made via logical deduction;</li> 
+    <li>Reactive agents – in which decision making is implemented in some form of direct mapping from situation to action;</li> 
+    <li>Belief-desire-intention agents – in which decision making depends upon the manipulation of data structures representing the beliefs, desires, and intentions of the agent; and finally,</li> 
+    <li>Layered architectures – in which decision making is realized via various software layers, each of which is more or less explicitly reasoning about the environment at different levels of abstraction.</li>
+   </ul> 
+   <p>Generally, an agent can be constructed by separating the body into the sensors and actuators, and so that it operates with a complex perception system that takes the description of the world as input for a controller and outputs commands to the actuator. However, a hierarchy of controller layers is often necessary to balance the immediate reaction desired for low-level tasks and the slow reasoning about complex, high-level goals.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> </p> 
+   <h2><span class="mw-headline" id="Classes">Classes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Intelligent_agent&amp;action=edit&amp;section=4" title="Edit section: Classes">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <div class="thumb tright">
+    <div class="thumbinner" style="width:410px;">
+     <a href="/wiki/File:Simple_reflex_agent.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Simple_reflex_agent.png/408px-Simple_reflex_agent.png" decoding="async" width="408" height="179" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Simple_reflex_agent.png/612px-Simple_reflex_agent.png 1.5x, //upload.wikimedia.org/wikipedia/commons/9/91/Simple_reflex_agent.png 2x" data-file-width="708" data-file-height="311"></a> 
+     <div class="thumbcaption">
+      <div class="magnify">
+       <a href="/wiki/File:Simple_reflex_agent.png" class="internal" title="Enlarge"></a>
+      </div>Simple reflex agent
+     </div>
+    </div>
+   </div> 
+   <div class="thumb tright">
+    <div class="thumbinner" style="width:410px;">
+     <a href="/wiki/File:Model_based_reflex_agent.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Model_based_reflex_agent.png/408px-Model_based_reflex_agent.png" decoding="async" width="408" height="179" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Model_based_reflex_agent.png/612px-Model_based_reflex_agent.png 1.5x, //upload.wikimedia.org/wikipedia/commons/8/8d/Model_based_reflex_agent.png 2x" data-file-width="708" data-file-height="311"></a> 
+     <div class="thumbcaption">
+      <div class="magnify">
+       <a href="/wiki/File:Model_based_reflex_agent.png" class="internal" title="Enlarge"></a>
+      </div>Model-based reflex agent
+     </div>
+    </div>
+   </div> 
+   <div class="thumb tright">
+    <div class="thumbinner" style="width:410px;">
+     <a href="/wiki/File:Model_based_goal_based_agent.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Model_based_goal_based_agent.png/408px-Model_based_goal_based_agent.png" decoding="async" width="408" height="236" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Model_based_goal_based_agent.png/612px-Model_based_goal_based_agent.png 1.5x, //upload.wikimedia.org/wikipedia/commons/4/4f/Model_based_goal_based_agent.png 2x" data-file-width="708" data-file-height="410"></a> 
+     <div class="thumbcaption">
+      <div class="magnify">
+       <a href="/wiki/File:Model_based_goal_based_agent.png" class="internal" title="Enlarge"></a>
+      </div>Model-based, goal-based agent
+     </div>
+    </div>
+   </div> 
+   <div class="thumb tright">
+    <div class="thumbinner" style="width:410px;">
+     <a href="/wiki/File:Model_based_utility_based.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Model_based_utility_based.png/408px-Model_based_utility_based.png" decoding="async" width="408" height="309" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Model_based_utility_based.png/612px-Model_based_utility_based.png 1.5x, //upload.wikimedia.org/wikipedia/commons/d/d8/Model_based_utility_based.png 2x" data-file-width="708" data-file-height="537"></a> 
+     <div class="thumbcaption">
+      <div class="magnify">
+       <a href="/wiki/File:Model_based_utility_based.png" class="internal" title="Enlarge"></a>
+      </div>Model-based, utility-based agent
+     </div>
+    </div>
+   </div> 
+   <div class="thumb tright">
+    <div class="thumbinner" style="width:410px;">
+     <a href="/wiki/File:IntelligentAgent-Learning.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/IntelligentAgent-Learning.png/408px-IntelligentAgent-Learning.png" decoding="async" width="408" height="250" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/IntelligentAgent-Learning.png/612px-IntelligentAgent-Learning.png 1.5x, //upload.wikimedia.org/wikipedia/commons/0/09/IntelligentAgent-Learning.png 2x" data-file-width="620" data-file-height="380"></a> 
+     <div class="thumbcaption">
+      <div class="magnify">
+       <a href="/wiki/File:IntelligentAgent-Learning.png" class="internal" title="Enlarge"></a>
+      </div>A general learning agent
+     </div>
+    </div>
+   </div> 
+   <p><a href="#CITEREFRussellNorvig2003">Russell &amp; Norvig (2003)</a> group agents into five classes based on their degree of perceived intelligence and capability:<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> </p> 
+   <ol>
+    <li>simple reflex agents</li> 
+    <li>model-based reflex agents</li> 
+    <li>goal-based agents</li> 
+    <li>utility-based agents</li> 
+    <li>learning agents</li>
+   </ol> 
+   <h3><span class="mw-headline" id="Simple_reflex_agents">Simple reflex agents</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Intelligent_agent&amp;action=edit&amp;section=5" title="Edit section: Simple reflex agents">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+   <p>Simple reflex agents act only on the basis of the current percept, ignoring the rest of the percept history. The agent function is based on the <i>condition-action rule</i>: "if condition, then action". </p>
+   <p>This agent function only succeeds when the environment is fully observable. Some reflex agents can also contain information on their current state which allows them to disregard conditions whose actuators are already triggered. </p>
+   <p>Infinite loops are often unavoidable for simple reflex agents operating in partially observable environments. Note: If the agent can randomize its actions, it may be possible to escape from infinite loops. </p> 
+   <h3><span class="mw-headline" id="Model-based_reflex_agents">Model-based reflex agents</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Intelligent_agent&amp;action=edit&amp;section=6" title="Edit section: Model-based reflex agents">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+   <p>A model-based agent can handle partially observable environments. Its current state is stored inside the agent maintaining some kind of structure which describes the part of the world which cannot be seen. This knowledge about "how the world works" is called a model of the world, hence the name "model-based agent". </p>
+   <p>A model-based reflex agent should maintain some sort of <a href="/wiki/Mental_model" title="Mental model">internal model</a> that depends on the percept history and thereby reflects at least some of the unobserved aspects of the current state. Percept history and impact of action on the environment can be determined by using internal model. It then chooses an action in the same way as reflex agent. </p>
+   <p>An agent may also use models to describe and predict the behaviors of other agents in the environment.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> </p> 
+   <h3><span class="mw-headline" id="Goal-based_agents">Goal-based agents</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Intelligent_agent&amp;action=edit&amp;section=7" title="Edit section: Goal-based agents">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+   <p>Goal-based agents further expand on the capabilities of the model-based agents, by using "goal" information. Goal information describes situations that are desirable. This allows the agent a way to choose among multiple possibilities, selecting the one which reaches a goal state. Search and <a href="/wiki/Automated_planning_and_scheduling" title="Automated planning and scheduling">planning</a> are the subfields of artificial intelligence devoted to finding action sequences that achieve the agent's goals. </p> 
+   <h3><span class="mw-headline" id="Utility-based_agents">Utility-based agents</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Intelligent_agent&amp;action=edit&amp;section=8" title="Edit section: Utility-based agents">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+   <p>Goal-based agents only distinguish between goal states and non-goal states. It is possible to define a measure of how desirable a particular state is. This measure can be obtained through the use of a <i>utility function</i> which maps a state to a measure of the utility of the state. A more general performance measure should allow a <a href="/wiki/Comparison_(computer_programming)" class="mw-redirect" title="Comparison (computer programming)">comparison</a> of different world states according to exactly how happy they would make the agent. The term utility can be used to describe how "happy" the agent is. </p>
+   <p>A rational utility-based agent chooses the action that maximizes the expected utility of the action outcomes - that is, what the agent expects to derive, on average, given the probabilities and utilities of each outcome. A utility-based agent has to model and keep track of its environment, tasks that have involved a great deal of research on perception, representation, reasoning, and learning. </p> 
+   <h3><span class="mw-headline" id="Learning_agents">Learning agents</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Intelligent_agent&amp;action=edit&amp;section=9" title="Edit section: Learning agents">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+   <p>Learning has the advantage that it allows the agents to initially operate in unknown environments and to become more competent than its initial knowledge alone might allow. The most important distinction is between the "learning element", which is responsible for making improvements, and the "performance element", which is responsible for selecting external actions. </p>
+   <p>The learning element uses feedback from the "critic" on how the agent is doing and determines how the performance element should be modified to do better in the future. The performance element is what we have previously considered to be the entire agent: it takes in percepts and decides on actions. </p>
+   <p>The last component of the learning agent is the "problem generator". It is responsible for suggesting actions that will lead to new and informative experiences. </p> 
+   <h2><span class="mw-headline" id="Hierarchies_of_agents">Hierarchies of agents</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Intelligent_agent&amp;action=edit&amp;section=10" title="Edit section: Hierarchies of agents">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <div role="note" class="hatnote navigation-not-searchable">
+    Main article: 
+    <a href="/wiki/Multi-agent_system" title="Multi-agent system">Multi-agent system</a>
+   </div> 
+   <p>To actively perform their <a href="/wiki/Function_(engineering)" title="Function (engineering)">functions</a>, Intelligent Agents today are normally gathered in a hierarchical structure containing many “sub-agents”. Intelligent sub-agents process and perform lower level functions. Taken together, the intelligent agent and sub-agents create a complete system that can accomplish difficult tasks or goals with behaviors and responses that display a form of intelligence. </p> 
+   <h2><span class="mw-headline" id="Applications">Applications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Intelligent_agent&amp;action=edit&amp;section=11" title="Edit section: Applications">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <div class="thumb tright">
+    <div class="thumbinner" style="width:202px;">
+     <a href="/wiki/File:Automated_online_assistant.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Automated_online_assistant.png/200px-Automated_online_assistant.png" decoding="async" width="200" height="251" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Automated_online_assistant.png/300px-Automated_online_assistant.png 1.5x, //upload.wikimedia.org/wikipedia/commons/8/8b/Automated_online_assistant.png 2x" data-file-width="400" data-file-height="501"></a> 
+     <div class="thumbcaption">
+      <div class="magnify">
+       <a href="/wiki/File:Automated_online_assistant.png" class="internal" title="Enlarge"></a>
+      </div>An example of an 
+      <a href="/wiki/Automated_online_assistant" class="mw-redirect" title="Automated online assistant">automated online assistant</a> providing automated customer service on a webpage.
+     </div>
+    </div>
+   </div> 
+   <p>Intelligent agents are applied as <a href="/wiki/Automated_online_assistant" class="mw-redirect" title="Automated online assistant">automated online assistants</a>, where they function to perceive the needs of customers in order to perform individualized <a href="/wiki/Customer_service" title="Customer service">customer service</a>. Such an agent may basically consist of a <a href="/wiki/Dialog_system" class="mw-redirect" title="Dialog system">dialog system</a>, an <a href="/wiki/Avatar_(computer)" class="mw-redirect" title="Avatar (computer)">avatar</a>, as well an <a href="/wiki/Expert_system" title="Expert system">expert system</a> to provide specific expertise to the user.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> They can also be used to optimize coordination of human groups online.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> </p> 
+   <h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Intelligent_agent&amp;action=edit&amp;section=12" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <ul>
+    <li><a href="/wiki/Software_agent" title="Software agent">Software agent</a></li> 
+    <li><a href="/wiki/Cognitive_architecture" title="Cognitive architecture">Cognitive architectures</a></li> 
+    <li><a href="/wiki/Cognitive_radio" title="Cognitive radio">Cognitive radio</a> – a practical field for implementation</li> 
+    <li><a href="/wiki/Cybernetics" title="Cybernetics">Cybernetics</a>, <a href="/wiki/Computer_science" title="Computer science">Computer science</a></li> 
+    <li>Data mining agent</li> 
+    <li><a href="/wiki/Embodied_agent" title="Embodied agent">Embodied agent</a></li> 
+    <li><a href="/wiki/Federated_search" title="Federated search">Federated search</a> – the ability for agents to search heterogeneous data sources using a single vocabulary</li> 
+    <li><a href="/wiki/Fuzzy_agent" title="Fuzzy agent">Fuzzy agents</a> – IA implemented with adaptive <a href="/wiki/Fuzzy_logic" title="Fuzzy logic">fuzzy logic</a></li> 
+    <li><a href="/wiki/GOAL_agent_programming_language" title="GOAL agent programming language">GOAL agent programming language</a></li> 
+    <li><a href="/wiki/Intelligence" title="Intelligence">Intelligence</a></li> 
+    <li><a href="/wiki/Artificial_intelligence" title="Artificial intelligence">Intelligent system</a></li> 
+    <li><a href="/wiki/JACK_Intelligent_Agents" title="JACK Intelligent Agents">JACK Intelligent Agents</a></li> 
+    <li><a href="/wiki/Multi-agent_system" title="Multi-agent system">Multi-agent system</a> and <a href="/wiki/Multiple-agent_system" class="mw-redirect" title="Multiple-agent system">multiple-agent system</a> – multiple interactive agents</li> 
+    <li><a href="/w/index.php?title=PEAS&amp;action=edit&amp;redlink=1" class="new" title="PEAS (page does not exist)">PEAS</a> classification of an agent's environment</li> 
+    <li><a href="/wiki/Reinforcement_learning" title="Reinforcement learning">Reinforcement learning</a></li> 
+    <li><a href="/wiki/Semantic_Web" title="Semantic Web">Semantic Web</a> – making data on the Web available for automated processing by agents</li> 
+    <li><a href="/wiki/Simulated_reality" title="Simulated reality">Simulated reality</a></li> 
+    <li><a href="/wiki/Social_simulation" title="Social simulation">Social simulation</a></li> 
+    <li><a href="/w/index.php?title=Era_of_intelligent_agents&amp;action=edit&amp;redlink=1" class="new" title="Era of intelligent agents (page does not exist)">Era of intelligent agents</a></li>
+   </ul> 
+   <h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Intelligent_agent&amp;action=edit&amp;section=13" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <div class="reflist" style="list-style-type: decimal;"> 
+    <div class="mw-references-wrap">
+     <ol class="references"> 
+      <li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">According to the definition given by <a href="#CITEREFRussellNorvig2003">Russell &amp; Norvig (2003</a>, chpt. 2)</span> </li> 
+      <li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Some definitions are examined by <a href="#CITEREFFranklinGraesser1996">Franklin &amp; Graesser 1996</a> and <a href="#CITEREFKasabov1998">Kasabov 1998</a>.</span> </li> 
+      <li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a href="#CITEREFKasabov1998">Kasabov 1998</a></span> </li> 
+      <li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a href="#CITEREFRussellNorvig2003">Russell &amp; Norvig 2003</a>, p.&nbsp;33</span> </li> 
+      <li id="cite_note-Salamon2011-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-Salamon2011_5-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Salamon, Tomas (2011). <a rel="nofollow" class="external text" href="http://www.designofagentbasedmodels.info/"><i>Design of Agent-Based Models</i></a>. Repin: Bruckner Publishing. pp.&nbsp;42–59. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-80-904661-1-1" title="Special:BookSources/978-80-904661-1-1"><bdi>978-80-904661-1-1</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Design+of+Agent-Based+Models&amp;rft.place=Repin&amp;rft.pages=42-59&amp;rft.pub=Bruckner+Publishing&amp;rft.date=2011&amp;rft.isbn=978-80-904661-1-1&amp;rft.aulast=Salamon&amp;rft.aufirst=Tomas&amp;rft_id=http%3A%2F%2Fwww.designofagentbasedmodels.info%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIntelligent+agent" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span> </li> 
+      <li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web">Poole, David; Mackworth, Alan. <a rel="nofollow" class="external text" href="https://artint.info/2e/html/ArtInt2e.Ch2.S3.html">"1.3 Agents Situated in Environments‣ Chapter 2 Agent Architectures and Hierarchical Control‣ Artificial Intelligence: Foundations of Computational Agents, 2nd Edition"</a>. <i>artint.info</i><span class="reference-accessdate">. Retrieved <span class="nowrap">28 November</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=artint.info&amp;rft.atitle=1.3+Agents+Situated+in+Environments%E2%80%A3+Chapter+2+Agent+Architectures+and+Hierarchical+Control%E2%80%A3+Artificial+Intelligence%3A+Foundations+of+Computational+Agents%2C+2nd+Edition&amp;rft.aulast=Poole&amp;rft.aufirst=David&amp;rft.au=Mackworth%2C+Alan&amp;rft_id=https%3A%2F%2Fartint.info%2F2e%2Fhtml%2FArtInt2e.Ch2.S3.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIntelligent+agent" class="Z3988"></span>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+      <li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a href="#CITEREFRussellNorvig2003">Russell &amp; Norvig 2003</a>, pp.&nbsp;46–54</span> </li> 
+      <li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">S.V. Albrecht and P. Stone (2018). Autonomous Agents Modelling Other Agents: A Comprehensive Survey and Open Problems. Artificial Intelligence, Vol. 258, pp. 66-95. <a rel="nofollow" class="external free" href="https://doi.org/10.1016/j.artint.2018.01.002">https://doi.org/10.1016/j.artint.2018.01.002</a></span> </li> 
+      <li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><i>Providing Language Instructor with Artificial Intelligence Assistant</i>. By Krzysztof Pietroszek. International Journal of Emerging Technologies in Learning (iJET), Vol 2, No 4 (2007) <a rel="nofollow" class="external autonumber" href="http://online-journals.org/i-jet/article/viewArticle/142">[1]</a> <cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20120307161853/http://www.doaj.org/doaj?func=abstract&amp;id=239747">"Archived copy"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.doaj.org/doaj?func=abstract&amp;id=239747">the original</a> on 2012-03-07<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-01-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Archived+copy&amp;rft_id=http%3A%2F%2Fwww.doaj.org%2Fdoaj%3Ffunc%3Dabstract%26id%3D239747&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIntelligent+agent" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: Archived copy as title (<a href="/wiki/Category:CS1_maint:_Archived_copy_as_title" title="Category:CS1 maint: Archived copy as title">link</a>)</span>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+      <li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation journal">Shirado, Hirokazu; Christakis, Nicholas A (2017). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC5912653">"Locally noisy autonomous agents im

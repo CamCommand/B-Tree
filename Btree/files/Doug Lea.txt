@@ -1,0 +1,112 @@
+<div id="bodyContent" class="mw-body-content"> 
+ <div id="siteSub" class="noprint">
+  From Wikipedia, the free encyclopedia
+ </div> 
+ <div id="contentSub"></div> 
+ <div id="jump-to-nav"></div> 
+ <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> 
+ <a class="mw-jump-link" href="#p-search">Jump to search</a> 
+ <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+  <div class="mw-parser-output">
+   <p><b>Douglas S. Lea</b> is a <a href="/wiki/Professor" title="Professor">professor</a> of <a href="/wiki/Computer_science" title="Computer science">computer science</a> and current head of the <a href="/wiki/Computer_science" title="Computer science">computer science</a> department at <a href="/wiki/SUNY_Oswego" class="mw-redirect" title="SUNY Oswego">State University of New York at Oswego</a>, where he specializes in <a href="/wiki/Concurrent_programming" class="mw-redirect" title="Concurrent programming">concurrent programming</a> and the design of <a href="/wiki/Concurrent_data_structure" title="Concurrent data structure">concurrent data structures</a>. He was on the Executive Committee of the <a href="/wiki/Java_Community_Process" title="Java Community Process">Java Community Process</a> and chaired JSR 166, which added <a href="/wiki/Concurrency_(computer_science)" title="Concurrency (computer science)">concurrency</a> <a href="/wiki/Utility_(computer_science)" class="mw-redirect" title="Utility (computer science)">utilities</a> to the <a href="/wiki/Java_(programming_language)" title="Java (programming language)">Java programming language</a> (see <a href="/wiki/Java_concurrency" title="Java concurrency">Java concurrency</a>). On October 22, 2010, Doug Lea notified the <a href="/wiki/Java_Community_Process" title="Java Community Process">Java Community Process</a> Executive Committee he would not stand for reelection.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Lea was re-elected as an at-large member for the 2012 <a href="/wiki/OpenJDK" title="OpenJDK">OpenJDK</a> governing board.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> </p>
+   <p>He wrote <i>Concurrent Programming in Java: Design Principles and Patterns</i>, one of the first books about the subject. It is currently in its second edition. He is also the author of <a href="/wiki/Malloc#dlmalloc" class="mw-redirect" title="Malloc">dlmalloc</a>,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> a widely used public-domain implementation of <a href="/wiki/Malloc" class="mw-redirect" title="Malloc">malloc</a>. </p>
+   <p>In 2013, he became a <a href="/wiki/List_of_Fellows_of_the_Association_for_Computing_Machinery" title="List of Fellows of the Association for Computing Machinery">Fellow of the Association for Computing Machinery</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> </p> 
+   <h2><span class="mw-headline" id="Bibliography">Bibliography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Doug_Lea&amp;action=edit&amp;section=1" title="Edit section: Bibliography">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <ul>
+    <li><i>Concurrent Programming in Java: Design Principles and Patterns</i>, first edition: 1997; second edition: <style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/0-201-31009-0" title="Special:BookSources/0-201-31009-0">0-201-31009-0</a>, 1999</li> 
+    <li><i>Java Concurrency in Practice</i>, 
+     <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/0-321-34960-1" title="Special:BookSources/0-321-34960-1">0-321-34960-1</a>, 2006 (co-authored with <a href="/wiki/Joshua_Bloch" title="Joshua Bloch">Joshua Bloch</a>, <a href="/w/index.php?title=Brian_Goetz&amp;action=edit&amp;redlink=1" class="new" title="Brian Goetz (page does not exist)">Brian Goetz</a>, Tim Peierls, Joseph Bowbeer, and David Holmes)</li>
+   </ul> 
+   <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Doug_Lea&amp;action=edit&amp;section=2" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <div class="reflist" style="list-style-type: decimal;"> 
+    <div class="mw-references-wrap">
+     <ol class="references"> 
+      <li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://gee.cs.oswego.edu/dl/html/jcp22oct10.html">"To: JCP Executive Committee Members"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2012-04-16</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=To%3A+JCP+Executive+Committee+Members&amp;rft_id=http%3A%2F%2Fgee.cs.oswego.edu%2Fdl%2Fhtml%2Fjcp22oct10.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADoug+Lea" class="Z3988"></span>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+      <li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://mail.openjdk.java.net/pipermail/announce/2012-April/000122.html">"OpenJDK Governing Board 2012 Election: Results"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2012-04-16</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=OpenJDK+Governing+Board+2012+Election%3A+Results&amp;rft_id=http%3A%2F%2Fmail.openjdk.java.net%2Fpipermail%2Fannounce%2F2012-April%2F000122.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADoug+Lea" class="Z3988"></span>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+      <li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://gee.cs.oswego.edu/pub/misc/malloc.c">gee.cs.oswego.edu/pub/misc/malloc.c</a></span> </li> 
+      <li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.acm.org/press-room/news-releases/2013/fellows-2013">ACM Names Fellows for Computing Advances that Are Transforming Science and Society</a>, <a href="/wiki/Association_for_Computing_Machinery" title="Association for Computing Machinery">Association for Computing Machinery</a>, accessed 2013-12-10.</span> </li> 
+     </ol>
+    </div>
+   </div> 
+   <h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Doug_Lea&amp;action=edit&amp;section=3" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <ul>
+    <li><a rel="nofollow" class="external text" href="http://gee.cs.oswego.edu/dl/index.html">Doug Lea's home page</a> 
+     <ul>
+      <li><a rel="nofollow" class="external text" href="http://gee.cs.oswego.edu/dl/cpj/">Concurrent Programming in Java: Design Principles and Patterns</a></li>
+     </ul></li> 
+    <li><a rel="nofollow" class="external text" href="http://www.jcp.org/en/participation/committee">Java Community Process Executive Committee</a></li> 
+    <li><a rel="nofollow" class="external text" href="http://www.jcp.org/en/jsr/detail?id=166">JSR 166: Concurrency Utilities</a></li>
+   </ul> 
+   <div role="navigation" class="navbox" aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q5300655&amp;#124;Edit_this_at_Wikidata" style="padding:3px">
+    <table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+     <tbody>
+      <tr>
+       <th id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q5300655&amp;#124;Edit_this_at_Wikidata" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q5300655" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/15px-Blue_pencil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png 2x" data-file-width="600" data-file-height="600"></a></th>
+       <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><span class="nowrap"><a href="/wiki/ACM_Digital_Library" class="mw-redirect" title="ACM Digital Library">ACM DL</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://dl.acm.org/author_page.cfm?id=81100271749">81100271749</a></span></span></li> 
+          <li><span class="nowrap"><a href="/wiki/DBLP" title="DBLP">DBLP</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://dblp.org/pid/l/DougLea">l/DougLea</a></span></span></li> 
+          <li><span class="nowrap"><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni.org/isni/0000000110373896">0000 0001 1037 3896</a></span></span></li> 
+          <li><span class="nowrap"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/names/n93005787">n93005787</a></span></span></li> 
+          <li><span class="nowrap"><a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.idref.fr/070273308">070273308</a></span></span></li> 
+          <li><span class="nowrap"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/8121803">8121803</a></span></span></li> 
+          <li><span class="nowrap"> <a href="/wiki/WorldCat_Identities" class="mw-redirect" title="WorldCat Identities">WorldCat Identities</a> (via VIAF): <a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/8121803">8121803</a></span></li>
+         </ul> 
+        </div></td>
+      </tr>
+     </tbody>
+    </table>
+   </div> 
+   <p><br> </p> 
+   <table class="metadata plainlinks stub" role="presentation" style="background:transparent">
+    <tbody>
+     <tr>
+      <td><a href="/wiki/File:Desktop_computer_clipart_-_Yellow_theme.svg" class="image"><img alt="Stub icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Desktop_computer_clipart_-_Yellow_theme.svg/40px-Desktop_computer_clipart_-_Yellow_theme.svg.png" decoding="async" width="40" height="29" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Desktop_computer_clipart_-_Yellow_theme.svg/60px-Desktop_computer_clipart_-_Yellow_theme.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Desktop_computer_clipart_-_Yellow_theme.svg/80px-Desktop_computer_clipart_-_Yellow_theme.svg.png 2x" data-file-width="281" data-file-height="203"></a></td>
+      <td><i>This biographical article relating to a computer specialist is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="//en.wikipedia.org/w/index.php?title=Doug_Lea&amp;action=edit">expanding it</a>.</i>
+       <div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;">
+        <ul>
+         <li class="nv-view"><a href="/wiki/Template:Compu-bio-stub" title="Template:Compu-bio-stub"><abbr title="View this template">v</abbr></a></li>
+         <li class="nv-talk"><a href="/wiki/Template_talk:Compu-bio-stub" title="Template talk:Compu-bio-stub"><abbr title="Discuss this template">t</abbr></a></li>
+         <li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Compu-bio-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+        </ul>
+       </div></td>
+     </tr>
+    </tbody>
+   </table> 
+   <!-- 
+NewPP limit report
+Parsed by mw1271
+Cached time: 20190425143651
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.180 seconds
+Real time usage: 0.270 seconds
+Preprocessor visited node count: 609/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 12623/2097152 bytes
+Template argument size: 948/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 6/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 10092/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.078/10.000 seconds
+Lua memory usage: 2.56 MB/50 MB
+--> 
+   <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  243.119      1 -total
+ 37.56%   91.321      2 Template:ISBN
+ 30.69%   74.620      1 Template:Reflist
+ 25.53%   62.057      2 Template:Cite_web
+ 25.46%   61.908      1 Template:Authority_control
+ 24.80%   60.302      2 Template:Catalog_lookup_link
+  6.12%   14.889      1 Template:Compu-bio-stub
+  5.20%   12.634      1 Template:Asbox
+  5.02%   12.212      2 Template:Error-small
+  3.99%    9.697      2 Template:Small
+--> 
+   <!-- Saved in parser cache with key enwiki:pcache:idhash:

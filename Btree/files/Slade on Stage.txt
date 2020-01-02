@@ -1,0 +1,434 @@
+<div id="bodyContent" class="mw-body-content"> 
+ <div id="siteSub" class="noprint">
+  From Wikipedia, the free encyclopedia
+ </div> 
+ <div id="contentSub"></div> 
+ <div id="jump-to-nav"></div> 
+ <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> 
+ <a class="mw-jump-link" href="#p-search">Jump to search</a> 
+ <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+  <div class="mw-parser-output">
+   <p class="mw-empty-elt"> </p>
+   <p class="mw-empty-elt"> </p> 
+   <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">
+    1982 live album by Slade
+   </div>
+   <table class="infobox vevent haudio" style="width:22em">
+    <tbody>
+     <tr>
+      <th colspan="2" class="summary album" style="text-align:center;font-size:125%;font-weight:bold;font-style: italic; background-color: burlywood">Slade on Stage</th>
+     </tr>
+     <tr>
+      <td colspan="2" style="text-align:center"><a href="/wiki/File:Slade_On_Stage.jpg" class="image"><img alt="Slade On Stage.jpg" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f0/Slade_On_Stage.jpg/220px-Slade_On_Stage.jpg" decoding="async" width="220" height="214" srcset="//upload.wikimedia.org/wikipedia/en/f/f0/Slade_On_Stage.jpg 1.5x" data-file-width="308" data-file-height="300"></a></td>
+     </tr>
+     <tr>
+      <th colspan="2" class="description" style="text-align:center;background-color: burlywood"><a href="/wiki/Album#Live" title="Album">Live album</a> by 
+       <div class="contributor" style="display:inline">
+        <a href="/wiki/Slade" title="Slade">Slade</a>
+       </div></th>
+     </tr>
+     <tr>
+      <th scope="row">Released</th>
+      <td class="published">11 December 1982</td>
+     </tr>
+     <tr>
+      <th scope="row"><a href="/wiki/Music_genre" title="Music genre">Genre</a></th>
+      <td class="category hlist"><a href="/wiki/Hard_rock" title="Hard rock">Hard rock</a></td>
+     </tr>
+     <tr>
+      <th scope="row">Length</th>
+      <td><span class="duration"><span class="min">41</span>:<span class="s">38</span></span></td>
+     </tr>
+     <tr>
+      <th scope="row"><a href="/wiki/Record_label" title="Record label">Label</a></th>
+      <td class="hlist"><a href="/wiki/RCA" title="RCA">RCA</a></td>
+     </tr>
+     <tr>
+      <th scope="row"><a href="/wiki/Record_producer" title="Record producer">Producer</a></th>
+      <td class="hlist"><a href="/wiki/Slade" title="Slade">Slade</a></td>
+     </tr>
+     <tr>
+      <th colspan="2" class="description" style="text-align:center;background-color: burlywood"><a href="/wiki/Slade" title="Slade">Slade</a> chronology</th>
+     </tr>
+     <tr>
+      <td colspan="2" style="text-align:center"> 
+       <table style="background: transparent; width: 100%; min-width: 100%; border-collapse: collapse"> 
+        <tbody>
+         <tr style="line-height: 1.4em;"> 
+          <td style="width: 33%; text-align: center; vertical-align: top; padding: .2em .1em .2em 0"><i><a href="/wiki/Til_Deaf_Do_Us_Part" class="mw-redirect" title="Til Deaf Do Us Part">Til Deaf Do Us Part</a></i><br>(1981) </td> 
+          <td style="width: 33%; text-align: center; vertical-align: top; padding: .2em .1em"><i><b>Slade on Stage</b></i><br>(1982) </td> 
+          <td style="width: 33%; text-align: center; vertical-align: top; padding: .2em 0 .2em .1em"><i><a href="/wiki/The_Amazing_Kamikaze_Syndrome" title="The Amazing Kamikaze Syndrome">The Amazing Kamikaze Syndrome</a></i><br>(1983) </td>
+         </tr>
+        </tbody>
+       </table></td>
+     </tr>
+    </tbody>
+   </table> 
+   <p><i><b>Slade on Stage</b></i> is the third live album by the British <a href="/wiki/Rock_music" title="Rock music">rock</a> band <a href="/wiki/Slade" title="Slade">Slade</a>. It was recorded at <a href="/wiki/Newcastle_City_Hall" title="Newcastle City Hall">Newcastle City Hall</a> on 18 December 1981 and released almost a year later on 11 December 1982. The album, produced by the band, reached No. 58 in the UK.<sup id="cite_ref-officialcharts1_1-0" class="reference"><a href="#cite_note-officialcharts1-1">[1]</a></sup> </p> 
+   <div id="toc" class="toc">
+    <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+    <div class="toctitle" lang="en" dir="ltr">
+     <h2>Contents</h2>
+     <span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+    </div> 
+    <ul> 
+     <li class="toclevel-1 tocsection-1"><a href="#Background"><span class="tocnumber">1</span> <span class="toctext">Background</span></a></li> 
+     <li class="toclevel-1 tocsection-2"><a href="#Critical_reception"><span class="tocnumber">2</span> <span class="toctext">Critical reception</span></a></li> 
+     <li class="toclevel-1 tocsection-3"><a href="#Track_listing"><span class="tocnumber">3</span> <span class="toctext">Track listing</span></a></li> 
+     <li class="toclevel-1 tocsection-4"><a href="#Personnel"><span class="tocnumber">4</span> <span class="toctext">Personnel</span></a></li> 
+     <li class="toclevel-1 tocsection-5"><a href="#Chart_performance"><span class="tocnumber">5</span> <span class="toctext">Chart performance</span></a></li> 
+     <li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li> 
+    </ul> 
+   </div> 
+   <h2><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Slade_on_Stage&amp;action=edit&amp;section=1" title="Edit section: Background">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <p>Following Slade's performance at the Reading festival in 1980, interest in the band was revived and a major record deal with RCA signed. During the tour to promote the band's 1981 album <i><a href="/wiki/Til_Deaf_Do_Us_Part" class="mw-redirect" title="Til Deaf Do Us Part">Til Deaf Do Us Part</a></i>, the band decided to record their concert at Newcastle City Hall on the RAK mobile. Produced and mixed at Portland Studios in London, <i>Slade on Stage</i> was released in December 1982 and reached No. 58 in the UK. </p>
+   <p> Speaking to <i><a href="/wiki/Kerrang!" title="Kerrang!">Kerrang!</a></i> in 1982, Holder said of the album: <style data-mw-deduplicate="TemplateStyles:r886047036">.mw-parser-output .templatequote{overflow:hidden;margin:1em 0;padding:0 40px}.mw-parser-output .templatequote .templatequotecite{line-height:1.5em;text-align:left;padding-left:1.6em;margin-top:0}</style></p>
+   <blockquote class="templatequote">
+    <p>"I think we've managed to keep the excitement of the gig virtually intact. It's true we had to do a few studio bits to tart it up, but these have been kept to a minimum. You've always got to remember that somebody is gonna pay hard earned cash for this record. And, whilst every effort should be made to preserve the atmosphere of a thing, if adding a few touches to it can enhance the final sound, then I think you owe it to the punter to do just that. With <i>Slade on Stage</i>, though, all we've done is to make up for bits where, for example, a guitar string broke or something. Oh yeah, and we had to cut out part of the audience as well, 'cos one of the microphones in the auditorium was set up next to a loony. He kept on shouting into it "bastard!" at the top of his voice, so obviously that had to go. But, apart from those things, everything is faithful to the show."<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> </p>
+   </blockquote> 
+   <h2><span class="mw-headline" id="Critical_reception">Critical reception</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Slade_on_Stage&amp;action=edit&amp;section=2" title="Edit section: Critical reception">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <table class="wikitable floatright" style="float:right;clear:right;width:24.2em;font-size:80%;text-align:center;margin:0.5em 0 0.5em 1em;padding:0;border-spacing:0">
+    <tbody>
+     <tr>
+      <th scope="col" colspan="2" style="font-size:120%">Professional ratings</th>
+     </tr>
+     <tr>
+      <th scope="col" colspan="2" style="text-align:center;background:#d1dbdf;font-size:120%">Review scores</th>
+     </tr>
+     <tr>
+      <th scope="col">Source</th>
+      <th scope="col">Rating</th>
+     </tr>
+     <tr>
+      <td style="text-align:center;vertical-align:middle"><a href="/wiki/AllMusic" title="AllMusic">AllMusic</a></td>
+      <td style="text-align:center;vertical-align:middle"><span role="img" style="white-space:nowrap" title="4.5/5 stars"><img alt="4.5/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" decoding="async" title="4.5/5 stars" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" decoding="async" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" decoding="async" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" decoding="async" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/11px-Star_half.svg.png" decoding="async" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/17px-Star_half.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/22px-Star_half.svg.png 2x" data-file-width="108" data-file-height="110"></span><sup id="cite_ref-allmusic1_3-0" class="reference"><a href="#cite_note-allmusic1-3">[3]</a></sup></td>
+     </tr>
+     <tr>
+      <td style="text-align:center;vertical-align:middle"><i><a href="/wiki/Kerrang!" title="Kerrang!">Kerrang!</a></i></td>
+      <td style="text-align:center;vertical-align:middle"><span role="img" style="white-space:nowrap" title="5/5 stars"><img alt="5/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" decoding="async" title="5/5 stars" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" decoding="async" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" decoding="async" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" decoding="async" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" decoding="async" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110"></span><sup id="cite_ref-sladeinengland1_4-0" class="reference"><a href="#cite_note-sladeinengland1-4">[4]</a></sup></td>
+     </tr>
+     <tr>
+      <td style="text-align:center;vertical-align:middle"><i><a href="/wiki/Sounds_(magazine)" title="Sounds (magazine)">Sounds</a></i></td>
+      <td style="text-align:center;vertical-align:middle"><span role="img" style="white-space:nowrap" title="5/5 stars"><img alt="5/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" decoding="async" title="5/5 stars" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" decoding="async" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" decoding="async" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" decoding="async" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" decoding="async" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110"></span><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></td>
+     </tr>
+    </tbody>
+   </table> 
+   <p>At the time of release, reviews were overall positive. <i><a href="/wiki/Kerrang!" title="Kerrang!">Kerrang!</a></i> described the album as featuring "10 gems" and urged readers to "go out and buy it now". They added: "Watching Slade live is one of the most exhilarating experiences known to mankind. Its a completely over the top manic and raucous package, delivered at a pace that makes even Kiss seem like old men." <i><a href="/wiki/Sounds_(magazine)" title="Sounds (magazine)">Sounds</a></i> praised <i>Slade on Stage</i> as a "sensational album" that "goes some way towards demonstrating just why they're one of the best live rock bands in the world". Describing the album as "one of the livest you'll ever hear in your life", they concluded: "What Slade have always been about is undiluted rock 'n' roll, and this album comes nearer to capturing the feel, the excitement and the sheer energy they generate than anything they've ever attempted before."<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> </p>
+   <p><i><a href="/wiki/AllMusic" title="AllMusic">AllMusic</a></i> retrospectively described the album as a "monster", stating: "Believe it or not, <i>Slade on Stage</i> is the most intense recording Slade has ever made. That's heavy. This live album shows the band playing faster, harder, and better than ever. The first three songs set the stage. Slade comes out of the gate so fast that if they didn't follow those three up with a ballad, you'd almost have to take the record off. It's that intense. This is the tightest, hardest, and best you will ever hear Slade (or just about any other hard rock band) play. The material is the cream of the crop, and the recording is a killer. This album's only downside is that it only has nine real songs."<sup id="cite_ref-allmusic1_3-1" class="reference"><a href="#cite_note-allmusic1-3">[3]</a></sup> </p> 
+   <h2><span class="mw-headline" id="Track_listing">Track listing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Slade_on_Stage&amp;action=edit&amp;section=3" title="Edit section: Track listing">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <p>All songs written by <a href="/wiki/Noddy_Holder" title="Noddy Holder">Noddy Holder</a> and <a href="/wiki/Jim_Lea_(musician)" title="Jim Lea (musician)">Jim Lea</a> except "You'll Never Walk Alone" by <a href="/wiki/Rodgers_and_Hammerstein" title="Rodgers and Hammerstein">Rodgers and Hammerstein</a>. </p> 
+   <table class="tracklist" style="display:block;border-spacing:0px;border-collapse:collapse;padding:4px">
+    <tbody>
+     <tr>
+      <th class="tlheader mbox-text" colspan="3" style="text-align:left;background-color:#fff">Side one</th>
+     </tr>
+     <tr>
+      <th class="tlheader" scope="col" style="width:2em;padding-left:10px;padding-right:10px;text-align:right;background-color:#eee"><abbr title="Number">No.</abbr></th>
+      <th class="tlheader" scope="col" style="width:100%;text-align:left;background-color:#eee">Title</th>
+      <th class="tlheader" scope="col" style="width:4em;padding-right:10px;text-align:right;background-color:#eee">Length</th>
+     </tr>
+     <tr style="background-color:#fff">
+      <td style="padding-right:10px;text-align:right;vertical-align:top">1.</td>
+      <td style="vertical-align:top">"<a href="/wiki/Rock_and_Roll_Preacher" class="mw-redirect" title="Rock and Roll Preacher">Rock and Roll Preacher</a>"</td>
+      <td style="padding-right:10px;text-align:right;vertical-align:top">5:18</td>
+     </tr>
+     <tr style="background-color:#f7f7f7">
+      <td style="padding-right:10px;text-align:right;vertical-align:top">2.</td>
+      <td style="vertical-align:top">"When I'm Dancin' I Ain't Fightin'"</td>
+      <td style="padding-right:10px;text-align:right;vertical-align:top">3:42</td>
+     </tr>
+     <tr style="background-color:#fff">
+      <td style="padding-right:10px;text-align:right;vertical-align:top">3.</td>
+      <td style="vertical-align:top">"<a href="/wiki/Take_Me_Bak_%27Ome" title="Take Me Bak 'Ome">Take Me Bak 'Ome</a>"</td>
+      <td style="padding-right:10px;text-align:right;vertical-align:top">4:32</td>
+     </tr>
+     <tr style="background-color:#f7f7f7">
+      <td style="padding-right:10px;text-align:right;vertical-align:top">4.</td>
+      <td style="vertical-align:top">"<a href="/wiki/Everyday_(Slade_song)" title="Everyday (Slade song)">Everyday</a>"</td>
+      <td style="padding-right:10px;text-align:right;vertical-align:top">3:18</td>
+     </tr>
+     <tr style="background-color:#fff">
+      <td style="padding-right:10px;text-align:right;vertical-align:top">5.</td>
+      <td style="vertical-align:top">"<a href="/wiki/Lock_Up_Your_Daughters_(song)" title="Lock Up Your Daughters (song)">Lock Up Your Daughters</a>"</td>
+      <td style="padding-right:10px;text-align:right;vertical-align:top">4:02</td>
+     </tr>
+    </tbody>
+   </table> 
+   <table class="tracklist" style="display:block;border-spacing:0px;border-collapse:collapse;padding:4px">
+    <tbody>
+     <tr>
+      <th class="tlheader mbox-text" colspan="3" style="text-align:left;background-color:#fff">Side two</th>
+     </tr>
+     <tr>
+      <th class="tlheader" scope="col" style="width:2em;padding-left:10px;padding-right:10px;text-align:right;background-color:#eee"><abbr title="Number">No.</abbr></th>
+      <th class="tlheader" scope="col" style="width:100%;text-align:left;background-color:#eee">Title</th>
+      <th class="tlheader" scope="col" style="width:4em;padding-right:10px;text-align:right;background-color:#eee">Length</th>
+     </tr>
+     <tr style="background-color:#fff">
+      <td style="padding-right:10px;text-align:right;vertical-align:top">6.</td>
+      <td style="vertical-align:top">"<a href="/wiki/We%27ll_Bring_the_House_Down_(song)" title="We'll Bring the House Down (song)">We'll Bring the House Down</a>"</td>
+      <td style="padding-right:10px;text-align:right;vertical-align:top">4:17</td>
+     </tr>
+     <tr style="background-color:#f7f7f7">
+      <td style="padding-right:10px;text-align:right;vertical-align:top">7.</td>
+      <td style="vertical-align:top">"A Night to Remember"</td>
+      <td style="padding-right:10px;text-align:right;vertical-align:top">8:09</td>
+     </tr>
+     <tr style="background-color:#fff">
+      <td style="padding-right:10px;text-align:right;vertical-align:top">8.</td>
+      <td style="vertical-align:top">"<a href="/wiki/Gudbuy_T%27Jane" title="Gudbuy T'Jane">Gudbuy T'Jane</a>"</td>
+      <td style="padding-right:10px;text-align:right;vertical-align:top">4:39</td>
+     </tr>
+     <tr style="background-color:#f7f7f7">
+      <td style="padding-right:10px;text-align:right;vertical-align:top">9.</td>
+      <td style="vertical-align:top">"<a href="/wiki/Mama_Weer_All_Crazee_Now" title="Mama Weer All Crazee Now">Mama Weer All Crazee Now</a>"</td>
+      <td style="padding-right:10px;text-align:right;vertical-align:top">2:55</td>
+     </tr>
+     <tr style="background-color:#fff">
+      <td style="padding-right:10px;text-align:right;vertical-align:top">10.</td>
+      <td style="vertical-align:top">"<a href="/wiki/You%27ll_Never_Walk_Alone" title="You'll Never Walk Alone">You'll Never Walk Alone</a>"</td>
+      <td style="padding-right:10px;text-align:right;vertical-align:top">0:35</td>
+     </tr>
+    </tbody>
+   </table> 
+   <h2><span class="mw-headline" id="Personnel">Personnel</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Slade_on_Stage&amp;action=edit&amp;section=4" title="Edit section: Personnel">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <dl>
+    <dt>
+     Slade
+    </dt>
+   </dl> 
+   <ul>
+    <li><a href="/wiki/Noddy_Holder" title="Noddy Holder">Noddy Holder</a> - lead vocals, rhythm guitar, producer</li> 
+    <li><a href="/wiki/Dave_Hill" title="Dave Hill">Dave Hill</a> - lead guitar, backing vocals, producer</li> 
+    <li><a href="/wiki/Jim_Lea_(musician)" title="Jim Lea (musician)">Jim Lea</a> - bass, backing vocals, producer</li> 
+    <li><a href="/wiki/Don_Powell" title="Don Powell">Don Powell</a> - drums, producer</li>
+   </ul> 
+   <dl>
+    <dt>
+     Additional personnel
+    </dt>
+   </dl> 
+   <ul>
+    <li>Dave Garland - engineer</li> 
+    <li>George Peckham - cutting engineer</li> 
+    <li>Mike Robinson - mixing</li> 
+    <li>Andrew Christian - sleeve design</li> 
+    <li>Colin Newman - album title</li> 
+    <li>Partridge Rushton - typography</li>
+   </ul> 
+   <h2><span class="mw-headline" id="Chart_performance">Chart performance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Slade_on_Stage&amp;action=edit&amp;section=5" title="Edit section: Chart performance">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <table class="wikitable sortable"> 
+    <tbody>
+     <tr> 
+      <th>Chart (1982) </th> 
+      <th>Peak<br>position </th>
+     </tr> 
+     <tr> 
+      <td align="left">UK Albums Chart<sup id="cite_ref-officialcharts1_1-1" class="reference"><a href="#cite_note-officialcharts1-1">[1]</a></sup> </td> 
+      <td style="text-align:center;">58 </td>
+     </tr>
+    </tbody>
+   </table> 
+   <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Slade_on_Stage&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <div class="reflist" style="list-style-type: decimal;"> 
+    <div class="mw-references-wrap">
+     <ol class="references"> 
+      <li id="cite_note-officialcharts1-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-officialcharts1_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-officialcharts1_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.officialcharts.com/artist/30945/slade/">"slade | full Official Chart History | Official Charts Company"</a>. Officialcharts.com<span class="reference-accessdate">. Retrieved <span class="nowrap">12 July</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=slade+%26%23124%3B+full+Official+Chart+History+%26%23124%3B+Official+Charts+Company&amp;rft.pub=Officialcharts.com&amp;rft_id=http%3A%2F%2Fwww.officialcharts.com%2Fartist%2F30945%2Fslade%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASlade+on+Stage" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span> </li> 
+      <li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://sladestory.blogspot.co.uk/1982/12/bishop-of-bludgeon.html">"From Roots To Boots: The Slade Story"</a>. Sladestory.blogspot.co.uk. 7 January 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">12 July</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=From+Roots+To+Boots%3A+The+Slade+Story&amp;rft.pub=Sladestory.blogspot.co.uk&amp;rft.date=2011-01-07&amp;rft_id=http%3A%2F%2Fsladestory.blogspot.co.uk%2F1982%2F12%2Fbishop-of-bludgeon.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASlade+on+Stage" class="Z3988"></span>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+      <li id="cite_note-allmusic1-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-allmusic1_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-allmusic1_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">AllMusic Review by Geoff Ginsberg. <a rel="nofollow" class="external text" href="http://www.allmusic.com/album/slade-on-stage-mw0000522036">"Slade on Stage - Slade | Songs, Reviews, Credits"</a>. AllMusic<span class="reference-accessdate">. Retrieved <span class="nowrap">12 July</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Slade+on+Stage+-+Slade+%26%23124%3B+Songs%2C+Reviews%2C+Credits&amp;rft.pub=AllMusic&amp;rft.au=AllMusic+Review+by+Geoff+Ginsberg&amp;rft_id=http%3A%2F%2Fwww.allmusic.com%2Falbum%2Fslade-on-stage-mw0000522036&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASlade+on+Stage" class="Z3988"></span>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+      <li id="cite_note-sladeinengland1-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-sladeinengland1_4-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.sladeinengland.co.uk/press/lp/slade_on_stage_reviews.htm">"Slade on stage reviews"</a>. Sladeinengland.co.uk<span class="reference-accessdate">. Retrieved <span class="nowrap">10 August</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Slade+on+stage+reviews&amp;rft.pub=Sladeinengland.co.uk&amp;rft_id=http%3A%2F%2Fwww.sladeinengland.co.uk%2Fpress%2Flp%2Fslade_on_stage_reviews.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASlade+on+Stage" class="Z3988"></span>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+      <li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.sladescrapbook.com/cuttings-1982.html">"1982 Press Cuttings"</a>. Slade Scrapbook<span class="reference-accessdate">. Retrieved <span class="nowrap">12 July</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=1982+Press+Cuttings&amp;rft.pub=Slade+Scrapbook&amp;rft_id=http%3A%2F%2Fwww.sladescrapbook.com%2Fcuttings-1982.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASlade+on+Stage" class="Z3988"></span>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+      <li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.sladescrapbook.com/cuttings-1982.html">"1982 Press Cuttings"</a>. Slade Scrapbook<span class="reference-accessdate">. Retrieved <span class="nowrap">12 July</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=1982+Press+Cuttings&amp;rft.pub=Slade+Scrapbook&amp;rft_id=http%3A%2F%2Fwww.sladescrapbook.com%2Fcuttings-1982.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASlade+on+Stage" class="Z3988"></span>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+     </ol>
+    </div>
+   </div> 
+   <div role="navigation" class="navbox" aria-labelledby="Slade" style="padding:3px">
+    <table class="nowraplinks vcard hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+     <tbody>
+      <tr>
+       <th scope="col" class="navbox-title" colspan="2" style="background: #b0c4de;">
+        <div class="plainlinks hlist navbar mini">
+         <ul>
+          <li class="nv-view"><a href="/wiki/Template:Slade" title="Template:Slade"><abbr title="View this template" style=";background: #b0c4de;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+          <li class="nv-talk"><a href="/wiki/Template_talk:Slade" title="Template talk:Slade"><abbr title="Discuss this template" style=";background: #b0c4de;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+          <li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Slade&amp;action=edit"><abbr title="Edit this template" style=";background: #b0c4de;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+         </ul>
+        </div>
+        <div id="Slade" class="fn org" style="font-size:114%;margin:0 4em">
+         <a href="/wiki/Slade" title="Slade">Slade</a>
+        </div></th>
+      </tr>
+      <tr>
+       <td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;">
+        <div id="*_Dave_Hill&amp;#10;*_Don_Powell&amp;#10;*_John_Berry&amp;#10;*_Mal_McNulty&amp;#10;&amp;#10;*_Noddy_Holder&amp;#10;*_Jim_Lea&amp;#10;*_Steve_Whalley&amp;#10;*_Steve_Makin&amp;#10;*_Craig_Fenney&amp;#10;*_Dave_Glover"> 
+         <ul>
+          <li><b><a href="/wiki/Dave_Hill" title="Dave Hill">Dave Hill</a></b></li> 
+          <li><b><a href="/wiki/Don_Powell" title="Don Powell">Don Powell</a></b></li> 
+          <li><b>John Berry</b></li> 
+          <li><b>Mal McNulty</b></li>
+         </ul> 
+         <ul>
+          <li><a href="/wiki/Noddy_Holder" title="Noddy Holder">Noddy Holder</a></li> 
+          <li><a href="/wiki/Jim_Lea_(musician)" title="Jim Lea (musician)">Jim Lea</a></li> 
+          <li>Steve Whalley</li> 
+          <li>Steve Makin</li> 
+          <li>Craig Fenney</li> 
+          <li>Dave Glover</li>
+         </ul> 
+        </div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Studio albums</th>
+       <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><i><a href="/wiki/Beginnings_(Ambrose_Slade_album)" title="Beginnings (Ambrose Slade album)">Beginnings</a></i> (Ambrose Slade, 1969)</li> 
+          <li><i><a href="/wiki/Play_It_Loud" title="Play It Loud">Play It Loud</a></i> (1970)</li> 
+          <li><i><a href="/wiki/Slayed%3F" title="Slayed?">Slayed?</a></i> (1972)</li> 
+          <li><i><a href="/wiki/Old_New_Borrowed_and_Blue" title="Old New Borrowed and Blue">Old New Borrowed and Blue</a></i> (1974)</li> 
+          <li><i><a href="/wiki/Slade_in_Flame_(album)" title="Slade in Flame (album)">Slade In Flame</a></i> (1974)</li> 
+          <li><i><a href="/wiki/Nobody%27s_Fools" title="Nobody's Fools">Nobody's Fools</a></i> (1976)</li> 
+          <li><i><a href="/wiki/Whatever_Happened_to_Slade" title="Whatever Happened to Slade">Whatever Happened to Slade</a></i> (1977)</li> 
+          <li><i><a href="/wiki/Return_to_Base" title="Return to Base">Return to Base</a></i> (1979)</li> 
+          <li><i><a href="/wiki/We%27ll_Bring_the_House_Down" title="We'll Bring the House Down">We'll Bring the House Down</a></i> (1981)</li> 
+          <li><i><a href="/wiki/Till_Deaf_Do_Us_Part" title="Till Deaf Do Us Part">Till Deaf Do Us Part</a></i> (1981)</li> 
+          <li><i><a href="/wiki/The_Amazing_Kamikaze_Syndrome" title="The Amazing Kamikaze Syndrome">The Amazing Kamikaze Syndrome</a></i> (1983)</li> 
+          <li><i><a href="/wiki/Keep_Your_Hands_Off_My_Power_Supply" title="Keep Your Hands Off My Power Supply">Keep Your Hands Off My Power Supply</a></i> (1984)</li> 
+          <li><i><a href="/wiki/Rogues_Gallery_(album)" class="mw-redirect" title="Rogues Gallery (album)">Rogues Gallery</a></i> (1985)</li> 
+          <li><i><a href="/wiki/Crackers_%E2%80%93_The_Christmas_Party_Album" class="mw-redirect" title="Crackers – The Christmas Party Album">Crackers – The Christmas Party Album</a></i> (1985)</li> 
+          <li><i><a href="/wiki/You_Boyz_Make_Big_Noize" title="You Boyz Make Big Noize">You Boyz Make Big Noize</a></i> (1987)</li>
+         </ul> 
+        </div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Live albums</th>
+       <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><i><a href="/wiki/Slade_Alive!" title="Slade Alive!">Slade Alive!</a></i> (1972)</li> 
+          <li><i><a href="/wiki/Slade_Alive,_Vol._2" title="Slade Alive, Vol. 2">Slade Alive, Vol. 2</a></i> (1978)</li> 
+          <li><i><a class="mw-selflink selflink">Slade on Stage</a></i> (1982)</li>
+         </ul> 
+        </div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Compilations</th>
+       <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><i><a href="/wiki/Coz_I_Luv_You_(album)" title="Coz I Luv You (album)">Coz I Luv You</a></i> (1972)</li> 
+          <li><i><a href="/wiki/Sladest" title="Sladest">Sladest</a></i> (1973)</li> 
+          <li><i><a href="/wiki/Slade_Smashes!" title="Slade Smashes!">Slade Smashes!</a></i> (1980)</li> 
+          <li><i><a href="/wiki/Slades_Greats" title="Slades Greats">Slades Greats</a></i> (1984)</li> 
+          <li><i><a href="/wiki/The_Slade_Collection_81-87" title="The Slade Collection 81-87">The Slade Collection 81-87</a></i> (1991)</li> 
+          <li><i><a href="/wiki/Wall_of_Hits" title="Wall of Hits">Wall of Hits</a></i> (1991)</li> 
+          <li><i><a href="/wiki/The_Slade_Collection_Vol._2,_79-87" title="The Slade Collection Vol. 2, 79-87">The Slade Collection Vol. 2, 79-87</a></i> (1993)</li> 
+          <li><i><a href="/wiki/The_Genesis_of_Slade" title="The Genesis of Slade">The Genesis of Slade</a></i> (1996)</li> 
+          <li><i><a href="/wiki/Feel_the_Noize_%E2%80%93_Greatest_Hits" title="Feel the Noize – Greatest Hits">Feel the Noize – Greatest Hits</a></i> (1997)</li> 
+          <li><i><a href="/wiki/Get_Yer_Boots_On:_The_Best_of_Slade" title="Get Yer Boots On: The Best of Slade">Get Yer Boots On: The Best of Slade</a></i> (2004)</li> 
+          <li><i><a href="/wiki/The_Very_Best_of_Slade" title="The Very Best of Slade">The Very Best of Slade</a></i> (2005)</li> 
+          <li><i><a href="/wiki/Slade_Alive!_-_The_Live_Anthology" class="mw-redirect" title="Slade Alive! - The Live Anthology">Slade Alive! - The Live Anthology</a></i> (2006)</li> 
+          <li><i><a href="/wiki/B-Sides_(Slade_album)" title="B-Sides (Slade album)">B-Sides</a></i> (2007)</li> 
+          <li><i><a href="/wiki/Rockers_(Slade_album)" title="Rockers (Slade album)">Rockers</a></i> (2007)</li> 
+          <li><i><a href="/wiki/In_for_a_Penny:_Raves_%26_Faves" title="In for a Penny: Raves &amp; Faves">In for a Penny: Raves &amp; Faves</a></i> (2007)</li> 
+          <li><i><a href="/wiki/Live_at_the_BBC_(Slade_album)" title="Live at the BBC (Slade album)">Live at the BBC</a></i> (2009)</li> 
+          <li><i><a href="/wiki/Merry_Xmas_Everybody:_Party_Hits" title="Merry Xmas Everybody: Party Hits">Merry Xmas Everybody: Party Hits</a></i> (2009)</li>
+         </ul> 
+        </div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Box sets</th>
+       <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><i><a href="/wiki/The_Slade_Box" title="The Slade Box">The Slade Box (Anthology 1969-91)</a></i> (2006)</li> 
+          <li><i><a href="/wiki/When_Slade_Rocked_the_World" title="When Slade Rocked the World">When Slade Rocked the World</a></i> (2015)</li>
+         </ul> 
+        </div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Extended plays</th>
+       <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li>"<a href="/wiki/Six_of_the_Best_(EP)" title="Six of the Best (EP)">Six of the Best (EP)</a>"</li> 
+          <li>"<a href="/wiki/Alive_at_Reading" title="Alive at Reading">Alive at Reading</a>"</li> 
+          <li>"<a href="/wiki/Xmas_Ear_Bender_(EP)" class="mw-redirect" title="Xmas Ear Bender (EP)">Xmas Ear Bender (EP)</a>"</li>
+         </ul> 
+        </div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Singles</th>
+       <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li>"<a href="/wiki/You_Better_Run" title="You Better Run">You Better Run</a>" (The N' Betweens)</li> 
+          <li>"Genesis" (Ambrose Slade)</li> 
+          <li>"<a href="/wiki/Wild_Winds_Are_Blowing" title="Wild Winds Are Blowing">Wild Winds Are Blowing</a>"</li> 
+          <li>"<a href="/wiki/Shape_of_Things_to_Come_(song)" title="Shape of Things to Come (song)">Shape of Things to Come</a>"</li> 
+          <li>"<a href="/wiki/Know_Who_You_Are" title="Know Who You Are">Know Who You Are</a>"</li> 
+          <li>"<a href="/wiki/Get_Down_and_Get_With_It" class="mw-redirect" title="Get Down and Get With It">Get Down and Get With It</a>"</li> 
+          <li>"<a href="/wiki/Coz_I_Luv_You" title="Coz I Luv You">'Coz I Luv You</a>"</li> 
+          <li>"<a href="/wiki/Look_Wot_You_Dun" title="Look Wot You Dun">Look Wot You Dun</a>"</li> 
+          <li>"<a href="/wiki/Take_Me_Bak_%27Ome" title="Take Me Bak 'Ome">Take Me Bak 'Ome</a>"</li> 
+          <li>"<a href="/wiki/Mama_Weer_All_Crazee_Now" title="Mama Weer All Crazee Now">Mama Weer All Crazee Now</a>"</li> 
+          <li>"<a href="/wiki/Gudbuy_T%27Jane" title="Gudbuy T'Jane">Gudbuy T'Jane</a>"</li> 
+          <li>"<a href="/wiki/Cum_On_Feel_the_Noize" title="Cum On Feel the Noize">Cum On Feel the Noize</a>"</li> 
+          <li>"<a href="/wiki/Skweeze_Me,_Pleeze_Me" title="Skweeze Me, Pleeze Me">Skweeze Me, Pleeze Me</a>"</li> 
+          <li>"<a href="/wiki/My_Friend_Stan" title="My Friend Stan">My Friend Stan</a>"</li> 
+          <li>"<a href="/wiki/Merry_Xmas_Everybody" title="Merry Xmas Everybody">Merry Xmas Everybody</a>"</li> 
+          <li>"<a href="/wiki/Everyday_(Slade_song)" title="Everyday (Slade song)">Everyday</a>"</li> 
+          <li>"<a href="/wiki/When_the_Lights_Are_Out" title="When the Lights Are Out">When the Lights Are Out</a>"</li> 
+          <li>"<a href="/wiki/The_Bangin%27_Man" title="The Bangin' Man">The Bangin' Man</a>"</li> 
+          <li>"<a href="/wiki/Far_Far_Away_(song)" title="Far Far Away (song)">Far Far Away</a>"</li> 
+          <li>"<a href="/wiki/How_Does_It_Feel_(Slade_song)" title="How Does It Feel (Slade song)">How Does It Feel</a>"</li> 
+          <li>"<a href="/wiki/Thanks_for_the_Memory_(Wham_Bam_Thank_You_Mam)" title="Thanks for the Memory (Wham Bam Thank You Mam)">Thanks for the Memory (Wham Bam Thank You Mam)</a>"</li> 
+          <li>"<a href="/wiki/In_For_a_Penny" class="mw-redirect" title="In For a Penny">In For a Penny</a>"</li> 
+          <li>"<a href="/wiki/Let%27s_Call_It_Quits" title="Let's Call It Quits">Let's Call It Quits</a>"</li> 
+          <li>"<a href="/wiki/Nobody%27s_Fool_(Slade_song)" title="Nobody's Fool (Slade song)">Nobody's Fool</a>"</li> 
+          <li>"<a href="/wiki/Gypsy_Roadhog" title="Gypsy Roadhog">Gypsy Roadhog</a>"</li> 
+          <li>"<a href="/wiki/Burning_in_the_Heat_of_Love" title="Burning in the Heat of Love">Burning in the Heat of Love</a>"</li> 
+          <li>"<a href="/wiki/My_Baby_Left_Me" title="My Baby Left Me">My Baby Left Me - That's All Right</a>"</li> 
+          <li>"<a href="/wiki/Give_Us_a_Goal" title="Give Us a Goal">Give Us a Goal</a>"</li> 
+          <li>"<a href="/wiki/Rock_%27n%27_Roll_Bolero" title="Rock 'n' Roll Bolero">Rock 'n' Roll Bolero</a>"</li> 
+          <li>"<a href="/wiki/Ginny,_Ginny" title="Ginny, Ginny">Ginny, Ginny</a>"</li> 
+          <li>"I'm a Rocker"</li> 
+          <li>"<a href="/wiki/Sign_of_the_Times_(Slade_song)" title="Sign of the Times (Slade song)">Sign of the Times</a>"</li> 
+          <li>"<a href="/wiki/Hokey_Cokey" class="mw-redirect" title="Hokey Cokey">Okey Cokey</a>"</li> 
+          <li>"<a href="/wiki/We%27ll_Bring_the_House_Down_(song)" title="We'll Bring the House Down (song)">We'll Bring the House Down</a>"</li> 
+          <li>"<a href="/wiki/Wheels_Ain%27t_Coming_Down" title="Wheels Ain't Coming Down">Wheels Ain't Coming Down</a>"</li> 
+          <li>"Knuckle Sandwich Nancy"</li> 
+          <li>"<a href="/wiki/Lock_Up_Your_Daughters_(song)" title="Lock Up Your Daughters (song)">Lock Up Your Daughters</a>"</li> 
+          <li>"<a href="/wiki/Rock_and_Roll_Preacher_(Hallelujah_I%27m_on_Fire)" title="Rock and Roll Preacher (Hallelujah I'm on Fire)">Rock and Roll Preacher (Hallelujah I'm on Fire)</a>"</li> 
+          <li>"<a href="/wiki/Ruby_Red_(song)" title="Ruby Red (song)">Ruby Red</a>"</li> 
+          <li>"<a href="/wiki/(And_Now_the_Waltz)_C%27est_La_Vie" title="(And Now the Waltz) C'est La Vie">(And Now the Waltz) C'est La Vie</a>"</li> 
+          <li>"<a href="/wiki/My_Oh_My_(Slade_song)" title="My Oh My (Slade song)">My Oh My</a>"</li> 
+          <li>"<a href="/wiki/Run_Runaway" title="Run Runaway">Run Runaway</a>"</li> 
+          <li>"<a href="/wiki/Slam_the_Hammer_Down" title="Slam the Hammer Down">Slam the Hammer Down</a>"</li> 
+          <li>"<a href="/wiki/All_Join_Hands" title="All Join Hands">All Join Hands</a>"</li> 
+          <li>"<a href="/wiki/7_Year_Bitch_(song)" title="7 Year Bitch (song)">7 Year Bitch</a>"</li> 
+          <li>"<a href="/wiki/Myzsterious_Mizster_Jones" title="Myzsterious Mizster Jones">Myzsterious Mizster Jones</a>"</li> 
+          <li>"<a href="/wiki/Little_Sheila" title="Little Sheila">Little Sheila</a>"</li> 
+          <li>"<a href="/wiki/Do_You_Believe_in_Miracles" title="Do You Believe in Miracles">Do You Believe in Miracles</a>"</li> 
+          <li>"<a href="/wiki/Still_the_Same_(Slade_song)" title="Still the Same (Slade song)">Still the Same</a>"</li> 
+          <li>"<a href="/wiki/That%27s_What_Friends_Are_For_(Slade_song)" title="That's What Friends Are For (Slade song)">That's What Friends Are For</a>"</li> 
+          <li>"<a href="/wiki/You_Boyz_Make_Big_Noize_(song)" title="You Boyz Make Big Noize (song)">You Boyz Make Big Noize</a>"</li> 
+          <li>"<a href="/wiki/Ooh_La_La_in_L.A." title="Ooh La La in L.A.">Ooh La La in L.A.</a>"</li> 
+          <li>"<a href="/wiki/We_Won%27t_Give_In" title="We Won't Give In">We Won't Give In</a>"</li> 
+          <li>"<a href="/wiki/Let%27s_Dance_(Chris_Montez_song)" title="Let's Dance (Chris Montez song)">Let's Dance '88</a>"</li> 
+          <li>"<a href="/wiki/Radio_Wall_of_Sound" title="Radio Wall of Sound">Radio Wall of Sound</a>"</li> 
+          <li>"<a href="/wiki/Universe_(Slade_song)" title="Universe (Slade song)">Universe</a>"</li>
+         </ul> 
+        </div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Video</th>
+       <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li>"<a href="/wiki/Slade_in_Flame" title="Slade

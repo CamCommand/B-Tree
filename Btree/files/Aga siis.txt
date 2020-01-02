@@ -1,0 +1,199 @@
+<div id="bodyContent" class="mw-body-content"> 
+ <div id="siteSub" class="noprint">
+  From Wikipedia, the free encyclopedia
+ </div> 
+ <div id="contentSub"></div> 
+ <div id="jump-to-nav"></div> 
+ <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> 
+ <a class="mw-jump-link" href="#p-search">Jump to search</a> 
+ <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+  <div class="mw-parser-output">
+   <table class="infobox vevent" style="width:22em">
+    <tbody>
+     <tr>
+      <th colspan="2" class="summary" style="text-align:center;font-size:125%;font-weight:bold;background-color: khaki;">"Aga siis"</th>
+     </tr>
+     <tr>
+      <td colspan="2" style="text-align:center"><a href="/wiki/File:Juri_Pootsmann_Aga_Siis.jpg" class="image"><img alt="Juri Pootsmann Aga Siis.jpg" src="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Juri_Pootsmann_Aga_Siis.jpg/220px-Juri_Pootsmann_Aga_Siis.jpg" decoding="async" width="220" height="220" srcset="//upload.wikimedia.org/wikipedia/en/b/be/Juri_Pootsmann_Aga_Siis.jpg 1.5x" data-file-width="316" data-file-height="316"></a></td>
+     </tr>
+     <tr class="description">
+      <th colspan="2" class="description" style="text-align:center;background-color: khaki;"><a href="/wiki/Single_(music)" title="Single (music)">Single</a> by <a href="/wiki/J%C3%BCri_Pootsmann" title="Jüri Pootsmann">Jüri Pootsmann</a></th>
+     </tr>
+     <tr class="description">
+      <th colspan="2" class="description" style="text-align:center;background-color: khaki;">from the album <i>Jüri Pootsmann</i></th>
+     </tr>
+     <tr>
+      <th scope="row">Released</th>
+      <td class="plainlist">13 November 2015</td>
+     </tr>
+     <tr>
+      <th scope="row">Format</th>
+      <td class="hlist"><a href="/wiki/Music_download" title="Music download">Digital download</a></td>
+     </tr>
+     <tr>
+      <th scope="row">Recorded</th>
+      <td class="plainlist">2014</td>
+     </tr>
+     <tr>
+      <th scope="row"><a href="/wiki/Music_genre" title="Music genre">Genre</a></th>
+      <td class="category hlist"><a href="/wiki/Pop_music" title="Pop music">Pop</a></td>
+     </tr>
+     <tr>
+      <th scope="row">Length</th>
+      <td class="plainlist"><span class="duration"><span class="min">3</span>:<span class="s">31</span></span></td>
+     </tr>
+     <tr>
+      <th scope="row"><a href="/wiki/Record_label" title="Record label">Label</a></th>
+      <td class="hlist"><a href="/wiki/Universal_Music_Group" title="Universal Music Group">Universal Music Group</a></td>
+     </tr>
+     <tr>
+      <th scope="row"><span class="nowrap"><a href="/wiki/Songwriter" title="Songwriter">Songwriter(s)</a></span></th>
+      <td class="hlist"><a href="/w/index.php?title=Sten_Sheripov&amp;action=edit&amp;redlink=1" class="new" title="Sten Sheripov (page does not exist)">Sten Sheripov</a></td>
+     </tr>
+     <tr>
+      <th scope="row"><span class="nowrap"><a href="/wiki/Record_producer" title="Record producer">Producer(s)</a></span></th>
+      <td class="hlist"><a href="/w/index.php?title=Sten_Sheripov&amp;action=edit&amp;redlink=1" class="new" title="Sten Sheripov (page does not exist)">Sten Sheripov</a></td>
+     </tr>
+     <tr>
+      <th colspan="2" class="description" style="text-align:center;background-color: khaki;"><a href="/wiki/J%C3%BCri_Pootsmann" title="Jüri Pootsmann">Jüri Pootsmann</a> singles chronology</th>
+     </tr>
+     <tr>
+      <td colspan="2" style="text-align:center"> 
+       <table style="background: transparent; width: 100%; min-width: 100%; border-collapse: collapse;"> 
+        <tbody>
+         <tr style="line-height: 1.4em;"> 
+          <td style="width: 33%; text-align: center; vertical-align: top; padding: .2em .1em .2em 0;">"<a href="/wiki/Torm_(J%C3%BCri_Pootsmann_song)" title="Torm (Jüri Pootsmann song)">Torm</a>" <br>(2015) </td> 
+          <td style="width: 33%; text-align: center; vertical-align: top; padding:.2em .1em;">"<b>Aga siis</b>" <br>(2015) </td> 
+          <td style="width: 33%; text-align: center; vertical-align: top; padding: .2em 0 .2em .1em;">"<a href="/wiki/Play_(J%C3%BCri_Pootsmann_song)" title="Play (Jüri Pootsmann song)">Play</a>" <br>(2016) </td>
+         </tr>
+        </tbody>
+       </table></td>
+     </tr>
+    </tbody>
+   </table> 
+   <p>"<b>Aga siis</b>" (English: <span lang="en">"But Then"</span>) is a song performed by <a href="/wiki/Estonia" title="Estonia">Estonian</a> singer <a href="/wiki/J%C3%BCri_Pootsmann" title="Jüri Pootsmann">Jüri Pootsmann</a>. The song was released as a digital download on 13 November 2015 through <a href="/wiki/Universal_Music_Group" title="Universal Music Group">Universal Music Group</a> as the second single from his self-titled extended play. The song peaked at number 1 on the <a href="/wiki/Radio_Uuno" class="mw-redirect" title="Radio Uuno">Estonian Airplay Chart</a>. </p> 
+   <div id="toc" class="toc">
+    <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+    <div class="toctitle" lang="en" dir="ltr">
+     <h2>Contents</h2>
+     <span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+    </div> 
+    <ul> 
+     <li class="toclevel-1 tocsection-1"><a href="#Track_listing"><span class="tocnumber">1</span> <span class="toctext">Track listing</span></a></li> 
+     <li class="toclevel-1 tocsection-2"><a href="#Chart_performance"><span class="tocnumber">2</span> <span class="toctext">Chart performance</span></a></li> 
+     <li class="toclevel-1 tocsection-3"><a href="#Release_history"><span class="tocnumber">3</span> <span class="toctext">Release history</span></a></li> 
+     <li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li> 
+    </ul> 
+   </div> 
+   <h2><span class="mw-headline" id="Track_listing">Track listing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aga_siis&amp;action=edit&amp;section=1" title="Edit section: Track listing">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <table class="tracklist" style="display:block;border-spacing:0px;border-collapse:collapse;padding:4px">
+    <tbody>
+     <tr>
+      <th class="tlheader mbox-text" colspan="3" style="text-align:left;background-color:#fff">Digital download</th>
+     </tr>
+     <tr>
+      <th class="tlheader" scope="col" style="width:2em;padding-left:10px;padding-right:10px;text-align:right;background-color:#eee"><abbr title="Number">No.</abbr></th>
+      <th class="tlheader" scope="col" style="width:100%;text-align:left;background-color:#eee">Title</th>
+      <th class="tlheader" scope="col" style="width:4em;padding-right:10px;text-align:right;background-color:#eee">Length</th>
+     </tr>
+     <tr style="background-color:#fff">
+      <td style="padding-right:10px;text-align:right;vertical-align:top">1.</td>
+      <td style="vertical-align:top">"Aga siis"</td>
+      <td style="padding-right:10px;text-align:right;vertical-align:top">3:31</td>
+     </tr>
+    </tbody>
+   </table> 
+   <h2><span class="mw-headline" id="Chart_performance">Chart performance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aga_siis&amp;action=edit&amp;section=2" title="Edit section: Chart performance">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <table class="wikitable sortable plainrowheaders"> 
+    <tbody>
+     <tr> 
+      <th scope="col">Chart (2015) </th> 
+      <th scope="col">Peak<br>position </th>
+     </tr> 
+     <tr> 
+      <th scope="row">Estonia (<a href="/wiki/Raadio_Uuno" title="Raadio Uuno">Raadio Uuno</a>)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> </th> 
+      <td align="center">1 </td>
+     </tr> 
+    </tbody>
+   </table> 
+   <h2><span class="mw-headline" id="Release_history">Release history</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aga_siis&amp;action=edit&amp;section=3" title="Edit section: Release history">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <table class="wikitable"> 
+    <tbody>
+     <tr> 
+      <th>Region </th> 
+      <th>Date </th> 
+      <th>Format </th> 
+      <th>Label </th>
+     </tr> 
+     <tr> 
+      <td><a href="/wiki/Estonia" title="Estonia">Estonia</a> </td> 
+      <td>13 November 2015<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> </td> 
+      <td><a href="/wiki/Music_download" title="Music download">Digital download</a> </td> 
+      <td><a href="/wiki/Universal_Music_Group" title="Universal Music Group">Universal Music Group</a> </td>
+     </tr> 
+    </tbody>
+   </table> 
+   <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aga_siis&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <div class="reflist" style="list-style-type: decimal;"> 
+    <div class="mw-references-wrap">
+     <ol class="references"> 
+      <li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20160423154553/http://uuno.postimees.ee/top-chart/20/top-chart-13721">"TOP 20 (nädal 48, 2015)"</a>. <a href="/wiki/Raadio_Uuno" title="Raadio Uuno">Raadio Uuno</a>. Archived from <a rel="nofollow" class="external text" href="http://uuno.postimees.ee/top-chart/20/top-chart-13721">the original</a> on 23 April 2016.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=TOP+20+%28n%C3%A4dal+48%2C+2015%29&amp;rft.pub=Raadio+Uuno&amp;rft_id=http%3A%2F%2Fuuno.postimees.ee%2Ftop-chart%2F20%2Ftop-chart-13721&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAga+siis" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span> </li> 
+      <li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://itunes.apple.com/ee/album/aga-siis-single/id1053428252">Aga Siis - Single by Jüri Pootsmann on iTunes</a></span> </li> 
+     </ol>
+    </div>
+   </div> 
+   <div role="navigation" class="navbox" aria-labelledby="Jüri_Pootsmann" style="padding:3px">
+    <table class="nowraplinks vcard hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+     <tbody>
+      <tr>
+       <th scope="col" class="navbox-title" colspan="2" style="background: #f0e68c;">
+        <div class="plainlinks hlist navbar mini">
+         <ul>
+          <li class="nv-view"><a href="/wiki/Template:J%C3%BCri_Pootsmann" title="Template:Jüri Pootsmann"><abbr title="View this template" style=";background: #f0e68c;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+          <li class="nv-talk"><a href="/wiki/Template_talk:J%C3%BCri_Pootsmann" title="Template talk:Jüri Pootsmann"><abbr title="Discuss this template" style=";background: #f0e68c;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+          <li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:J%C3%BCri_Pootsmann&amp;action=edit"><abbr title="Edit this template" style=";background: #f0e68c;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+         </ul>
+        </div>
+        <div id="Jüri_Pootsmann" class="fn" style="font-size:114%;margin:0 4em">
+         <a href="/wiki/J%C3%BCri_Pootsmann" title="Jüri Pootsmann">Jüri Pootsmann</a>
+        </div></th>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Extended plays</th>
+       <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><i><a href="/wiki/J%C3%BCri_Pootsmann" title="Jüri Pootsmann">Jüri Pootsmann</a></i> (2015)</li>
+         </ul> 
+        </div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Singles</th>
+       <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li>"<a href="/wiki/Torm_(J%C3%BCri_Pootsmann_song)" title="Torm (Jüri Pootsmann song)">Torm</a>"</li> 
+          <li>"<a href="/wiki/Aga_Siis" class="mw-redirect" title="Aga Siis">Aga Siis</a>"</li> 
+          <li>"<a href="/wiki/Play_(J%C3%BCri_Pootsmann_song)" title="Play (Jüri Pootsmann song)">Play</a>"</li> 
+          <li>"<a href="/wiki/Nii_v%C3%B5i_naa" title="Nii või naa">Nii või naa</a>"</li>
+         </ul> 
+        </div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">As featured artist</th>
+       <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li>"<a href="/wiki/I_Remember_U" title="I Remember U">I Remember U</a>"</li>
+         </ul> 
+        </div></td>
+      </tr>
+     </tbody>
+    </table>
+   </div> 
+   <p><br> </p> 
+   <table class="metadata plainlinks stub" role="presentation" style="background:transparent">
+    <tbody>
+     <tr>
+      <td><a href="/wiki/File:Musical_notes.svg" class="image"><img alt="Stub icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Musical_notes.svg/30px-Musical_notes.svg.png" decoding="async" width="30" height="23" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Musical_notes.svg/45px-Musical_notes.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Musical_notes.svg/60px-Musical_notes.svg.png 2x" data-file-width="400" data-file-height="300"></a></td>
+      <td><i>This <a href="/wiki/2010s_in_music" title="2010s in music">2010s</a> <a href="/wiki/Pop_music" title="Pop music">pop song<

@@ -1,0 +1,167 @@
+<div id="bodyContent" class="mw-body-content"> 
+ <div id="siteSub" class="noprint">
+  From Wikipedia, the free encyclopedia
+ </div> 
+ <div id="contentSub"></div> 
+ <div id="jump-to-nav"></div> 
+ <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> 
+ <a class="mw-jump-link" href="#p-search">Jump to search</a> 
+ <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+  <div class="mw-parser-output">
+   <table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000"> 
+    <tbody>
+     <tr> 
+      <td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/40px-Wiktionary-logo-en-v2.svg.png" decoding="async" width="40" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/60px-Wiktionary-logo-en-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/80px-Wiktionary-logo-en-v2.svg.png 2x" data-file-width="512" data-file-height="512"></td> 
+      <td class="mbox-text plainlist">Look up <i><b><a href="https://en.wiktionary.org/wiki/dynamics" class="extiw" title="wiktionary:dynamics">dynamics</a></b></i>&nbsp;or <i><b><a href="https://en.wiktionary.org/wiki/dynamic" class="extiw" title="wiktionary:dynamic">dynamic</a></b></i> in Wiktionary, the free dictionary.</td>
+     </tr>
+    </tbody>
+   </table> 
+   <p><b>Dynamics</b> (from <a href="/wiki/Greek_language" title="Greek language">Greek</a> δυναμικός <i>dynamikos</i> "powerful", from δύναμις <i>dynamis</i> "<a href="/wiki/Power_(disambiguation)" class="mw-redirect mw-disambig" title="Power (disambiguation)">power</a>") or <b>dynamic</b> may refer to: </p> 
+   <style data-mw-deduplicate="TemplateStyles:r886049878">.mw-parser-output .tocright{float:right;clear:right;width:auto;background:none;padding:.5em 0 .8em 1.4em;margin-bottom:.5em}.mw-parser-output .tocright-clear-left{clear:left}.mw-parser-output .tocright-clear-both{clear:both}.mw-parser-output .tocright-clear-none{clear:none}</style>
+   <div class="tocright" style="">
+    <div id="toc" class="toc">
+     <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+     <div class="toctitle" lang="en" dir="ltr">
+      <h2>Contents</h2>
+      <span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+     </div> 
+     <ul> 
+      <li class="toclevel-1 tocsection-1"><a href="#Physics_and_engineering"><span class="tocnumber">1</span> <span class="toctext">Physics and engineering</span></a></li> 
+      <li class="toclevel-1 tocsection-2"><a href="#Brands_and_enterprises"><span class="tocnumber">2</span> <span class="toctext">Brands and enterprises</span></a></li> 
+      <li class="toclevel-1 tocsection-3"><a href="#Computer_science_and_mathematics"><span class="tocnumber">3</span> <span class="toctext">Computer science and mathematics</span></a></li> 
+      <li class="toclevel-1 tocsection-4"><a href="#Social_science"><span class="tocnumber">4</span> <span class="toctext">Social science</span></a></li> 
+      <li class="toclevel-1 tocsection-5"><a href="#Other_uses"><span class="tocnumber">5</span> <span class="toctext">Other uses</span></a></li> 
+      <li class="toclevel-1 tocsection-6"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li> 
+     </ul> 
+    </div> 
+   </div> 
+   <h2><span class="mw-headline" id="Physics_and_engineering">Physics and engineering</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dynamics&amp;action=edit&amp;section=1" title="Edit section: Physics and engineering">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <ul>
+    <li><a href="/wiki/Dynamics_(mechanics)" title="Dynamics (mechanics)">Dynamics (mechanics)</a> 
+     <ul>
+      <li><a href="/wiki/Aerodynamics" title="Aerodynamics">Aerodynamics</a>, the study of the motion of air</li> 
+      <li><a href="/wiki/Analytical_dynamics" title="Analytical dynamics">Analytical dynamics</a>, the motion of bodies as induced by external forces</li> 
+      <li><a href="/wiki/Brownian_dynamics" title="Brownian dynamics">Brownian dynamics</a>, the occurrence of Langevin dynamics in the motion of particles in solution</li> 
+      <li><a href="/wiki/File_dynamics" title="File dynamics">File dynamics</a>, stochastic motion of particles in a channel</li> 
+      <li><a href="/wiki/Flight_dynamics" title="Flight dynamics">Flight dynamics</a>, the science of aircraft and spacecraft design</li> 
+      <li><a href="/wiki/Fluid_dynamics" title="Fluid dynamics">Fluid dynamics</a> or <i>hydrodynamics</i>, the study of fluid flow 
+       <ul>
+        <li><a href="/wiki/Computational_fluid_dynamics" title="Computational fluid dynamics">Computational fluid dynamics</a>, a way of studying fluid dynamics using numerical methods</li>
+       </ul></li> 
+      <li><a href="/wiki/Fractional_dynamics" class="mw-redirect" title="Fractional dynamics">Fractional dynamics</a>, dynamics with integrations and differentiations of fractional orders</li> 
+      <li><a href="/wiki/Molecular_dynamics" title="Molecular dynamics">Molecular dynamics</a>, the study of motion on the molecular level</li> 
+      <li><a href="/wiki/Langevin_dynamics" title="Langevin dynamics">Langevin dynamics</a>, a mathematical model for stochastic dynamics</li> 
+      <li><a href="/wiki/Orbital_dynamics" class="mw-redirect" title="Orbital dynamics">Orbital dynamics</a>, the study of the motion of rockets and spacecraft</li> 
+      <li><a href="/wiki/Quantum_chromodynamics" title="Quantum chromodynamics">Quantum chromodynamics</a>, a theory of the strong interaction (color force)</li> 
+      <li><a href="/wiki/Quantum_electrodynamics" title="Quantum electrodynamics">Quantum electrodynamics</a>, a description of how matter and light interact</li> 
+      <li><a href="/wiki/Relativistic_dynamics" title="Relativistic dynamics">Relativistic dynamics</a>, a combination of relativistic and quantum concepts</li> 
+      <li><a href="/wiki/Stellar_dynamics" title="Stellar dynamics">Stellar dynamics</a>, a description of the collective motion of stars</li> 
+      <li><a href="/wiki/System_dynamics" title="System dynamics">System dynamics</a>, the study of the behavior of complex systems</li> 
+      <li><a href="/wiki/Thermodynamics" title="Thermodynamics">Thermodynamics</a>, the study of the relationships between heat and mechanical energy</li> 
+      <li><a href="/wiki/Vehicle_dynamics" title="Vehicle dynamics">Vehicle dynamics</a></li>
+     </ul></li>
+   </ul> 
+   <h2><span class="mw-headline" id="Brands_and_enterprises">Brands and enterprises</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dynamics&amp;action=edit&amp;section=2" title="Edit section: Brands and enterprises">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <ul>
+    <li><a href="/wiki/Dynamic_(record_label)" title="Dynamic (record label)">Dynamic (record label)</a>, an Italian record label in Genoa</li> 
+    <li><a href="/wiki/Arrow_Dynamics" title="Arrow Dynamics">Arrow Dynamics</a>, roller coaster designer</li> 
+    <li><a href="/wiki/Boston_Dynamics" title="Boston Dynamics">Boston Dynamics</a>, robot designer</li> 
+    <li><a href="/wiki/Crystal_Dynamics" title="Crystal Dynamics">Crystal Dynamics</a>, video game developer</li> 
+    <li><a href="/wiki/Dynamic_(company)" class="mw-redirect" title="Dynamic (company)">Dynamic (company)</a>, commercial catering appliance company</li> 
+    <li><a href="/wiki/General_Dynamics" title="General Dynamics">General Dynamics</a>, defence contractor</li> 
+    <li><a href="/wiki/Microsoft_Dynamics" title="Microsoft Dynamics">Microsoft Dynamics</a>, a line of business software</li>
+   </ul> 
+   <h2><span class="mw-headline" id="Computer_science_and_mathematics">Computer science and mathematics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dynamics&amp;action=edit&amp;section=3" title="Edit section: Computer science and mathematics">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <ul>
+    <li><a href="/wiki/Dynamic_HTML" title="Dynamic HTML">Dynamic HTML</a>, technologies for creating interactive and animated web sites</li> 
+    <li><a href="/wiki/Dynamic_IP" class="mw-redirect" title="Dynamic IP">Dynamic IP</a>, an IP address that changes every time the computer is turned on</li> 
+    <li><a href="/wiki/Dynamic_program_analysis" title="Dynamic program analysis">Dynamic program analysis</a>, a set of methods for analyzing computer software</li> 
+    <li><a href="/wiki/Dynamic_programming" title="Dynamic programming">Dynamic programming</a>, a method of solving complex problems by breaking them down into simpler steps</li> 
+    <li><a href="/wiki/Dynamic_web_page" title="Dynamic web page">Dynamic web page</a>, a web page with content that varies</li> 
+    <li><a href="/wiki/Dynamical_system" title="Dynamical system">Dynamical system</a>, a concept describing a point's time dependency</li> 
+    <li><a href="/wiki/Symbolic_dynamics" title="Symbolic dynamics">Symbolic dynamics</a>, a method to model dynamical systems</li>
+   </ul> 
+   <h2><span class="mw-headline" id="Social_science">Social science</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dynamics&amp;action=edit&amp;section=4" title="Edit section: Social science">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <ul>
+    <li><a href="/wiki/Group_dynamics" title="Group dynamics">Group dynamics</a>, the study of social group processes especially</li> 
+    <li><a href="/wiki/Population_dynamics" title="Population dynamics">Population dynamics</a>, in life sciences, the changes in the composition of a population</li> 
+    <li><a href="/wiki/Psychodynamics" title="Psychodynamics">Psychodynamics</a>, the study of psychological forces driving human behavior</li> 
+    <li><a href="/wiki/Social_dynamics" title="Social dynamics">Social dynamics</a>, the ability of a society to react to changes</li> 
+    <li><a href="/wiki/Spiral_Dynamics" class="mw-redirect" title="Spiral Dynamics">Spiral Dynamics</a>, a social development theory</li>
+   </ul> 
+   <h2><span class="mw-headline" id="Other_uses">Other uses</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dynamics&amp;action=edit&amp;section=5" title="Edit section: Other uses">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <ul>
+    <li><a href="/wiki/Dynamics_(music)" title="Dynamics (music)">Dynamics (music)</a>, the softness or loudness of a sound or note</li> 
+    <li><a href="/wiki/DTA_Dynamic" title="DTA Dynamic">DTA Dynamic</a>, a French ultralight trike wing design</li> 
+    <li><a href="/wiki/Dynamic_microphone" class="mw-redirect" title="Dynamic microphone">Dynamic microphone</a>, a type of microphone</li> 
+    <li><a href="/wiki/Force_dynamics" title="Force dynamics">Force dynamics</a>, a semantic concept about how entities interact with reference to force</li> 
+    <li><a href="/wiki/Neural_oscillation" title="Neural oscillation">Neural oscillation</a> in neurodynamics, a rhythmic pattern in the brain</li> 
+    <li><a href="/wiki/Sol_Dynamic" title="Sol Dynamic">Sol Dynamic</a>, a Brazilian paraglider design</li> 
+    <li><a href="/wiki/Dynamics_(album)" title="Dynamics (album)"><i>Dynamics</i> (album)</a></li>
+   </ul> 
+   <h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dynamics&amp;action=edit&amp;section=6" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <ul>
+    <li><span class="selfreference"><a href="/wiki/Special:PrefixIndex/dynamic" title="Special:PrefixIndex/dynamic">All pages with titles beginning with <i>dynamic</i></a></span></li> 
+    <li><span class="selfreference"><a href="/wiki/Special:Search/intitle:%22dynamic%22" title="Special:Search/intitle:&quot;dynamic&quot;">All pages with titles containing <i>dynamic</i></a></span></li> 
+    <li><a href="/wiki/Dynamic_Host_Configuration_Protocol" title="Dynamic Host Configuration Protocol">Dynamic Host Configuration Protocol</a></li> 
+    <li><a href="/wiki/Kinetics_(disambiguation)" class="mw-redirect mw-disambig" title="Kinetics (disambiguation)">Kinetics (disambiguation)</a></li> 
+    <li><a href="/wiki/Power_(disambiguation)" class="mw-redirect mw-disambig" title="Power (disambiguation)">Power (disambiguation)</a></li> 
+    <li><a href="/wiki/Static_(disambiguation)" class="mw-redirect mw-disambig" title="Static (disambiguation)">Static (disambiguation)</a></li>
+   </ul> 
+   <style data-mw-deduplicate="TemplateStyles:r889293728">.mw-parser-output table.dmbox{clear:both;margin:0.9em 1em;border-top:1px solid #ccc;border-bottom:1px solid #ccc;background-color:transparent}</style> 
+   <table id="disambigbox" class="metadata plainlinks dmbox dmbox-disambig" style="" role="presentation"> 
+    <tbody>
+     <tr> 
+      <td class="mbox-image" style="padding: 2px 0 2px 0.4em;"> <a href="/wiki/File:Disambig_gray.svg" class="image"><img alt="Disambiguation icon" src="//upload.wikimedia.org/wikipedia/en/thumb/5/5f/Disambig_gray.svg/30px-Disambig_gray.svg.png" decoding="async" width="30" height="23" srcset="//upload.wikimedia.org/wikipedia/en/thumb/5/5f/Disambig_gray.svg/45px-Disambig_gray.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/5/5f/Disambig_gray.svg/60px-Disambig_gray.svg.png 2x" data-file-width="220" data-file-height="168"></a></td> 
+      <td class="mbox-text" style="padding: 0.25em 0.4em; font-style: italic;"> 
+       <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">
+        Disambiguation page providing links to topics that could be referred to by the same search term
+       </div>This <a href="/wiki/Help:Disambiguation" title="Help:Disambiguation">disambiguation</a> page lists articles associated with the title <b>Dynamics</b>. <br> <small>If an <a class="external text" href="//en.wikipedia.org/w/index.php?title=Special:WhatLinksHere/Dynamics&amp;namespace=0">internal link</a> led you here, you may wish to change the link to point directly to the intended article.</small> </td> 
+     </tr> 
+    </tbody>
+   </table> 
+   <!-- 
+NewPP limit report
+Parsed by mw1347
+Cached time: 20190504023955
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.144 seconds
+Real time usage: 0.210 seconds
+Preprocessor visited node count: 1374/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 6054/2097152 bytes
+Template argument size: 1266/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 626/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.028/10.000 seconds
+Lua memory usage: 1.08 MB/50 MB
+--> 
+   <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  178.112      1 -total
+ 53.75%   95.728      1 Template:Disambiguation
+ 38.99%   69.448      1 Template:Dmbox
+ 31.80%   56.646      1 Template:Wiktionary
+ 28.63%   50.995      1 Template:Sister_project
+ 25.72%   45.805      1 Template:Side_box
+ 16.62%   29.601      1 Template:Category_handler
+  9.68%   17.237      1 Template:Main_other
+  7.59%   13.517      2 Template:Title_disambig_text
+  7.57%   13.478      1 Template:TOC_right
+--> 
+   <!-- Saved in parser cache with key enwiki:pcache:idhash:8386-0!canonical and timestamp 20190504023955 and revision id 886364124
+ --> 
+  </div>
+  <noscript>
+   <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+  </noscript>
+ </div> 
+ <div class="printfooter">
+  Retrieved from "
+  <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Dynamics&amp;oldid=886364124">https://en.wikipedia.org/w/index.php?title=Dynamics&amp;oldid=886364124</a>"
+ </div> 
+ <div id="catlinks

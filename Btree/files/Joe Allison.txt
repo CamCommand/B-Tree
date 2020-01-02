@@ -1,0 +1,201 @@
+<div id="bodyContent" class="mw-body-content"> 
+ <div id="siteSub" class="noprint">
+  From Wikipedia, the free encyclopedia
+ </div> 
+ <div id="contentSub"></div> 
+ <div id="jump-to-nav"></div> 
+ <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> 
+ <a class="mw-jump-link" href="#p-search">Jump to search</a> 
+ <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+  <div class="mw-parser-output">
+   <table class="infobox vcard" style="width:22em;width:23em">
+    <caption class="fn">
+     Joe Allison
+    </caption>
+    <tbody>
+     <tr>
+      <th scope="row">Born:</th>
+      <td><span style="display:none"> (<span class="bday">1970-01-20</span>) </span>January 20, 1970<span class="noprint ForceAgeToShow"> (age&nbsp;49)</span><br><a href="/wiki/Miami,_Florida" class="mw-redirect" title="Miami, Florida">Miami, Florida</a></td>
+     </tr>
+     <tr style="background: #DCDCDC; color: #000000;">
+      <th colspan="2" style="text-align:center">Career information</th>
+     </tr>
+     <tr>
+      <th scope="row"><a href="/wiki/American_football_positions" title="American football positions">Position(s)</a></th>
+      <td><a href="/wiki/Placekicker" title="Placekicker">K</a></td>
+     </tr>
+     <tr>
+      <th scope="row">Height</th>
+      <td>6&nbsp;ft 0&nbsp;in (183&nbsp;cm)</td>
+     </tr>
+     <tr>
+      <th scope="row">Weight</th>
+      <td>200&nbsp;lb (91&nbsp;kg)</td>
+     </tr>
+     <tr>
+      <th scope="row"><a href="/wiki/College_football" title="College football">College</a></th>
+      <td><a href="/wiki/Memphis_Tigers_football" title="Memphis Tigers football">Memphis Tigers</a></td>
+     </tr>
+     <tr>
+      <th scope="row">High school</th>
+      <td><a href="/wiki/American_High_School_(Miami-Dade_County,_Florida)" title="American High School (Miami-Dade County, Florida)">American</a> (<a href="/wiki/Miami,_FL" class="mw-redirect" title="Miami, FL">Miami, FL</a>)</td>
+     </tr>
+     <tr style="background: #DCDCDC; color: #000000;">
+      <th colspan="2" style="text-align:center">Career history</th>
+     </tr>
+     <tr>
+      <th colspan="2" style="text-align:center">As player</th>
+     </tr>
+     <tr>
+      <th scope="row" style="font-weight: normal; line-height: 1.2;"><a href="/wiki/1995_CFL_season" title="1995 CFL season">1995</a></th>
+      <td style="line-height: 1.2;"><a href="/wiki/Memphis_Mad_Dogs" title="Memphis Mad Dogs">Memphis Mad Dogs</a></td>
+     </tr>
+     <tr style="display:none">
+      <th colspan="2"> </th>
+     </tr>
+     <tr style="background: #DCDCDC; color: #000000;">
+      <th colspan="2" style="text-align:center">Career&nbsp;highlights&nbsp;and&nbsp;awards</th>
+     </tr>
+     <tr>
+      <td colspan="2" style="text-align:center">
+       <div style="text-align:left"> 
+        <ul>
+         <li><a href="/wiki/Lou_Groza_Award" title="Lou Groza Award">Lou Groza Award</a> (1992)</li> 
+         <li>Consensus <a href="/wiki/College_Football_All-America_Team" title="College Football All-America Team">All-American</a> (1992)</li>
+        </ul>
+       </div> </td>
+     </tr>
+    </tbody>
+   </table> 
+   <p><b>Joe Allison</b> is a former <a href="/wiki/American_football" title="American football">American football</a> <a href="/wiki/Placekicker" title="Placekicker">placekicker</a>. Allison is perhaps most famous for being the winner of the <a href="/wiki/Inaugural" class="mw-redirect" title="Inaugural">inaugural</a> <a href="/wiki/Lou_Groza_Award" title="Lou Groza Award">Lou Groza Award</a> in 1992, the award presented to honor the top placekicker in <a href="/wiki/College_football" title="College football">college football</a>.<sup id="cite_ref-SI_1-0" class="reference"><a href="#cite_note-SI-1">[1]</a></sup> He went on to play in one game for the <a href="/wiki/Memphis_Mad_Dogs" title="Memphis Mad Dogs">Memphis Mad Dogs</a> of the <a href="/wiki/Canadian_Football_League" title="Canadian Football League">Canadian Football League</a> in 1995.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> </p> 
+   <div id="toc" class="toc">
+    <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+    <div class="toctitle" lang="en" dir="ltr">
+     <h2>Contents</h2>
+     <span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+    </div> 
+    <ul> 
+     <li class="toclevel-1 tocsection-1"><a href="#Career"><span class="tocnumber">1</span> <span class="toctext">Career</span></a> 
+      <ul> 
+       <li class="toclevel-2 tocsection-2"><a href="#High_school"><span class="tocnumber">1.1</span> <span class="toctext">High school</span></a></li> 
+       <li class="toclevel-2 tocsection-3"><a href="#College"><span class="tocnumber">1.2</span> <span class="toctext">College</span></a></li> 
+       <li class="toclevel-2 tocsection-4"><a href="#Professional"><span class="tocnumber">1.3</span> <span class="toctext">Professional</span></a></li> 
+      </ul> </li> 
+     <li class="toclevel-1 tocsection-5"><a href="#Personal_life"><span class="tocnumber">2</span> <span class="toctext">Personal life</span></a></li> 
+     <li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li> 
+    </ul> 
+   </div> 
+   <h2><span class="mw-headline" id="Career">Career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Joe_Allison_(gridiron_football)&amp;action=edit&amp;section=1" title="Edit section: Career">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <h3><span class="mw-headline" id="High_school">High school</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Joe_Allison_(gridiron_football)&amp;action=edit&amp;section=2" title="Edit section: High school">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+   <p>Allison attended high school at <a href="/wiki/American_High_School_(Miami-Dade_County,_Florida)" title="American High School (Miami-Dade County, Florida)">American High School</a> in <a href="/wiki/Miami,_Florida" class="mw-redirect" title="Miami, Florida">Miami, Florida</a>. Although he starred at his school as a <a href="/wiki/Quarterback" title="Quarterback">quarterback</a>, <a href="/wiki/Punter_(American_football)" class="mw-redirect" title="Punter (American football)">punter</a>, and <a href="/wiki/Placekicker" title="Placekicker">placekicker</a>, <a href="/wiki/Memphis_State_University" class="mw-redirect" title="Memphis State University">Memphis State University</a> was the only <a href="/wiki/Division_1-A" class="mw-redirect" title="Division 1-A">Division 1-A</a> school to offer him a <a href="/wiki/Scholarship" title="Scholarship">scholarship</a>.<sup id="cite_ref-SI_1-1" class="reference"><a href="#cite_note-SI-1">[1]</a></sup> Allison chose to accept the scholarship and attend Memphis State. </p> 
+   <h3><span class="mw-headline" id="College">College</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Joe_Allison_(gridiron_football)&amp;action=edit&amp;section=3" title="Edit section: College">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+   <p>Allison played collegiate football at the <a href="/wiki/University_of_Memphis" title="University of Memphis">University of Memphis</a>, which at the time was called <a href="/wiki/Memphis_State_University" class="mw-redirect" title="Memphis State University">Memphis State University</a>. In 1992, his junior season at the school, Allison won the <a href="/wiki/Lou_Groza_Award" title="Lou Groza Award">Lou Groza Award</a>, awarded to the nation's top <a href="/wiki/Placekicker" title="Placekicker">placekicker</a>. During the season, Allison made 23 out of 25 field goals, and led the <a href="/wiki/NCAA" class="mw-redirect" title="NCAA">NCAA</a> in both field goals made as well as field goal percentage, where he achieved 92 percent. He also connected on all 32 extra points that he attempted. For the 1992 season, Allison scored a total of 101 points. Allison was also named by the <a href="/wiki/Associated_Press" title="Associated Press">Associated Press</a> to the first-team <a href="/wiki/1992_College_Football_All-America_Team" title="1992 College Football All-America Team">All-American</a> team, the first Memphis State University player in the school's history to be honored with that recognition.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> </p> 
+   <h3><span class="mw-headline" id="Professional">Professional</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Joe_Allison_(gridiron_football)&amp;action=edit&amp;section=4" title="Edit section: Professional">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+   <p>Allison played a single regular season game for the Memphis Mad Dogs of the Canadian Football League, in which he completed six kick-offs, scored one field goal on three attempts, and made two <a href="/wiki/Single_(football)" title="Single (football)">singles</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> </p> 
+   <h2><span class="mw-headline" id="Personal_life">Personal life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Joe_Allison_(gridiron_football)&amp;action=edit&amp;section=5" title="Edit section: Personal life">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <p>Joe Allison's <a href="/wiki/Cousin" title="Cousin">first cousin</a> was <a href="/wiki/Davey_Allison" title="Davey Allison">Davey Allison</a>, who was a <a href="/wiki/NASCAR" title="NASCAR">NASCAR</a> <a href="/wiki/Race_car" class="mw-redirect" title="Race car">race car</a> driver for <a href="/wiki/Robert_Yates_Racing" class="mw-redirect" title="Robert Yates Racing">Robert Yates Racing</a>. Davey was killed in a <a href="/wiki/Helicopter" title="Helicopter">helicopter</a> accident in 1993. Joe was the <a href="/wiki/Godparent" title="Godparent">godfather</a> to Davey's daughter Krista.<sup id="cite_ref-SI_1-2" class="reference"><a href="#cite_note-SI-1">[1]</a></sup> Joe and Davey were very close, and after his death, Joe said "Before I go in to kick, I put my hat down and say, 'Davey, give me the strength to do the best I can, to be as strong as you were.'"<sup id="cite_ref-SI_1-3" class="reference"><a href="#cite_note-SI-1">[1]</a></sup> Joe is currently a special education teacher at North Forsyth High School in Cumming, Georgia. </p> 
+   <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Joe_Allison_(gridiron_football)&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <div class="reflist" style="list-style-type: decimal;"> 
+    <div class="mw-references-wrap">
+     <ol class="references"> 
+      <li id="cite_note-SI-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-SI_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-SI_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-SI_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-SI_1-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Reed, William F. (1993-10-04). <a rel="nofollow" class="external text" href="http://vault.sportsillustrated.cnn.com/vault/article/magazine/MAG1138653/index.htm">"Joe Allison"</a>. <i><a href="/wiki/Sports_Illustrated" title="Sports Illustrated">Sports Illustrated</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">2008-07-31</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Joe+Allison&amp;rft.date=1993-10-04&amp;rft.aulast=Reed&amp;rft.aufirst=William+F.&amp;rft_id=http%3A%2F%2Fvault.sportsillustrated.cnn.com%2Fvault%2Farticle%2Fmagazine%2FMAG1138653%2Findex.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJoe+Allison+%28gridiron+football%29" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span> </li> 
+      <li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation book">Maher, Tod; Gill, Bob (2013). <i>The Canadian Pro Football Encyclopedia: Every Player, Coach and Game, 1946–2012</i>. Maher Sports Media. p.&nbsp;144. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-0983513667" title="Special:BookSources/978-0983513667"><bdi>978-0983513667</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Canadian+Pro+Football+Encyclopedia%3A+Every+Player%2C+Coach+and+Game%2C+1946%E2%80%932012&amp;rft.pages=144&amp;rft.pub=Maher+Sports+Media&amp;rft.date=2013&amp;rft.isbn=978-0983513667&amp;rft.aulast=Maher&amp;rft.aufirst=Tod&amp;rft.au=Gill%2C+Bob&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJoe+Allison+%28gridiron+football%29" class="Z3988"></span>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+      <li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Lou Groza Award, <a rel="nofollow" class="external text" href="http://www.lougrozaaward.com/previouswinners">Previous Winners</a>. Retrieved February 23, 2012.</span> </li> 
+      <li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation book">Maher, Tod; Gill, Bob (2013). <i>The Canadian Pro Football Encyclopedia: Every Player, Coach and Game, 1946–2012</i>. Maher Sports Media. p.&nbsp;590. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-0983513667" title="Special:BookSources/978-0983513667"><bdi>978-0983513667</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Canadian+Pro+Football+Encyclopedia%3A+Every+Player%2C+Coach+and+Game%2C+1946%E2%80%932012&amp;rft.pages=590&amp;rft.pub=Maher+Sports+Media&amp;rft.date=2013&amp;rft.isbn=978-0983513667&amp;rft.aulast=Maher&amp;rft.aufirst=Tod&amp;rft.au=Gill%2C+Bob&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJoe+Allison+%28gridiron+football%29" class="Z3988"></span>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+     </ol>
+    </div>
+   </div> 
+   <div role="navigation" class="navbox" aria-labelledby="1992_College_Football_All-America_Team_consensus_selections" style="padding:3px">
+    <table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+     <tbody>
+      <tr>
+       <th scope="col" class="navbox-title" colspan="2">
+        <div class="plainlinks hlist navbar mini">
+         <ul>
+          <li class="nv-view"><a href="/wiki/Template:1992_NCAA_Division_I-A_College_Football_Consensus_All-Americans" title="Template:1992 NCAA Division I-A College Football Consensus All-Americans"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+          <li class="nv-talk"><a href="/wiki/Template_talk:1992_NCAA_Division_I-A_College_Football_Consensus_All-Americans" title="Template talk:1992 NCAA Division I-A College Football Consensus All-Americans"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+          <li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:1992_NCAA_Division_I-A_College_Football_Consensus_All-Americans&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+         </ul>
+        </div>
+        <div id="1992_College_Football_All-America_Team_consensus_selections" style="font-size:114%;margin:0 4em">
+         <a href="/wiki/1992_College_Football_All-America_Team" title="1992 College Football All-America Team">1992 College Football All-America Team</a> consensus selections
+        </div></th>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%">Offense</th>
+       <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><span class="nowrap">QB <a href="/wiki/Gino_Torretta" title="Gino Torretta">Gino Torretta</a></span></li> 
+          <li><span class="nowrap">RB <a href="/wiki/Marshall_Faulk" title="Marshall Faulk">Marshall Faulk</a></span></li> 
+          <li><span class="nowrap">RB <a href="/wiki/Garrison_Hearst" title="Garrison Hearst">Garrison Hearst</a></span></li> 
+          <li><span class="nowrap">WR <a href="/wiki/O._J._McDuffie" title="O. J. McDuffie">O. J. McDuffie</a></span></li> 
+          <li><span class="nowrap">WR <a href="/wiki/Sean_Dawkins" title="Sean Dawkins">Sean Dawkins</a></span></li> 
+          <li><span class="nowrap">TE <a href="/wiki/Chris_Gedney" title="Chris Gedney">Chris Gedney</a></span></li>
+         </ul> 
+         <ul>
+          <li><span class="nowrap">OL <a href="/wiki/Lincoln_Kennedy" title="Lincoln Kennedy">Lincoln Kennedy</a></span></li> 
+          <li><span class="nowrap">OL <a href="/wiki/Will_Shields" title="Will Shields">Will Shields</a></span></li> 
+          <li><span class="nowrap">OL <a href="/wiki/Aaron_Taylor_(American_football,_born_1972)" title="Aaron Taylor (American football, born 1972)">Aaron Taylor</a></span></li> 
+          <li><span class="nowrap">OL <a href="/wiki/Willie_Roaf" title="Willie Roaf">Willie Roaf</a></span></li> 
+          <li><span class="nowrap">OL <a href="/wiki/Everett_Lindsay" title="Everett Lindsay">Everett Lindsay</a></span></li> 
+          <li><span class="nowrap">C <a href="/wiki/Mike_Compton_(American_football)" title="Mike Compton (American football)">Mike Compton</a></span></li>
+         </ul> 
+        </div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%">Defense</th>
+       <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><span class="nowrap">DL <a href="/wiki/Eric_Curry" title="Eric Curry">Eric Curry</a></span></li> 
+          <li><span class="nowrap">DL <a href="/wiki/John_Copeland" title="John Copeland">John Copeland</a></span></li> 
+          <li><span class="nowrap">DL <a href="/wiki/Chris_Slade_(American_football)" title="Chris Slade (American football)">Chris Slade</a></span></li> 
+          <li><span class="nowrap">DL <a href="/wiki/Rob_Waldrop" title="Rob Waldrop">Rob Waldrop</a></span></li>
+         </ul> 
+         <ul>
+          <li><span class="nowrap">LB <a href="/wiki/Marcus_Buckley" title="Marcus Buckley">Marcus Buckley</a></span></li> 
+          <li><span class="nowrap">LB <a href="/wiki/Marvin_Jones_(linebacker)" title="Marvin Jones (linebacker)">Marvin Jones</a></span></li> 
+          <li><span class="nowrap">LB <a href="/wiki/Micheal_Barrow" title="Micheal Barrow">Micheal Barrow</a></span></li>
+         </ul> 
+         <ul>
+          <li><span class="nowrap">DB <a href="/wiki/Carlton_McDonald" title="Carlton McDonald">Carlton McDonald</a></span></li> 
+          <li><span class="nowrap">DB <a href="/wiki/Carlton_Gray" title="Carlton Gray">Carlton Gray</a></span></li> 
+          <li><span class="nowrap">DB <a href="/wiki/Deon_Figures" title="Deon Figures">Deon Figures</a></span></li> 
+          <li><span class="nowrap">DB <a href="/wiki/Ryan_McNeil_(American_football)" title="Ryan McNeil (American football)">Ryan McNeil</a></span></li>
+         </ul> 
+        </div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%">Special teams</th>
+       <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><span class="nowrap">PK <a href="/wiki/Joe_Allison_(American_football)" class="mw-redirect" title="Joe Allison (American football)">Joe Allison</a></span></li> 
+          <li><span class="nowrap">P <a href="/wiki/Sean_Snyder" title="Sean Snyder">Sean Snyder</a></span></li>
+         </ul> 
+        </div></td>
+      </tr>
+     </tbody>
+    </table>
+   </div> 
+   <div role="navigation" class="navbox" aria-labelledby="Lou_Groza_Award_winners" style="padding:3px">
+    <table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+     <tbody>
+      <tr>
+       <th scope="col" class="navbox-title" colspan="2">
+        <div class="plainlinks hlist navbar mini">
+         <ul>
+          <li class="nv-view"><a href="/wiki/Template:Lou_Groza_Award" title="Template:Lou Groza Award"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+          <li class="nv-talk"><a href="/wiki/Template_talk:Lou_Groza_Award" title="Template talk:Lou Groza Award"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+          <li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Lou_Groza_Award&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+         </ul>
+        </div>
+        <div id="Lou_Groza_Award_winners" style="font-size:114%;margin:0 4em">
+         <a href="/wiki/Lou_Groza_Award" title="Lou Groza Award">Lou Groza Award</a> winners
+        </div></th>
+      </tr>
+      <tr>
+       <td colspan="2" class="navbox-

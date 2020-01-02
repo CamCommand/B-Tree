@@ -1,0 +1,47 @@
+<div id="bodyContent" class="mw-body-content"> 
+ <div id="siteSub" class="noprint">
+  From Wikipedia, the free encyclopedia
+ </div> 
+ <div id="contentSub"></div> 
+ <div id="jump-to-nav"></div> 
+ <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> 
+ <a class="mw-jump-link" href="#p-search">Jump to search</a> 
+ <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+  <div class="mw-parser-output">
+   <div class="thumb tright">
+    <div class="thumbinner" style="width:222px;">
+     <a href="/wiki/File:Hachiko-jinja.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Hachiko-jinja.jpg/220px-Hachiko-jinja.jpg" decoding="async" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Hachiko-jinja.jpg/330px-Hachiko-jinja.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Hachiko-jinja.jpg/440px-Hachiko-jinja.jpg 2x" data-file-width="1840" data-file-height="1232"></a> 
+     <div class="thumbcaption">
+      <div class="magnify">
+       <a href="/wiki/File:Hachiko-jinja.jpg" class="internal" title="Enlarge"></a>
+      </div>Hachiko Shrine at 
+      <a href="/wiki/Dewa_Sanzan" class="mw-redirect" title="Dewa Sanzan">Dewa Sanzan</a>.
+     </div>
+    </div>
+   </div> 
+   <p><b>Prince Hachiko</b><span style="font-weight: normal"> (<span lang="ja">蜂子皇子</span><span style="display:none">,</span> <i>Hachiko no Ōji</i>, 542–641)</span> was the eldest son of <a href="/wiki/Emperor_Sushun" title="Emperor Sushun">Emperor Sushun</a>, the 32nd <a href="/wiki/Emperor_of_Japan" title="Emperor of Japan">Emperor of Japan</a> who reigned from 587 to 592. His mother was <a href="/wiki/%C5%8Ctomo_no_Koteko" title="Ōtomo no Koteko">Ōtomo no Koteko</a>,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Sushun's empress consort.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> </p>
+   <p>After the assassination of his father in 592, Hachiko was forced to flee the <a href="/wiki/Soga_clan" title="Soga clan">Soga clan</a>. He made his way north along the western seacoast of Honshū. He came ashore in <a href="/wiki/Dewa_Province" title="Dewa Province">Dewa Province</a>, where he invested the rest of his life in religious pursuits.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> </p>
+   <p>Prince Hachiko is traditionally venerated at an imperial tomb on the top of <a href="/wiki/Mt._Haguro" class="mw-redirect" title="Mt. Haguro">Mt. Haguro</a>, in <a href="/wiki/Tsuruoka" class="mw-redirect" title="Tsuruoka">Tsuruoka</a>. The <a href="/wiki/Imperial_Household_Agency" title="Imperial Household Agency">Imperial Household Agency</a> designates this location at <a href="/wiki/Dewa_Sanzan" class="mw-redirect" title="Dewa Sanzan">Dewa Sanzan</a> as Hachiko Shrine<span style="font-weight: normal"> (<span lang="ja">蜂子神社</span><span style="display:none">,</span> <i>Hachiko-jinja</i>)</span>. The tomb was guarded by Imperial soldiers up until the end of World War II.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> </p> 
+   <h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Prince_Hachiko&amp;action=edit&amp;section=1" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <div class="reflist" style="list-style-type: decimal;"> 
+    <div class="mw-references-wrap">
+     <ol class="references"> 
+      <li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Jochi Daigaku. (1989). <a rel="nofollow" class="external text" href="https://books.google.com/books?ei=4uX7S8Fmw_jwBurewPEF&amp;ct=result&amp;id=sgtDAAAAYAAJ&amp;dq=koteko+Sushun&amp;q=koteko+#search_anchor"><i>Monumenta Nipponica,</i> Vol. 44, p. 455</a> -- Snippet view.</span> </li> 
+      <li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Aston, William George. (1896). <i><a rel="nofollow" class="external text" href="https://books.google.com/books?id=_oEfAAAAYAAJ&amp;pg=PA117"></a></i><a rel="nofollow" class="external text" href="https://books.google.com/books?id=_oEfAAAAYAAJ&amp;pg=PA117">Nihongi,<i> pp. 117.</i></a>, p. 117, at <a href="/wiki/Google_Books" title="Google Books">Google Books</a></span> </li> 
+      <li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.dewasanzan.jp/english/info.html">Dewa Sanzan history</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20110722102839/http://www.dewasanzan.jp/english/info.html">Archived</a> 2011-07-22 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></span> </li> 
+      <li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a href="/wiki/H._Byron_Earhart" title="H. Byron Earhart">Earhart, H. Byron</a>. (1970). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=GIjXAAAAMAAJ&amp;q=Prince+Hachiko&amp;dq=Prince+Hachiko&amp;hl=en&amp;ei=xgH8S6f6HYP-8AaMrrTKBQ&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=1&amp;ved=0CCgQ6AEwAA"><i>A Religious Study of the Mount Haguro Sect of Shugendō,</i> p. 43.</a> - Snippet view.</span> </li> 
+     </ol>
+    </div>
+   </div> 
+   <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Prince_Hachiko&amp;action=edit&amp;section=2" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <ul>
+    <li><a href="/wiki/William_George_Aston" title="William George Aston">Aston, William George.</a> (1896). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=_oEfAAAAYAAJ&amp;client=firefox-a"><i>Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697.</i></a> London: Kegan Paul, Trench, Trubner. <a rel="nofollow" class="external text" href="http://www.worldcat.org/title/nihongi-chronicles-of-japan-from-the-earliest-times-to-ad-697/oclc/448337491&amp;referer=brief_results">OCLC 448337491</a></li> 
+    <li>Earhart, H. Byron. (1970). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=GIjXAAAAMAAJ&amp;q=Prince+Hachiko&amp;dq=Prince+Hachiko&amp;hl=en&amp;ei=xgH8S6f6HYP-8AaMrrTKBQ&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=1&amp;ved=0CCgQ6AEwAA"><i>A Religious Study of the Mount Haguro Sect of Shugendō: an example of Japanese Mountain Religion.</i></a> Tokyo: Sophia University.</li> 
+    <li>Jochi Daigaku. (1989). <a rel="nofollow" class="external text" href="https://books.google.com/books?ei=4uX7S8Fmw_jwBurewPEF&amp;ct=result&amp;id=sgtDAAAAYAAJ&amp;dq=koteko+Sushun&amp;q=koteko+#search_anchor"><i>Monumenta Nipponica,</i></a> Vol. 44. Tokyo: Sophia University Press. <a rel="nofollow" class="external text" href="http://www.worldcat.org/title/monumenta-nipponica/oclc/1640509">OCLC 1640509</a></li>
+   </ul> 
+   <p><br> </p> 
+   <table class="metadata plainlinks stub" role="presentation" style="background:transparent">
+    <tbody>
+     <tr>
+      <td><a href="/wiki/File:Imperial_Seal_of_Japan.svg" class="image"><img alt="Stub icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/Imperial_Seal_of_Japan.svg/30px-Imperial_Seal_of_Japan.svg.png" decoding="async" width="30" height="30" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/Imperial_Seal_of_Japan.svg/45px-Imperial_Seal_of_Japan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/37/Imperial_Seal_of_Japan.svg/60px-Imperial_Seal_of_Japan.svg.png 2x" data-file-width="990" data-file-height="990"></a></td>
+      <td><i>This biography of a member of the <a href="/wiki/Imperial_House_of_Japan" title="Imperial House of Japan">Imperial House of Japan</a> i

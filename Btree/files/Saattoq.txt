@@ -1,0 +1,372 @@
+<div id="bodyContent" class="mw-body-content"> 
+ <div id="siteSub" class="noprint">
+  From Wikipedia, the free encyclopedia
+ </div> 
+ <div id="contentSub"></div> 
+ <div id="jump-to-nav"></div> 
+ <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> 
+ <a class="mw-jump-link" href="#p-search">Jump to search</a> 
+ <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+  <div class="mw-parser-output">
+   <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">
+    Place in Greenland, Kingdom of Denmark
+   </div>
+   <table class="infobox geography vcard" style="width:22em;width:23em">
+    <tbody>
+     <tr>
+      <th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size:1.25em; white-space:nowrap">
+       <div style="display:inline" class="fn org">
+        Saattoq
+       </div></th>
+     </tr>
+     <tr class="mergedtoprow">
+      <td colspan="2" style="text-align:center">
+       <div class="center">
+        <div style="width:300px;float:none;clear:both;margin-left:auto;margin-right:auto">
+         <div style="width:300px;padding:0">
+          <div style="position:relative;width:300px">
+           <a href="/wiki/File:Greenland_edcp_location_map.svg" class="image" title="Saattoq is located in Greenland"><img alt="Saattoq is located in Greenland" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Greenland_edcp_location_map.svg/300px-Greenland_edcp_location_map.svg.png" decoding="async" width="300" height="424" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Greenland_edcp_location_map.svg/450px-Greenland_edcp_location_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Greenland_edcp_location_map.svg/600px-Greenland_edcp_location_map.svg.png 2x" data-file-width="1181" data-file-height="1669"></a>
+           <div style="position:absolute;top:44.159%;left:29.967%">
+            <div style="position:absolute;left:-3px;top:-3px;line-height:0">
+             <img alt="Saattoq" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/6px-Red_pog.svg.png" decoding="async" title="Saattoq" width="6" height="6" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/9px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64">
+            </div>
+            <div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;left:4px;text-align:left">
+             <div style="display:inline;padding:1px;float:left">
+              Saattoq
+             </div>
+            </div>
+           </div>
+          </div>
+          <div>
+           Location within Greenland
+          </div>
+         </div>
+        </div>
+       </div></td>
+     </tr>
+     <tr class="mergedbottomrow">
+      <td colspan="2" style="text-align:center">Coordinates: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Saattoq&amp;params=73_31_19_N_56_07_50_W_region:GL_type:city"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">73°31′19″N</span> <span class="longitude">56°07′50″W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">73.52194°N 56.13056°W</span><span style="display:none">﻿ / <span class="geo">73.52194; -56.13056</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Saattoq&amp;params=73_31_19_N_56_07_50_W_region:GL_type:city"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">73°31′19″N</span> <span class="longitude">56°07′50″W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">73.52194°N 56.13056°W</span><span style="display:none">﻿ / <span class="geo">73.52194; -56.13056</span></span></span></a></span></span></span></td>
+     </tr>
+     <tr class="mergedtoprow">
+      <th scope="row">State</th>
+      <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Denmark_%28state%29.svg/23px-Flag_of_Denmark_%28state%29.svg.png" decoding="async" width="23" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Denmark_%28state%29.svg/35px-Flag_of_Denmark_%28state%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Denmark_%28state%29.svg/46px-Flag_of_Denmark_%28state%29.svg.png 2x" data-file-width="1070" data-file-height="560">&nbsp;</span><a href="/wiki/Kingdom_of_Denmark" class="mw-redirect" title="Kingdom of Denmark">Kingdom of Denmark</a></td>
+     </tr>
+     <tr class="mergedrow">
+      <th scope="row"><a href="/wiki/Countries_of_the_Kingdom_of_Denmark" class="mw-redirect" title="Countries of the Kingdom of Denmark">Constituent country</a></th>
+      <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_Greenland.svg/23px-Flag_of_Greenland.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_Greenland.svg/35px-Flag_of_Greenland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_Greenland.svg/45px-Flag_of_Greenland.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/Greenland" title="Greenland">Greenland</a></td>
+     </tr>
+     <tr class="mergedrow">
+      <th scope="row"><a href="/wiki/Administrative_divisions_of_Greenland" title="Administrative divisions of Greenland">Municipality</a></th>
+      <td><a href="/wiki/File:Qaasuitsup-coat-of-arms.svg" class="image"><img alt="Qaasuitsup-coat-of-arms.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Qaasuitsup-coat-of-arms.svg/20px-Qaasuitsup-coat-of-arms.svg.png" decoding="async" width="20" height="24" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Qaasuitsup-coat-of-arms.svg/30px-Qaasuitsup-coat-of-arms.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/06/Qaasuitsup-coat-of-arms.svg/40px-Qaasuitsup-coat-of-arms.svg.png 2x" data-file-width="759" data-file-height="911"></a> <a href="/wiki/Qaasuitsup" title="Qaasuitsup">Qaasuitsup</a></td>
+     </tr>
+     <tr class="mergedtoprow">
+      <th scope="row">Founded</th>
+      <td>1881<sup id="cite_ref-hunt_1-0" class="reference"><a href="#cite_note-hunt-1">[1]</a></sup></td>
+     </tr>
+     <tr class="mergedrow">
+      <th scope="row">Abandoned</th>
+      <td>1957<sup id="cite_ref-hunt_1-1" class="reference"><a href="#cite_note-hunt-1">[1]</a></sup></td>
+     </tr>
+     <tr class="mergedtoprow">
+      <th scope="row"><a href="/wiki/Time_zone" title="Time zone">Time zone</a></th>
+      <td><a href="/wiki/UTC-03" class="mw-redirect" title="UTC-03">UTC-03</a></td>
+     </tr>
+    </tbody>
+   </table> 
+   <p><b>Saattoq</b> (old spelling: <i>Sâtoq</i>) is a former settlement in the <a href="/wiki/Qaasuitsup" title="Qaasuitsup">Qaasuitsup</a> municipality in northwestern <a href="/wiki/Greenland" title="Greenland">Greenland</a>. It was located in the north-central part of <a href="/wiki/Upernavik_Archipelago" title="Upernavik Archipelago">Upernavik Archipelago</a>, in <a href="/wiki/Tasiusaq_Bay" title="Tasiusaq Bay">Tasiusaq Bay</a>, straddling <a href="/wiki/Saattorsuaq_Island" title="Saattorsuaq Island">Saattorsuaq Island</a>, and the nearby <i>Saattoq</i> <a href="/wiki/Skerry" title="Skerry">skerry</a>.<sup id="cite_ref-saga_2-0" class="reference"><a href="#cite_note-saga-2">[2]</a></sup> </p> 
+   <h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Saattoq&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <p>Saattoq was populated in 1881. It was a very small village of fewer than 10 people at any time. It was abandoned in 1957, during the post-<a href="/wiki/World_War_II" title="World War II">war</a> consolidation phase in northwestern Greenland,<sup id="cite_ref-hunt_1-2" class="reference"><a href="#cite_note-hunt-1">[1]</a></sup> with the survuving population moving to nearby <a href="/wiki/Nutaarmiut" title="Nutaarmiut">Nutaarmiut</a>. </p> 
+   <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Saattoq&amp;action=edit&amp;section=2" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <div class="reflist" style="list-style-type: decimal;"> 
+    <div class="mw-references-wrap">
+     <ol class="references"> 
+      <li id="cite_note-hunt-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-hunt_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-hunt_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-hunt_1-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Petersen, Robert (2003). <i>Settlements, kinship and hunting grounds in traditional Greenland: A comparative study of local experiences from Upernavik and Ammassalik</i>. Danish Polar Center. pp.&nbsp;105, 108. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-87-635-1261-9" title="Special:BookSources/978-87-635-1261-9"><bdi>978-87-635-1261-9</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Settlements%2C+kinship+and+hunting+grounds+in+traditional+Greenland%3A+A+comparative+study+of+local+experiences+from+Upernavik+and+Ammassalik&amp;rft.pages=105%2C+108&amp;rft.pub=Danish+Polar+Center&amp;rft.date=2003&amp;rft.isbn=978-87-635-1261-9&amp;rft.aulast=Petersen&amp;rft.aufirst=Robert&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASaattoq" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span> </li> 
+      <li id="cite_note-saga-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-saga_2-0">^</a></b></span> <span class="reference-text"><i>Upernavik</i>, Saga Map, Tage Schjøtt, 1992</span> </li> 
+     </ol>
+    </div>
+   </div> 
+   <div role="navigation" class="navbox" aria-labelledby="Abandoned_sites_in_Greenland" style="padding:3px">
+    <table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+     <tbody>
+      <tr>
+       <th scope="col" class="navbox-title" colspan="3" style="background:#e2e6f3;">
+        <div class="plainlinks hlist navbar mini">
+         <ul>
+          <li class="nv-view"><a href="/wiki/Template:Abandoned_sites_in_Greenland" title="Template:Abandoned sites in Greenland"><abbr title="View this template" style="background:#e2e6f3;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+          <li class="nv-talk"><a href="/wiki/Template_talk:Abandoned_sites_in_Greenland" title="Template talk:Abandoned sites in Greenland"><abbr title="Discuss this template" style="background:#e2e6f3;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+          <li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Abandoned_sites_in_Greenland&amp;action=edit"><abbr title="Edit this template" style="background:#e2e6f3;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+         </ul>
+        </div>
+        <div id="Abandoned_sites_in_Greenland" style="font-size:114%;margin:0 4em">
+         Abandoned sites in Greenland
+        </div></th>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="background:#e2e6f3;;width:1%">
+        <div class="hlist hlist-separated">
+         <ul>
+          <li><a href="/wiki/Greenlandic_people" class="mw-redirect" title="Greenlandic people">Greenlandic</a><br>Inuit</li>
+          <li>Danish</li>
+         </ul>
+        </div></th>
+       <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"></div>
+        <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+         <tbody>
+          <tr>
+           <th scope="row" class="navbox-group" style="background:#e2e6f3;;width:1%;font-weight:normal;"><a href="/wiki/Avannaata" title="Avannaata">Avannaata</a></th>
+           <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+            <div style="padding:0em 0.25em"> 
+             <ul>
+              <li><a href="/wiki/Annoatok" title="Annoatok">Annoatok</a></li> 
+              <li><a href="/wiki/Appaalissiorfik" title="Appaalissiorfik">Appaalissiorfik</a></li> 
+              <li><a href="/wiki/Appat" class="mw-redirect" title="Appat">Appat <span style="font-size:90%;">(Ritenbenck)</span></a></li> 
+              <li><a href="/wiki/Ataa" title="Ataa">Ataa</a></li> 
+              <li><a href="/wiki/Comer%27s_Midden" title="Comer's Midden">Comer's Midden</a></li> 
+              <li><a href="/wiki/Etah,_Greenland" title="Etah, Greenland">Etah</a></li> 
+              <li><a href="/wiki/Ikermiut" title="Ikermiut">Ikermiut</a></li> 
+              <li><a href="/wiki/Illorsuit" title="Illorsuit">Illorsuit</a></li> 
+              <li><a href="/wiki/Illulik" title="Illulik">Illulik</a></li> 
+              <li><a href="/wiki/Itissaalik" title="Itissaalik">Itissaalik</a></li> 
+              <li><a href="/wiki/Kuuk" title="Kuuk">Kuuk</a></li> 
+              <li><a href="/wiki/Moriusaq" title="Moriusaq">Moriusaq</a></li> 
+              <li><a href="/wiki/Narsaarsuk" title="Narsaarsuk">Narsaarsuk</a></li> 
+              <li><a href="/wiki/Qaqortuatsiaq" title="Qaqortuatsiaq">Qaqortuatsiaq</a></li> 
+              <li><a href="/wiki/Qernertuarssuit" title="Qernertuarssuit">Qernertuarssuit</a></li> 
+              <li><a href="/wiki/Qilakitsoq" title="Qilakitsoq">Qilakitsoq</a></li> 
+              <li><a class="mw-selflink selflink">Saattoq</a></li> 
+              <li><a href="/wiki/Sarfaq" title="Sarfaq">Sarfaq</a></li> 
+              <li><a href="/wiki/Sermermiut" title="Sermermiut">Sermermiut</a></li>
+             </ul> 
+            </div></td>
+          </tr>
+          <tr>
+           <th scope="row" class="navbox-group" style="background:#e2e6f3;;width:1%;font-weight:normal;"><a href="/wiki/Qeqertalik" title="Qeqertalik">Qeqertalik</a></th>
+           <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+            <div style="padding:0em 0.25em"> 
+             <ul>
+              <li><a href="/wiki/Qullissat" title="Qullissat">Qullissat</a></li>
+             </ul> 
+            </div></td>
+          </tr>
+          <tr>
+           <th scope="row" class="navbox-group" style="background:#e2e6f3;;width:1%;font-weight:normal;"><a href="/wiki/Qeqqata" title="Qeqqata">Qeqqata</a></th>
+           <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+            <div style="padding:0em 0.25em"> 
+             <ul>
+              <li><a href="/wiki/Nipisat_Island" title="Nipisat Island">Nipisat Island</a></li>
+             </ul> 
+            </div></td>
+          </tr>
+          <tr>
+           <th scope="row" class="navbox-group" style="background:#e2e6f3;;width:1%;font-weight:normal;"><a href="/wiki/Sermersooq" title="Sermersooq">Sermersooq</a></th>
+           <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+            <div style="padding:0em 0.25em"> 
+             <ul>
+              <li><a href="/wiki/Ikkatteq" title="Ikkatteq">Ikkatteq</a></li> 
+              <li><a href="/wiki/Itterajivit" title="Itterajivit">Itterajivit <span style="font-size:90%;">(Kap Hope)</span></a></li> 
+              <li><a href="/wiki/Ivittuut" title="Ivittuut">Ivittuut</a></li> 
+              <li><a href="/wiki/Kangeq" title="Kangeq">Kangeq <span style="font-size:90%;">(Håbets Ø)</span></a></li> 
+              <li><a href="/wiki/Kangerluarsoruseq" title="Kangerluarsoruseq">Kangerluarsoruseq <span style="font-size:90%;">(Færingehavn)</span></a></li> 
+              <li><a href="/wiki/Nualik" title="Nualik">Nualik</a></li> 
+              <li><a href="/wiki/Qoornoq" title="Qoornoq">Qoornoq</a></li> 
+              <li><a href="/wiki/Umanak_(mission)" title="Umanak (mission)">Umanak</a></li> 
+              <li><a href="/wiki/Umivik,_Ammassalik" title="Umivik, Ammassalik">Umivik</a></li> 
+              <li><a href="/wiki/Uunarteq" title="Uunarteq">Uunarteq <span style="font-size:90%;">(Kap Tobin)</span></a></li>
+             </ul> 
+            </div></td>
+          </tr>
+          <tr>
+           <th scope="row" class="navbox-group" style="background:#e2e6f3;;width:1%;font-weight:normal;"><a href="/wiki/Kujalleq" title="Kujalleq">Kujalleq</a></th>
+           <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+            <div style="padding:0em 0.25em"> 
+             <ul>
+              <li><a href="/wiki/Akunnat" title="Akunnat">Akunnat <span style="font-size:90%;">(Lichtenfels)</span></a></li> 
+              <li><a href="/wiki/Alluitsoq" title="Alluitsoq">Alluitsoq <span style="font-size:90%;">(Lichtenau)</span></a></li> 
+              <li><a href="/wiki/Idlorpait" title="Idlorpait">Idlorpait</a></li> 
+              <li><a href="/wiki/Ikigait" title="Ikigait">Ikigait</a></li> 
+              <li><a href="/wiki/%C3%98stpr%C3%B8ven" title="Østprøven">Østprøven</a></li>
+             </ul> 
+            </div></td>
+          </tr>
+          <tr>
+           <th scope="row" class="navbox-group" style="background:#e2e6f3;;width:1%;font-weight:normal;">outside municipalities</th>
+           <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+            <div style="padding:0em 0.25em"> 
+             <ul>
+              <li><a href="/wiki/Clavering_Island" title="Clavering Island">Clavering Island</a></li> 
+              <li><a href="/wiki/Pituffik" title="Pituffik">Pituffik</a></li>
+             </ul> 
+            </div></td>
+          </tr>
+         </tbody>
+        </table>
+        <div></div></td>
+       <td class="navbox-image" rowspan="8" style="width:1px;padding:0px 0px 0px 2px">
+        <div>
+         <span class="flagicon"><a href="/wiki/Greenland" title="Greenland"><img alt="Greenland" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_Greenland.svg/90px-Flag_of_Greenland.svg.png" decoding="async" width="90" height="60" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_Greenland.svg/135px-Flag_of_Greenland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_Greenland.svg/180px-Flag_of_Greenland.svg.png 2x" data-file-width="900" data-file-height="600"></a></span>
+        </div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="background:#e2e6f3;;width:1%">
+        <div class="hlist hlist-separated">
+         <ul>
+          <li><a href="/wiki/Greenlandic_Norse" title="Greenlandic Norse">Greenlandic Norse</a><br>Norsemen/Vikings</li>
+         </ul>
+        </div></th>
+       <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;background:#f4f5fb;">
+        <div style="padding:0em 0.25em"></div>
+        <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+         <tbody>
+          <tr>
+           <th scope="row" class="navbox-group" style="background:#e2e6f3;;width:1%;font-weight:normal;"><a href="/wiki/Western_Settlement" title="Western Settlement">Western <span style="font-size:90%;"><style data-mw-deduplicate="TemplateStyles:r886047488">'"`UNIQ--templatestyles-00000008-QINU`"'</style><span class="nobold">(Vestribyggð)</span></span></a></th>
+           <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+            <div style="padding:0em 0.25em"> 
+             <ul>
+              <li><a href="/wiki/Sandn%C3%A6s" title="Sandnæs">Sandnæs <span style="font-size:90%;">(Kilaarsarfik)</span></a></li>
+             </ul> 
+            </div></td>
+          </tr>
+          <tr>
+           <th scope="row" class="navbox-group" style="background:#e2e6f3;;width:1%;font-weight:normal;"><a href="/wiki/Eastern_Settlement" title="Eastern Settlement">Eastern <span style="font-size:90%;">
+              <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886047488"><span class="nobold">(Eystribyggð)</span></span></a></th>
+           <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+            <div style="padding:0em 0.25em"> 
+             <ul>
+              <li><a href="/wiki/Brattahl%C3%AD%C3%B0" title="Brattahlíð">Brattahlíð</a></li> 
+              <li><a href="/wiki/Dyrn%C3%A6s" title="Dyrnæs">Dyrnæs</a></li> 
+              <li><a href="/wiki/Gar%C3%B0ar,_Greenland" title="Garðar, Greenland">Garðar</a></li> 
+              <li><a href="/wiki/Hvalsey" title="Hvalsey">Hvalsey</a></li> 
+              <li><a href="/wiki/Herjolfsnes" title="Herjolfsnes">Herjolfsnes</a></li>
+             </ul> 
+            </div></td>
+          </tr>
+          <tr>
+           <th scope="row" class="navbox-group" style="background:#e2e6f3;;width:1%;font-weight:normal;"><a href="/wiki/Middle_Settlement" class="mw-redirect" title="Middle Settlement">Middle Settlement</a></th>
+           <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+            <div style="padding:0em 0.25em"> 
+             <ul>
+              <li>Farm ruins discovered</li>
+             </ul> 
+            </div></td>
+          </tr>
+         </tbody>
+        </table>
+        <div></div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="background:#e2e6f3;;width:1%">
+        <div class="hlist hlist-separated">
+         <ul>
+          <li><a href="/wiki/Faroe_Islanders" title="Faroe Islanders">Faroese</a></li>
+         </ul>
+        </div></th>
+       <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><a href="/wiki/Kangerluarsoruseq" title="Kangerluarsoruseq">Føroyingahavnin <span style="font-size:90%;">(Kangerluarsoruseq)</span></a></li>
+         </ul> 
+        </div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="background:#e2e6f3;;width:1%">
+        <div class="hlist hlist-separated">
+         <ul>
+          <li><a href="/wiki/American_people" class="mw-redirect" title="American people">American</a></li>
+         </ul>
+        </div></th>
+       <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;background:#f4f5fb;">
+        <div style="padding:0em 0.25em"></div>
+        <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+         <tbody>
+          <tr>
+           <th scope="row" class="navbox-group" style="background:#e2e6f3;;width:1%;font-weight:normal;"><a href="/wiki/Bluie" title="Bluie">Bluie East</a></th>
+           <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+            <div style="padding:0em 0.25em"> 
+             <ul>
+              <li><a href="/wiki/Bluie_East_One" class="mw-redirect" title="Bluie East One">Bluie East One</a></li> 
+              <li><a href="/wiki/Bluie_East_Two" title="Bluie East Two">Bluie East Two</a></li> 
+              <li><a href="/w/index.php?title=Bluie_East_Three&amp;action=edit&amp;redlink=1" class="new" title="Bluie East Three (page does not exist)">Bluie East Three</a></li> 
+              <li><a href="/wiki/Bluie_East_Four" class="mw-redirect" title="Bluie East Four">Bluie East Four</a></li> 
+              <li><a href="/wiki/Bluie_East_Five" class="mw-redirect" title="Bluie East Five">Bluie East Five</a></li>
+             </ul> 
+            </div></td>
+          </tr>
+          <tr>
+           <th scope="row" class="navbox-group" style="background:#e2e6f3;;width:1%;font-weight:normal;"><a href="/wiki/Bluie" title="Bluie">Bluie West</a></th>
+           <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+            <div style="padding:0em 0.25em"> 
+             <ul>
+              <li><a href="/wiki/Bluie_West_One" class="mw-redirect" title="Bluie West One">Bluie West One</a></li> 
+              <li><a href="/w/index.php?title=Bluie_West_Two&amp;action=edit&amp;redlink=1" class="new" title="Bluie West Two (page does not exist)">Bluie West Two</a></li> 
+              <li><a href="/wiki/Bluie_West_Three" class="mw-redirect" title="Bluie West Three">Bluie West Three</a></li> 
+              <li><a href="/wiki/Bluie_West_Four" class="mw-redirect" title="Bluie West Four">Bluie West Four</a></li> 
+              <li><a href="/wiki/Bluie_West_Five" class="mw-redirect" title="Bluie West Five">Bluie West Five</a></li> 
+              <li><a href="/w/index.php?title=Bluie_West_Six&amp;action=edit&amp;redlink=1" class="new" title="Bluie West Six (page does not exist)">Bluie West Six</a></li> 
+              <li><a href="/wiki/Bluie_West_Seven" title="Bluie West Seven">Bluie West Seven</a></li> 
+              <li><a href="/wiki/Bluie_West_Eight" class="mw-redirect" title="Bluie West Eight">Bluie West Eight</a></li> 
+              <li><a href="/w/index.php?title=Bluie_West_Nine&amp;action=edit&amp;redlink=1" class="new" title="Bluie West Nine (page does not exist)">Bluie West Nine</a></li>
+             </ul> 
+            </div></td>
+          </tr>
+          <tr>
+           <th scope="row" class="navbox-group" style="background:#e2e6f3;;width:1%;font-weight:normal;"><a href="/wiki/DEW_line" class="mw-redirect" title="DEW line">DEW line</a></th>
+           <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+            <div style="padding:0em 0.25em"> 
+             <ul>
+              <li><a href="/wiki/North_Warning_System#Qaqqatoqaq" title="North Warning System">DYE-1</a></li> 
+              <li><a href="/wiki/North_Warning_System#Ice_Cap_1" title="North Warning System">DYE-2</a></li> 
+              <li><a href="/wiki/North_Warning_System#Ice_Cap_2" title="North Warning System">DYE-3</a></li> 
+              <li><a href="/wiki/North_Warning_System#Kulusuk_Island" title="North Warning System">DYE-4</a></li>
+             </ul> 
+            </div></td>
+          </tr>
+          <tr>
+           <th scope="row" class="navbox-group" style="background:#e2e6f3;;width:1%;font-weight:normal;"><a href="/wiki/Project_Iceworm" title="Project Iceworm">Project Iceworm</a></th>
+           <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+            <div style="padding:0em 0.25em"> 
+             <ul>
+              <li><a href="/wiki/Camp_Century" title="Camp Century">Camp Century</a></li> 
+              <li><a href="/wiki/Camp_Fistclench" title="Camp Fistclench">Camp Fistclench</a></li>
+             </ul> 
+            </div></td>
+          </tr>
+         </tbody>
+        </table>
+        <div></div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="background:#e2e6f3;;width:1%">
+        <div class="hlist hlist-separated">
+         <ul>
+          <li><a href="/wiki/Dutch_people" title="Dutch people">Dutch</a></li>
+         </ul>
+        </div></th>
+       <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><a href="/wiki/Ritenbenck" title="Ritenbenck">Ritenbench <span style="font-size:90%;">(Appat)</span></a></li> 
+          <li><a href="/wiki/Rodebaai" class="mw-redirect" title="Rodebaai">Rodebaai</a></li>
+         </ul> 
+        </div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="background:#e2e6f3;;width:1%">
+        <div class="hlist hlist-separated">
+         <ul>
+          <li><a href="/wiki/German_people" class="mw-redirect" title="German people">German</a></li>
+         </ul>
+        </div></th>
+       <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;background:#f4f5fb;">
+        <div style="padding:0em 0.25em"></div>
+        <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+         <tbody>
+          <tr>
+           <th scope="row" class="navbox-group" style="background:#e2e6f3;;width:1%;font-weight:normal;"><a href="/wiki/Moravian_missions_in_Greenland" title="Moravian missions in Greenland">Moravian</a></th>
+           <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+            <div style="padding:0em 0.25em"> 
+             <ul>
+              <li><a href="/wiki/Neu-Herrnhut" class="mw-redirect" title="Neu-Herrnhut">Neu-Herrnhut</a></li> 
+              <li><a href="/wiki/Lichtenfels,_Greenland" class="mw-redirect" title="Lichtenfels, Greenland">Lichtenfels <span style="font-size:90%;">(Akunnat)</span></a></li> 
+              <li><a href="/wiki/Lichtenau,_Greenland" class="mw-redirect" title="Lichtenau, Greenland">Lichtenau <span style="font-size:90%;">(Alluitsoq)</span></a></li> 
+              <li><a href="/wiki/

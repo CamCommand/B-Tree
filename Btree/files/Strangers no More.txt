@@ -1,0 +1,211 @@
+<div id="bodyContent" class="mw-body-content"> 
+ <div id="siteSub" class="noprint">
+  From Wikipedia, the free encyclopedia
+ </div> 
+ <div id="contentSub"></div> 
+ <div id="jump-to-nav"></div> 
+ <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> 
+ <a class="mw-jump-link" href="#p-search">Jump to search</a> 
+ <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+  <div class="mw-parser-output">
+   <table class="infobox vevent" style="width:22em;font-size:90%;">
+    <tbody>
+     <tr>
+      <th colspan="2" class="summary" style="text-align:center;font-size:125%;font-weight:bold;font-size:110%;font-style:italic;">Strangers No More</th>
+     </tr>
+     <tr>
+      <td colspan="2" style="text-align:center"><a href="/wiki/File:Strangers_No_More.jpg" class="image"><img alt="Strangers No More.jpg" src="//upload.wikimedia.org/wikipedia/en/d/de/Strangers_No_More.jpg" decoding="async" width="200" height="309" class="thumbborder" data-file-width="200" data-file-height="309"></a></td>
+     </tr>
+     <tr>
+      <th scope="row" style="white-space:nowrap;padding-right:0.65em;">Directed by</th>
+      <td><a href="/wiki/Karen_Goodman" title="Karen Goodman">Karen Goodman</a><br><a href="/wiki/Kirk_Simon" title="Kirk Simon">Kirk Simon</a></td>
+     </tr>
+     <tr>
+      <th scope="row" style="white-space:nowrap;padding-right:0.65em;">Cinematography</th>
+      <td>Buddy Squires</td>
+     </tr>
+     <tr>
+      <th scope="row" style="white-space:nowrap;padding-right:0.65em;">
+       <div style="padding:0.1em 0;line-height:1.2em;">
+        Production
+        <br>company 
+       </div></th>
+      <td>
+       <div style="vertical-align:middle;">
+        Simon &amp; Goodman Picture Company 
+       </div></td>
+     </tr>
+     <tr>
+      <th scope="row" style="white-space:nowrap;padding-right:0.65em;">Distributed by</th>
+      <td><a href="/wiki/HBO" title="HBO">HBO</a></td>
+     </tr>
+     <tr>
+      <th scope="row" style="white-space:nowrap;padding-right:0.65em;">
+       <div style="padding:0.1em 0;line-height:1.2em;white-space:normal;">
+        Release date
+       </div></th>
+      <td>
+       <div class="plainlist"> 
+        <ul>
+         <li>2010<span style="display:none">&nbsp;(<span class="bday dtstart published updated">2010</span>)</span></li>
+        </ul> 
+       </div></td>
+     </tr>
+     <tr>
+      <th scope="row" style="white-space:nowrap;padding-right:0.65em;">
+       <div style="padding:0.1em 0;line-height:1.2em;white-space:normal;">
+        Running time
+       </div></th>
+      <td>40 min</td>
+     </tr>
+    </tbody>
+   </table> 
+   <p><i><b>Strangers No More</b></i> is a 2010 short <a href="/wiki/Documentary_film" title="Documentary film">documentary film</a> about a school in <a href="/wiki/Tel_Aviv" title="Tel Aviv">Tel Aviv</a>, <a href="/wiki/Israel" title="Israel">Israel</a>, where children from 48 different countries and diverse backgrounds come together to learn. The parents of these children are among over 300,000 transnational migrant workers who have arrived in Israel—some with government authorization and others undocumented.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> </p>
+   <p>The film follows three students as they struggle to acclimate to life in Israel and slowly unveil their stories of hardship. <i>Strangers No More</i> was shot on location at the Bialik-Rogozin School in Tel Aviv. It is produced and directed by <a href="/wiki/Karen_Goodman" title="Karen Goodman">Karen Goodman</a> and <a href="/wiki/Kirk_Simon" title="Kirk Simon">Kirk Simon</a> of Simon &amp; Goodman Picture Company, whose films have received four <a href="/wiki/Academy_Award" class="mw-redirect" title="Academy Award">Academy Award</a> nominations and three <a href="/wiki/Emmy_Awards" class="mw-redirect" title="Emmy Awards">Emmy Awards</a>. It won best Short Documentary at the <a href="/wiki/Academy_Awards" title="Academy Awards">Academy Awards</a> in 2011.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> </p> 
+   <h2><span class="mw-headline" id="Premiere_and_screenings">Premiere and screenings</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Strangers_No_More&amp;action=edit&amp;section=1" title="Edit section: Premiere and screenings">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <p><i>Strangers No More</i> premiered on September 24, 2010, at the <a href="/wiki/Laemmle_Theatres" title="Laemmle Theatres">Laemmle Theatres</a> Sunset 5 Theatre in <a href="/wiki/West_Hollywood,_California" title="West Hollywood, California">West Hollywood, California</a>. It has also screened in cities worldwide through the Shorts International OSCAR®-Nominated Short Films 2011 program. On January 25, 2011, the <a href="/wiki/Academy_of_Motion_Picture_Arts_and_Sciences" title="Academy of Motion Picture Arts and Sciences">Academy of Motion Picture Arts and Sciences</a> announced <i>Strangers No More</i> as being nominated for the <a href="/wiki/83rd_Academy_Awards" title="83rd Academy Awards">83rd Academy Awards</a> for the <a href="/wiki/Best_Documentary_Short_Subject" class="mw-redirect" title="Best Documentary Short Subject">Best Documentary Short Subject</a> category and later won in the February 27, 2011 ceremony. </p>
+   <p>The film made its television debut on <a href="/wiki/HBO" title="HBO">HBO</a> on December 5, 2011. </p> 
+   <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Strangers_No_More&amp;action=edit&amp;section=2" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <div class="reflist" style="list-style-type: decimal;"> 
+    <div class="mw-references-wrap">
+     <ol class="references"> 
+      <li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation book">Willen, Sarah (2007). <a rel="nofollow" class="external text" href="http://www.rowmanlittlefield.com/Catalog/SingleBook.shtml?command=Search&amp;db=^DB/CATALOG.db&amp;eqSKUdata=0739110675&amp;thepassedurl="><i>Transnational Migration to Israel in Global Comparative Context</i></a>. Lanham, MD: Lexington Books.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Transnational+Migration+to+Israel+in+Global+Comparative+Context&amp;rft.place=Lanham%2C+MD&amp;rft.pub=Lexington+Books&amp;rft.date=2007&amp;rft.aulast=Willen&amp;rft.aufirst=Sarah&amp;rft_id=http%3A%2F%2Fwww.rowmanlittlefield.com%2FCatalog%2FSingleBook.shtml%3Fcommand%3DSearch%26db%3D%5EDB%2FCATALOG.db%26eqSKUdata%3D0739110675%26thepassedurl%3D&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStrangers+No+More" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span> </li> 
+      <li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://telavivfoundation.org/strangers.html">Film about Tel Aviv school wins Academy Award</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20110809021448/http://telavivfoundation.org/strangers.html">Archived</a> 2011-08-09 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></span> </li> 
+     </ol>
+    </div>
+   </div> 
+   <h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Strangers_No_More&amp;action=edit&amp;section=3" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <ul>
+    <li><a rel="nofollow" class="external text" href="https://www.imdb.com/title/tt1754549/"><i>Strangers No More</i></a> on <a href="/wiki/IMDb" title="IMDb">IMDb</a> </li> 
+    <li><a rel="nofollow" class="external text" href="http://www.strangersnomoremovie.com">Official Strangers No More Site</a></li> 
+    <li><a rel="nofollow" class="external text" href="http://www.oscars.org/press/pressreleases/2010/20101013.html">Academy of Motion Picture Arts and Sciences Press Release</a></li> 
+    <li><a rel="nofollow" class="external text" href="http://www.oscars.org/awards/academyawards/83/nominees.html">Winners and Nominees for the 83rd Academy Awards</a></li> 
+    <li><a rel="nofollow" class="external text" href="http://www.simongoodmanpictures.com/strangers.html">Official Simon &amp; Goodman Picture Company Site</a></li> 
+    <li><a rel="nofollow" class="external text" href="http://www.denverfilm.org/festival/film/detail.aspx?id=23633&amp;FID=54">Denver Film Festival Site</a></li> 
+    <li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20110303140312/http://www.redroom.com/blog/talia-carner/review-academy-award-short-listed-documentary-strangers-no-more">Review by author Talia Carner</a></li>
+   </ul> 
+   <div role="navigation" class="navbox" aria-labelledby="Academy_Award_for_Best_Documentary_(Short_Subject)" style="padding:3px">
+    <table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+     <tbody>
+      <tr>
+       <th scope="col" class="navbox-title" colspan="2" style="background: #EEDD82">
+        <div class="plainlinks hlist navbar mini">
+         <ul>
+          <li class="nv-view"><a href="/wiki/Template:Academy_Award_Best_Documentary_Short" title="Template:Academy Award Best Documentary Short"><abbr title="View this template" style="background: #EEDD82;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+          <li class="nv-talk"><a href="/wiki/Template_talk:Academy_Award_Best_Documentary_Short" title="Template talk:Academy Award Best Documentary Short"><abbr title="Discuss this template" style="background: #EEDD82;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+          <li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Academy_Award_Best_Documentary_Short&amp;action=edit"><abbr title="Edit this template" style="background: #EEDD82;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+         </ul>
+        </div>
+        <div id="Academy_Award_for_Best_Documentary_(Short_Subject)" style="font-size:114%;margin:0 4em">
+         <a href="/wiki/Academy_Award_for_Best_Documentary_(Short_Subject)" title="Academy Award for Best Documentary (Short Subject)">Academy Award for Best Documentary (Short Subject)</a>
+        </div></th>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="background: #EEDD82;width:1%">1941–1975</th>
+       <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><i><a href="/wiki/Churchill%27s_Island" title="Churchill's Island">Churchill's Island</a></i> (1941)</li> 
+          <li>No award (1942)</li> 
+          <li><i><a href="/wiki/December_7th:_The_Movie" title="December 7th: The Movie">December 7th: The Movie</a></i> (1943)</li> 
+          <li><i><a href="/wiki/With_the_Marines_at_Tarawa" title="With the Marines at Tarawa">With the Marines at Tarawa</a></i> (1944)</li> 
+          <li><i><a href="/wiki/Hitler_Lives" title="Hitler Lives">Hitler Lives</a></i> (1945)</li> 
+          <li><i><a href="/wiki/Seeds_of_Destiny" title="Seeds of Destiny">Seeds of Destiny</a></i> (1946)</li> 
+          <li><i><a href="/wiki/First_Steps_(1947_film)" title="First Steps (1947 film)">First Steps</a></i> (1947)</li> 
+          <li><i><a href="/wiki/Toward_Independence" title="Toward Independence">Toward Independence</a></i> (1948)</li> 
+          <li><i><a href="/wiki/A_Chance_to_Live" title="A Chance to Live">A Chance to Live</a></i> / <i><a href="/wiki/So_Much_for_So_Little" title="So Much for So Little">So Much for So Little</a></i> (1949)</li> 
+          <li><i><a href="/wiki/Why_Korea%3F" title="Why Korea?">Why Korea?</a></i> (1950)</li> 
+          <li><i><a href="/wiki/Benjy_(film)" title="Benjy (film)">Benjy</a></i> (1951)</li> 
+          <li><i><a href="/wiki/Neighbours_(1952_film)" title="Neighbours (1952 film)">Neighbours</a></i> (1952)</li> 
+          <li><i><a href="/wiki/The_Alaskan_Eskimo" title="The Alaskan Eskimo">The Alaskan Eskimo</a></i> (1953)</li> 
+          <li><i><a href="/wiki/Thursday%27s_Children" title="Thursday's Children">Thursday's Children</a></i> (1954)</li> 
+          <li><i><a href="/wiki/Men_Against_the_Arctic" title="Men Against the Arctic">Men Against the Arctic</a></i> (1955)</li> 
+          <li><i><a href="/wiki/The_True_Story_of_the_Civil_War" title="The True Story of the Civil War">The True Story of the Civil War</a></i> (1956)</li> 
+          <li>No award (1957)</li> 
+          <li><i><a href="/wiki/Ama_Girls" title="Ama Girls">Ama Girls</a></i> (1958)</li> 
+          <li><i><a href="/wiki/Glass_(1958_film)" title="Glass (1958 film)">Glass</a></i> (1959)</li> 
+          <li><i><a href="/wiki/Giuseppina" title="Giuseppina">Giuseppina</a></i> (1960)</li> 
+          <li><i><a href="/wiki/Project_Hope_(film)" title="Project Hope (film)">Project Hope</a></i> (1961)</li> 
+          <li><i><a href="/wiki/Dylan_Thomas_(film)" title="Dylan Thomas (film)">Dylan Thomas</a></i> (1962)</li> 
+          <li><i><a href="/wiki/Chagall_(film)" title="Chagall (film)">Chagall</a></i> (1963)</li> 
+          <li><i><a href="/wiki/Nine_from_Little_Rock" title="Nine from Little Rock">Nine from Little Rock</a></i> (1964)</li> 
+          <li><i><a href="/wiki/To_Be_Alive!" title="To Be Alive!">To Be Alive!</a></i> (1965)</li> 
+          <li><i><a href="/wiki/A_Year_Toward_Tomorrow" title="A Year Toward Tomorrow">A Year Toward Tomorrow</a></i> (1966)</li> 
+          <li><i><a href="/wiki/The_Redwoods" title="The Redwoods">The Redwoods</a></i> (1967)</li> 
+          <li><i><a href="/wiki/Why_Man_Creates" title="Why Man Creates">Why Man Creates</a></i> (1968)</li> 
+          <li><i><a href="/wiki/Czechoslovakia_1968" title="Czechoslovakia 1968">Czechoslovakia 1968</a></i> (1969)</li> 
+          <li><i><a href="/wiki/Interviews_with_My_Lai_Veterans" title="Interviews with My Lai Veterans">Interviews with My Lai Veterans</a></i> (1970)</li> 
+          <li><i><a href="/wiki/Sentinels_of_Silence" title="Sentinels of Silence">Sentinels of Silence</a></i> (1971)</li> 
+          <li><i><a href="/wiki/This_Tiny_World" title="This Tiny World">This Tiny World</a></i> (1972)</li> 
+          <li><i><a href="/wiki/Princeton:_A_Search_for_Answers" title="Princeton: A Search for Answers">Princeton: A Search for Answers</a></i> (1973)</li> 
+          <li><i><a href="/wiki/Don%27t_(1974_film)" title="Don't (1974 film)">Don't</a></i> (1974)</li> 
+          <li><i><a href="/wiki/The_End_of_the_Game_(film)" title="The End of the Game (film)">The End of the Game</a></i> (1975)</li>
+         </ul> 
+        </div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="background: #EEDD82;width:1%">1976–2000</th>
+       <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><i><a href="/wiki/Number_Our_Days" title="Number Our Days">Number Our Days</a></i> (1976)</li> 
+          <li><i><a href="/wiki/Gravity_Is_My_Enemy" title="Gravity Is My Enemy">Gravity Is My Enemy</a></i> (1977)</li> 
+          <li><i><a href="/wiki/The_Flight_of_the_Gossamer_Condor" title="The Flight of the Gossamer Condor">The Flight of the Gossamer Condor</a></i> (1978)</li> 
+          <li><i><a href="/wiki/Paul_Robeson:_Tribute_to_an_Artist" title="Paul Robeson: Tribute to an Artist">Paul Robeson: Tribute to an Artist</a></i> (1979)</li> 
+          <li><i><a href="/wiki/Karl_Hess:_Toward_Liberty" title="Karl Hess: Toward Liberty">Karl Hess: Toward Liberty</a></i> (1980)</li> 
+          <li><i><a href="/wiki/Close_Harmony_(1981_film)" title="Close Harmony (1981 film)">Close Harmony</a></i> (1981)</li> 
+          <li><i><a href="/wiki/If_You_Love_This_Planet" title="If You Love This Planet">If You Love This Planet</a></i> (1982)</li> 
+          <li><i><a href="/wiki/Flamenco_at_5:15" title="Flamenco at 5:15">Flamenco at 5:15</a></i> (1983)</li> 
+          <li><i><a href="/wiki/The_Stone_Carvers_(film)" title="The Stone Carvers (film)">The Stone Carvers</a></i> (1984)</li> 
+          <li><i><a href="/wiki/Witness_to_War:_Dr._Charlie_Clements" title="Witness to War: Dr. Charlie Clements">Witness to War: Dr. Charlie Clements</a></i> (1985)</li> 
+          <li><i><a href="/wiki/Women_%E2%80%93_for_America,_for_the_World" title="Women – for America, for the World">Women – for America, for the World</a></i> (1986)</li> 
+          <li><i><a href="/wiki/Young_at_Heart_(1987_film)" title="Young at Heart (1987 film)">Young at Heart</a></i> (1987)</li> 
+          <li><i><a href="/wiki/You_Don%27t_Have_to_Die" title="You Don't Have to Die">You Don't Have to Die</a></i> (1988)</li> 
+          <li><i><a href="/wiki/The_Johnstown_Flood_(1989_film)" title="The Johnstown Flood (1989 film)">The Johnstown Flood</a></i> (1989)</li> 
+          <li><i><a href="/wiki/Days_of_Waiting:_The_Life_%26_Art_of_Estelle_Ishigo" title="Days of Waiting: The Life &amp; Art of Estelle Ishigo">Days of Waiting</a></i> (1990)</li> 
+          <li><i><a href="/wiki/Deadly_Deception:_General_Electric,_Nuclear_Weapons_and_Our_Environment" title="Deadly Deception: General Electric, Nuclear Weapons and Our Environment">Deadly Deception: General Electric, Nuclear Weapons and Our Environment</a></i> (1991)</li> 
+          <li><i><a href="/wiki/Educating_Peter" title="Educating Peter">Educating Peter</a></i> (1992)</li> 
+          <li><i><a href="/wiki/Defending_Our_Lives" title="Defending Our Lives">Defending Our Lives</a></i> (1993)</li> 
+          <li><i><a href="/wiki/A_Time_for_Justice" title="A Time for Justice">A Time for Justice</a></i> (1994)</li> 
+          <li><i><a href="/wiki/One_Survivor_Remembers" title="One Survivor Remembers">One Survivor Remembers</a></i> (1995)</li> 
+          <li><i><a href="/wiki/Breathing_Lessons:_The_Life_and_Work_of_Mark_O%27Brien" title="Breathing Lessons: The Life and Work of Mark O'Brien">Breathing Lessons: The Life and Work of Mark O'Brien</a></i> (1996)</li> 
+          <li><i><a href="/wiki/A_Story_of_Healing" title="A Story of Healing">A Story of Healing</a></i> (1997)</li> 
+          <li><i><a href="/wiki/The_Personals:_Improvisations_on_Romance_in_the_Golden_Years" title="The Personals: Improvisations on Romance in the Golden Years">The Personals</a></i> (1998)</li> 
+          <li><i><a href="/wiki/King_Gimp" title="King Gimp">King Gimp</a></i> (1999)</li> 
+          <li><i><a href="/wiki/Big_Mama_(film)" title="Big Mama (film)">Big Mama</a></i> (2000)</li>
+         </ul> 
+        </div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="background: #EEDD82;width:1%">2001–present</th>
+       <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><i><a href="/wiki/Thoth_(film)" title="Thoth (film)">Thoth</a></i> (2001)</li> 
+          <li><i><a href="/wiki/Twin_Towers_(film)" title="Twin Towers (film)">Twin Towers</a></i> (2002)</li> 
+          <li><i><a href="/wiki/Chernobyl_Heart" title="Chernobyl Heart">Chernobyl Heart</a></i> (2003)</li> 
+          <li><i><a href="/wiki/Mighty_Times:_The_Children%27s_March" title="Mighty Times: The Children's March">Mighty Times: The Children's March</a></i> (2004)</li> 
+          <li><i><a href="/wiki/A_Note_of_Triumph:_The_Golden_Age_of_Norman_Corwin" title="A Note of Triumph: The Golden Age of Norman Corwin">A Note of Triumph: The Golden Age of Norman Corwin</a></i> (2005)</li> 
+          <li><i><a href="/wiki/The_Blood_of_Yingzhou_District" title="The Blood of Yingzhou District">The Blood of Yingzhou District</a></i> (2006)</li> 
+          <li><i><a href="/wiki/Freeheld_(2007_film)" title="Freeheld (2007 film)">Freeheld</a></i> (2007)</li> 
+          <li><i><a href="/wiki/Smile_Pinki" title="Smile Pinki">Smile Pinki</a></i> (2008)</li> 
+          <li><i><a href="/wiki/Music_by_Prudence" title="Music by Prudence">Music by Prudence</a></i> (2009)</li> 
+          <li><i><a class="mw-selflink selflink">Strangers No More</a></i> (2010)</li> 
+          <li><i><a href="/wiki/Saving_Face_(2012_film)" title="Saving Face (2012 film)">Saving Face</a></i> (2011)</li> 
+          <li><i><a href="/wiki/Inocente" title="Inocente">Inocente</a></i> (2012)</li> 
+          <li><i><a href="/wiki/The_Lady_in_Number_6" title="The Lady in Number 6">The Lady in Number 6: Music Saved My Life</a></i> (2013)</li> 
+          <li><i><a href="/wiki/Crisis_Hotline:_Veterans_Press_1" title="Crisis Hotline: Veterans Press 1">Crisis Hotline: Veterans Press 1</a></i> (2014)</li> 
+          <li><i><a href="/wiki/A_Girl_in_the_River:_The_Price_of_Forgiveness" title="A Girl in the River: The Price of Forgiveness">A Girl in the River: The Price of Forgiveness</a></i> (2015)</li> 
+          <li><i><a href="/wiki/The_White_Helmets_(film)" title="The White Helmets (film)">The White Helmets</a></i> (2016)</li> 
+          <li><i><a href="/wiki/Heaven_Is_a_Traffic_Jam_on_the_405" title="Heaven Is a Traffic Jam on the 405">Heaven Is a Traffic Jam on the 405</a></i> (2017)</li> 
+          <li><i><a href="/wiki/Period._End_of_Sentence." title="Period. End of Sentence.">Period. End of Sentence.</a></i> (2018)</li>
+         </ul> 
+        </div></td>
+      </tr>
+     </tbody>
+    </table>
+   </div> 
+   <table class="metadata plainlinks stub" role="presentation" style="background:transparent">
+    <tbody>
+     <tr>
+      <td><a href="/wiki/File:Shortfilm2.svg" class="image"><img alt="Stub icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/Shortfilm2.svg/30px-Shortfilm2.svg.png" decoding="async" width="30" height="30" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/Shortfilm2.svg/45px-Shortfilm2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/69/Shortfilm2.svg/60px-Shortfilm2.svg.png 2x" data-file-width="48" data-file-heig

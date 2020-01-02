@@ -1,0 +1,132 @@
+<div id="bodyContent" class="mw-body-content"> 
+ <div id="siteSub" class="noprint">
+  From Wikipedia, the free encyclopedia
+ </div> 
+ <div id="contentSub"></div> 
+ <div id="jump-to-nav"></div> 
+ <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> 
+ <a class="mw-jump-link" href="#p-search">Jump to search</a> 
+ <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+  <div class="mw-parser-output">
+   <div class="thumb tright">
+    <div class="thumbinner" style="width:252px;">
+     <a href="/wiki/File:Samuel_Martin_Kier_1813-1874.JPG" class="image"><img alt="Samuel Martin Kier 1813-1874.JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Samuel_Martin_Kier_1813-1874.JPG/250px-Samuel_Martin_Kier_1813-1874.JPG" decoding="async" width="250" height="341" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/5/5a/Samuel_Martin_Kier_1813-1874.JPG 1.5x" data-file-width="273" data-file-height="372"></a> 
+     <div class="thumbcaption">
+      <div class="magnify">
+       <a href="/wiki/File:Samuel_Martin_Kier_1813-1874.JPG" class="internal" title="Enlarge"></a>
+      </div>
+     </div>
+    </div>
+   </div> 
+   <p><b>Samuel Martin Kier</b> (July 19, 1813 – October 6, 1874) was an American inventor and businessman who is credited with founding the American <a href="/wiki/Petroleum" title="Petroleum">petroleum</a> <a href="/wiki/Oil_refinery" title="Oil refinery">refining</a> industry. He was the first person in the United States to refine crude oil into lamp oil.<sup id="cite_ref-Pioneer_1-0" class="reference"><a href="#cite_note-Pioneer-1">[1]</a></sup> Kier has been dubbed the <i>Grandfather of the American Oil Industry</i> by historians.<sup id="cite_ref-McInnis_2-0" class="reference"><a href="#cite_note-McInnis-2">[2]</a></sup> </p> 
+   <div id="toc" class="toc">
+    <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+    <div class="toctitle" lang="en" dir="ltr">
+     <h2>Contents</h2>
+     <span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+    </div> 
+    <ul> 
+     <li class="toclevel-1 tocsection-1"><a href="#Background"><span class="tocnumber">1</span> <span class="toctext">Background</span></a> 
+      <ul> 
+       <li class="toclevel-2 tocsection-2"><a href="#Early_life"><span class="tocnumber">1.1</span> <span class="toctext">Early life</span></a></li> 
+       <li class="toclevel-2 tocsection-3"><a href="#Later_life"><span class="tocnumber">1.2</span> <span class="toctext">Later life</span></a></li> 
+      </ul> </li> 
+     <li class="toclevel-1 tocsection-4"><a href="#Salt_wells_and_oil"><span class="tocnumber">2</span> <span class="toctext">Salt wells and oil</span></a></li> 
+     <li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li> 
+     <li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li> 
+    </ul> 
+   </div> 
+   <h2><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Samuel_Kier&amp;action=edit&amp;section=1" title="Edit section: Background">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <h3><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Samuel_Kier&amp;action=edit&amp;section=2" title="Edit section: Early life">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+   <table class="box-Unreferenced_section plainlinks metadata ambox ambox-content ambox-Unreferenced" role="presentation">
+    <tbody>
+     <tr>
+      <td class="mbox-image">
+       <div style="width:52px">
+        <a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399"></a>
+       </div></td>
+      <td class="mbox-text">
+       <div class="mbox-text-span">
+        This section 
+        <b>does not <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">cite</a> any <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">sources</a></b>.
+        <span class="hide-when-compact"> Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Samuel_Kier&amp;action=edit">improve this section</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.</span> 
+        <small class="date-container"><i>(<span class="date">January 2009</span>)</i></small>
+        <small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small>
+       </div></td>
+     </tr>
+    </tbody>
+   </table> 
+   <p>Kier was born in <a href="/wiki/Conemaugh_Township,_Indiana_County,_Pennsylvania" title="Conemaugh Township, Indiana County, Pennsylvania">Conemaugh Township</a>, <a href="/wiki/Indiana_County,_Pennsylvania" title="Indiana County, Pennsylvania">Indiana County, Pennsylvania</a> near the town of <a href="/wiki/Livermore,_Pennsylvania" title="Livermore, Pennsylvania">Livermore</a>. He was the son of Thomas Kier and Mary Martin Kier. The Kiers were <a href="/wiki/Scotch-Irish_American" class="mw-redirect" title="Scotch-Irish American">Scots-Irish</a> <a href="/wiki/Immigrants" class="mw-redirect" title="Immigrants">immigrants</a> who owned several <a href="/wiki/Salt_well" title="Salt well">salt wells</a> around Livermore and nearby <a href="/wiki/Saltsburg,_Pennsylvania" title="Saltsburg, Pennsylvania">Saltsburg</a>. </p>
+   <p>In addition to the salt business, Samuel helped found Kier, Royer and Co., in 1838. The company was a canal boat operation that shipped coal between <a href="/wiki/Pittsburgh" title="Pittsburgh">Pittsburgh</a> and <a href="/wiki/Philadelphia" title="Philadelphia">Philadelphia</a>. Kier also owned interest in several coal mines, a brickyard, and a pottery factory. </p>
+   <p>He, along with several other investors including Benjamin F. Jones, founded several iron foundries in west central Pennsylvania. The iron business would be the forerunner of the <a href="/wiki/Jones_and_Laughlin_Steel_Company" title="Jones and Laughlin Steel Company">Jones and Laughlin Steel Company</a>, one of the largest steel producers in America. </p> 
+   <h3><span class="mw-headline" id="Later_life">Later life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Samuel_Kier&amp;action=edit&amp;section=3" title="Edit section: Later life">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+   <p>Kier married Nancy Eicher of <a href="/wiki/Greensburg,_Pennsylvania" title="Greensburg, Pennsylvania">Greensburg</a>, Pennsylvania in 1842. </p> 
+   <h2><span class="mw-headline" id="Salt_wells_and_oil">Salt wells and oil</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Samuel_Kier&amp;action=edit&amp;section=4" title="Edit section: Salt wells and oil">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <p>By the 1840s, Kier's <a href="/wiki/Salt_well" title="Salt well">salt wells</a> were becoming fouled with petroleum. At first, Kier simply dumped the useless oil into the nearby <a href="/wiki/Pennsylvania_Main_Line_Canal" class="mw-redirect" title="Pennsylvania Main Line Canal">Pennsylvania Main Line Canal</a>, but after an oil slick caught fire, he saw a way to profit from this otherwise worthless byproduct. With no formal training in science or <a href="/wiki/Chemistry" title="Chemistry">chemistry</a>, he began experimenting with several distillates of the crude oil along with a chemist from eastern Pennsylvania. He developed a substance he named "Rock Oil" and later "Seneca Oil". In 1848, he began packaging the substance as a <a href="/wiki/Patent_medicine" title="Patent medicine">patent medicine</a> charging $0.50 per bottle.<sup id="cite_ref-Harper_3-0" class="reference"><a href="#cite_note-Harper-3">[3]</a></sup> He also produced petroleum butter (<a href="/wiki/Petroleum_jelly" title="Petroleum jelly">petroleum jelly</a>) and sold it as a topical ointment.<sup id="cite_ref-Welty_4-0" class="reference"><a href="#cite_note-Welty-4">[4]</a></sup> Neither product proved to be a commercial success. </p>
+   <p>After further experimenting, he discovered an economical way to produce <a href="/wiki/Kerosene" title="Kerosene">kerosene</a>. Kerosene had been known for some time but was not widely produced and was considered to have little economic value. But at the time <a href="/wiki/Whale_oil" title="Whale oil">whale oil</a>, the principal fuel for lamps in America, was becoming increasingly scarce and expensive. </p>
+   <p>Kier began selling the kerosene, named "Carbon Oil", to local miners in 1851. He also invented a new lamp to burn his product.<sup id="cite_ref-Pioneer_1-1" class="reference"><a href="#cite_note-Pioneer-1">[1]</a></sup> Kier never obtained a patent for his developments and many other inventors and businessmen would go on to improve upon his work yielding huge fortunes. Even so, Kier's income at the time exceeded US$40,000 per year, a huge sum for the time. </p>
+   <p>Kier established America's first oil refinery in Pittsburgh on Seventh avenue near Grant Street, in 1853.<sup id="cite_ref-Pioneer_1-2" class="reference"><a href="#cite_note-Pioneer-1">[1]</a></sup> A marker identifying the site reads "Kier Refinery – Using a five-barrel still, Samuel M. Kier erected on this site about 1854 the first commercial refinery to produce illuminating oil from petroleum. He used crude oil from salt wells at <a href="/wiki/Tarentum,_Pennsylvania" title="Tarentum, Pennsylvania">Tarentum</a>."<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Kier consulted with <a href="/wiki/Edwin_Drake" title="Edwin Drake">Edwin Drake</a> concerning Drake's experimental <a href="/wiki/Oil_well" title="Oil well">oil well</a><sup id="cite_ref-Wright_6-0" class="reference"><a href="#cite_note-Wright-6">[6]</a></sup> and the first shipment of oil from Drake's well went to Kier's refinery.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (January 2009)">citation needed</span></a></i>]</sup> </p> 
+   <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Samuel_Kier&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <div class="reflist" style="list-style-type: decimal;"> 
+    <div class="mw-references-wrap">
+     <ol class="references"> 
+      <li id="cite_note-Pioneer-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Pioneer_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Pioneer_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Pioneer_1-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation book"><a rel="nofollow" class="external text" href="https://books.google.com/?id=lkcVAAAAYAAJ&amp;pg=PT57&amp;dq=refinery+kier+pittsburgh"><i>Greater Pittsburgh and Allegheny County, Past, Present, Future; The Pioneer Oil Refiner</i></a>. Original from the New York Public Library: The American Manufacturer and Iron World. 1901.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Greater+Pittsburgh+and+Allegheny+County%2C+Past%2C+Present%2C+Future%3B+The+Pioneer+Oil+Refiner&amp;rft.place=Original+from+the+New+York+Public+Library&amp;rft.pub=The+American+Manufacturer+and+Iron+World&amp;rft.date=1901&amp;rft_id=https%3A%2F%2Fbooks.google.com%2F%3Fid%3DlkcVAAAAYAAJ%26pg%3DPT57%26dq%3Drefinery%2Bkier%2Bpittsburgh&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASamuel+Kier" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span> </li> 
+      <li id="cite_note-McInnis-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-McInnis_2-0">^</a></b></span> <span class="reference-text"><cite class="citation web">McInnis, Karen. <a rel="nofollow" class="external text" href="http://www.pabook.libraries.psu.edu/palitmap/bios/Kier__Samuel_Martin.html">"Kier, Samuel Martin- Bio"</a> <span class="cs1-format">(web)</span>. <i>biography</i>. The Pennsylvania State University<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-12-12</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=biography&amp;rft.atitle=Kier%2C+Samuel+Martin-+Bio&amp;rft.aulast=McInnis&amp;rft.aufirst=Karen&amp;rft_id=http%3A%2F%2Fwww.pabook.libraries.psu.edu%2Fpalitmap%2Fbios%2FKier__Samuel_Martin.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASamuel+Kier" class="Z3988"></span>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+      <li id="cite_note-Harper-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-Harper_3-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Harper, J. A. (1995). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20120315221502/http://www.oil150.com/essays/2007/02/samual-kier">"Samuel Kier - Medicine Man &amp; Refiner"</a>. <i>Excerpt from Yo-Ho-Ho and a Bottle of Unrefined Complex Liquid Hydrocarbons. Pennsylvania Geology, v. 26, No. 1, p. -</i>. Oil Region Alliance of Business, Industry &amp; Tourism. Archived from <a rel="nofollow" class="external text" href="http://www.oil150.com/essays/2007/02/samual-kier">the original</a> <span class="cs1-format">(web)</span> on 2012-03-15<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-12-12</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Excerpt+from+Yo-Ho-Ho+and+a+Bottle+of+Unrefined+Complex+Liquid+Hydrocarbons.+Pennsylvania+Geology%2C+v.+26%2C+No.+1%2C+p.+-&amp;rft.atitle=Samuel+Kier+-+Medicine+Man+%26+Refiner&amp;rft.date=1995&amp;rft.aulast=Harper&amp;rft.aufirst=J.+A.&amp;rft_id=http%3A%2F%2Fwww.oil150.com%2Fessays%2F2007%2F02%2Fsamual-kier&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASamuel+Kier" class="Z3988"></span>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+      <li id="cite_note-Welty-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-Welty_4-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Welty; Earl M. Welty; Frank J. Taylor (1966). <a rel="nofollow" class="external text" href="https://books.google.com/?id=xwE7AAAAMAAJ&amp;q=Kier+%22petroleum+butter%22&amp;dq=Kier+%22petroleum+butter%22"><i>The 76 Bonanza: The Fabulous Life and Times of the Union Oil Company of California</i></a>. Original from the University of Michigan: Lane Magazine &amp; Book Co. p.&nbsp;46.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+76+Bonanza%3A+The+Fabulous+Life+and+Times+of+the+Union+Oil+Company+of+California&amp;rft.place=Original+from+the+University+of+Michigan&amp;rft.pages=46&amp;rft.pub=Lane+Magazine+%26+Book+Co&amp;rft.date=1966&amp;rft.au=Welty&amp;rft.au=Earl+M.+Welty&amp;rft.au=Frank+J.+Taylor&amp;rft_id=https%3A%2F%2Fbooks.google.com%2F%3Fid%3DxwE7AAAAMAAJ%26q%3DKier%2B%2522petroleum%2Bbutter%2522%26dq%3DKier%2B%2522petroleum%2Bbutter%2522&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASamuel+Kier" class="Z3988"></span>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+      <li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.waymarking.com/waymarks/WMGBM">Kier Refinery, in Pennsylvania Historical Markers</a> at waymarking.com</span> </li> 
+      <li id="cite_note-Wright-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-Wright_6-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Wright, William (1865). <a rel="nofollow" class="external text" href="https://books.google.com/?id=WQMK3z411rIC&amp;pg=PA194&amp;dq=refinery+kier+pittsburgh"><i>The Oil Regions of Pennsylvania</i></a>. Original from the University of Michigan: Harper &amp; brothers. pp.&nbsp;195 -.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Oil+Regions+of+Pennsylvania&amp;rft.place=Original+from+the+University+of+Michigan&amp;rft.pages=195+-&amp;rft.pub=Harper+%26+brothers&amp;rft.date=1865&amp;rft.aulast=Wright&amp;rft.aufirst=William&amp;rft_id=https%3A%2F%2Fbooks.google.com%2F%3Fid%3DWQMK3z411rIC%26pg%3DPA194%26dq%3Drefinery%2Bkier%2Bpittsburgh&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASamuel+Kier" class="Z3988"></span>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+     </ol>
+    </div>
+   </div> 
+   <h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Samuel_Kier&amp;action=edit&amp;section=6" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <ul>
+    <li><a rel="nofollow" class="external text" href="http://triblive.com/x/pittsburghtrib/news/specialreports/s_169345.html#axzz2EhT15DAD">Before gas and oil, petroleum yielded riches in another form</a></li>
+   </ul> 
+   <div role="navigation" class="navbox" aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q7411909&amp;#124;Edit_this_at_Wikidata" style="padding:3px">
+    <table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+     <tbody>
+      <tr>
+       <th id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q7411909&amp;#124;Edit_this_at_Wikidata" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q7411909" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/15px-Blue_pencil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png 2x" data-file-width="600" data-file-height="600"></a></th>
+       <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><span class="nowrap"><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://catalogue.bnf.fr/ark:/12148/cb16669341v">cb16669341v</a> <a rel="nofollow" class="external text" href="http://data.bnf.fr/ark:/12148/cb16669341v">(data)</a></span></span></li> 
+          <li><span class="nowrap"><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni.org/isni/0000000048467532">0000 0000 4846 7532</a></span></span></li> 
+          <li><span class="nowrap"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/names/no2004029184">no2004029184</a></span></span></li> 
+          <li><span class="nowrap"><a href="/wiki/SNAC" title="SNAC">SNAC</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://socialarchive.iath.virginia.edu/ark:/99166/w6rc1cmf">w6rc1cmf</a></span></span></li> 
+          <li><span class="nowrap"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/24307728">24307728</a></span></span></li> 
+          <li><span class="nowrap"> <a href="/wiki/WorldCat_Identities" class="mw-redirect" title="WorldCat Identities">WorldCat Identities</a> (via VIAF): <a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/24307728">24307728</a></span></li>
+         </ul> 
+        </div></td>
+      </tr>
+     </tbody>
+    </table>
+   </div> 
+   <!-- 
+NewPP limit report
+Parsed by mw1247
+Cached time: 20190425143515
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.260 seconds
+Real time usage: 0.378 seconds
+Preprocessor visited node count: 617/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 22373/2097152 bytes
+Template argument size: 633/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 7/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 16376/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.167/10.000 seconds
+Lua memory usage: 3.19 MB/50 MB
+--> 
+   <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  336.

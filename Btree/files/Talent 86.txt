@@ -1,0 +1,138 @@
+<div id="bodyContent" class="mw-body-content"> 
+ <div id="siteSub" class="noprint">
+  From Wikipedia, the free encyclopedia
+ </div> 
+ <div id="contentSub"></div> 
+ <div id="jump-to-nav"></div> 
+ <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> 
+ <a class="mw-jump-link" href="#p-search">Jump to search</a> 
+ <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+  <div class="mw-parser-output">
+   <table class="box-Orphan plainlinks metadata ambox ambox-style ambox-Orphan" role="presentation" style="display: none">
+    <tbody>
+     <tr>
+      <td class="mbox-image">
+       <div style="width:52px">
+        <a href="/wiki/File:Wiki_letter_w.svg" class="image"><img alt="Wiki letter w.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/6/6c/Wiki_letter_w.svg/40px-Wiki_letter_w.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/6/6c/Wiki_letter_w.svg/60px-Wiki_letter_w.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/6/6c/Wiki_letter_w.svg/80px-Wiki_letter_w.svg.png 2x" data-file-width="44" data-file-height="44"></a>
+       </div></td>
+      <td class="mbox-text">
+       <div class="mbox-text-span">
+        This article 
+        <b>is an <a href="/wiki/Wikipedia:Orphan" title="Wikipedia:Orphan">orphan</a>, as no other articles <a class="external text" href="//en.wikipedia.org/w/index.php?title=Special:Whatlinkshere&amp;target=Tallet_86&amp;namespace=0">link to it</a></b>. Please 
+        <a href="/wiki/Help:Link" title="Help:Link">introduce links</a> to this page from 
+        <span class="plainlinks"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Special%3ASearch&amp;redirs=1&amp;search=Tallet+86&amp;fulltext=Search&amp;ns0=1&amp;title=Special%3ASearch&amp;advanced=1&amp;fulltext=Tallet+86">related articles</a></span>; try the 
+        <a rel="nofollow" class="external text" href="//edwardbetts.com/find_link?q=Tallet_86">Find link tool</a> for suggestions. 
+        <small class="date-container"><i>(<span class="date">January 2017</span>)</i></small>
+       </div></td>
+     </tr>
+    </tbody>
+   </table> 
+   <p><b>Tallet 86</b> is a village in the <a href="/wiki/Gaza_Strip" title="Gaza Strip">Gaza Strip</a> of the <a href="/wiki/Palestinian_territories" title="Palestinian territories">Palestinian territories</a>, around 8 kilometres (5.0&nbsp;mi) to the north-east of the town of <a href="/wiki/Khan_Yunis" title="Khan Yunis">Khan Yunis</a> and to the east of the main line connecting towns in the sector to <a href="/wiki/Rafah" title="Rafah">Rafah</a>. It is situated halfway between the towns of <a href="/wiki/Deir_al-Balah" title="Deir al-Balah">Deir al-Balah</a> and Khan Yunis. It has an area under 1,000 acres (400&nbsp;ha), and is 9&nbsp;km (5.6&nbsp;mi) from the sea, with views to the sea and the <a href="/wiki/Green_Line_(Israel)" title="Green Line (Israel)">Green Line</a>. </p> 
+   <div id="toc" class="toc">
+    <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+    <div class="toctitle" lang="en" dir="ltr">
+     <h2>Contents</h2>
+     <span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+    </div> 
+    <ul> 
+     <li class="toclevel-1 tocsection-1"><a href="#Toponymy"><span class="tocnumber">1</span> <span class="toctext">Toponymy</span></a></li> 
+     <li class="toclevel-1 tocsection-2"><a href="#Population"><span class="tocnumber">2</span> <span class="toctext">Population</span></a></li> 
+     <li class="toclevel-1 tocsection-3"><a href="#Economy"><span class="tocnumber">3</span> <span class="toctext">Economy</span></a></li> 
+     <li class="toclevel-1 tocsection-4"><a href="#Infrastructure"><span class="tocnumber">4</span> <span class="toctext">Infrastructure</span></a></li> 
+     <li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li> 
+     <li class="toclevel-1 tocsection-6"><a href="#Sources"><span class="tocnumber">6</span> <span class="toctext">Sources</span></a></li> 
+    </ul> 
+   </div> 
+   <h2><span class="mw-headline" id="Toponymy">Toponymy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tallet_86&amp;action=edit&amp;section=1" title="Edit section: Toponymy">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <p>The name "Tallet" in <a href="/wiki/Arabic_language" class="mw-redirect" title="Arabic language">Arabic</a> signifies a hill. Residents suggest that the village took its name from the number of Israeli army unit that was stationed there. (In 1948, a decisive battle was fought at Tallet which stopped the <a href="/wiki/Zionist" class="mw-redirect" title="Zionist">Zionist</a> advance in the sector, who were stopped in their tracks.) An alternative explanation is that it derives from the village being, supposedly, 86 meters above <a href="/wiki/Sea_level" title="Sea level">sea level</a>. </p> 
+   <h2><span class="mw-headline" id="Population">Population</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tallet_86&amp;action=edit&amp;section=2" title="Edit section: Population">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <p>According to the <a href="/wiki/Palestinian_Central_Bureau_of_Statistics" title="Palestinian Central Bureau of Statistics">Palestinian Central Bureau of Statistics</a>, in 2007 the village had a population of around 2000,<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (April 2016)">citation needed</span></a></i>]</sup> dispersed among residential communities near sources of water and the main road. </p> 
+   <h2><span class="mw-headline" id="Economy">Economy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tallet_86&amp;action=edit&amp;section=3" title="Edit section: Economy">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <p>The region's main way of life is agricultural. The village is known for growing <a href="/wiki/Citrus_fruit" class="mw-redirect" title="Citrus fruit">citrus fruits</a>, <a href="/wiki/Almond" title="Almond">almonds</a>, <a href="/wiki/Olive" title="Olive">olives</a> and vegetables. The region is also noted for <a href="/wiki/Sheep_farming" title="Sheep farming">sheep farming</a>. </p>
+   <p>Residents joined forces to build a primary school without a playground or surrounding walls. The village has no secondary school, therefor, students can only complete their studies at schools in Deir al-Balah. Medical provision is poor; there is one clinic. The main reason is lack of resources. Residents rely on hospitals in Gaza and Khan Yunis. Social, charitable and cultural institutions do not exist as well. </p> 
+   <h2><span class="mw-headline" id="Infrastructure">Infrastructure</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tallet_86&amp;action=edit&amp;section=4" title="Edit section: Infrastructure">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <p>There is no transportation in the region. The village has no paved roads. Most houses have electricity, but water can only be drawn from private wells. Water is carried by animals, the residents' only mode of transport. </p> 
+   <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tallet_86&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <table class="box-More_citations_needed plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+    <tbody>
+     <tr>
+      <td class="mbox-image">
+       <div style="width:52px">
+        <a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399"></a>
+       </div></td>
+      <td class="mbox-text">
+       <div class="mbox-text-span">
+        This article 
+        <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.
+        <span class="hide-when-compact"> Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Tallet_86&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.<br><small><span class="plainlinks"><i>Find sources:</i>&nbsp;<a rel="nofollow" class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22Tallet+86%22">"Tallet 86"</a>&nbsp;–&nbsp;<a rel="nofollow" class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22Tallet+86%22+-wikipedia">news</a>&nbsp;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?&amp;q=%22Tallet+86%22+site:news.google.com/newspapers&amp;source=newspapers">newspapers</a>&nbsp;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22Tallet+86%22+-wikipedia">books</a>&nbsp;<b>·</b> <a rel="nofollow" class="external text" href="//scholar.google.com/scholar?q=%22Tallet+86%22">scholar</a>&nbsp;<b>·</b> <a rel="nofollow" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22Tallet+86%22&amp;acc=on&amp;wc=on">JSTOR</a></span></small></span> 
+        <small class="date-container"><i>(<span class="date">April 2016</span>)</i></small>
+        <small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small>
+       </div></td>
+     </tr>
+    </tbody>
+   </table> 
+   <div class="reflist" style="list-style-type: decimal;"> 
+   </div> 
+   <h2><span class="mw-headline" id="Sources">Sources</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tallet_86&amp;action=edit&amp;section=6" title="Edit section: Sources">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <ul>
+    <li><cite class="citation web"><a rel="nofollow" class="external text" href="http://historyofpalestine.weebly.com/1605159316041608160515751578-15931606-160116041587159116101606.html">"معلومات عن فلسطين"</a>. <i>historyofpalestine.weebly.com</i> (in Arabic)<span class="reference-accessdate">. Retrieved <span class="nowrap">8 April</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=historyofpalestine.weebly.com&amp;rft.atitle=%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA+%D8%B9%D9%86+%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86&amp;rft_id=http%3A%2F%2Fhistoryofpalestine.weebly.com%2F1605159316041608160515751578-15931606-160116041587159116101606.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATallet+86" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></li>
+   </ul> 
+   <p><span id="coordinates" class="metadata coord-missing"></span> </p> 
+   <!-- 
+NewPP limit report
+Parsed by mw1242
+Cached time: 20190505231411
+Cache expiry: 86400
+Dynamic content: true
+CPU time usage: 0.208 seconds
+Real time usage: 0.306 seconds
+Preprocessor visited node count: 470/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 18123/2097152 bytes
+Template argument size: 1679/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 4/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 1872/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.123/10.000 seconds
+Lua memory usage: 3.87 MB/50 MB
+--> 
+   <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  279.334      1 -total
+ 30.59%   85.454      2 Template:Ambox
+ 27.93%   78.017      1 Template:Cite_web
+ 27.61%   77.134      1 Template:Orphan
+ 18.78%   52.469      1 Template:Draft_other
+ 14.94%   41.721      1 Template:More_citations_needed
+ 12.29%   34.331      3 Template:Convert
+ 11.93%   33.328      1 Template:Find_sources_mainspace
+ 10.80%   30.178      1 Template:Citation_needed
+  9.53%   26.629      1 Template:Fix
+--> 
+   <!-- Saved in parser cache with key enwiki:pcache:idhash:50034715-0!canonical and timestamp 20190505231411 and revision id 876157231
+ --> 
+  </div>
+  <noscript>
+   <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+  </noscript>
+ </div> 
+ <div class="printfooter">
+  Retrieved from "
+  <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Tallet_86&amp;oldid=876157231">https://en.wikipedia.org/w/index.php?title=Tallet_86&amp;oldid=876157231</a>"
+ </div> 
+ <div id="catlinks" class="catlinks" data-mw="interface">
+  <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+   <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+   <ul>
+    <li><a href="/wiki/Category:Villages_in_Israel" title="Category:Villages in Israel">Villages in Israel</a></li>
+   </ul>
+  </div>
+  <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+   Hidden categories: 
+   <ul>
+    <li><a href="/wiki/Category:Orphaned_articles_from_January_2017" title="Category:Orphaned articles from January 2017">Orphaned articles from January 2017</a></li>
+    <li><a href="/wiki/Category:All_orphaned_articles" title="Category:All orphaned articles">All orphaned articles</a></li>
+    <li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li>
+    <li><a href="/wiki/Category:Articles_with_unsourced_statem

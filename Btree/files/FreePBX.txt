@@ -1,0 +1,183 @@
+<div id="bodyContent" class="mw-body-content"> 
+ <div id="siteSub" class="noprint">
+  From Wikipedia, the free encyclopedia
+ </div> 
+ <div id="contentSub"></div> 
+ <div id="jump-to-nav"></div> 
+ <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> 
+ <a class="mw-jump-link" href="#p-search">Jump to search</a> 
+ <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+  <div class="mw-parser-output">
+   <table class="infobox vevent" style="width:22em">
+    <caption class="summary">
+     FreePBX
+    </caption>
+    <tbody>
+     <tr>
+      <td colspan="2" style="text-align:center"><a href="/wiki/File:FreePBX_Logo.jpg" class="image" title="FreePBX"><img alt="FreePBX" src="//upload.wikimedia.org/wikipedia/en/1/19/FreePBX_Logo.jpg" decoding="async" width="213" height="182" data-file-width="213" data-file-height="182"></a></td>
+     </tr>
+     <tr>
+      <th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_developer" title="Software developer">Developer(s)</a></th>
+      <td>FreePBX Project <br><a href="/wiki/Sangoma_Technologies_Corporation" title="Sangoma Technologies Corporation">Sangoma Technologies Corporation</a></td>
+     </tr>
+     <tr>
+      <th scope="row" style="white-space: nowrap;">Initial release</th>
+      <td>November&nbsp;28, 2004<span class="noprint">; 14 years ago</span><span style="display:none">&nbsp;(<span class="bday dtstart published updated">2004-11-28</span>)</span></td>
+     </tr>
+     <tr style="display: none;">
+      <td colspan="2" style="text-align:center"></td>
+     </tr>
+     <tr>
+      <th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_release_life_cycle" title="Software release life cycle">Stable release</a></th>
+      <td>
+       <div style="margin:0px;">
+        14 / August&nbsp;2, 2017
+        <span class="noprint">; 21 months ago</span>
+        <span style="display:none">&nbsp;(<span class="bday dtstart published updated">2017-08-02</span>)</span>
+       </div></td>
+     </tr>
+     <tr style="display:none">
+      <td colspan="2"> </td>
+     </tr>
+     <tr>
+      <th scope="row" style="white-space: nowrap;"><a href="/wiki/Repository_(version_control)" title="Repository (version control)">Repository</a></th>
+      <td>
+       <div class="plainlist">
+        <ul>
+         <li><span class="url"><a rel="nofollow" class="external text" href="https://github.com/FreePBX">github<wbr>.com<wbr>/FreePBX</a></span></li>
+        </ul> 
+       </div> <a href="https://www.wikidata.org/wiki/Q5499659#P1324" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/15px-Blue_pencil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png 2x" data-file-width="600" data-file-height="600"></a></td>
+     </tr>
+     <tr>
+      <th scope="row" style="white-space: nowrap;"><a href="/wiki/Operating_system" title="Operating system">Operating system</a></th>
+      <td><a href="/wiki/Linux" title="Linux">Linux</a>, <a href="/wiki/FreeBSD" title="FreeBSD">FreeBSD</a></td>
+     </tr>
+     <tr>
+      <th scope="row" style="white-space: nowrap;">Available in</th>
+      <td><a href="/wiki/English_language" title="English language">English</a>, <a href="/wiki/Bulgarian_language" title="Bulgarian language">Bulgarian</a> <a href="/wiki/Chinese_language" title="Chinese language">Chinese</a> <a href="/wiki/German_language" title="German language">German</a> <a href="/wiki/French_language" title="French language">French</a> <a href="/wiki/Hebrew_language" title="Hebrew language">Hebrew</a> <a href="/wiki/Hungarian_language" title="Hungarian language">Hungarian</a> <a href="/wiki/Italian_language" title="Italian language">Italian</a> <a href="/wiki/Portuguese_language" title="Portuguese language">Portuguese</a> <a href="/wiki/Brazilian_Portuguese" title="Brazilian Portuguese">Portuguese (Brazil)</a> <a href="/wiki/Russian_language" title="Russian language">Russian</a> <a href="/wiki/Swedish_language" title="Swedish language">Swedish</a> <a href="/wiki/Spanish_language" title="Spanish language">Spanish</a> <a href="/wiki/Japanese_language" title="Japanese language">Japanese</a></td>
+     </tr>
+     <tr>
+      <th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_license" title="Software license">License</a></th>
+      <td><a href="/wiki/Affero_General_Public_License" title="Affero General Public License">AGPL v3</a> and <a href="/wiki/GNU_General_Public_License" title="GNU General Public License">GPL v3</a></td>
+     </tr>
+     <tr>
+      <th scope="row" style="white-space: nowrap;">Website</th>
+      <td><span class="url"><a rel="nofollow" class="external text" href="http://www.freepbx.org/">www<wbr>.freepbx<wbr>.org</a></span></td>
+     </tr>
+    </tbody>
+   </table> 
+   <p><b>FreePBX</b> is a web-based <a href="/wiki/Open-source_software" title="Open-source software">open-source</a> <a href="/wiki/Graphical_user_interface" title="Graphical user interface">graphical user interface</a> (GUI) that manages <a href="/wiki/Asterisk_(PBX)" title="Asterisk (PBX)">Asterisk</a>, a <a href="/wiki/Voice_over_IP" title="Voice over IP">voice over IP</a> and <a href="/wiki/Telephony" title="Telephony">telephony</a> server.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> </p>
+   <p>FreePBX is licensed under the <a href="/wiki/GNU_General_Public_License" title="GNU General Public License">GNU General Public License</a> version 3.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> It is a component of the <a href="/wiki/FreePBX_Distro" title="FreePBX Distro">FreePBX Distro</a>, which is an independently maintained <a href="/wiki/Linux" title="Linux">Linux</a> system derived from the source code of the <a href="/wiki/CentOS" title="CentOS">CentOS</a> distribution, having Asterisk pre-installed. It is also included in various third-party distributions such as <i>The FreePBX Distro</i> and <i>AsteriskNow</i>. </p>
+   <p>FreePBX was acquired by Schmooze.com in early 2013.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> That firm was, in turn, taken over by <a href="/wiki/Sangoma_Technologies_Corporation" title="Sangoma Technologies Corporation">Sangoma Technologies Corporation</a> on Jan 2, 2015. </p>
+   <p>FreePBX is a community of developers and contributors who devote their work to making complicated phone system software easy to use and functional. </p> 
+   <div id="toc" class="toc">
+    <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+    <div class="toctitle" lang="en" dir="ltr">
+     <h2>Contents</h2>
+     <span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+    </div> 
+    <ul> 
+     <li class="toclevel-1 tocsection-1"><a href="#Installation"><span class="tocnumber">1</span> <span class="toctext">Installation</span></a></li> 
+     <li class="toclevel-1 tocsection-2"><a href="#Development"><span class="tocnumber">2</span> <span class="toctext">Development</span></a></li> 
+     <li class="toclevel-1 tocsection-3"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li> 
+     <li class="toclevel-1 tocsection-4"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li> 
+    </ul> 
+   </div> 
+   <h2><span class="mw-headline" id="Installation">Installation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=FreePBX&amp;action=edit&amp;section=1" title="Edit section: Installation">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <p>FreePBX can be installed as standalone software, or as part of a pre-configured FreePBX Distro that includes the operating system, the Asterisk PBX, FreePBX, and assorted dependencies:<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> </p>
+   <p>FreePBX is included in open source distributions such as <a href="/wiki/FreePBX_Distro" title="FreePBX Distro">The Official FreePBX Distro</a>, AsteriskNOW, <a href="/wiki/Elastix" title="Elastix">Elastix</a> and RasPBX </p> 
+   <h2><span class="mw-headline" id="Development">Development</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=FreePBX&amp;action=edit&amp;section=2" title="Edit section: Development">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <p>The first FreePBX release, version 0.2 (November 28, 2004), was named the Asterisk Management Portal (AMP). The project was renamed to FreePBX for trademark reasons, as <a href="/wiki/Asterisk_(PBX)" title="Asterisk (PBX)">Asterisk</a> is a registered trademark of the <a href="/wiki/Digium" title="Digium">Digium</a> corporation, a subsidiary of <a href="/wiki/Sangoma_Technologies_Corporation" title="Sangoma Technologies Corporation">Sangoma Technologies Corporation</a>. </p>
+   <p>New releases of Asterisk have been accommodated by various updates to FreePBX. Updates have included new menus and support for additional capabilities such as voice mail, calling queues, fax, multiple languages, DAHDI and a local user directory. </p>
+   <p>Current versions are: </p> 
+   <ul>
+    <li>FreePBX 2.11 – Completed 2013-05-14- – Adds support for Asterisk 11, Destination popOvers, Module Admin Security Auditing, Chan Motif Module, WebRTC User Control Panel<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></li> 
+    <li>FreePBX 12 – STABLE Release 2014-06-23- – Adds support for Asterisk 12&amp;13, New User Control Panel, Module Admin version control, PJSIP Support</li> 
+    <li>FreePBX 13 - Stable - adds responsive GUI, support for Asterisk 13, Call Event Logging CEL and reporting, fwconsole CLI system management, Enhanced Bulk User Management, expanded localization support for audio and sound files, and a new global search option.</li> 
+    <li>FreePBX 14 - Stable</li> 
+    <li>FreePBX 15 - Beta<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></li>
+   </ul> 
+   <p>FreePBX supports numerous hardware manufacturers, including <a href="/wiki/Aastra_Technologies" title="Aastra Technologies">Aastra Technologies</a>, Algo, AND, <a href="/wiki/AudioCodes" title="AudioCodes">AudioCodes</a>, <a href="/wiki/Cisco_Systems" title="Cisco Systems">Cisco Systems</a>, Cyberdata, <a href="/wiki/Digium" title="Digium">Digium</a>, <a href="/wiki/Grandstream_Networks" title="Grandstream Networks">Grandstream</a>, <a href="/wiki/Mitel" title="Mitel">Mitel</a>, <a href="/wiki/Panasonic" title="Panasonic">Panasonic</a>, <a href="/wiki/Polycom" title="Polycom">Polycom</a>, <a href="/wiki/Sangoma_Technologies_Corporation" title="Sangoma Technologies Corporation">Sangoma</a>, <a href="/wiki/Snom" title="Snom">Snom</a>, <a href="/w/index.php?title=Xorcom&amp;action=edit&amp;redlink=1" class="new" title="Xorcom (page does not exist)">Xorcom</a>, and <a href="/w/index.php?title=Yealink&amp;action=edit&amp;redlink=1" class="new" title="Yealink (page does not exist)">Yealink</a>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> FreePBX developers estimate the distro has been deployed in millions of active PBX systems in over 220 countries and territories.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> </p> 
+   <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=FreePBX&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <div class="reflist" style="list-style-type: decimal;"> 
+    <div class="mw-references-wrap">
+     <ol class="references"> 
+      <li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation book">Madsen, Leif; Jim Van Meggelen; Russell Bryant (2013). <a rel="nofollow" class="external text" href="http://shop.oreilly.com/product/0636920025894.do"><i>Asterisk: The Definitive Guide, 4th Edition</i></a> (4th ed.). O'Reilly Media. p.&nbsp;800. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-1-4493-3242-6" title="Special:BookSources/978-1-4493-3242-6"><bdi>978-1-4493-3242-6</bdi></a>. <q>FreePBX, the juggernaut of the Asterisk community. This interface (which is at the heart of many of the most popular Asterisk distributions, such as AsteriskNOW, Elastix, the FreePBX Distro, and PBX in a Flash), is unarguably a very large part of why Asterisk has been as successful as it has. With the FreePBX interface, you can configure and manage many aspects of an Asterisk system without touching a single configuration file. While we purists may like everyone to work only with the config files, we recognize that for many, learning Linux and editing these files by hand is simply not going to happen. For those folks, there is FreePBX, and it has our respect for the important contributions it has made to the success of Asterisk.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Asterisk%3A+The+Definitive+Guide%2C+4th+Edition&amp;rft.pages=800&amp;rft.edition=4th&amp;rft.pub=O%27Reilly+Media&amp;rft.date=2013&amp;rft.isbn=978-1-4493-3242-6&amp;rft.aulast=Madsen&amp;rft.aufirst=Leif&amp;rft.au=Jim+Van+Meggelen&amp;rft.au=Russell+Bryant&amp;rft_id=http%3A%2F%2Fshop.oreilly.com%2Fproduct%2F0636920025894.do&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFreePBX" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span> </li> 
+      <li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.openhub.net/p/freepbx">"FreePBX project in OpenHub"</a>. BlackDuck<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-08-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=FreePBX+project+in+OpenHub&amp;rft.pub=BlackDuck&amp;rft_id=https%3A%2F%2Fwww.openhub.net%2Fp%2Ffreepbx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFreePBX" class="Z3988"></span>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+      <li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://blog.schmoozecom.com/post/43758468959/schmooze-com-acquires-freepbx-sipstation">"Schmooze Com Acquires FreePBX &amp; SIPSTATION"</a>. Schmooze Com. February 22, 2013.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Schmooze+Com+Acquires+FreePBX+%26+SIPSTATION&amp;rft.pub=Schmooze+Com&amp;rft.date=2013-02-22&amp;rft_id=http%3A%2F%2Fblog.schmoozecom.com%2Fpost%2F43758468959%2Fschmooze-com-acquires-freepbx-sipstation&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFreePBX" class="Z3988"></span>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+      <li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation book">Gomillion, David Merel, Barrie Dempster, David (2009). <i>Asterisk 1.6 build feature-rich telephony systems with Asterisk</i>. Birmingham, U.K.: Packt Pub. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/9781847198631" title="Special:BookSources/9781847198631"><bdi>9781847198631</bdi></a>. <q>Making Asterisk Easy to Manage; CentOS; Preparation and installation; What is FreePBX?; FreePBX preparation and installation; FreePBX System Status Dashboard; Tools</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Asterisk+1.6+build+feature-rich+telephony+systems+with+Asterisk&amp;rft.place=Birmingham%2C+U.K.&amp;rft.pub=Packt+Pub.&amp;rft.date=2009&amp;rft.isbn=9781847198631&amp;rft.aulast=Gomillion&amp;rft.aufirst=David+Merel%2C+Barrie+Dempster%2C+David&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFreePBX" class="Z3988"></span>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+      <li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.freepbx.org/trac/milestone/2.11">"Milestone 2.11 - FreePBX - Trac"</a>. FreePBX<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-05-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Milestone+2.11+-+FreePBX+-+Trac&amp;rft.pub=FreePBX&amp;rft_id=http%3A%2F%2Fwww.freepbx.org%2Ftrac%2Fmilestone%2F2.11&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFreePBX" class="Z3988"></span>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+      <li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://community.freepbx.org/t/the-beta-release-of-freepbx-15/57901">"The Beta Release of FreePBX 15"</a>. <i>FreePBX Community Forums</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2019-04-17</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=FreePBX+Community+Forums&amp;rft.atitle=The+Beta+Release+of+FreePBX+15&amp;rft_id=https%3A%2F%2Fcommunity.freepbx.org%2Ft%2Fthe-beta-release-of-freepbx-15%2F57901&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFreePBX" class="Z3988"></span>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+      <li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.prweb.com/releases/2012/4/prweb9421216.htm">snom Phones Now Interoperable with Schmooze Com, Inc. Unified Communications Systems</a> (press release), 2012, PR Web</span> </li> 
+      <li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://technews.tmcnet.com/ip-telephony/topics/partners/articles/84838-ip-telephony-feature-schmooze-com-eases-phone-system.htm"><i>Telephony features...</i></a> TMC.net</span> </li> 
+     </ol>
+    </div>
+   </div> 
+   <h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=FreePBX&amp;action=edit&amp;section=4" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <ul>
+    <li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://www.freepbx.org/">Official website</a></span></span></li>
+   </ul> 
+   <!-- 
+NewPP limit report
+Parsed by mw1330
+Cached time: 20190504140523
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.264 seconds
+Real time usage: 0.364 seconds
+Preprocessor visited node count: 1296/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 23772/2097152 bytes
+Template argument size: 2326/2097152 bytes
+Highest expansion depth: 25/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 18842/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.142/10.000 seconds
+Lua memory usage: 3.33 MB/50 MB
+--> 
+   <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  331.629      1 -total
+ 66.33%  219.971      2 Template:Infobox
+ 62.41%  206.958      1 Template:Infobox_software
+ 33.10%  109.783      1 Template:Reflist
+ 23.31%   77.319      2 Template:Cite_book
+ 16.13%   53.476      2 Template:Wikidata
+ 12.05%   39.967      2 Template:Start_date_and_age
+ 10.22%   33.889      1 Template:Infobox_software/simple
+  5.81%   19.264      4 Template:Cite_web
+  5.35%   17.736      2 Template:Time_ago
+--> 
+   <!-- Saved in parser cache with key enwiki:pcache:idhash:8346250-0!canonical and timestamp 20190504140522 and revision id 892918423
+ --> 
+  </div>
+  <noscript>
+   <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+  </noscript>
+ </div> 
+ <div class="printfooter">
+  Retrieved from "
+  <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=FreePBX&amp;oldid=892918423">https://en.wikipedia.org/w/index.php?title=FreePBX&amp;oldid=892918423</a>"
+ </div> 
+ <div id="catlinks" class="catlinks" data-mw="interface">
+  <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+   <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+   <ul>
+    <li><a href="/wiki/Category:Free_VoIP_software" title="Category:Free VoIP software">Free VoIP software</a></li>
+    <li><a href="/wiki/Category:Unified_communications" title="Category:Unified communications">Unified communications</a></li>
+    <li><a href="/wiki/Category:FreePBX" title="Category:FreePBX">FreePBX</a></li>
+    <li><a href="/wiki/Category:Software_using_the_GNU_AGPL_license" title="Category:Software using the GNU AGPL license">Software using the GNU AGPL license</a></li>
+    <li><a href="/wiki/Category:Software_using_the_GPL_license" title="Category:Software using the GPL license">Software using the GPL license</a></li>
+   </ul>
+  </div>
+  <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+   Hidden categories: 
+   <ul>
+    <li><a href="/wiki/Category:Pages_using_deprecated_image_syntax" title

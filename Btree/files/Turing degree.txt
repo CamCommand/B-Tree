@@ -1,0 +1,418 @@
+<div id="bodyContent" class="mw-body-content"> 
+ <div id="siteSub" class="noprint">
+  From Wikipedia, the free encyclopedia
+ </div> 
+ <div id="contentSub"></div> 
+ <div id="jump-to-nav"></div> 
+ <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> 
+ <a class="mw-jump-link" href="#p-search">Jump to search</a> 
+ <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+  <div class="mw-parser-output">
+   <p>In <a href="/wiki/Computer_science" title="Computer science">computer science</a> and <a href="/wiki/Mathematical_logic" title="Mathematical logic">mathematical logic</a> the <b>Turing degree</b> (named after <a href="/wiki/Alan_Turing" title="Alan Turing">Alan Turing</a>) or <b>degree of unsolvability</b> of a set of natural numbers measures the level of algorithmic unsolvability of the set. </p> 
+   <div id="toc" class="toc">
+    <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+    <div class="toctitle" lang="en" dir="ltr">
+     <h2>Contents</h2>
+     <span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+    </div> 
+    <ul> 
+     <li class="toclevel-1 tocsection-1"><a href="#Overview"><span class="tocnumber">1</span> <span class="toctext">Overview</span></a></li> 
+     <li class="toclevel-1 tocsection-2"><a href="#Turing_equivalence"><span class="tocnumber">2</span> <span class="toctext">Turing equivalence</span></a></li> 
+     <li class="toclevel-1 tocsection-3"><a href="#Basic_properties_of_the_Turing_degrees"><span class="tocnumber">3</span> <span class="toctext">Basic properties of the Turing degrees</span></a></li> 
+     <li class="toclevel-1 tocsection-4"><a href="#Structure_of_the_Turing_degrees"><span class="tocnumber">4</span> <span class="toctext">Structure of the Turing degrees</span></a> 
+      <ul> 
+       <li class="toclevel-2 tocsection-5"><a href="#Order_properties"><span class="tocnumber">4.1</span> <span class="toctext">Order properties</span></a></li> 
+       <li class="toclevel-2 tocsection-6"><a href="#Properties_involving_the_jump"><span class="tocnumber">4.2</span> <span class="toctext">Properties involving the jump</span></a></li> 
+       <li class="toclevel-2 tocsection-7"><a href="#Logical_properties"><span class="tocnumber">4.3</span> <span class="toctext">Logical properties</span></a></li> 
+      </ul> </li> 
+     <li class="toclevel-1 tocsection-8"><a href="#Structure_of_the_r.e._Turing_degrees"><span class="tocnumber">5</span> <span class="toctext">Structure of the r.e. Turing degrees</span></a></li> 
+     <li class="toclevel-1 tocsection-9"><a href="#Post's_problem_and_the_priority_method"><span class="tocnumber">6</span> <span class="toctext">Post's problem and the priority method</span></a></li> 
+     <li class="toclevel-1 tocsection-10"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li> 
+     <li class="toclevel-1 tocsection-11"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li> 
+    </ul> 
+   </div> 
+   <h2><span class="mw-headline" id="Overview">Overview</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Turing_degree&amp;action=edit&amp;section=1" title="Edit section: Overview">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <p>The concept of Turing degree is fundamental in <a href="/wiki/Computability_theory" title="Computability theory">computability theory</a>, where sets of natural numbers are often regarded as <a href="/wiki/Decision_problem" title="Decision problem">decision problems</a>. The Turing degree of a set is a measure of how difficult it is to solve the decision problem associated with the set, that is, to determine whether an arbitrary number is in the given set. </p>
+   <p>Two sets are <b>Turing equivalent</b> if they have the same level of unsolvability; each Turing degree is a collection of Turing equivalent sets, so that two sets are in different Turing degrees exactly when they are not Turing equivalent. Furthermore, the Turing degrees are <a href="/wiki/Partial_order" class="mw-redirect" title="Partial order">partially ordered</a> so that if the Turing degree of a set <i>X</i> is less than the Turing degree of a set <i>Y</i> then any (noncomputable) procedure that correctly decides whether numbers are in <i>Y</i> can be effectively converted to a procedure that correctly decides whether numbers are in <i>X</i>. It is in this sense that the Turing degree of a set corresponds to its level of algorithmic unsolvability. </p>
+   <p>The Turing degrees were introduced by <a href="/wiki/Emil_Leon_Post" title="Emil Leon Post">Emil Leon Post</a> (1944), and many fundamental results were established by <a href="/wiki/Stephen_Cole_Kleene" title="Stephen Cole Kleene">Stephen Cole Kleene</a> and Post (1954). The Turing degrees have been an area of intense research since then. Many proofs in the area make use of a proof technique known as the <b>priority method</b>. </p> 
+   <h2><span class="mw-headline" id="Turing_equivalence">Turing equivalence</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Turing_degree&amp;action=edit&amp;section=2" title="Edit section: Turing equivalence">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <div role="note" class="hatnote navigation-not-searchable">
+    Main article: 
+    <a href="/wiki/Turing_reduction" title="Turing reduction">Turing reduction</a>
+   </div> 
+   <p>For the rest of this article, the word <i>set</i> will refer to a set of natural numbers. A set <i>X</i> is said to be <b><a href="/wiki/Turing_reducible" class="mw-redirect" title="Turing reducible">Turing reducible</a></b> to a set <i>Y</i> if there is an <a href="/wiki/Oracle_Turing_machine" class="mw-redirect" title="Oracle Turing machine">oracle Turing machine</a> that decides membership in <i>X</i> when given an oracle for membership in <i>Y</i>. The notation <i>X</i> ≤<sub>T</sub> <i>Y</i> indicates that <i>X</i> is Turing reducible to <i>Y</i>. </p>
+   <p>Two sets <i>X</i> and <i>Y</i> are defined to be <b>Turing equivalent</b> if <i>X</i> is Turing reducible to <i>Y</i> and <i>Y</i> is Turing reducible to <i>X</i>. The notation <i>X</i> ≡<sub>T</sub> <i>Y</i> indicates that <i>X</i> and <i>Y</i> are Turing equivalent. The relation ≡<sub>T</sub> can be seen to be an <a href="/wiki/Equivalence_relation" title="Equivalence relation">equivalence relation</a>, which means that for all sets <i>X</i>, <i>Y</i>, and <i>Z</i>: </p> 
+   <ul>
+    <li><i>X</i> ≡<sub>T</sub> <i>X</i></li> 
+    <li><i>X</i> ≡<sub>T</sub> <i>Y</i> implies <i>Y</i> ≡<sub>T</sub> <i>X</i></li> 
+    <li>If <i>X</i> ≡<sub>T</sub> <i>Y</i> and <i>Y</i> ≡<sub>T</sub> <i>Z</i> then <i>X</i> ≡<sub>T</sub> <i>Z</i>.</li>
+   </ul> 
+   <p>A <b>Turing degree</b> is an <a href="/wiki/Equivalence_class" title="Equivalence class">equivalence class</a> of the relation ≡<sub>T</sub>. The notation [<i>X</i>] denotes the equivalence class containing a set <i>X</i>. The entire collection of Turing degrees is denoted <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle {\mathcal {D}}}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <mrow class="MJX-TeXAtom-ORD"> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mi class="MJX-tex-caligraphic" mathvariant="script">
+             D
+            </mi> 
+           </mrow> 
+          </mrow> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle {\mathcal {D}}}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3277962e1959c3241fb1b70c7f0ac6dcefebd966" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.792ex; height:2.176ex;" alt="{\mathcal {D}}"></span>. </p>
+   <p>The Turing degrees have a <a href="/wiki/Partial_order" class="mw-redirect" title="Partial order">partial order</a> ≤ defined so that [<i>X</i>] ≤ [<i>Y</i>] if and only if <i>X</i> ≤<sub>T</sub> <i>Y</i>. There is a unique Turing degree containing all the computable sets, and this degree is less than every other degree. It is denoted <b>0</b> (zero) because it is the least element of the poset <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle {\mathcal {D}}}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <mrow class="MJX-TeXAtom-ORD"> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mi class="MJX-tex-caligraphic" mathvariant="script">
+             D
+            </mi> 
+           </mrow> 
+          </mrow> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle {\mathcal {D}}}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3277962e1959c3241fb1b70c7f0ac6dcefebd966" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.792ex; height:2.176ex;" alt="{\mathcal {D}}"></span>. (It is common to use boldface notation for Turing degrees, in order to distinguish them from sets. When no confusion can occur, such as with [<i>X</i>], the boldface is not necessary.) </p>
+   <p>For any sets <i>X</i> and <i>Y</i>, X <b>join</b> Y, written <i>X</i> ⊕ <i>Y</i>, is defined to be the union of the sets <span class="nowrap">{2<i>n</i>&nbsp;: <i>n</i> ∈ <i>X</i></span>} and <span class="nowrap">{2<i>m</i>+1&nbsp;: <i>m ∈ Y</i></span>}. The Turing degree of <i>X</i> ⊕ <i>Y</i> is the <a href="/wiki/Join_(mathematics)" class="mw-redirect" title="Join (mathematics)">least upper bound</a> of the degrees of <i>X</i> and <i>Y</i>. Thus <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle {\mathcal {D}}}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <mrow class="MJX-TeXAtom-ORD"> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mi class="MJX-tex-caligraphic" mathvariant="script">
+             D
+            </mi> 
+           </mrow> 
+          </mrow> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle {\mathcal {D}}}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3277962e1959c3241fb1b70c7f0ac6dcefebd966" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.792ex; height:2.176ex;" alt="{\mathcal {D}}"></span> is a <a href="/wiki/Join-semilattice" class="mw-redirect" title="Join-semilattice">join-semilattice</a>. The least upper bound of degrees <b>a</b> and <b>b</b> is denoted <b>a</b> ∪ <b>b</b>. It is known that <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle {\mathcal {D}}}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <mrow class="MJX-TeXAtom-ORD"> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mi class="MJX-tex-caligraphic" mathvariant="script">
+             D
+            </mi> 
+           </mrow> 
+          </mrow> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle {\mathcal {D}}}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3277962e1959c3241fb1b70c7f0ac6dcefebd966" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.792ex; height:2.176ex;" alt="{\mathcal {D}}"></span> is not a lattice, as there are pairs of degrees with no greatest lower bound. </p>
+   <p>For any set <i>X</i> the notation <i>X</i>′ denotes the set of indices of oracle machines that halt when using <i>X</i> as an oracle. The set <i>X</i>′ is called the <b><a href="/wiki/Turing_jump" title="Turing jump">Turing jump</a></b> of <i>X</i>. The Turing jump of a degree [<i>X</i>] is defined to be the degree [<i>X</i>′]; this is a valid definition because <i>X</i>′ ≡<sub>T</sub> <i>Y</i>′ whenever <i>X</i> ≡<sub>T</sub> <i>Y</i>. A key example is <b>0</b>′, the degree of the <a href="/wiki/Halting_problem" title="Halting problem">halting problem</a>. </p> 
+   <h2><span class="mw-headline" id="Basic_properties_of_the_Turing_degrees">Basic properties of the Turing degrees</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Turing_degree&amp;action=edit&amp;section=3" title="Edit section: Basic properties of the Turing degrees">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <ul>
+    <li>Every Turing degree is <a href="/wiki/Countably_infinite" class="mw-redirect" title="Countably infinite">countably infinite</a>, that is, it contains exactly <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+       <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \aleph _{0}}"> 
+        <semantics> 
+         <mrow class="MJX-TeXAtom-ORD"> 
+          <mstyle displaystyle="true" scriptlevel="0"> 
+           <msub> 
+            <mi mathvariant="normal">
+             ℵ
+             <!-- ℵ -->
+            </mi> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mn>
+              0
+             </mn> 
+            </mrow> 
+           </msub> 
+          </mstyle> 
+         </mrow> 
+         <annotation encoding="application/x-tex">
+          {\displaystyle \aleph _{0}}
+         </annotation> 
+        </semantics> 
+       </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/721cd7f8c15a2e72ad162bdfa5baea8eef98aab1" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:2.475ex; height:2.509ex;" alt="\aleph _{0}"></span> sets.</li> 
+    <li>There are <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+       <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle 2^{\aleph _{0}}}"> 
+        <semantics> 
+         <mrow class="MJX-TeXAtom-ORD"> 
+          <mstyle displaystyle="true" scriptlevel="0"> 
+           <msup> 
+            <mn>
+             2
+            </mn> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <msub> 
+              <mi mathvariant="normal">
+               ℵ
+               <!-- ℵ -->
+              </mi> 
+              <mrow class="MJX-TeXAtom-ORD"> 
+               <mn>
+                0
+               </mn> 
+              </mrow> 
+             </msub> 
+            </mrow> 
+           </msup> 
+          </mstyle> 
+         </mrow> 
+         <annotation encoding="application/x-tex">
+          {\displaystyle 2^{\aleph _{0}}}
+         </annotation> 
+        </semantics> 
+       </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/779da5db4ed54fa334dd92089cdf1c284e45febb" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:3.231ex; height:2.676ex;" alt="2^{\aleph _{0}}"></span> distinct Turing degrees.</li> 
+    <li>For each degree <b>a</b> the strict inequality <b>a</b> &lt; <b>a</b>′ holds.</li> 
+    <li>For each degree <b>a</b>, the set of degrees below <b>a</b> is <a href="/wiki/Countable_set" title="Countable set">countable</a>. The set of degrees greater than <b>a</b> has size <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+       <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle 2^{\aleph _{0}}}"> 
+        <semantics> 
+         <mrow class="MJX-TeXAtom-ORD"> 
+          <mstyle displaystyle="true" scriptlevel="0"> 
+           <msup> 
+            <mn>
+             2
+            </mn> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <msub> 
+              <mi mathvariant="normal">
+               ℵ
+               <!-- ℵ -->
+              </mi> 
+              <mrow class="MJX-TeXAtom-ORD"> 
+               <mn>
+                0
+               </mn> 
+              </mrow> 
+             </msub> 
+            </mrow> 
+           </msup> 
+          </mstyle> 
+         </mrow> 
+         <annotation encoding="application/x-tex">
+          {\displaystyle 2^{\aleph _{0}}}
+         </annotation> 
+        </semantics> 
+       </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/779da5db4ed54fa334dd92089cdf1c284e45febb" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:3.231ex; height:2.676ex;" alt="2^{\aleph _{0}}"></span>.</li>
+   </ul> 
+   <h2><span class="mw-headline" id="Structure_of_the_Turing_degrees">Structure of the Turing degrees</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Turing_degree&amp;action=edit&amp;section=4" title="Edit section: Structure of the Turing degrees">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <p>A great deal of research has been conducted into the structure of the Turing degrees. The following survey lists only some of the many known results. One general conclusion that can be drawn from the research is that the structure of the Turing degrees is extremely complicated. </p> 
+   <h3><span class="mw-headline" id="Order_properties">Order properties</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Turing_degree&amp;action=edit&amp;section=5" title="Edit section: Order properties">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+   <ul>
+    <li>There are <b>minimal degrees</b>. A degree <b>a</b> is <i>minimal</i> if <b>a</b> is nonzero and there is no degree between <b>0</b> and <b>a</b>. Thus the order relation on the degrees is not a <a href="/wiki/Dense_order" title="Dense order">dense order</a>.</li> 
+    <li>For every nonzero degree <b>a</b> there is a degree <b>b</b> incomparable with <b>a</b>.</li> 
+    <li>There is a set of <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+       <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle 2^{\aleph _{0}}}"> 
+        <semantics> 
+         <mrow class="MJX-TeXAtom-ORD"> 
+          <mstyle displaystyle="true" scriptlevel="0"> 
+           <msup> 
+            <mn>
+             2
+            </mn> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <msub> 
+              <mi mathvariant="normal">
+               ℵ
+               <!-- ℵ -->
+              </mi> 
+              <mrow class="MJX-TeXAtom-ORD"> 
+               <mn>
+                0
+               </mn> 
+              </mrow> 
+             </msub> 
+            </mrow> 
+           </msup> 
+          </mstyle> 
+         </mrow> 
+         <annotation encoding="application/x-tex">
+          {\displaystyle 2^{\aleph _{0}}}
+         </annotation> 
+        </semantics> 
+       </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/779da5db4ed54fa334dd92089cdf1c284e45febb" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:3.231ex; height:2.676ex;" alt="2^{\aleph _{0}}"></span> pairwise incomparable Turing degrees.</li> 
+    <li>There are pairs of degrees with no greatest lower bound. Thus <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+       <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle {\mathcal {D}}}"> 
+        <semantics> 
+         <mrow class="MJX-TeXAtom-ORD"> 
+          <mstyle displaystyle="true" scriptlevel="0"> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mi class="MJX-tex-caligraphic" mathvariant="script">
+              D
+             </mi> 
+            </mrow> 
+           </mrow> 
+          </mstyle> 
+         </mrow> 
+         <annotation encoding="application/x-tex">
+          {\displaystyle {\mathcal {D}}}
+         </annotation> 
+        </semantics> 
+       </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3277962e1959c3241fb1b70c7f0ac6dcefebd966" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.792ex; height:2.176ex;" alt="{\mathcal {D}}"></span> is not a lattice.</li> 
+    <li>Every countable partially ordered set can be embedded in the Turing degrees.</li> 
+    <li>No infinite, strictly increasing sequence of degrees has a least upper bound.</li>
+   </ul> 
+   <h3><span class="mw-headline" id="Properties_involving_the_jump">Properties involving the jump</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Turing_degree&amp;action=edit&amp;section=6" title="Edit section: Properties involving the jump">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+   <ul>
+    <li>For every degree <b>a</b> there is a degree strictly between <b>a</b> and <b>a′</b>. In fact, there is a countable sequence of pairwise incomparable degrees between <b>a</b> and <b>a′</b>.</li> 
+    <li>A degree <b>a</b> is of the form <b>b′</b> if and only if <b>0′</b> ≤ <b>a</b>.</li> 
+    <li>For any degree <b>a</b> there is a degree <b>b</b> such that <b>a</b> &lt; <b>b</b> and <b>b′</b> = <b>a′</b>; such a degree <b>b</b> is called <i>low</i> relative to <b>a</b>.</li> 
+    <li>There is an infinite sequence <b>a</b><sub><i>i</i></sub> of degrees such that <b>a</b>′<sub><i>i</i>+1</sub> ≤ <b>a</b><sub><i>i</i></sub> for each <i>i</i>.</li>
+   </ul> 
+   <h3><span class="mw-headline" id="Logical_properties">Logical properties</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Turing_degree&amp;action=edit&amp;section=7" title="Edit section: Logical properties">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+   <ul>
+    <li>Simpson (1977) showed that the first-order theory of <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+       <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle {\mathcal {D}}}"> 
+        <semantics> 
+         <mrow class="MJX-TeXAtom-ORD"> 
+          <mstyle displaystyle="true" scriptlevel="0"> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mi class="MJX-tex-caligraphic" mathvariant="script">
+              D
+             </mi> 
+            </mrow> 
+           </mrow> 
+          </mstyle> 
+         </mrow> 
+         <annotation encoding="application/x-tex">
+          {\displaystyle {\mathcal {D}}}
+         </annotation> 
+        </semantics> 
+       </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3277962e1959c3241fb1b70c7f0ac6dcefebd966" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.792ex; height:2.176ex;" alt="{\mathcal {D}}"></span> in the language <span class="nowrap">〈 ≤, = 〉</span> or <span class="nowrap">〈 ≤, ′, =〉</span> is <a href="/wiki/Many-one_reduction" title="Many-one reduction">many-one equivalent</a> to the theory of true second-order arithmetic. This indicates that the structure of <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+       <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle {\mathcal {D}}}"> 
+        <semantics> 
+         <mrow class="MJX-TeXAtom-ORD"> 
+          <mstyle displaystyle="true" scriptlevel="0"> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mi class="MJX-tex-caligraphic" mathvariant="script">
+              D
+             </mi> 
+            </mrow> 
+           </mrow> 
+          </mstyle> 
+         </mrow> 
+         <annotation encoding="application/x-tex">
+          {\displaystyle {\mathcal {D}}}
+         </annotation> 
+        </semantics> 
+       </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3277962e1959c3241fb1b70c7f0ac6dcefebd966" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.792ex; height:2.176ex;" alt="{\mathcal {D}}"></span> is extremely complicated.</li> 
+    <li>Shore and Slaman (1999) showed that the jump operator is definable in the first-order structure of the degrees with the language 〈 ≤, =〉.</li>
+   </ul> 
+   <h2><span class="mw-headline" id="Structure_of_the_r.e._Turing_degrees">Structure of the r.e. Turing degrees</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Turing_degree&amp;action=edit&amp;section=8" title="Edit section: Structure of the r.e. Turing degrees">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <p>A degree is called r.e. (recursively enumerable) if it contains a <a href="/wiki/Recursively_enumerable_set" title="Recursively enumerable set">recursively enumerable set</a>. Every r.e. degree is less than or equal to <b>0′</b> but not every degree less than <b>0′</b> is an r.e. degree. </p> 
+   <ul>
+    <li>(<a href="/wiki/Gerald_Sacks" title="Gerald Sacks">G. E. Sacks</a>, 1964) The r.e degrees are dense; between any two r.e. degrees there is a third r.e degree.</li> 
+    <li>(A. H. Lachlan, 1966a and C. E. M. Yates, 1966) There are two r.e. degrees with no greatest lower bound in the r.e. degrees.</li> 
+    <li>(A. H. Lachlan, 1966a and C. E. M. Yates, 1966) There is a pair of nonzero r.e. degrees whose greatest lower bound is <b>0</b>.</li> 
+    <li>(S. K. Thomason, 1971) Every finite distributive lattice can be embedded into the r.e. degrees. In fact, the countable atomless Boolean algebra can be embedded in a manner that preserves suprema and infima.</li> 
+    <li>(A. H. Lachlan and <a href="/wiki/Robert_I._Soare" title="Robert I. Soare">R. I. Soare</a>, 1980) Not all finite lattices can be embedded in the r.e. degrees (via an embedding that preserves suprema and infima). The following particular <a href="/wiki/Lattice_(order)" title="Lattice (order)">lattice</a> cannot be embedded in the r.e. degrees:</li>
+   </ul> 
+   <dl>
+    <dd>
+     <dl>
+      <dd>
+       <a href="/wiki/File:Rehasse.png" class="image"><img alt="Rehasse.png" src="//upload.wikimedia.org/wikipedia/commons/e/ea/Rehasse.png" decoding="async" width="78" height="141" data-file-width="78" data-file-height="141"></a>
+      </dd>
+     </dl>
+    </dd>
+   </dl> 
+   <ul>
+    <li>(A. H. Lachlan, 1966b) There is no pair of r.e. degrees whose greatest lower bound is <b>0</b> and whose least upper bound is <b>0′</b>. This result is informally called the <i>nondiamond theorem</i>.</li> 
+    <li>(<a href="/wiki/Leo_Harrington" title="Leo Harrington">L. A. Harrington</a> and <a href="/wiki/Theodore_Slaman" title="Theodore Slaman">T. A. Slaman</a>, see Nies, Shore, and Slaman (1998)) The first-order theory of the r.e. degrees in the language 〈 <b>0</b>, ≤, = 〉 is many-one equivalent to the theory of true first order arithmetic.</li>
+   </ul> 
+   <h2><span id="Post.27s_problem_and_the_priority_method"></span><span class="mw-headline" id="Post's_problem_and_the_priority_method">Post's problem and the priority method</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Turing_degree&amp;action=edit&amp;section=9" title="Edit section: Post's problem and the priority method">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <div role="note" class="hatnote navigation-not-searchable">
+    "Post's problem" redirects here. For the other "Post's problem", see 
+    <a href="/wiki/Post%27s_correspondence_problem" class="mw-redirect" title="Post's correspondence problem">Post's correspondence problem</a>.
+   </div> 
+   <p><a href="/wiki/Emil_Post" class="mw-redirect" title="Emil Post">Emil Post</a> studied the r.e.&nbsp;Turing degrees and asked whether there is any r.e. degree strictly between <b>0</b> and <b>0′</b>. The problem of constructing such a degree (or showing that none exist) became known as <b>Post's problem</b>. This problem was solved independently by Friedberg and <a href="/wiki/Albert_Muchnik" title="Albert Muchnik">Muchnik</a> in the 1950s, who showed that these intermediate r.e. degrees do exist. Their proofs each developed the same new method for constructing r.e. degrees which came to be known as the <b>priority method</b>. The priority method is now the main technique for establishing results about r.e. sets. </p>
+   <p>The idea of the priority method for constructing a r.e. set <i>X</i> is to list a countable sequence of <i>requirements</i> that <i>X</i> must satisfy. For example, to construct a r.e. set <i>X</i> between <b>0</b> and <b>0′</b> it is enough to satisfy the requirements <i>A<sub>e</sub></i> and <i>B<sub>e</sub></i> for each natural number <i>e</i>, where <i>A<sub>e</sub></i> requires that the oracle machine with index <i>e</i> does not compute 0′ from <i>X</i> and <i>B<sub>e</sub></i> requires that the Turing machine with index <i>e</i> (and no oracle) does not compute <i>X</i>. These requirements are put into a <i>priority ordering</i>, which is an explicit bijection of the requirements and the natural numbers. The proof proceeds inductively with one stage for each natural number; these stages can be thought of as steps of time during which the set <i>X</i> is enumerated. At each stage, numbers may be put into <i>X</i> or forever prevented from entering <i>X</i> in an attempt to <i>satisfy</i> requirements (that is, force them to hold once all of <i>X</i> has been enumerated). Sometimes, a number can be enumerated into <i>X</i> to satisfy one requirement but doing this would cause a previously satisfied requirement to become unsatisfied (that is, to be <i>injured</i>). The priority order on requirements is used to determine which requirement to satisfy in this case. The informal idea is that if a requirement is injured then it will eventually stop being injured after all higher priority requirements have stopped being injured, although not every priority argument has this property. An argument must be made that the overall set <i>X</i> is r.e. and satisfies all the requirements. Priority arguments can be used to prove many facts about r.e. sets; the requirements used and the manner in which they are satisfied must be carefully chosen to produce the required result. </p> 
+   <h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Turing_degree&amp;action=edit&amp;section=10" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <ul>
+    <li><a href="/wiki/Martin_measure" title="Martin measure">Martin measure</a></li>
+   </ul> 
+   <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Turing_degree&amp;action=edit&amp;section=11" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <dl>
+    <dt>
+     Monographs (undergraduate level)
+    </dt>
+   </dl> 
+   <ul>
+    <li>Cooper, S.B. <i>Computability theory</i>. Chapman &amp; Hall/CRC, Boca Raton, FL, 2004. <style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/1-58488-237-9" title="Special:BookSources/1-58488-237-9">1-58488-237-9</a></li> 
+    <li>Cutland, N. <i>Computability.</i> Cambridge University Press, Cambridge-New York, 1980. 
+     <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/0-521-22384-9" title="Special:BookSources/0-521-22384-9">0-521-22384-9</a>; 
+     <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/0-521-29465-7" title="Special:BookSources/0-521-29465-7">0-521-29465-7</a></li>
+   </ul> 
+   <dl>
+    <dt>
+     Monographs and survey articles (graduate level)
+    </dt>
+   </dl> 
+   <ul>
+    <li>Ambos-Spies, K. and Fejer, P. Degrees of Unsolvability. Unpublished. <a rel="nofollow" class="external free" href="http://www.cs.umb.edu/~fejer/articles/History_of_Degrees.pdf">http://www.cs.umb.edu/~fejer/articles/History_of_Degrees.pdf</a></li> 
+    <li>Lerman, M. <i>Degrees of unsolvability.</i> Perspectives in Mathematical Logic. Springer-Verlag, Berlin, 1983. 
+     <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/3-540-12155-2" title="Special:BookSources/3-540-12155-2">3-540-12155-2</a></li> 
+    <li><cite id="CITEREFOdifreddi1989" class="citation">Odifreddi, P. G. (1989), <i>Classical Recursion Theory</i>, Studies in Logic and the Foundations of Mathematics, <b>125</b>, Amsterdam: North-Holland, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-0-444-87295-1" title="Special:BookSources/978-0-444-87295-1"><bdi>978-0-444-87295-1</bdi></a>, <a href="/wiki/Mathematical_Reviews" title="Mathematical Reviews">MR</a>&nbsp;<a rel="nofollow" class="external text" href="//www.ams.org/mathscinet-getitem?mr=0982269">0982269</a></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Classical+Recursion+Theory&amp;rft.place=Amsterdam&amp;rft.series=Studies+in+Logic+and+the+Foundations+of+Mathematics&amp;rft.pub=North-Holland&amp;rft.date=1989&amp;rft.isbn=978-0-444-87295-1&amp;rft_id=%2F%2Fwww.ams.org%2Fmathscinet-getitem%3Fmr%3D982269&amp;rft.aulast=Odifreddi&amp;rft.aufirst=P.+G.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATuring+degree" class="Z3988"></span>
+     <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></li> 
+    <li><cite id="CITEREFOdifreddi1999" class="citation">Odifreddi, P. G. (1999), <i>Classical recursion theory. Vol. II</i>, Studies in Logic and the Foundations of Mathematics, <b>143</b>, Amsterdam: North-Holland, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-0-444-50205-6" title="Special:BookSources/978-0-444-50205-6"><bdi>978-0-444-50205-6</bdi></a>, <a href="/wiki/Mathematical_Reviews" title="Mathematical Reviews">MR</a>&nbsp;<a rel="nofollow" class="external text" href="//www.ams.org/mathscinet-getitem?mr=1718169">1718169</a></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Classical+recursion+theory.+Vol.+II&amp;rft.place=Amsterdam&amp;rft.series=Studies+in+Logic+and+the+Foundations+of+Mathematics&amp;rft.pub=North-Holland&amp;rft.date=1999&amp;rft.isbn=978-0-444-50205-6&amp;rft_id=%2F%2Fwww.ams.org%2Fmathscinet-getitem%3Fmr%3D1718169&amp;rft.aulast=Odifreddi&amp;rft.aufirst=P.+G.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATuring+degree" class="Z3988"></span>
+     <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></li> 
+    <li>Rogers, H. <i>The Theory of Recursive Functions and Effective Computability</i>, MIT Press. 
+     <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/0-262-68052-1" title="Special:BookSources/0-262-68052-1">0-262-68052-1</a>, 
+     <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/0-07-053522-1" title="Special:BookSources/0-07-053522-1">0-07-053522-1</a></li> 
+    <li>Sacks, Gerald E. <i>Degrees of Unsolvability</i> (Annals of Mathematics Studies), Princeton University Press. 
+     <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-0-6910-7941-7" title="Special:BookSources/978-0-6910-7941-7">978-0-6910-7941-7</a></li> 
+    <li>Simpson, S. Degrees of unsolvability: a survey of results. <i>Handbook of Mathematical Logic</i>, North-Holland, 1977, pp.&nbsp;631–652.</li> 
+    <li>Shoenfield, Joseph R. <i>Degrees of Unsolvability</i>, North-Holland/Elsevier, 
+     <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-0-7204-2061-6" title="Special:BookSources/978-0-7204-2061-6">978-0-7204-2061-6</a>.</li> 
+    <li><cite id="CITEREFShore1993" class="citation"><a href="/wiki/Richard_Shore" title="Richard Shore">Shore, R.</a> (1993), Univ. Nac. del Sur, Bahía Blanca (ed.), <i>The theories of the T, tt, and wtt r.e. degrees: undecidability and beyond</i>, Notas Lógica Mat., <b>38</b>, pp.&nbsp;61–70</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+theories+of+the+T%2C+tt%2C+and+wtt+r.e.+degrees%3A+undecidability+and+beyond&amp;rft.series=Notas+L%C3%B3gica+Mat.&amp;rft.pages=61-70&amp;rft.date=1993&amp;rft.aulast=Shore&amp;rft.aufirst=R.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATuring+degree" class="Z3988"></span>
+     <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></li> 
+    <li>Soare, R. <i>Recursively enumerable sets and degrees.</i> Perspectives in Mathematical Logic. Springer-Verlag, Berlin, 1987. 
+     <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/3-540-15299-7" title="Special:BookSources/3-540-15299-7">3-540-15299-7</a></li> 
+    <li>Soare, Robert I. Recursively enumerable sets and degrees. <i>Bull. Amer. Math. Soc.</i> 84 (1978), no. 6, 1149–1181. <a href="/wiki/Mathematical_Reviews" title="Mathematical Reviews">MR</a>
+     <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"><a rel="nofollow" class="external text" href="https://mathscinet.ams.org/mathscinet-getitem?mr=508451">508451</a></li>
+   </ul> 
+   <dl>
+    <dt>
+     Research papers
+    </dt>
+   </dl> 
+   <ul>
+    <li><cite id="CITEREFKleenePost1954" class="citation"><a href="/wiki/Stephen_Kleene" class="mw-redirect" title="Stephen Kleene">Kleene, Stephen Cole</a>; Post, Emil L. (1954), "The upper semi-lattice of degrees of recursive unsolvability", <i><a href="/wiki/Annals_of_Mathematics" title="Annals of Mathematics">Annals of Mathematics</a></i>, Second Series, <b>59</b> (3): 379–407, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.2307%2F1969708">10.2307/1969708</a>, <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&nbsp;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0003-486X">0003-486X</a>, <a href="/wiki/JSTOR" title="JSTOR">JSTOR</a>&nbsp;<a rel="nofollow" class="external text" href="//www.jstor.org/stable/1969708">1969708</a>, <a href="/wiki/Mathematical_Reviews" title="Mathematical Reviews">MR</a>&nbsp;<a rel="nofollow" class="external text" href="//www.ams.org/mathscinet-getitem?mr=0061078">0061078</a></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Annals+of+Mathematics&amp;rft.atitle=The+upper+semi-lattice+of+degrees+of+recursive+unsolvability&amp;rft.volume=59&amp;rft.issue=3&amp;rft.pages=379-407&amp;rft.date=1954&amp;rft.issn=0003-486X&amp;rft_id=%2F%2Fwww.ams.org%2Fmathscinet-getitem%3Fmr%3D0061078&amp;rft_id=%2F%2Fwww.jstor.org%2Fstable%2F1969708&amp;rft_id=info%3Adoi%2F10.2307%2F1969708&amp;rft.aulast=Kleene&amp;rft.aufirst=Stephen+Cole&amp;rft.au=Post%2C+Emil+L.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATuring+degree" class="Z3988"></span>
+     <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></li> 
+    <li><cite id="CITEREFLachlan,_A.H.1966a" class="citation">Lachlan, A.H. (1966a), "Lower Bounds for Pairs of Recursively Enumerable Degrees", <i>Proceedings of the London Mathematical Society</i>, <b>3</b> (1): 537–569, <a href="/wiki/CiteSeerX" title="CiteSeerX">CiteSeerX</a>&nbsp;<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="//citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.106.7893">10.1.1.106.7893</a></span>, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1112%2Fplms%2Fs3-16.1.537">10.1112/plms/s3-16.1.537</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Proceedings+of+the+London+Mathematical+Society&amp;rft.atitle=Lower+Bounds+for+Pairs+of+Recursively+Enumerable+Degrees&amp;rft.volume=3&amp;rft.issue=1&amp;rft.pages=537-569&amp;rft.date=1966&amp;rft_id=%2F%2Fciteseerx.ist.psu.edu%2Fviewdoc%2Fsummary%3Fdoi%3D10.1.1.106.7893&amp;rft_id=info%3Adoi%2F10.1112%2Fplms%2Fs3-16.1.537&amp;rft.au=Lachlan%2C+A.H.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATuring+degree" class="Z3988"></span>
+     <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></li> 
+    <li><cite id="CITEREFLachlan1966b" class="citation">Lachlan, A.H. (1966b), "The impossibility of finding relative complements for recursively enumerable degrees", <i>J. Symb. Log.</i>, <b>31</b> (3): 434–454, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.2307%2F2270459">10.2307/2270459</a>, <a href="/wiki/JSTOR" title="JSTOR">JSTOR</a>&nbsp;<a rel="nofollow" class="external text" href="//www.jstor.org/stable/2270459">2270459</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=J.+Symb.+Log.&amp;rft.atitle=The+impossibility+of+finding+relative+complements+for+recursively+enumerable+degrees&amp;rft.volume=31&amp;rft.issue=3&amp;rft.pages=434-454&amp;rft.date=1966&amp;rft_id=info%3Adoi%2F10.2307%2F2270459&amp;rft_id=%2F%2Fwww.jstor.org%2Fstable%2F2270459&amp;rft.aulast=Lachlan&amp;rft.aufirst=A.H.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATuring+degree" class="Z3988"></span>
+     <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></li> 
+    <li><cite id="CITEREFLachlanSoare1980" class="citation">Lachlan, A.H.; Soare, R.I. (1980), "Not every finite lattice is embeddable in the recursively enumerable degrees", <i>Advances in Mathematics</i>, <b>37</b>: 78–82, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1016%2F0001-8708%2880%2990027-4">10.1016/0001-8708(80)90027-4</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Advances+in+Mathematics&amp;rft.atitle=Not+every+finite+lattice+is+embeddable+in+the+recursively+enumerable+degrees&amp;rft.volume=37&amp;rft.pages=78-82&amp;rft.date=1980&amp;rft_id=info%3Adoi%2F10.1016%2F0001-8708%2880%2990027-4&amp;rft.aulast=Lachlan&amp;rft.aufirst=A.H.&amp;rft.au=Soare%2C+R.I.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATuring+degree" class="Z3988"></span>
+     <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></li> 
+    <li><cite id="CITEREFNiesShoreSlaman1998" class="citation">Nies, André; Shore, Richard A.; <a href="/wiki/Theodore_Slaman" title="Theodore Slaman">Slaman, Theodore A.</a> (1998), "Interpretability and definability in the recursively enumerable degrees", <i>Proceedings of the London Mathematical Society</i>, <b>77</b> (2): 241–291, <a href="/wiki/CiteSeerX" title="CiteSeerX">CiteSeerX</a>&nbsp;<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="//citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.29.9588">10.1.1.29.9588</a></span>, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1112%2FS002461159800046X">10.1112/S002461159800046X</a>, <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&nbsp;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0024-6115">0024-6115</a>, <a href="/wiki/Mathematical_Reviews" title="Mathematical Reviews">MR</a>&nbsp;<a rel="nofollow" class="external text" href="//www.ams.org/mathscinet-getitem?mr=1635141">1635141</a></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Proceedings+of+the+London+Mathematical+Society&amp;rft.atitle=Interpretability+and+definability+in+the+recursively+enumerable+degrees&amp;rft.volume=77&amp;rft.issue=2&amp;rft.pages=241-291&amp;rft.date=1998&amp;rft_id=%2F%2Fciteseerx.ist.psu.edu%2Fviewdoc%2Fsummary%3Fdoi%3D10.1.1.29.9588&amp;rft_id=%2F%2Fwww.ams.org%2Fmathscinet-getitem%3Fmr%3D1635141&amp;rft.issn=0024-6115&amp;rft_id=info%3Adoi%2F10.1112%2FS002461159800046X&amp;rft.aulast=Nies&amp;rft.aufirst=Andr%C3%A9&amp;rft.au=Shore%2C+Richard+A.&amp;rft.au=Slaman%2C+Theodore+A.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATuring+degree" class="Z3988"></span>
+     <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></li> 
+    <li><cite id="CITEREFPost1944" class="citation">Post, Emil L. (1944), "Recursively enumerable sets of positive integers and their decision problems", <i><a href="/wiki/Bulletin_of_the_American_Mathematical_Society" title="Bulletin of the American Mathematical Society">Bulletin of the American Mathematical Society</a></i>, <b>50</b> (5): 284–316, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1090%2FS0002-9904-1944-08111-1">10.1090/S0002-9904-1944-08111-1</a>, <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&nbsp;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0002-9904">0002-9904</a>, <a href="/wiki/Mathematical_Reviews" title="Mathematical Reviews">MR</a>&nbsp;<a rel="nofollow" class="external text" href="//www.ams.org/mathscinet-getitem?mr=0010514">0010514</a></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Bulletin+of+the+American+Mathematical+Society&amp;rft.atitle=Recursively+enumerable+sets+of+positive+integers+and+their+decision+problems&amp;rft.volume=50&amp;rft.issue=5&amp;rft.pages=284-316&amp;rft.date=1944&amp;rft_id=%2F%2Fwww.ams.org%2Fmathscinet-getitem%3Fmr%3D0010514&amp;rft.issn=0002-9904&amp;rft_id=info%3Adoi%2F10.1090%2FS0002-9904-1944-08111-1&amp;rft.aulast=Post&amp;rft.aufirst=Emil+L.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATuring+degree" class="Z3988"></span>
+     <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></li> 
+    <li><cite id="CITEREFSacks1964" class="citation"><a href="/wiki/Gerald_Sacks" title="Gerald Sacks">Sacks, G.E.</a> (1964), "The recursively enumerable degrees are dense", <i>Annals of Mathematics</i>, Second Series, <b>80</b> (2): 300–312, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.2307%2F1970393">10.2307/1970393</a>, <a href="/wiki/JSTOR" title="JSTOR">JSTOR</a>&nbsp;<a rel="nofollow" class="external text" href="//www.jstor.org/stable/1970393">1970393</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Annals+of+Mathematics&amp;rft.atitle=The+recursively+enumerable+degrees+are+dense&amp;rft.volume=80&amp;rft.issue=2&amp;rft.pages=300-312&amp;rft.date=1964&amp;rft_id=info%3Adoi%2F10.2307%2F1970393&amp;rft_id=%2F%2Fwww.jstor.org%2Fstable%2F1970393&amp;rft.aulast=Sacks&amp;rft.aufirst=G.E.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATuring+degree" class="Z3988"></span>
+     <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></li> 
+    <li><cite id="CITEREFShoreSlaman1999" class="citation"><a href="/wiki/Richard_Shore" title="Richard Shore">Shore, Richard A.</a>; <a href="/wiki/Theodore_Slaman" title="Theodore Slaman">Slaman, Theodore A.</a> (1999), "Defining the Turing jump", <i>Mathematical Research Letters</i>, <b>6</b> (6): 711–722, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.4310%2Fmrl.1999.v6.n6.a10">10.4310/mrl.1999.v6.n6.a10</a>, <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&nbsp;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/1073-2780">1073-2780</a>, <a href="/wiki/Mathematical_Reviews" title="Mathematical Reviews">MR</a>&nbsp;<a rel="nofollow" class="external text" href="//www.ams.org/mathscinet-getitem?mr=1739227">1739227</a></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Mathematical+Research+Letters&amp;rft.atitle=Defining+the+Turing+jump&amp;rft.volume=6&amp;rft.issue=6&amp;rft.pages=711-722&amp;rft.date=1999&amp;rft_id=%2F%2Fwww.ams.org%2Fmathscinet-getitem%3Fmr%3D1739227&amp;rft.issn=1073-2780&amp;rft_id=info%3Adoi%2F10.4310%2Fmrl.1999.v6.n6.a10&amp;rft.aulast=Shore&amp;rft.aufirst=Richard+A.&amp;rft.au=Slaman%2C+Theodore+A.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATuring+degree" class="Z3988"></span>
+     <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></li> 
+    <li><cite id="CITEREFSimpson1977" class="citation">Simpson, Stephen G. (1977), "First-order theory of the degrees of recursive unsolvability", <i><a href="/wiki/Annals_of_Mathematics" title="Annals of Mathematics">Annals of Mathematics</a></i>, Second Series, <b>105</b> (1): 121–139, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.2307%2F1971028">10.2307/1971028</a>, <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&nbsp;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0003-486X">0003-486X</a>, <a href="/wiki/JSTOR" title="JSTOR">JSTOR</a>&nbsp;<a rel="nofollow" class="external text" href="//www.jstor.org/stable/1971028">1971028</a>, <a href="/wiki/Mathematical_Reviews" title="Mathematical Reviews">MR</a>&nbsp;<a rel="nofollow" class="external text" href="//www.ams.org/mathscinet-getitem?mr=0432435">0432435</a></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Annals+of+Mathematics&amp;rft.atitle=First-order+theory+of+the+degrees+of+recursive+unsolvability&amp;rft.volume=105&amp;rft.issue=1&amp;rft.pages=121-139&amp;rft.date=1977&amp;rft.issn=0003-486X&amp;rft_id=%2F%2Fwww.ams.org%2Fmathscinet-getitem%3Fmr%3D0432435&amp;rft_id=%2F%2Fwww.jstor.org%2Fstable%2F1971028&amp;rft_id=info%3Adoi%2F10.2307%2F1971028&amp;rft.aulast=Simpson&amp;rft.aufirst=Stephen+G.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATuring+degree" class="Z3988"></span>
+     <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></li> 
+    <li><cite id="CITEREFThomason1971" class="citation">Thomason, S.K. (1971), "Sublattices of the recursively enumerable degrees", <i>Z. Math. Logik Grundlag. Math.</i>, <b>17</b>: 273–280, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1002%2Fmalq.19710170131">10.1002/malq.19710170131</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Z.+Math.+Logik+Grundlag.+Math.&amp;rft.atitle=Sublattices+of+the+recursively+enumerable+degrees&amp;rft.volume=17&amp;rft.pages=273-280&amp;rft.date=1971&amp;rft_id=info%3Adoi%2F10.1002%2Fmalq.19710170131&amp;rft.aulast=Thomason&amp;rft.aufirst=S.K.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATuring+degree" class="Z3988"></span>
+     <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></li> 
+    <li><cite id="CITEREFYates1966" class="citation">Yates, C.E.M. (1966), "A minimal pair of recursively enumerable degrees", <i>Journal of Symbolic Logic</i>, <b>31</b> (2): 159–168, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.2307%2F2269807">10.2307/2269807</a>, <a href="/wiki/JSTOR" title="JSTOR">JSTOR</a>&nbsp;<a rel="nofollow" class="external text" href="//www.jstor.org/stable/2269807">2269807</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Symbolic+Logic&amp;rft.atitle=A+minimal+pair+of+recursively+enumerable+degrees&amp;rft.volume=31&amp;rft.issue=2&amp;rft.pages=159-168&amp;rft.date=1966&amp;rft_id=info%3

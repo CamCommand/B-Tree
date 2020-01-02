@@ -1,0 +1,135 @@
+<div id="bodyContent" class="mw-body-content"> 
+ <div id="siteSub" class="noprint">
+  From Wikipedia, the free encyclopedia
+ </div> 
+ <div id="contentSub"></div> 
+ <div id="jump-to-nav"></div> 
+ <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> 
+ <a class="mw-jump-link" href="#p-search">Jump to search</a> 
+ <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+  <div class="mw-parser-output">
+   <table class="infobox biography vcard" style="width:22em">
+    <tbody>
+     <tr>
+      <th colspan="2" style="text-align:center;font-size:125%;font-weight:bold">
+       <div class="fn" style="display:inline">
+        Philip Smidth
+       </div></th>
+     </tr>
+     <tr>
+      <td colspan="2" style="text-align:center"><a href="/wiki/File:Philip_Smidth2.JPG" class="image"><img alt="Philip Smidth2.JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Philip_Smidth2.JPG/200px-Philip_Smidth2.JPG" decoding="async" width="200" height="237" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Philip_Smidth2.JPG/300px-Philip_Smidth2.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/0/0b/Philip_Smidth2.JPG 2x" data-file-width="371" data-file-height="439"></a>
+       <div>
+        Philip Smidth2 photographed in 1918 by 
+        <a href="/wiki/Julie_Laurberg" title="Julie Laurberg">Julie Laurberg</a>
+       </div></td>
+     </tr>
+     <tr>
+      <th scope="row">Born</th>
+      <td><span style="display:none">(<span class="bday">1855-05-03</span>)</span>3 May 1855<br>
+       <div style="display:inline" class="birthplace">
+        <a href="/wiki/Mariager" title="Mariager">Mariager</a>, 
+        <a href="/wiki/Denmark" title="Denmark">Denmark</a>
+       </div></td>
+     </tr>
+     <tr>
+      <th scope="row">Died</th>
+      <td>21 June 1938<span style="display:none">(1938-06-21)</span> (aged&nbsp;83)</td>
+     </tr>
+     <tr>
+      <th scope="row">Nationality</th>
+      <td class="category">Danish</td>
+     </tr>
+     <tr>
+      <th scope="row">Occupation</th>
+      <td class="role">Architect</td>
+     </tr>
+    </tbody>
+   </table> 
+   <p><b>Philip Smidth</b> (3 May 1855 – 21 June 1938) was a prolific Danish architect in the late 19th and early 20th centuries. His works included, commercial properties, high-end apartment buildings, hotels and hospitals. He worked in the <a href="/wiki/Historicism_(art)" title="Historicism (art)">Historicist</a> style. Two of his works, <a href="/wiki/Liselund_Ny_Slot" title="Liselund Ny Slot">Liselund Ny Slot</a> on the island of <a href="/wiki/M%C3%B8n" title="Møn">Møn</a> and <a href="/w/index.php?title=Gefion_and_Gylfe&amp;action=edit&amp;redlink=1" class="new" title="Gefion and Gylfe (page does not exist)">Gefion and Gylfe</a> in <a href="/wiki/Copenhagen" title="Copenhagen">Copenhagen</a>, have been listed by the <a href="/wiki/Danish_Heritage_Agency" class="mw-redirect" title="Danish Heritage Agency">Danish Heritage Agency</a>. </p> 
+   <div id="toc" class="toc">
+    <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+    <div class="toctitle" lang="en" dir="ltr">
+     <h2>Contents</h2>
+     <span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+    </div> 
+    <ul> 
+     <li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li> 
+     <li class="toclevel-1 tocsection-2"><a href="#Selected_projects"><span class="tocnumber">2</span> <span class="toctext">Selected projects</span></a></li> 
+     <li class="toclevel-1 tocsection-3"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li> 
+     <li class="toclevel-1 tocsection-4"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li> 
+    </ul> 
+   </div> 
+   <h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Philip_Smidth&amp;action=edit&amp;section=1" title="Edit section: Biography">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <p>Philip Smidth was born in <a href="/wiki/R%C3%B8nnede" title="Rønnede">Rønnede</a> to the south of <a href="/wiki/Copenhagen" title="Copenhagen">Copenhagen</a>. His parents were, <i>kammerråd</i> and later <i>justitsråd</i> Jens Frederik Julius Beck Smidth and Anna Henriette née Høyer. After passing his preliminary exams, he apprentished as a timber and then studied at the Yechnical Society's School and attending C. V. Nielsens Regneskole. He enrolled at the <a href="/wiki/Royal_Danish_Academy_of_Fine_Arts" title="Royal Danish Academy of Fine Arts">Royal Danish Academy of Fine Arts</a> in January 1873 and graduated in March 1882.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> </p> 
+   <h2><span class="mw-headline" id="Selected_projects">Selected projects</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Philip_Smidth&amp;action=edit&amp;section=2" title="Edit section: Selected projects">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <div class="thumb tright">
+    <div class="thumbinner" style="width:202px;">
+     <a href="/wiki/File:Liselund_Ny_Slot,_M%C3%B8n.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Liselund_Ny_Slot%2C_M%C3%B8n.jpg/200px-Liselund_Ny_Slot%2C_M%C3%B8n.jpg" decoding="async" width="200" height="150" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Liselund_Ny_Slot%2C_M%C3%B8n.jpg/300px-Liselund_Ny_Slot%2C_M%C3%B8n.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Liselund_Ny_Slot%2C_M%C3%B8n.jpg/400px-Liselund_Ny_Slot%2C_M%C3%B8n.jpg 2x" data-file-width="3072" data-file-height="2304"></a> 
+     <div class="thumbcaption">
+      <div class="magnify">
+       <a href="/wiki/File:Liselund_Ny_Slot,_M%C3%B8n.jpg" class="internal" title="Enlarge"></a>
+      </div>Liselund Ny Slot, Møn
+     </div>
+    </div>
+   </div> 
+   <div class="thumb tright">
+    <div class="thumbinner" style="width:202px;">
+     <a href="/wiki/File:Nordisk_Metalvarefabrik.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Nordisk_Metalvarefabrik.JPG/200px-Nordisk_Metalvarefabrik.JPG" decoding="async" width="200" height="150" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Nordisk_Metalvarefabrik.JPG/300px-Nordisk_Metalvarefabrik.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/34/Nordisk_Metalvarefabrik.JPG/400px-Nordisk_Metalvarefabrik.JPG 2x" data-file-width="4000" data-file-height="3000"></a> 
+     <div class="thumbcaption">
+      <div class="magnify">
+       <a href="/wiki/File:Nordisk_Metalvarefabrik.JPG" class="internal" title="Enlarge"></a>
+      </div>Ryesgade 3, Copenhagen
+     </div>
+    </div>
+   </div> 
+   <div class="thumb tright">
+    <div class="thumbinner" style="width:202px;">
+     <a href="/wiki/File:Sankt_Jakobs_Plads_-_Svanegaard.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sankt_Jakobs_Plads_-_Svanegaard.JPG/200px-Sankt_Jakobs_Plads_-_Svanegaard.JPG" decoding="async" width="200" height="150" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sankt_Jakobs_Plads_-_Svanegaard.JPG/300px-Sankt_Jakobs_Plads_-_Svanegaard.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sankt_Jakobs_Plads_-_Svanegaard.JPG/400px-Sankt_Jakobs_Plads_-_Svanegaard.JPG 2x" data-file-width="4000" data-file-height="3000"></a> 
+     <div class="thumbcaption">
+      <div class="magnify">
+       <a href="/wiki/File:Sankt_Jakobs_Plads_-_Svanegaard.JPG" class="internal" title="Enlarge"></a>
+      </div>Svanegaard
+     </div>
+    </div>
+   </div> 
+   <ul>
+    <li><a href="/w/index.php?title=Kastrup_Church&amp;action=edit&amp;redlink=1" class="new" title="Kastrup Church (page does not exist)">Kastrup Church</a>, <a href="/wiki/Kastrup" title="Kastrup">Kastrup</a>, Copenhagen (1883–84)</li> 
+    <li>Schneekloths Skole, <a href="/wiki/V%C3%A6rnedamsvej" title="Værnedamsvej">Værnedamsvej</a> 13A, <a href="/wiki/Frederiksberg" title="Frederiksberg">Frederiksberg</a>, Copenhagen (1885)</li> 
+    <li><a href="/wiki/Liselund_Ny_Slot" title="Liselund Ny Slot">Liselund Ny Slot</a>, <a href="/wiki/M%C3%B8n" title="Møn">Møn</a> (1886–87, listed in 1990)</li> 
+    <li><a href="/wiki/N%C3%B8rrebrogade" title="Nørrebrogade">Nørrebrogade</a> 34, Copenhagen (1889–90)</li> 
+    <li><a href="/wiki/Vesterbrogade" title="Vesterbrogade">Vesterbrogade</a> 48/Bagerstræde 2, Copenhagen (1891, 1900)</li> 
+    <li>Holckenhus, <a href="/wiki/Dantes_Plads" title="Dantes Plads">Dantes Plads</a> 33/Ny Vestergade 16-18/<a href="/wiki/Vester_Voldgade" title="Vester Voldgade">Vester Voldgade</a> 86-90/Stormgade 35, Copenhagen (1891–93)</li> 
+    <li>Goldschmidt og hustrus stiftelse (expansion), <a href="/wiki/Ryesgade" title="Ryesgade">Ryesgade</a> 31A-D, Copenhagen (1891–93)</li> 
+    <li><a href="/wiki/Kastrup_Glasv%C3%A6rk" title="Kastrup Glasværk">Kastrup Glasværk</a> (now <a href="/wiki/Danish_Union_of_Professional_Technicians" title="Danish Union of Professional Technicians">Teknikernes Hus</a>), <a href="/wiki/N%C3%B8rre_Voldgade" title="Nørre Voldgade">Nørre Voldgade</a> 12, Copenhagen (1892)</li> 
+    <li>Søro, Sankt Hans Gade 2/<a href="/wiki/Sortedam_Dossering" title="Sortedam Dossering">Sortedam Dossering</a> 23, Copenhagen (1892)</li> 
+    <li>Stubbekøbing Technical School, <a href="/wiki/Stubbek%C3%B8bing" title="Stubbekøbing">Stubbekøbing</a> (1894)</li> 
+    <li>Factory for H. V. Christensen &amp; Cos Metalvarefabrik, <a href="/wiki/Ryesgade" title="Ryesgade">Ryesgade</a> 3, Copenhagen (1895–96</li> 
+    <li><a href="/wiki/H._C._Andersens_Boulevard" title="H. C. Andersens Boulevard">H. C. Andersens Boulevard</a> 41-43, Copenhagen (1896–98)</li> 
+    <li><a href="/wiki/Gammel_Kongevej" title="Gammel Kongevej">Gammel Kongevej</a> 108, <a href="/wiki/Frederiksberg" title="Frederiksberg">Frederiksberg</a>, Copenhagen (1898–99)</li> 
+    <li>Adolph Steens Allé 7-9/Worsaasvej 6/<a href="/w/index.php?title=H.C._%C3%98steds_Vej&amp;action=edit&amp;redlink=1" class="new" title="H.C. Østeds Vej (page does not exist)">H.C. Østeds Vej</a> 42-46, <a href="/wiki/Frederiksberg" title="Frederiksberg">Frederiksberg</a>, Copenhagen (1897)</li> 
+    <li><a href="/wiki/Smallegade" title="Smallegade">Smallegade</a> 22-24/Hospitalsvej 1A, <a href="/wiki/Frederiksberg" title="Frederiksberg">Frederiksberg</a>, Copenhagen (1898)</li> 
+    <li><a href="/wiki/H._C._%C3%98rsteds_Vej" title="H. C. Ørsteds Vej">H. C. Ørsteds Vej</a> 71-73/<a href="/wiki/%C3%85boulevard" title="Åboulevard">Åboulevard</a> 31, <a href="/wiki/Frederiksberg" title="Frederiksberg">Frederiksberg</a>, Copenhagen (1899)</li> 
+    <li>Gamma-Delta-Epsilon, <a href="/wiki/Strandboulevarden" title="Strandboulevarden">Strandboulevarden</a> 3/Arendalsgade 1-3/Hardangergade 2-4/Fridtjof Nansens Plads 5m Copenhagen (1899-1902, with Theodor Hirth)</li> 
+    <li><a href="/wiki/Pal%C3%A6gade" title="Palægade">Palægade</a> 6-8/<a href="/wiki/Store_Kongensgade" title="Store Kongensgade">Store Kongensgade</a> 26-30, Copenhagen (1900–02)</li> 
+    <li><a href="/w/index.php?title=Gefion_and_Gylfe&amp;action=edit&amp;redlink=1" class="new" title="Gefion and Gylfe (page does not exist)">Gefion and Gylfe</a>, <a href="/wiki/%C3%98stbanegade" title="Østbanegade">Østbanegade</a> 19-21m Copenhagen (1901–02, fredet)</li> 
+    <li>Hvælvingen, <a href="/wiki/Nikolaj_Plads" title="Nikolaj Plads">Nikolaj Plads</a> 26/Store Kirkestræde 2, Copenhagen (1902, withLeuning Borch )</li> 
+    <li><a href="/wiki/Store_Kongensgade" title="Store Kongensgade">Store Kongensgade</a> 26 and 30, Copenhagen (1902)</li> 
+    <li>Stavangergade 4, Copenhagen (1902)</li> 
+    <li>Svanegaard, <a href="/wiki/Sankt_Jakobs_Plads" title="Sankt Jakobs Plads">Sankt Jakobs Plads</a> 6 (1904)</li> 
+    <li><a href="/wiki/Dronningensgade" title="Dronningensgade">Dronningensgade</a> 60, <a href="/wiki/Christianshavn" title="Christianshavn">Christianshavn</a>, Copenhagen (1904, demolished)</li> 
+    <li>Sankt Thomas, <a href="/wiki/Frederiksberg_All%C3%A9" title="Frederiksberg Allé">Frederiksberg Allé</a> 26/<a href="/w/index.php?title=Sankt_Thomas_All%C3%A9&amp;action=edit&amp;redlink=1" class="new" title="Sankt Thomas Allé (page does not exist)">Sankt Thomas Allé</a> 1-9, <a href="/wiki/Frederiksberg" title="Frederiksberg">Frederiksberg</a>, Copenhagen (1904–05)</li> 
+    <li><a href="/wiki/Gammel_Kongevej" title="Gammel Kongevej">Gammel Kongevej</a> 114, <a href="/wiki/Frederiksberg" title="Frederiksberg">Frederiksberg</a>, Copenhagen (1905)</li> 
+    <li>Stavangergade 6, Copenhagen (1907)</li> 
+    <li>Store Jacobsborg, <a href="/wiki/%C3%98sterbrogade" title="Østerbrogade">Østerbrogade</a> 110-112, Copenhagen (1907)</li> 
+    <li><a href="/wiki/Jagtvej" title="Jagtvej">Jagtvej</a> 22, 26, 56, 80 og 189m Copenhagen (1912)</li> 
+    <li>Lille Torvegade 2-14, <a href="/wiki/Christianshavn" title="Christianshavn">Christianshavn</a>, Copenhagen (1912, demolished)</li> 
+    <li>Manøgade 14m Copenhagen (1914)</li> 
+    <li>Brødrene Andersen, Østergade 7/Lille Kongensgade 8-10, Copenhagen (1914–16)</li> 
+    <li><a href="/wiki/Bredgade" title="Bredgade">Bredgade</a> 6/<a href="/wiki/Store_Strandstr%C3%A6de" title="Store Strandstræde">Store Strandstræde</a> 9-11, Copenhagen (1916–17)</li> 
+    <li>Adaption of <a href="/wiki/Hotel_d%27Angleterre" title="Hotel d'Angleterre">Hotel d'Angleterre</a>, <a href="/wiki/Kongens_Nytorv" title="Kongens Nytorv">Kongens Nytorv</a>, Copenhagen (1915–16, with Nicolai Hansen after fire)</li>
+   </ul> 
+   <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Philip_Smidth&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <div class="reflist" style="list-style-type: decimal;"> 
+    <div class="mw-references-wrap">
+     <ol class="references"> 
+      <li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.kulturarv.dk/kid/VisWeilbach.do;jsessionid=6AE9AD7235E68E85CC08DBA219DAA88D?kunstnerId=10608&amp;wsektion=biografi">"Biografi"</a>. <i><a href="/wiki/Kunstindeks_Danmark" class="mw-redirect" title="Kunstindeks Danmark">Kunstindeks Danmark</a></i> (in Danish)<span class="reference-accessdate">. Retrieved <span class="nowrap">8 February</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Kunstindeks+Danmark&amp;rft.atitle=Biografi&amp;rft_id=https%3A%2F%2Fwww.kulturarv.dk%2Fkid%2FVisWeilbach.do%3Bjsessionid%3D6AE9AD7235E68E85CC08DBA219DAA88D%3FkunstnerId%3D10608%26wsektion%3Dbiografi&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhilip+Smidth" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription spa

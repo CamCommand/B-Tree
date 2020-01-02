@@ -1,0 +1,288 @@
+<div id="bodyContent" class="mw-body-content"> 
+ <div id="siteSub" class="noprint">
+  From Wikipedia, the free encyclopedia
+ </div> 
+ <div id="contentSub"></div> 
+ <div id="jump-to-nav"></div> 
+ <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> 
+ <a class="mw-jump-link" href="#p-search">Jump to search</a> 
+ <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+  <div class="mw-parser-output">
+   <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">
+    Gmina in Greater Poland, Poland
+   </div>
+   <table class="infobox geography vcard" style="width:22em;width:23em">
+    <tbody>
+     <tr>
+      <th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size:1.25em; white-space:nowrap">
+       <div style="display:inline" class="fn org">
+        Gmina Pyzdry
+       </div><br>
+       <div class="nickname" style="font-size:78%;display:inline;">
+        Pyzdry Commune
+       </div></th>
+     </tr>
+     <tr>
+      <td colspan="2" style="text-align:center;background-color:#cddeff; font-weight:bold;">
+       <div class="category">
+        <a href="/wiki/Gmina" title="Gmina">Gmina</a>
+       </div></td>
+     </tr>
+     <tr class="mergedtoprow">
+      <td colspan="2" class="maptable" style="text-align:center">
+       <div style="display:table; width:100%; background:none;"> 
+        <div style="display:table-row">
+         <div style="display:table-cell;vertical-align:middle; text-align:center;">
+          <a href="/wiki/File:POL_Pyzdry_COA.svg" class="image" title="Coat of arms of Gmina Pyzdry"><img alt="Coat of arms of Gmina Pyzdry" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/POL_Pyzdry_COA.svg/100px-POL_Pyzdry_COA.svg.png" decoding="async" width="100" height="104" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/POL_Pyzdry_COA.svg/150px-POL_Pyzdry_COA.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0e/POL_Pyzdry_COA.svg/200px-POL_Pyzdry_COA.svg.png 2x" data-file-width="539" data-file-height="558"></a>
+          <br>
+          <small>Coat of arms</small>
+         </div>
+        </div>
+       </div></td>
+     </tr>
+     <tr>
+      <td colspan="2" style="text-align:center">Coordinates (Pyzdry): <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Gmina_Pyzdry&amp;params=52_10_N_17_41_E_region:PL_type:city(7217)"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">52°10′N</span> <span class="longitude">17°41′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">52.167°N 17.683°E</span><span style="display:none">﻿ / <span class="geo">52.167; 17.683</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Gmina_Pyzdry&amp;params=52_10_N_17_41_E_region:PL_type:city(7217)"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">52°10′N</span> <span class="longitude">17°41′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">52.167°N 17.683°E</span><span style="display:none">﻿ / <span class="geo">52.167; 17.683</span></span></span></a></span></span></span></td>
+     </tr>
+     <tr class="mergedtoprow">
+      <th scope="row">Country</th>
+      <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/23px-Flag_of_Poland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/35px-Flag_of_Poland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/46px-Flag_of_Poland.svg.png 2x" data-file-width="1280" data-file-height="800">&nbsp;</span><a href="/wiki/Poland" title="Poland">Poland</a></td>
+     </tr>
+     <tr class="mergedrow">
+      <th scope="row"><a href="/wiki/Voivodeships_of_Poland" title="Voivodeships of Poland">Voivodeship</a></th>
+      <td><a href="/wiki/Greater_Poland_Voivodeship" title="Greater Poland Voivodeship">Greater Poland</a></td>
+     </tr>
+     <tr class="mergedrow">
+      <th scope="row"><a href="/wiki/Powiat" title="Powiat">County</a></th>
+      <td><a href="/wiki/Wrze%C5%9Bnia_County" title="Września County">Września</a></td>
+     </tr>
+     <tr class="mergedtoprow">
+      <th scope="row">Seat</th>
+      <td><a href="/wiki/Pyzdry" title="Pyzdry">Pyzdry</a></td>
+     </tr>
+     <tr class="mergedtoprow">
+      <th colspan="2" style="text-align:center;text-align:left">Area
+       <div style="font-weight:normal;display:inline;"></div></th>
+     </tr>
+     <tr class="mergedrow">
+      <th scope="row">&nbsp;•&nbsp;Total</th>
+      <td>137.9&nbsp;km<sup>2</sup> (53.2&nbsp;sq&nbsp;mi)</td>
+     </tr>
+     <tr class="mergedtoprow">
+      <th colspan="2" style="text-align:center;text-align:left">Population 
+       <div style="font-weight:normal;display:inline;">
+        (2006)
+       </div></th>
+     </tr>
+     <tr class="mergedrow">
+      <th scope="row">&nbsp;•&nbsp;Total</th>
+      <td>7,217</td>
+     </tr>
+     <tr class="mergedrow">
+      <th scope="row">&nbsp;•&nbsp;Density</th>
+      <td>52/km<sup>2</sup> (140/sq&nbsp;mi)</td>
+     </tr>
+     <tr class="mergedrow">
+      <th scope="row">&nbsp;•&nbsp;<a href="/wiki/Urban_area" title="Urban area">Urban</a>
+       <div style="font-weight:normal;display:inline;"></div></th>
+      <td>3,188</td>
+     </tr>
+     <tr class="mergedrow">
+      <th scope="row">&nbsp;•&nbsp;Rural
+       <div style="font-weight:normal;display:inline;"></div></th>
+      <td>4,029</td>
+     </tr>
+     <tr class="mergedtoprow">
+      <th scope="row">Website</th>
+      <td><a rel="nofollow" class="external free" href="http://www.pyzdry.pl/">http://www.pyzdry.pl/</a></td>
+     </tr>
+    </tbody>
+   </table> 
+   <p><b>Gmina Pyzdry</b> is an urban-rural <a href="/wiki/Gmina" title="Gmina">gmina</a> (administrative district) in <a href="/wiki/Wrze%C5%9Bnia_County" title="Września County">Września County</a>, <a href="/wiki/Greater_Poland_Voivodeship" title="Greater Poland Voivodeship">Greater Poland Voivodeship</a>, in west-central <a href="/wiki/Poland" title="Poland">Poland</a>. Its seat is the town of <a href="/wiki/Pyzdry" title="Pyzdry">Pyzdry</a>, which lies approximately 20 kilometres (12&nbsp;mi) south of <a href="/wiki/Wrze%C5%9Bnia" title="Września">Września</a> and 59&nbsp;km (37&nbsp;mi) south-east of the regional capital <a href="/wiki/Pozna%C5%84" title="Poznań">Poznań</a>. </p>
+   <p>The gmina covers an area of 137.9 square kilometres (53.2&nbsp;sq&nbsp;mi), and as of 2006 its total population is 7,217 (out of which the population of Pyzdry amounts to 3,188, and the population of the rural part of the gmina is 4,029). </p>
+   <p>The gmina contains part of the <a href="/wiki/Protected_area" title="Protected area">protected area</a> called <a href="/wiki/Warta_Landscape_Park" title="Warta Landscape Park">Warta Landscape Park</a>. </p> 
+   <h2><span class="mw-headline" id="Villages">Villages</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gmina_Pyzdry&amp;action=edit&amp;section=1" title="Edit section: Villages">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <p>Apart from the town of Pyzdry, Gmina Pyzdry contains the villages and settlements of <a href="/wiki/Baraniec,_Greater_Poland_Voivodeship" title="Baraniec, Greater Poland Voivodeship">Baraniec</a>, <a href="/wiki/Benewicze" title="Benewicze">Benewicze</a>, <a href="/wiki/Bia%C5%82obrzeg" title="Białobrzeg">Białobrzeg</a>, <a href="/wiki/Bia%C5%82obrzeg_Ratajski" title="Białobrzeg Ratajski">Białobrzeg Ratajski</a>, <a href="/wiki/Ciemier%C3%B3w" title="Ciemierów">Ciemierów</a>, <a href="/wiki/Ciemier%C3%B3w-Kolonia" title="Ciemierów-Kolonia">Ciemierów-Kolonia</a>, <a href="/wiki/D%C5%82usk" title="Dłusk">Dłusk</a>, <a href="/wiki/Dolne_Gr%C4%85dy" title="Dolne Grądy">Dolne Grądy</a>, <a href="/wiki/Glinianki,_Greater_Poland_Voivodeship" title="Glinianki, Greater Poland Voivodeship">Glinianki</a>, <a href="/wiki/G%C3%B3rne_Gr%C4%85dy" title="Górne Grądy">Górne Grądy</a>, <a href="/wiki/Kamie%C5%84,_Wrze%C5%9Bnia_County" title="Kamień, Września County">Kamień</a>, <a href="/wiki/Kolonia_Janowska" title="Kolonia Janowska">Kolonia Janowska</a>, <a href="/wiki/Kolonia_Lisewo" title="Kolonia Lisewo">Kolonia Lisewo</a>, <a href="/wiki/Kr%C3%B3lewiny" title="Królewiny">Królewiny</a>, <a href="/wiki/Kruszyny,_Greater_Poland_Voivodeship" title="Kruszyny, Greater Poland Voivodeship">Kruszyny</a>, <a href="/wiki/Ksawer%C3%B3w,_Wrze%C5%9Bnia_County" title="Ksawerów, Września County">Ksawerów</a>, <a href="/wiki/Lisewo,_Wrze%C5%9Bnia_County" title="Lisewo, Września County">Lisewo</a>, <a href="/wiki/Lisiaki" title="Lisiaki">Lisiaki</a>, <a href="/wiki/%C5%81upice,_Greater_Poland_Voivodeship" title="Łupice, Greater Poland Voivodeship">Łupice</a>, <a href="/wiki/Modlica,_Greater_Poland_Voivodeship" title="Modlica, Greater Poland Voivodeship">Modlica</a>, <a href="/wiki/Olsz" title="Olsz">Olsz</a>, <a href="/wiki/Pietrzyk%C3%B3w,_Wrze%C5%9Bnia_County" title="Pietrzyków, Września County">Pietrzyków</a>, <a href="/wiki/Pietrzyk%C3%B3w-Kolonia" title="Pietrzyków-Kolonia">Pietrzyków-Kolonia</a>, <a href="/wiki/Rataje,_Wrze%C5%9Bnia_County" title="Rataje, Września County">Rataje</a>, <a href="/wiki/Ruda_Komorska" title="Ruda Komorska">Ruda Komorska</a>, <a href="/wiki/Tarnowa,_Wrze%C5%9Bnia_County" title="Tarnowa, Września County">Tarnowa</a>, <a href="/wiki/T%C5%82oczyzna" title="Tłoczyzna">Tłoczyzna</a>, <a href="/wiki/Trzcianki,_Greater_Poland_Voivodeship" title="Trzcianki, Greater Poland Voivodeship">Trzcianki</a>, <a href="/wiki/Walga" title="Walga">Walga</a>, <a href="/wiki/Wr%C4%85bczynek" title="Wrąbczynek">Wrąbczynek</a>, <a href="/wiki/Wr%C4%85bczynkowskie_Holendry" title="Wrąbczynkowskie Holendry">Wrąbczynkowskie Holendry</a>, <a href="/wiki/Zamo%C5%9B%C4%87,_Wrze%C5%9Bnia_County" title="Zamość, Września County">Zamość</a>, <a href="/wiki/Zapowiednia" title="Zapowiednia">Zapowiednia</a>, <a href="/wiki/%C5%BBd%C5%BCary,_Wrze%C5%9Bnia_County" title="Żdżary, Września County">Żdżary</a> and <a href="/wiki/Zimochowiec" title="Zimochowiec">Zimochowiec</a>. </p> 
+   <h2><span class="mw-headline" id="Neighbouring_gminas">Neighbouring gminas</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gmina_Pyzdry&amp;action=edit&amp;section=2" title="Edit section: Neighbouring gminas">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <p>Gmina Pyzdry is bordered by the gminas of <a href="/wiki/Gmina_Giza%C5%82ki" title="Gmina Gizałki">Gizałki</a>, <a href="/wiki/Gmina_Ko%C5%82aczkowo" title="Gmina Kołaczkowo">Kołaczkowo</a>, <a href="/wiki/Gmina_L%C4%85dek" title="Gmina Lądek">Lądek</a>, <a href="/wiki/Gmina_Zag%C3%B3r%C3%B3w" title="Gmina Zagórów">Zagórów</a> and <a href="/wiki/Gmina_%C5%BBerk%C3%B3w" title="Gmina Żerków">Żerków</a>. </p> 
+   <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gmina_Pyzdry&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <ul>
+    <li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20080505094648/http://www.stat.gov.pl/gus/45_655_PLK_HTML.htm">Polish official population figures 2006</a></li>
+   </ul> 
+   <p><br> </p> 
+   <div role="navigation" class="navbox" aria-labelledby="Gmina_Pyzdry" style="padding:3px">
+    <table class="nowraplinks collapsible uncollapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+     <tbody>
+      <tr>
+       <th scope="col" class="navbox-title" colspan="3">
+        <div class="plainlinks hlist navbar mini">
+         <ul>
+          <li class="nv-view"><a href="/wiki/Template:Gmina_Pyzdry" title="Template:Gmina Pyzdry"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+          <li class="nv-talk"><a href="/wiki/Template_talk:Gmina_Pyzdry" title="Template talk:Gmina Pyzdry"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+          <li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Gmina_Pyzdry&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+         </ul>
+        </div>
+        <div id="Gmina_Pyzdry" style="font-size:114%;margin:0 4em">
+         <a class="mw-selflink selflink">Gmina Pyzdry</a>
+        </div></th>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%"><b>Town and seat</b></th>
+       <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><a href="/wiki/Pyzdry" title="Pyzdry">Pyzdry</a></li>
+         </ul> 
+        </div></td>
+       <td class="navbox-image" rowspan="2" style="width:1px;padding:0px 0px 0px 2px">
+        <div>
+         <a href="/wiki/File:POL_Pyzdry_COA.svg" class="image"><img alt="POL Pyzdry COA.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/POL_Pyzdry_COA.svg/50px-POL_Pyzdry_COA.svg.png" decoding="async" width="50" height="52" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/POL_Pyzdry_COA.svg/75px-POL_Pyzdry_COA.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0e/POL_Pyzdry_COA.svg/100px-POL_Pyzdry_COA.svg.png 2x" data-file-width="539" data-file-height="558"></a>
+        </div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%"><b>Villages</b></th>
+       <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><a href="/wiki/Baraniec,_Greater_Poland_Voivodeship" title="Baraniec, Greater Poland Voivodeship">Baraniec</a></li> 
+          <li><a href="/wiki/Benewicze" title="Benewicze">Benewicze</a></li> 
+          <li><a href="/wiki/Bia%C5%82obrzeg" title="Białobrzeg">Białobrzeg</a></li> 
+          <li><a href="/wiki/Bia%C5%82obrzeg_Ratajski" title="Białobrzeg Ratajski">Białobrzeg Ratajski</a></li> 
+          <li><a href="/wiki/Ciemier%C3%B3w" title="Ciemierów">Ciemierów</a></li> 
+          <li><a href="/wiki/Ciemier%C3%B3w-Kolonia" title="Ciemierów-Kolonia">Ciemierów-Kolonia</a></li> 
+          <li><a href="/wiki/D%C5%82usk" title="Dłusk">Dłusk</a></li> 
+          <li><a href="/wiki/Dolne_Gr%C4%85dy" title="Dolne Grądy">Dolne Grądy</a></li> 
+          <li><a href="/wiki/Glinianki,_Greater_Poland_Voivodeship" title="Glinianki, Greater Poland Voivodeship">Glinianki</a></li> 
+          <li><a href="/wiki/G%C3%B3rne_Gr%C4%85dy" title="Górne Grądy">Górne Grądy</a></li> 
+          <li><a href="/wiki/Kamie%C5%84,_Wrze%C5%9Bnia_County" title="Kamień, Września County">Kamień</a></li> 
+          <li><a href="/wiki/Kolonia_Janowska" title="Kolonia Janowska">Kolonia Janowska</a></li> 
+          <li><a href="/wiki/Kolonia_Lisewo" title="Kolonia Lisewo">Kolonia Lisewo</a></li> 
+          <li><a href="/wiki/Kr%C3%B3lewiny" title="Królewiny">Królewiny</a></li> 
+          <li><a href="/wiki/Kruszyny,_Greater_Poland_Voivodeship" title="Kruszyny, Greater Poland Voivodeship">Kruszyny</a></li> 
+          <li><a href="/wiki/Ksawer%C3%B3w,_Wrze%C5%9Bnia_County" title="Ksawerów, Września County">Ksawerów</a></li> 
+          <li><a href="/wiki/Lisewo,_Wrze%C5%9Bnia_County" title="Lisewo, Września County">Lisewo</a></li> 
+          <li><a href="/wiki/Lisiaki" title="Lisiaki">Lisiaki</a></li> 
+          <li><a href="/wiki/%C5%81upice,_Greater_Poland_Voivodeship" title="Łupice, Greater Poland Voivodeship">Łupice</a></li> 
+          <li><a href="/wiki/Modlica,_Greater_Poland_Voivodeship" title="Modlica, Greater Poland Voivodeship">Modlica</a></li> 
+          <li><a href="/wiki/Olsz" title="Olsz">Olsz</a></li> 
+          <li><a href="/wiki/Pietrzyk%C3%B3w,_Wrze%C5%9Bnia_County" title="Pietrzyków, Września County">Pietrzyków</a></li> 
+          <li><a href="/wiki/Pietrzyk%C3%B3w-Kolonia" title="Pietrzyków-Kolonia">Pietrzyków-Kolonia</a></li> 
+          <li><a href="/wiki/Rataje,_Wrze%C5%9Bnia_County" title="Rataje, Września County">Rataje</a></li> 
+          <li><a href="/wiki/Ruda_Komorska" title="Ruda Komorska">Ruda Komorska</a></li> 
+          <li><a href="/wiki/Tarnowa,_Wrze%C5%9Bnia_County" title="Tarnowa, Września County">Tarnowa</a></li> 
+          <li><a href="/wiki/T%C5%82oczyzna" title="Tłoczyzna">Tłoczyzna</a></li> 
+          <li><a href="/wiki/Trzcianki,_Greater_Poland_Voivodeship" title="Trzcianki, Greater Poland Voivodeship">Trzcianki</a></li> 
+          <li><a href="/wiki/Walga" title="Walga">Walga</a></li> 
+          <li><a href="/wiki/Wr%C4%85bczynek" title="Wrąbczynek">Wrąbczynek</a></li> 
+          <li><a href="/wiki/Wr%C4%85bczynkowskie_Holendry" title="Wrąbczynkowskie Holendry">Wrąbczynkowskie Holendry</a></li> 
+          <li><a href="/wiki/Zamo%C5%9B%C4%87,_Wrze%C5%9Bnia_County" title="Zamość, Września County">Zamość</a></li> 
+          <li><a href="/wiki/Zapowiednia" title="Zapowiednia">Zapowiednia</a></li> 
+          <li><a href="/wiki/%C5%BBd%C5%BCary,_Wrze%C5%9Bnia_County" title="Żdżary, Września County">Żdżary</a></li> 
+          <li><a href="/wiki/Zimochowiec" title="Zimochowiec">Zimochowiec</a></li>
+         </ul> 
+        </div></td>
+      </tr>
+     </tbody>
+    </table>
+   </div> 
+   <div role="navigation" class="navbox" aria-labelledby="Września_County" style="padding:3px">
+    <table class="nowraplinks collapsible uncollapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+     <tbody>
+      <tr>
+       <th scope="col" class="navbox-title" colspan="3">
+        <div class="plainlinks hlist navbar mini">
+         <ul>
+          <li class="nv-view"><a href="/wiki/Template:Wrze%C5%9Bnia_County" title="Template:Września County"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+          <li class="nv-talk"><a href="/wiki/Template_talk:Wrze%C5%9Bnia_County" title="Template talk:Września County"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+          <li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Wrze%C5%9Bnia_County&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+         </ul>
+        </div>
+        <div id="Września_County" style="font-size:114%;margin:0 4em">
+         <a href="/wiki/Wrze%C5%9Bnia_County" title="Września County">Września County</a>
+        </div></th>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%">Seat</th>
+       <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><a href="/wiki/Wrze%C5%9Bnia" title="Września">Września</a></li>
+         </ul> 
+        </div></td>
+       <td class="navbox-image" rowspan="3" style="width:1px;padding:0px 0px 0px 2px">
+        <div>
+         <a href="/wiki/File:POL_powiat_wrzesi%C5%84ski_COA.svg" class="image"><img alt="POL powiat wrzesiński COA.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/POL_powiat_wrzesi%C5%84ski_COA.svg/50px-POL_powiat_wrzesi%C5%84ski_COA.svg.png" decoding="async" width="50" height="62" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/POL_powiat_wrzesi%C5%84ski_COA.svg/75px-POL_powiat_wrzesi%C5%84ski_COA.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e3/POL_powiat_wrzesi%C5%84ski_COA.svg/100px-POL_powiat_wrzesi%C5%84ski_COA.svg.png 2x" data-file-width="750" data-file-height="935"></a>
+        </div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%">Urban-rural gminas</th>
+       <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><a href="/wiki/Gmina_Mi%C5%82os%C5%82aw" title="Gmina Miłosław">Gmina Miłosław</a></li> 
+          <li><a href="/wiki/Gmina_Nekla" title="Gmina Nekla">Gmina Nekla</a></li> 
+          <li><a class="mw-selflink selflink">Gmina Pyzdry</a></li> 
+          <li><a href="/wiki/Gmina_Wrze%C5%9Bnia" title="Gmina Września">Gmina Września</a></li>
+         </ul> 
+        </div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%">Rural gmina</th>
+       <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><a href="/wiki/Gmina_Ko%C5%82aczkowo" title="Gmina Kołaczkowo">Gmina Kołaczkowo</a></li>
+         </ul> 
+        </div></td>
+      </tr>
+     </tbody>
+    </table>
+   </div> 
+   <!-- 
+NewPP limit report
+Parsed by mw1250
+Cached time: 20190504103329
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.300 seconds
+Real time usage: 0.421 seconds
+Preprocessor visited node count: 3214/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 38123/2097152 bytes
+Template argument size: 5884/2097152 bytes
+Highest expansion depth: 25/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.115/10.000 seconds
+Lua memory usage: 4.22 MB/50 MB
+--> 
+   <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  377.873      1 -total
+ 84.18%  318.080      1 Template:Infobox_settlement
+ 51.66%  195.216      1 Template:Infobox
+ 11.17%   42.197      3 Template:Convert
+ 10.77%   40.688      1 Template:Coord
+  8.05%   30.433      1 Template:Infobox_settlement/areadisp
+  7.24%   27.367      2 Template:Infobox_settlement/metric
+  5.95%   22.489      1 Template:Pagetype
+  5.41%   20.450      3 Template:Rnd
+  3.94%   14.883      3 Template:If_empty
+--> 
+   <!-- Saved in parser cache with key enwiki:pcache:idhash:15129151-0!canonical and timestamp 20190504103329 and revision id 771004446
+ --> 
+  </div>
+  <noscript>
+   <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+  </noscript>
+ </div> 
+ <div class="printfooter">
+  Retrieved from "
+  <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Gmina_Pyzdry&amp;oldid=771004446">https://en.wikipedia.org/w/index.php?title=Gmina_Pyzdry&amp;oldid=771004446</a>"
+ </div> 
+ <div id="catlinks" class="catlinks" data-mw="interface">
+  <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+   <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+   <ul>
+    <li><a href="/wiki/Category:Gminas_in_Greater_Poland_Voivodeship" title="Category:Gminas in Greater Poland Voivodeship">Gminas in Greater Poland Voiv

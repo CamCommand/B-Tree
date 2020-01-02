@@ -1,0 +1,218 @@
+<div id="bodyContent" class="mw-body-content"> 
+ <div id="siteSub" class="noprint">
+  From Wikipedia, the free encyclopedia
+ </div> 
+ <div id="contentSub"></div> 
+ <div id="jump-to-nav"></div> 
+ <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> 
+ <a class="mw-jump-link" href="#p-search">Jump to search</a> 
+ <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+  <div class="mw-parser-output">
+   <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">
+    Australian rugby league footballer
+   </div> 
+   <p class="mw-empty-elt"> </p> 
+   <table class="infobox vcard" style="width:22em;width:25em; line-height: 1.5em">
+    <caption class="fn" style="font-size: 125%;">
+     Brett Gillard
+    </caption>
+    <tbody>
+     <tr>
+      <th colspan="2" style="text-align:center">
+       <div style="background: #b0c4de; width:100%;">
+        Personal information
+       </div></th>
+     </tr>
+     <tr>
+      <th scope="row">Full&nbsp;name</th>
+      <td class="nickname">Brett Gillard</td>
+     </tr>
+     <tr>
+      <th scope="row">Born</th>
+      <td><span style="display:none"> (<span class="bday">1970-06-06</span>) </span>6 June 1970<span class="noprint ForceAgeToShow"> (age&nbsp;48)</span><br><a href="/wiki/Sydney" title="Sydney">Sydney</a>, <a href="/wiki/New_South_Wales" title="New South Wales">New South Wales</a>, <a href="/wiki/Australia" title="Australia">Australia</a></td>
+     </tr>
+     <tr>
+      <th scope="row">Height</th>
+      <td>179&nbsp;cm (5&nbsp;ft 10&nbsp;in)</td>
+     </tr>
+     <tr>
+      <th scope="row">Weight</th>
+      <td>94&nbsp;kg (207&nbsp;lb; 14&nbsp;st 11&nbsp;lb)</td>
+     </tr>
+     <tr>
+      <th colspan="2" style="text-align:center">
+       <div style="background: #b0c4de; width:100%;">
+        Playing information
+       </div></th>
+     </tr>
+     <tr>
+      <th scope="row">Position</th>
+      <td class="role"><a href="/wiki/Rugby_league_positions#Loose_forward_/_Lock_forward" title="Rugby league positions">Lock</a>, <a href="/wiki/Rugby_league_positions#Second-row_forward" title="Rugby league positions">Second-row</a></td>
+     </tr>
+     <tr>
+      <td colspan="2" style="text-align:center"> 
+       <table style="width:100%; margin:-2px -1px;"> 
+        <tbody>
+         <tr> 
+          <th style="background: #EBF5FF; text-align: center" colspan="7">Club </th>
+         </tr> 
+         <tr style="line-height: 9pt"> 
+          <th style="width: 6.5em">Years </th> 
+          <th style="width: 16em">Team </th> 
+          <th style="width: 1.5em; text-align: center"><abbr title="Played">Pld</abbr> </th> 
+          <th style="width: 1.5em; text-align: center"><abbr title="Tries">T</abbr> </th> 
+          <th style="width: 1.5em; text-align: center"><abbr title="Goals">G</abbr> </th> 
+          <th style="width: 1.5em; text-align: center"><abbr title="Field goals">FG</abbr> </th> 
+          <th style="width: 1.5em; text-align: center"><abbr title="Points">P</abbr> </th>
+         </tr> 
+         <tr> 
+          <td style="white-space:nowrap">1989–92 </td> 
+          <td><a href="/wiki/Sydney_Roosters" title="Sydney Roosters">Eastern Suburbs</a> </td> 
+          <td style="text-align: center">40 </td> 
+          <td style="text-align: center">2 </td> 
+          <td style="text-align: center">0 </td> 
+          <td style="text-align: center">0 </td> 
+          <td style="text-align: center">8 </td>
+         </tr> 
+         <tr> 
+          <td style="white-space:nowrap">1993–94 </td> 
+          <td><a href="/wiki/Penrith_Panthers" title="Penrith Panthers">Penrith Panthers</a> </td> 
+          <td style="text-align: center">16 </td> 
+          <td style="text-align: center">1 </td> 
+          <td style="text-align: center">0 </td> 
+          <td style="text-align: center">0 </td> 
+          <td style="text-align: center">4 </td>
+         </tr> 
+         <tr> 
+          <td style="white-space:nowrap">1995–96 </td> 
+          <td><a href="/wiki/Gold_Coast_Seagulls" class="mw-redirect" title="Gold Coast Seagulls">Gold Coast</a> </td> 
+          <td style="text-align: center">28 </td> 
+          <td style="text-align: center">3 </td> 
+          <td style="text-align: center">8 </td> 
+          <td style="text-align: center">0 </td> 
+          <td style="text-align: center">12 </td>
+         </tr> 
+         <tr> 
+          <td style="white-space:nowrap">1997 </td> 
+          <td><a href="/wiki/South_Sydney_Rabbitohs" title="South Sydney Rabbitohs">South Sydney</a> </td> 
+          <td style="text-align: center">7 </td> 
+          <td style="text-align: center">0 </td> 
+          <td style="text-align: center">0 </td> 
+          <td style="text-align: center">0 </td> 
+          <td style="text-align: center">0 </td>
+         </tr> 
+         <tr> 
+          <td> </td> 
+          <td style="font-weight:bold">Total </td> 
+          <td style="font-weight:bold;text-align:center">91 </td> 
+          <td style="font-weight:bold;text-align:center">6 </td> 
+          <td style="font-weight:bold;text-align:center">8 </td> 
+          <td style="font-weight:bold;text-align:center">0 </td> 
+          <td style="font-weight:bold;text-align:center">24 </td>
+         </tr> 
+        </tbody>
+       </table></td>
+     </tr>
+     <tr>
+      <td colspan="2" style="text-align:center">
+       <div style="text-align:right;">
+        Source: 
+        <sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+       </div></td>
+     </tr>
+    </tbody>
+   </table> 
+   <p><b>Brett Gillard</b> is an Australian former <a href="/wiki/Rugby_league" title="Rugby league">rugby league</a> footballer who played as a <a href="/wiki/Rugby_league_positions#The_back_row" title="Rugby league positions">back-row forward</a> in the 1980s and 1990s. </p>
+   <p>He played in 40 matches for <a href="/wiki/Sydney_Roosters" title="Sydney Roosters">Eastern Suburbs</a> in the years 1989-92, <a href="/wiki/Penrith_Panthers" title="Penrith Panthers">Penrith Panthers</a> 1993&amp; 94, Gold Coast Seagulls later renamed the Gold Coast "Chargers" 1995 &amp; 96 and a season with the <a href="/wiki/South_Sydney_Rabbitohs" title="South Sydney Rabbitohs">South Sydney</a> club in 1997.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> </p>
+   <p>Gillard in currently associated with one of Eastern Suburbs junior clubs', the <a href="/wiki/Clovelly_Crocodiles" title="Clovelly Crocodiles">Clovelly Crocodiles</a>, in junior development. </p> 
+   <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Brett_Gillard&amp;action=edit&amp;section=1" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <div class="reflist" style="list-style-type: decimal;"> 
+    <div class="mw-references-wrap">
+     <ol class="references"> 
+      <li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.rugbyleagueproject.org/players/brett-gillard/summary.html">"Brett Gillard - Career Stats &amp; Summary - Rugby League Project"</a>. <i>Rugbyleagueproject.org</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Rugbyleagueproject.org&amp;rft.atitle=Brett+Gillard+-+Career+Stats+%26+Summary+-+Rugby+League+Project&amp;rft_id=http%3A%2F%2Fwww.rugbyleagueproject.org%2Fplayers%2Fbrett-gillard%2Fsummary.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABrett+Gillard" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span> </li> 
+      <li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.ssralmanac.com/mobile/players_g/player_gillard_brett.htm">"South Sydney Rabbitohs Rugby League Player Report - Brett Gillard"</a>. <i>www.ssralmanac.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.ssralmanac.com&amp;rft.atitle=South+Sydney+Rabbitohs+Rugby+League+Player+Report+-+Brett+Gillard&amp;rft_id=http%3A%2F%2Fwww.ssralmanac.com%2Fmobile%2Fplayers_g%2Fplayer_gillard_brett.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABrett+Gillard" class="Z3988"></span>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+      <li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.roosters.com.au/about/past-players/">"Men's Honour Roll"</a>. <i>Sydney Roosters</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Sydney+Roosters&amp;rft.atitle=Men%27s+Honour+Roll&amp;rft_id=https%3A%2F%2Fwww.roosters.com.au%2Fabout%2Fpast-players%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABrett+Gillard" class="Z3988"></span>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+     </ol>
+    </div>
+   </div> 
+   <p><br> </p> 
+   <table class="metadata plainlinks stub" role="presentation" style="background:transparent">
+    <tbody>
+     <tr>
+      <td><a href="/wiki/File:Ru_ball.svg" class="image"><img alt="Stub icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Ru_ball.svg/30px-Ru_ball.svg.png" decoding="async" width="30" height="27" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Ru_ball.svg/45px-Ru_ball.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/46/Ru_ball.svg/60px-Ru_ball.svg.png 2x" data-file-width="270" data-file-height="245"></a></td>
+      <td><i>This Australian rugby league football biography is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="//en.wikipedia.org/w/index.php?title=Brett_Gillard&amp;action=edit">expanding it</a>.</i>
+       <div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;">
+        <ul>
+         <li class="nv-view"><a href="/wiki/Template:Australia-rugbyleague-bio-stub" title="Template:Australia-rugbyleague-bio-stub"><abbr title="View this template">v</abbr></a></li>
+         <li class="nv-talk"><a href="/wiki/Template_talk:Australia-rugbyleague-bio-stub" title="Template talk:Australia-rugbyleague-bio-stub"><abbr title="Discuss this template">t</abbr></a></li>
+         <li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Australia-rugbyleague-bio-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+        </ul>
+       </div></td>
+     </tr>
+    </tbody>
+   </table> 
+   <!-- 
+NewPP limit report
+Parsed by mw1323
+Cached time: 20190504231603
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.376 seconds
+Real time usage: 0.505 seconds
+Preprocessor visited node count: 3518/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 29707/2097152 bytes
+Template argument size: 2378/2097152 bytes
+Highest expansion depth: 28/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 8295/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.170/10.000 seconds
+Lua memory usage: 6.04 MB/50 MB
+--> 
+   <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  475.476      1 -total
+ 59.40%  282.423      1 Template:Infobox_rugby_league_biography
+ 42.56%  202.362      1 Template:Infobox
+ 20.35%   96.756      1 Template:Reflist
+ 18.14%   86.248      3 Template:Cite_web
+ 15.38%   73.127      1 Template:Infobox_person/height
+ 14.77%   70.214      1 Template:Infobox_person/height/locate
+ 14.04%   66.733      1 Template:Infobox_person/height/switch
+  9.41%   44.729      1 Template:Short_description
+  8.88%   42.228      2 Template:Convert
+--> 
+   <!-- Saved in parser cache with key enwiki:pcache:idhash:15171581-0!canonical and timestamp 20190504231603 and revision id 887482321
+ --> 
+  </div>
+  <noscript>
+   <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+  </noscript>
+ </div> 
+ <div class="printfooter">
+  Retrieved from "
+  <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Brett_Gillard&amp;oldid=887482321">https://en.wikipedia.org/w/index.php?title=Brett_Gillard&amp;oldid=887482321</a>"
+ </div> 
+ <div id="catlinks" class="catlinks" data-mw="interface">
+  <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+   <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+   <ul>
+    <li><a href="/wiki/Category:Australian_rugby_league_players" title="Category:Australian rugby league players">Australian rugby league players</a></li>
+    <li><a href="/wiki/Category:Penrith_Panthers_players" title="Category:Penrith Panthers players">Penrith Panthers players</a></li>
+    <li><a href="/wiki/Category:Gold_Coast_Chargers_players" title="Category:Gold Coast Chargers players">Gold Coast Chargers players</a></li>
+    <li><a href="/wiki/Category:Sydney_Roosters_players" title="Category:Sydney Roosters players">Sydney Roosters players</a></li>
+    <li><a href="/wiki/Category:South_Sydney_Rabbitohs_players" title="Category:South Sydney Rabbitohs players">South Sydney Rabbitohs players</a></li>
+    <li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li>
+    <li><a href="/wiki/Category:1970_births" title="Category:1970 births">1970 births</a></li>
+    <li><a href="/wiki/Category:Australian_rugby_league_biography_stubs" title="Category:Australian rugby league biography stubs">Australian rugby league biography stubs</a></li>
+   </ul>
+  </div>
+  <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+   Hidden categories: 
+   <ul>
+    <li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li>
+    <li><a href="/wiki/Category:Use_dmy_dates_from_November_2018" title="Category:Use dmy dates from Novemb

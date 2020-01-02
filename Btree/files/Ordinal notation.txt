@@ -1,0 +1,342 @@
+<div id="bodyContent" class="mw-body-content"> 
+ <div id="siteSub" class="noprint">
+  From Wikipedia, the free encyclopedia
+ </div> 
+ <div id="contentSub"></div> 
+ <div id="jump-to-nav"></div> 
+ <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> 
+ <a class="mw-jump-link" href="#p-search">Jump to search</a> 
+ <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+  <div class="mw-parser-output">
+   <p>In <a href="/wiki/Mathematical_logic" title="Mathematical logic">mathematical logic</a> and <a href="/wiki/Set_theory" title="Set theory">set theory</a>, an <b>ordinal notation</b> is a partial function from the set of all finite sequences of symbols from a finite alphabet to a countable set of <a href="/wiki/Ordinal_number" title="Ordinal number">ordinals</a>, and a <a href="/wiki/G%C3%B6del_numbering" title="Gödel numbering">Gödel numbering</a> is a function from the set of well-formed formulae (a well-formed formula is a finite sequence of symbols on which the ordinal notation function is defined) of some formal language to the natural numbers. This associates each wff with a unique natural number, called its Gödel number. If a Gödel numbering is fixed, then the subset relation on the ordinals induces an ordering on well-formed formulae which in turn induces a well-ordering on the subset of natural numbers. A <b>recursive ordinal notation</b> must satisfy the following two additional properties: </p> 
+   <ol>
+    <li>the subset of natural numbers is a <a href="/wiki/Recursive_set" title="Recursive set">recursive set</a></li> 
+    <li>the induced well-ordering on the subset of natural numbers is a recursive relation</li>
+   </ol> 
+   <p>There are many such schemes of ordinal notations, including schemes by <a href="/wiki/Wilhelm_Ackermann" title="Wilhelm Ackermann">Wilhelm Ackermann</a>, <a href="/wiki/Heinz_Bachmann" title="Heinz Bachmann">Heinz Bachmann</a>, Wilfried Buchholz, <a href="/wiki/Georg_Cantor" title="Georg Cantor">Georg Cantor</a>, <a href="/wiki/Solomon_Feferman" title="Solomon Feferman">Solomon Feferman</a>, Gerhard Jäger, Isles, Pfeiffer, Wolfram Pohlers, <a href="/wiki/Kurt_Sch%C3%BCtte" title="Kurt Schütte">Kurt Schütte</a>, <a href="/wiki/Gaisi_Takeuti" title="Gaisi Takeuti">Gaisi Takeuti</a> (called <b>ordinal diagrams</b>), <a href="/wiki/Oswald_Veblen" title="Oswald Veblen">Oswald Veblen</a>. <a href="/wiki/Stephen_Cole_Kleene" title="Stephen Cole Kleene">Stephen Cole Kleene</a> has a system of notations, called <a href="/wiki/Kleene%27s_O" title="Kleene's O">Kleene's O</a>, which includes ordinal notations but it is not as well behaved as the other systems described here. </p>
+   <p>Usually one proceeds by defining several functions from ordinals to ordinals and representing each such function by a symbol. In many systems, such as Veblen's well known system, the functions are normal functions, that is, they are strictly increasing and continuous in at least one of their arguments, and increasing in other arguments. Another desirable property for such functions is that the value of the function is greater than each of its arguments, so that an ordinal is always being described in terms of smaller ordinals. There are several such desirable properties. Unfortunately, no one system can have all of them since they contradict each other. </p> 
+   <div id="toc" class="toc">
+    <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+    <div class="toctitle" lang="en" dir="ltr">
+     <h2>Contents</h2>
+     <span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+    </div> 
+    <ul> 
+     <li class="toclevel-1 tocsection-1"><a href="#A_simplified_example_using_a_pairing_function"><span class="tocnumber">1</span> <span class="toctext">A simplified example using a pairing function</span></a> 
+      <ul> 
+       <li class="toclevel-2 tocsection-2"><a href="#ξ-notation"><span class="tocnumber">1.1</span> <span class="toctext">ξ-notation</span></a></li> 
+      </ul> </li> 
+     <li class="toclevel-1 tocsection-3"><a href="#Systems_of_ordinal_notation"><span class="tocnumber">2</span> <span class="toctext">Systems of ordinal notation</span></a> 
+      <ul> 
+       <li class="toclevel-2 tocsection-4"><a href="#Cantor"><span class="tocnumber">2.1</span> <span class="toctext">Cantor</span></a></li> 
+       <li class="toclevel-2 tocsection-5"><a href="#Veblen"><span class="tocnumber">2.2</span> <span class="toctext">Veblen</span></a></li> 
+       <li class="toclevel-2 tocsection-6"><a href="#Ackermann"><span class="tocnumber">2.3</span> <span class="toctext">Ackermann</span></a></li> 
+       <li class="toclevel-2 tocsection-7"><a href="#Bachmann"><span class="tocnumber">2.4</span> <span class="toctext">Bachmann</span></a></li> 
+       <li class="toclevel-2 tocsection-8"><a href="#Takeuti_(ordinal_diagrams)"><span class="tocnumber">2.5</span> <span class="toctext">Takeuti (ordinal diagrams)</span></a></li> 
+       <li class="toclevel-2 tocsection-9"><a href="#Feferman's_θ_functions"><span class="tocnumber">2.6</span> <span class="toctext">Feferman's θ functions</span></a></li> 
+       <li class="toclevel-2 tocsection-10"><a href="#Buchholz"><span class="tocnumber">2.7</span> <span class="toctext">Buchholz</span></a></li> 
+       <li class="toclevel-2 tocsection-11"><a href="#Kleene's_'&quot;`UNIQ--postMath-00000003-QINU`&quot;'"><span class="tocnumber">2.8</span> <span class="toctext">Kleene's <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+            <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle {\mathcal {O}}}"> 
+             <semantics> 
+              <mrow class="MJX-TeXAtom-ORD"> 
+               <mstyle displaystyle="true" scriptlevel="0"> 
+                <mrow class="MJX-TeXAtom-ORD"> 
+                 <mrow class="MJX-TeXAtom-ORD"> 
+                  <mi class="MJX-tex-caligraphic" mathvariant="script">
+                   O
+                  </mi> 
+                 </mrow> 
+                </mrow> 
+               </mstyle> 
+              </mrow> 
+              <annotation encoding="application/x-tex">
+               {\displaystyle {\mathcal {O}}}
+              </annotation> 
+             </semantics> 
+            </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d6ae2ed4058fb748a183d9ada8aea50a00d0c89f" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.85ex; height:2.176ex;" alt="{\mathcal {O}}"></span></span></a></li> 
+      </ul> </li> 
+     <li class="toclevel-1 tocsection-12"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li> 
+     <li class="toclevel-1 tocsection-13"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li> 
+    </ul> 
+   </div> 
+   <h2><span class="mw-headline" id="A_simplified_example_using_a_pairing_function">A simplified example using a pairing function</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ordinal_notation&amp;action=edit&amp;section=1" title="Edit section: A simplified example using a pairing function">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <p>As usual, we must start off with a constant symbol for zero, "0", which we may consider to be a function of <a href="/wiki/Arity" title="Arity">arity</a> zero. This is necessary because there are no smaller ordinals in terms of which zero can be described. The most obvious next step would be to define a unary function, "S", which takes an ordinal to the smallest ordinal greater than it; in other words, S is the successor function. In combination with zero, successor allows one to name any natural number. </p>
+   <p>The third function might be defined as one that maps each ordinal to the smallest ordinal that cannot yet be described with the above two functions and previous values of this function. This would map β to ω·β except when β is a fixed point of that function plus a finite number in which case one uses ω·(β+1). </p>
+   <p>The fourth function would map α to ω<sup>ω</sup>·α except when α is a fixed point of that plus a finite number in which case one uses ω<sup>ω</sup>·(α+1). </p> 
+   <h3><span id=".CE.BE-notation"></span><span class="mw-headline" id="ξ-notation">ξ-notation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ordinal_notation&amp;action=edit&amp;section=2" title="Edit section: ξ-notation">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+   <p>One could continue in this way, but it would give us an infinite number of functions. So instead let us merge the unary functions into a binary function. By <a href="/wiki/Transfinite_recursion" class="mw-redirect" title="Transfinite recursion">transfinite recursion</a> on α, we can use transfinite recursion on β to define ξ(α,β) = the smallest ordinal γ such that α &lt; γ and β &lt; γ and γ is not the value of ξ for any smaller α or for the same α with a smaller β. </p>
+   <p>Thus, define ξ-notations as follows: </p> 
+   <ul>
+    <li>"0" is a ξ-notation for zero.</li> 
+    <li>If "A" and "B" are replaced by ξ-notations for α and β in "ξAB", then the result is a ξ-notation for ξ(α,β).</li> 
+    <li>There are no other ξ-notations.</li>
+   </ul> 
+   <p>ξ is defined for all pairs of ordinals and is one-to-one. It always gives values larger than its arguments and its <a href="/wiki/Range_(mathematics)" title="Range (mathematics)">range</a> is all ordinals other than 0 and the epsilon numbers (ε=ω<sup>ε</sup>). </p>
+   <p>ξ(α,β)&lt;ξ(γ,δ) if and only if either (α=γ and β&lt;δ) or (α&lt;γ and β&lt;ξ(γ,δ)) or (α&gt;γ and ξ(α,β)≤δ). </p>
+   <p>With this definition, the first few ξ-notations are: </p> 
+   <dl>
+    <dd>
+     "0" for 0. "ξ00" for 1. "ξ0ξ00" for ξ(0,1)=2. "ξξ000" for ξ(1,0)=ω. "ξ0ξ0ξ00" for 3. "ξ0ξξ000" for ω+1. "ξξ00ξ00" for ω·2. "ξξ0ξ000" for ω
+     <sup>ω</sup>. "ξξξ0000" for 
+     <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+       <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \omega ^{\omega ^{\omega }}.}"> 
+        <semantics> 
+         <mrow class="MJX-TeXAtom-ORD"> 
+          <mstyle displaystyle="true" scriptlevel="0"> 
+           <msup> 
+            <mi>
+             ω
+             <!-- ω -->
+            </mi> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <msup> 
+              <mi>
+               ω
+               <!-- ω -->
+              </mi> 
+              <mrow class="MJX-TeXAtom-ORD"> 
+               <mi>
+                ω
+                <!-- ω -->
+               </mi> 
+              </mrow> 
+             </msup> 
+            </mrow> 
+           </msup> 
+           <mo>
+            .
+           </mo> 
+          </mstyle> 
+         </mrow> 
+         <annotation encoding="application/x-tex">
+          {\displaystyle \omega ^{\omega ^{\omega }}.}
+         </annotation> 
+        </semantics> 
+       </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/51da6838a67458c6a159f6490ed0fa02f29079d4" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:4.341ex; height:2.676ex;" alt="\omega ^{{\omega ^{{\omega }}}}."></span>
+    </dd>
+   </dl> 
+   <p>In general, ξ(0,β) = β+1. While ξ(1+α,β) = ω<sup>ω<sup>α</sup></sup>·(β+k) for k = 0 or 1 or 2 depending on special situations:<br> k = 2 if α is an epsilon number and β is finite.<br> Otherwise, k = 1 if β is a multiple of ω<sup>ω<sup>α+1</sup></sup> plus a finite number.<br> Otherwise, k = 0. </p>
+   <p>The ξ-notations can be used to name any ordinal less than ε<sub>0</sub> with an alphabet of only two symbols ("0" and "ξ"). If these notations are extended by adding functions that enumerate epsilon numbers, then they will be able to name any ordinal less than the first epsilon number that cannot be named by the added functions. This last property, adding symbols within an initial segment of the ordinals gives names within that segment, is called repleteness (after <a href="/wiki/Solomon_Feferman" title="Solomon Feferman">Solomon Feferman</a>). </p> 
+   <h2><span class="mw-headline" id="Systems_of_ordinal_notation">Systems of ordinal notation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ordinal_notation&amp;action=edit&amp;section=3" title="Edit section: Systems of ordinal notation">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <p>There are many different systems for ordinal notation introduced by various authors. It is often quite hard to convert between the different systems. </p> 
+   <h3><span class="mw-headline" id="Cantor">Cantor</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ordinal_notation&amp;action=edit&amp;section=4" title="Edit section: Cantor">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+   <div role="note" class="hatnote navigation-not-searchable">
+    Main article: 
+    <a href="/wiki/Cantor_normal_form" class="mw-redirect" title="Cantor normal form">Cantor normal form</a>
+   </div> 
+   <p>"Exponential polynomials" in 0 and ω gives a system of ordinal notation for ordinals less than <a href="/wiki/Epsilon_zero" class="mw-redirect" title="Epsilon zero">epsilon zero</a>. There are many equivalent ways to write these; instead of exponential polynomials, one can use rooted trees, or nested parentheses, or the system described above. </p> 
+   <h3><span class="mw-headline" id="Veblen">Veblen</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ordinal_notation&amp;action=edit&amp;section=5" title="Edit section: Veblen">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+   <div role="note" class="hatnote navigation-not-searchable">
+    Main article: 
+    <a href="/wiki/Veblen_function" title="Veblen function">Veblen function</a>
+   </div> 
+   <p>The 2-variable Veblen functions (<a href="#CITEREFVeblen1908">Veblen 1908</a>) can be used to give a system of ordinal notation for ordinals less than the <a href="/wiki/Feferman-Schutte_ordinal" class="mw-redirect" title="Feferman-Schutte ordinal">Feferman-Schutte ordinal</a>. The Veblen functions in a finite or transfinite number of variables give systems of ordinal notations for ordinals less than the small and large <a href="/wiki/Veblen_ordinal_(disambiguation)" class="mw-redirect mw-disambig" title="Veblen ordinal (disambiguation)">Veblen ordinals</a>. </p> 
+   <h3><span class="mw-headline" id="Ackermann">Ackermann</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ordinal_notation&amp;action=edit&amp;section=6" title="Edit section: Ackermann">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+   <p><a href="#CITEREFAckermann1951">Ackermann (1951)</a> described a system of ordinal notation rather weaker than the system described earlier by Veblen. The limit of his system is sometimes called the <a href="/wiki/Ackermann_ordinal" title="Ackermann ordinal">Ackermann ordinal</a>. </p> 
+   <h3><span class="mw-headline" id="Bachmann">Bachmann</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ordinal_notation&amp;action=edit&amp;section=7" title="Edit section: Bachmann">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+   <p><a href="#CITEREFBachmann1950">Bachmann (1950)</a> introduced the key idea of using uncountable ordinals to produce new countable ordinals. His original system was rather cumbersome to use as it required choosing a special sequence converging to each ordinal. Later systems of notation introduced by Feferman and others avoided this complication. </p> 
+   <h3><span id="Takeuti_.28ordinal_diagrams.29"></span><span class="mw-headline" id="Takeuti_(ordinal_diagrams)">Takeuti (ordinal diagrams)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ordinal_notation&amp;action=edit&amp;section=8" title="Edit section: Takeuti (ordinal diagrams)">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+   <p><a href="#CITEREFTakeuti1987">Takeuti (1987)</a> described a very powerful system of ordinal notation called "ordinal diagrams", which is hard to understand but was later simplified by Feferman. </p> 
+   <h3><span id="Feferman.27s_.CE.B8_functions"></span><span class="mw-headline" id="Feferman's_θ_functions">Feferman's θ functions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ordinal_notation&amp;action=edit&amp;section=9" title="Edit section: Feferman's θ functions">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+   <p>Feferman introduced theta functions, described in <a href="#CITEREFBuchholz1986">Buchholz (1986)</a> as follows. The function for an ordinal α, θ<sub>α</sub> is a function from ordinals to ordinals. Often θ<sub>α</sub>(β) is written as θαβ. The set <i>C</i>(α,β) is defined by induction on α to be the set of ordinals that can be generated from 0, <a href="/wiki/First_uncountable_ordinal" title="First uncountable ordinal">ω<sub>1</sub></a>, ω<sub>2</sub>, ..., ω<sub>ω</sub>, together with the ordinals less than β by the operations of ordinal addition and the functions θ<sub>ξ</sub> for ξ&lt;α. And the function θ<sub>γ</sub> is defined to be the function enumerating the ordinals δ with δ∉<i>C</i>(γ,δ). </p> 
+   <h3><span class="mw-headline" id="Buchholz">Buchholz</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ordinal_notation&amp;action=edit&amp;section=10" title="Edit section: Buchholz">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+   <div role="note" class="hatnote navigation-not-searchable">
+    Main article: 
+    <a href="/wiki/Ordinal_collapsing_function" title="Ordinal collapsing function">Ordinal collapsing function</a>
+   </div> 
+   <p><a href="#CITEREFBuchholz1986">Buchholz (1986)</a> described the following system of ordinal notation as a simplification of Feferman's theta functions. Define: </p> 
+   <ul>
+    <li>Ω<sub>ξ</sub> = ω<sub>ξ</sub> if ξ &gt; 0, Ω<sub>0</sub> = 1</li>
+   </ul> 
+   <p>The functions ψ<sub><i>v</i></sub>(α) for α an ordinal, <i>v</i> an ordinal at most ω, are defined by induction on α as follows: </p> 
+   <ul>
+    <li>ψ<sub><i>v</i></sub>(α) is the smallest ordinal not in <i>C</i><sub><i>v</i></sub>(α)</li>
+   </ul> 
+   <p>where <i>C</i><sub><i>v</i></sub>(α) is the smallest set such that </p> 
+   <ul>
+    <li><i>C</i><sub><i>v</i></sub>(α) contains all ordinals less than Ω<sub><i>v</i></sub></li> 
+    <li><i>C</i><sub><i>v</i></sub>(α) is closed under ordinal addition</li> 
+    <li><i>C</i><sub><i>v</i></sub>(α) is closed under the functions ψ<sub><i>u</i></sub> (for <i>u</i>≤ω) applied to arguments less than α.</li>
+   </ul> 
+   <p>This system has about the same strength as Fefermans system, as <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \theta \epsilon _{\Omega _{v}+1}0=\psi _{0}(\epsilon _{\Omega _{v}+1})}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <mi>
+           θ
+           <!-- θ -->
+          </mi> 
+          <msub> 
+           <mi>
+            ϵ
+            <!-- ϵ -->
+           </mi> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <msub> 
+             <mi mathvariant="normal">
+              Ω
+              <!-- Ω -->
+             </mi> 
+             <mrow class="MJX-TeXAtom-ORD"> 
+              <mi>
+               v
+              </mi> 
+             </mrow> 
+            </msub> 
+            <mo>
+             +
+            </mo> 
+            <mn>
+             1
+            </mn> 
+           </mrow> 
+          </msub> 
+          <mn>
+           0
+          </mn> 
+          <mo>
+           =
+          </mo> 
+          <msub> 
+           <mi>
+            ψ
+            <!-- ψ -->
+           </mi> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mn>
+             0
+            </mn> 
+           </mrow> 
+          </msub> 
+          <mo stretchy="false">
+           (
+          </mo> 
+          <msub> 
+           <mi>
+            ϵ
+            <!-- ϵ -->
+           </mi> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <msub> 
+             <mi mathvariant="normal">
+              Ω
+              <!-- Ω -->
+             </mi> 
+             <mrow class="MJX-TeXAtom-ORD"> 
+              <mi>
+               v
+              </mi> 
+             </mrow> 
+            </msub> 
+            <mo>
+             +
+            </mo> 
+            <mn>
+             1
+            </mn> 
+           </mrow> 
+          </msub> 
+          <mo stretchy="false">
+           )
+          </mo> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle \theta \epsilon _{\Omega _{v}+1}0=\psi _{0}(\epsilon _{\Omega _{v}+1})}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5c7679b48c9fdf9bba55ff7f74c88495c525c17c" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:20.278ex; height:2.843ex;" alt="\theta \epsilon _{{\Omega _{v}+1}}0=\psi _{0}(\epsilon _{{\Omega _{v}+1}})"></span> for <i>v</i>&nbsp;≤&nbsp;ω. </p> 
+   <h3><span id="Kleene.27s_.7F.27.22.60UNIQ--postMath-00000003-QINU.60.22.27.7F"></span><span class="mw-headline" id="Kleene's_'&quot;`UNIQ--postMath-00000003-QINU`&quot;'">Kleene's <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+       <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle {\mathcal {O}}}"> 
+        <semantics> 
+         <mrow class="MJX-TeXAtom-ORD"> 
+          <mstyle displaystyle="true" scriptlevel="0"> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mi class="MJX-tex-caligraphic" mathvariant="script">
+              O
+             </mi> 
+            </mrow> 
+           </mrow> 
+          </mstyle> 
+         </mrow> 
+         <annotation encoding="application/x-tex">
+          {\displaystyle {\mathcal {O}}}
+         </annotation> 
+        </semantics> 
+       </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d6ae2ed4058fb748a183d9ada8aea50a00d0c89f" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.85ex; height:2.176ex;" alt="{\mathcal {O}}"></span></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ordinal_notation&amp;action=edit&amp;section=11" title="Edit section: Kleene's  ${\mathcal {O}}">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+   <div role="note" class="hatnote navigation-not-searchable">
+    Main article: 
+    <a href="/wiki/Kleene%27s_O" title="Kleene's O">Kleene's O</a>
+   </div> 
+   <p><a href="#CITEREFKleene1938">Kleene (1938)</a> described a system of notation for all recursive ordinals (those less than the <a href="/wiki/Church%E2%80%93Kleene_ordinal" title="Church–Kleene ordinal">Church–Kleene ordinal</a>). It uses a subset of the <a href="/wiki/Natural_number" title="Natural number">natural numbers</a> instead of finite strings of symbols. Unfortunately, unlike the other systems described above there is in general no <a href="/wiki/Computable_function" title="Computable function">effective</a> way to tell whether some natural number represents an ordinal, or whether two numbers represent the same ordinal. However, one can effectively find notations that represent the ordinal sum, product, and power (see <a href="/wiki/Ordinal_arithmetic" title="Ordinal arithmetic">ordinal arithmetic</a>) of any two given notations in Kleene's <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle {\mathcal {O}}}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <mrow class="MJX-TeXAtom-ORD"> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mi class="MJX-tex-caligraphic" mathvariant="script">
+             O
+            </mi> 
+           </mrow> 
+          </mrow> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle {\mathcal {O}}}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d6ae2ed4058fb748a183d9ada8aea50a00d0c89f" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.85ex; height:2.176ex;" alt="{\mathcal {O}}"></span>; and given any notation for an ordinal, there is a <a href="/wiki/Recursively_enumerable_set" title="Recursively enumerable set">recursively enumerable set</a> of notations that contains one element for each smaller ordinal and is effectively ordered. Kleene's <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle {\mathcal {O}}}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <mrow class="MJX-TeXAtom-ORD"> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mi class="MJX-tex-caligraphic" mathvariant="script">
+             O
+            </mi> 
+           </mrow> 
+          </mrow> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle {\mathcal {O}}}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d6ae2ed4058fb748a183d9ada8aea50a00d0c89f" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.85ex; height:2.176ex;" alt="{\mathcal {O}}"></span> denotes a canonical (and very non-computable) set of notations. </p> 
+   <h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ordinal_notation&amp;action=edit&amp;section=12" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <ul>
+    <li><a href="/wiki/Large_countable_ordinals" class="mw-redirect" title="Large countable ordinals">Large countable ordinals</a></li> 
+    <li><a href="/wiki/Ordinal_arithmetic" title="Ordinal arithmetic">Ordinal arithmetic</a></li> 
+    <li><a href="/wiki/Ordinal_analysis" title="Ordinal analysis">Ordinal analysis</a></li>
+   </ul> 
+   <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ordinal_notation&amp;action=edit&amp;section=13" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <ul>
+    <li><cite id="CITEREFAckermann1951" class="citation">Ackermann, Wilhelm (1951), "Konstruktiver Aufbau eines Abschnitts der zweiten Cantorschen Zahlenklasse", <i>Math. Z.</i>, <b>53</b> (5): 403–413, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1007%2FBF01175640">10.1007/BF01175640</a>, <a href="/wiki/Mathematical_Reviews" title="Mathematical Reviews">MR</a>&nbsp;<a rel="nofollow" class="external text" href="//www.ams.org/mathscinet-getitem?mr=0039669">0039669</a></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Math.+Z.&amp;rft.atitle=Konstruktiver+Aufbau+eines+Abschnitts+der+zweiten+Cantorschen+Zahlenklasse&amp;rft.volume=53&amp;rft.issue=5&amp;rft.pages=403-413&amp;rft.date=1951&amp;rft_id=info%3Adoi%2F10.1007%2FBF01175640&amp;rft_id=%2F%2Fwww.ams.org%2Fmathscinet-getitem%3Fmr%3D0039669&amp;rft.aulast=Ackermann&amp;rft.aufirst=Wilhelm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOrdinal+notation" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></li> 
+    <li><cite id="CITEREFBuchholz1986" class="citation">Buchholz, W. (1986), "A new system of proof-theoretic ordinal functions", <i>Ann. Pure Appl. Logic</i>, <b>32</b> (3): 195–207, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1016%2F0168-0072%2886%2990052-7">10.1016/0168-0072(86)90052-7</a>, <a href="/wiki/Mathematical_Reviews" title="Mathematical Reviews">MR</a>&nbsp;<a rel="nofollow" class="external text" href="//www.ams.org/mathscinet-getitem?mr=0865989">0865989</a></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Ann.+Pure+Appl.+Logic&amp;rft.atitle=A+new+system+of+proof-theoretic+ordinal+functions&amp;rft.volume=32&amp;rft.issue=3&amp;rft.pages=195-207&amp;rft.date=1986&amp;rft_id=info%3Adoi%2F10.1016%2F0168-0072%2886%2990052-7&amp;rft_id=%2F%2Fwww.ams.org%2Fmathscinet-getitem%3Fmr%3D0865989&amp;rft.aulast=Buchholz&amp;rft.aufirst=W.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOrdinal+notation" class="Z3988"></span>
+     <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></li> 
+    <li>"Constructive Ordinal Notation Systems" by Fredrick Gass</li> 
+    <li><cite id="CITEREFKleene1938" class="citation">Kleene, S. C. (1938), "On Notation for Ordinal Numbers", <i>The Journal of Symbolic Logic</i>, <b>3</b> (4): 150–155, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.2307%2F2267778">10.2307/2267778</a>, <a href="/wiki/JSTOR" title="JSTOR">JSTOR</a>&nbsp;<a rel="nofollow" class="external text" href="//www.jstor.org/stable/2267778">2267778</a></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Journal+of+Symbolic+Logic&amp;rft.atitle=On+Notation+for+Ordinal+Numbers&amp;rft.volume=3&amp;rft.issue=4&amp;rft.pages=150-155&amp;rft.date=1938&amp;rft_id=info%3Adoi%2F10.2307%2F2267778&amp;rft_id=%2F%2Fwww.jstor.org%2Fstable%2F2267778&amp;rft.aulast=Kleene&amp;rft.aufirst=S.+C.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOrdinal+notation" class="Z3988"></span>
+     <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></li> 
+    <li>"Hyperarithmetical Index Sets In Recursion Theory" by Stephen Lempp</li> 
+    <li>Hilbert Levitz, <i><a rel="nofollow" class="external text" href="http://www.cs.fsu.edu/~levitz/ords.ps">Transfinite Ordinals and Their Notations: For The Uninitiated</a></i>, expository article (8 pages, in <a href="/wiki/PostScript" title="PostScript">PostScript</a>)</li> 
+    <li><cite id="CITEREFMiller1976" class="citation">Miller, Larry W. (1976), "Normal Functions and Constructive Ordinal Notations", <i>The Journal of Symbolic Logic</i>, <b>41</b> (2): 439–459, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.2307%2F2272243">10.2307/2272243</a>, <a href="/wiki/JSTOR" title="JSTOR">JSTOR</a>&nbsp;<a rel="nofollow" class="external text" href="//www.jstor.org/stable/2272243">2272243</a></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Journal+of+Symbolic+Logic&amp;rft.atitle=Normal+Functions+and+Constructive+Ordinal+Notations&amp;rft.volume=41&amp;rft.issue=2&amp;rft.pages=439-459&amp;rft.date=1976&amp;rft_id=info%3Adoi%2F10.2307%2F2272243&amp;rft_id=%2F%2Fwww.jstor.org%2Fstable%2F2272243&amp;rft.aulast=Miller&amp;rft.aufirst=Larry+W.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOrdinal+notation" class="Z3988"></span>
+     <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></li> 
+    <li><cite id="CITEREFPohlers1989" class="citation">Pohlers, Wolfram (1989), <i>Proof theory</i>, Lecture Notes in Mathematics, <b>1407</b>, Berlin: Springer-Verlag, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1007%2F978-3-540-46825-7">10.1007/978-3-540-46825-7</a>, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-3-540-51842-6" title="Special:BookSources/978-3-540-51842-6"><bdi>978-3-540-51842-6</bdi></a>, <a href="/wiki/Mathematical_Reviews" title="Mathematical Reviews">MR</a>&nbsp;<a rel="nofollow" class="external text" href="//www.ams.org/mathscinet-getitem?mr=1026933">1026933</a></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Proof+theory&amp;rft.place=Berlin&amp;rft.series=Lecture+Notes+in+Mathematics&amp;rft.pub=Springer-Verlag&amp;rft.date=1989&amp;rft_id=%2F%2Fwww.ams.org%2Fmathscinet-getitem%3Fmr%3D1026933&amp;rft_id=info%3Adoi%2F10.1007%2F978-3-540-46825-7&amp;rft.isbn=978-3-540-51842-6&amp;rft.aulast=Pohlers&amp;rft.aufirst=Wolfram&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOrdinal+notation" class="Z3988"></span>
+     <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></li> 
+    <li><cite id="CITEREFRogers1987" class="citation">Rogers, Hartley (1987) [1967], <i>The Theory of Recursive Functions and Effective Computability</i>, First MIT press paperback edition, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-0-262-68052-3" title="Special:BookSources/978-0-262-68052-3"><bdi>978-0-262-68052-3</bdi></a></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Theory+of+Recursive+Functions+and+Effective+Computability&amp;rft.pub=First+MIT+press+paperback+edition&amp;rft.date=1987&amp;rft.isbn=978-0-262-68052-3&amp;rft.aulast=Rogers&amp;rft.aufirst=Hartley&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOrdinal+notation" class="Z3988"></span>
+     <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></li> 
+    <li><cite id="CITEREFSchütte1977" class="citation">Schütte, Kurt (1977), <i>Proof theory</i>, Grundlehren der Mathematischen Wissenschaften, <b>225</b>, Berlin-New York: Springer-Verlag, pp.&nbsp;xii+299, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-3-540-07911-8" title="Special:BookSources/978-3-540-07911-8"><bdi>978-3-540-07911-8</bdi></a>, <a href="/wiki/Mathematical_Reviews" title="Mathematical Reviews">MR</a>&nbsp;<a rel="nofollow" class="external text" href="//www.ams.org/mathscinet-getitem?mr=0505313">0505313</a></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Proof+theory&amp;rft.place=Berlin-New+York&amp;rft.series=Grundlehren+der+Mathematischen+Wissenschaften&amp;rft.pages=xii%2B299&amp;rft.pub=Springer-Verlag&amp;rft.date=1977&amp;rft.isbn=978-3-540-07911-8&amp;rft_id=%2F%2Fwww.ams.org%2Fmathscinet-getitem%3Fmr%3D0505313&amp;rft.aulast=Sch%C3%BCtte&amp;rft.aufirst=Kurt&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOrdinal+notation" class="Z3988"></span>
+     <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></li> 
+    <li><cite id="CITEREFTakeuti1987" class="citation">Takeuti, Gaisi (1987), <i>Proof theory</i>, Studies in Logic and the Foundations of Mathematics, <b>81</b> (Second ed.), Amsterdam: North-Holland Publishing Co., <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-0-444-87943-1" title="Special:BookSources/978-0-444-87943-1"><bdi>978-0-444-87943-1</bdi></a>, <a href="/wiki/Mathematical_Reviews" title="Mathematical Reviews">MR</a>&nbsp;<a rel="nofollow" class="external text" href="//www.ams.org/mathscinet-getitem?mr=0882549">0882549</a></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Proof+theory&amp;rft.place=Amsterdam&amp;rft.series=Studies+in+Logic+and+the+Foundations+of+Mathematics&amp;rft.edition=Second&amp;rft.pub=North-Holland+Publishing+Co.&amp;rft.date=1987&amp;rft.isbn=978-0-444-87943-1&amp;rft_id=%2F%2Fwww.ams.org%2Fmathscinet-getitem%3Fmr%3D0882549&amp;rft.aulast=Takeuti&amp;rft.aufirst=Gaisi&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOrdinal+notation" class="Z3988"></span>
+     <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></li> 
+    <li><cite id="CITEREFVeblen1908" class="citation">Veblen, Oswald (1908), "Continuous Increasing Functions of Finite and Transfinite Ordinals", <i>Transactions of the American Mathematical Society</i>, <b>9</b> (3): 280–292, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.2307%2F1988605">10.2307/1988605</a>, <a href="/wiki/JSTOR" title="JSTOR">JSTOR</a>&nbsp;<a rel="nofollow" class="external text" href="//www.jstor.org/stable/1988605">1988605</a></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Transactions+of+the+American+Mathematical+Society&amp;rft.atitle=Continuous+Increasing+Functions+of+Finite+and+Transfinite+Ordinals&amp;rft.volume=9&amp;rft.issue=3&amp;rft.pages=280-292&amp;rft.date=1908&amp;rft_id=info%3Adoi%2F10.2307%2F1988605&amp;rft_id=%2F%2Fwww.jstor.org%2Fstable%2F1988605&amp;rft.aulast=Veblen&amp;rft.aufirst=Oswald&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOrdinal+notation" class="Z3988"></span>
+     <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></li>
+   </ul> 
+   <!-- 
+NewPP limit report
+Parsed by mw1269
+C

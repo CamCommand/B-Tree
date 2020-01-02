@@ -1,0 +1,934 @@
+<div id="bodyContent" class="mw-body-content"> 
+ <div id="siteSub" class="noprint">
+  From Wikipedia, the free encyclopedia
+ </div> 
+ <div id="contentSub"></div> 
+ <div id="jump-to-nav"></div> 
+ <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> 
+ <a class="mw-jump-link" href="#p-search">Jump to search</a> 
+ <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+  <div class="mw-parser-output">
+   <p>In <a href="/wiki/Mathematics" title="Mathematics">mathematics</a>, the <b>Noether inequality</b>, named after <a href="/wiki/Max_Noether" title="Max Noether">Max Noether</a>, is a property of <a href="/wiki/Compact_space" title="Compact space">compact</a> minimal <a href="/wiki/Complex_surface" class="mw-redirect" title="Complex surface">complex surfaces</a> that restricts the topological type of the underlying topological <a href="/wiki/4-manifold" title="4-manifold">4-manifold</a>. It holds more generally for minimal projective surfaces of general type over an algebraically closed field. </p> 
+   <h2><span class="mw-headline" id="Formulation_of_the_inequality">Formulation of the inequality</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Noether_inequality&amp;action=edit&amp;section=1" title="Edit section: Formulation of the inequality">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <p>Let <i>X</i> be a smooth <a href="/wiki/Minimal_model_(birational_geometry)" class="mw-redirect" title="Minimal model (birational geometry)">minimal</a> <a href="/wiki/Algebraic_variety#Projective_varieties" title="Algebraic variety">projective</a> <a href="/wiki/Surface_of_general_type" title="Surface of general type">surface of general type</a> defined over an <a href="/wiki/Algebraically_closed_field" title="Algebraically closed field">algebraically closed field</a> (or a smooth minimal compact complex surface of general type) with canonical divisor <i>K</i> = −<i>c</i><sub>1</sub>(<i>X</i>), and let <i>p</i><sub>g</sub> = <i>h</i><sup>0</sup>(<i>K</i>) be the dimension of the space of holomorphic two forms, then </p> 
+   <dl>
+    <dd>
+     <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+       <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle p_{g}\leq {\frac {1}{2}}c_{1}(X)^{2}+2.}"> 
+        <semantics> 
+         <mrow class="MJX-TeXAtom-ORD"> 
+          <mstyle displaystyle="true" scriptlevel="0"> 
+           <msub> 
+            <mi>
+             p
+            </mi> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mi>
+              g
+             </mi> 
+            </mrow> 
+           </msub> 
+           <mo>
+            ≤
+            <!-- ≤ -->
+           </mo> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mfrac> 
+             <mn>
+              1
+             </mn> 
+             <mn>
+              2
+             </mn> 
+            </mfrac> 
+           </mrow> 
+           <msub> 
+            <mi>
+             c
+            </mi> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mn>
+              1
+             </mn> 
+            </mrow> 
+           </msub> 
+           <mo stretchy="false">
+            (
+           </mo> 
+           <mi>
+            X
+           </mi> 
+           <msup> 
+            <mo stretchy="false">
+             )
+            </mo> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mn>
+              2
+             </mn> 
+            </mrow> 
+           </msup> 
+           <mo>
+            +
+           </mo> 
+           <mn>
+            2.
+           </mn> 
+          </mstyle> 
+         </mrow> 
+         <annotation encoding="application/x-tex">
+          {\displaystyle p_{g}\leq {\frac {1}{2}}c_{1}(X)^{2}+2.}
+         </annotation> 
+        </semantics> 
+       </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/665380991b05375da47475ce141e6ad0ff493cb5" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.838ex; margin-left: -0.089ex; width:18.932ex; height:5.176ex;" alt="{\displaystyle p_{g}\leq {\frac {1}{2}}c_{1}(X)^{2}+2.}"></span>
+    </dd>
+   </dl> 
+   <p>For complex surfaces, an alternative formulation expresses this inequality in terms of topological invariants of the underlying real oriented four manifold. Since a surface of general type is a <a href="/wiki/K%C3%A4hler_manifold" title="Kähler manifold">Kähler</a> surface, the dimension of the maximal positive subspace in intersection form on the second cohomology is given by <i>b</i><sub>+</sub> =&nbsp;1&nbsp;+&nbsp;2<i>p</i><sub>g</sub>. Moreover, by the <a href="/wiki/Hirzebruch_signature_theorem" title="Hirzebruch signature theorem">Hirzebruch signature theorem</a> <i>c</i><sub>1</sub><sup>2</sup> (<i>X</i>)&nbsp;=&nbsp;2<i>e</i>&nbsp;+&nbsp;3<i>σ</i>, where <i>e</i> = <i>c</i><sub>2</sub>(<i>X</i>) is the topological <a href="/wiki/Euler_characteristic" title="Euler characteristic">Euler characteristic</a> and <i>σ</i> = <i>b</i><sub>+</sub>&nbsp;−&nbsp;<i>b</i><sub>−</sub> is the signature of the <a href="/wiki/Intersection_form_(4-manifold)" title="Intersection form (4-manifold)">intersection form</a>. Therefore, the Noether inequality can also be expressed as </p> 
+   <dl>
+    <dd>
+     <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+       <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle b_{+}\leq 2e+3\sigma +5}"> 
+        <semantics> 
+         <mrow class="MJX-TeXAtom-ORD"> 
+          <mstyle displaystyle="true" scriptlevel="0"> 
+           <msub> 
+            <mi>
+             b
+            </mi> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mo>
+              +
+             </mo> 
+            </mrow> 
+           </msub> 
+           <mo>
+            ≤
+            <!-- ≤ -->
+           </mo> 
+           <mn>
+            2
+           </mn> 
+           <mi>
+            e
+           </mi> 
+           <mo>
+            +
+           </mo> 
+           <mn>
+            3
+           </mn> 
+           <mi>
+            σ
+            <!-- σ -->
+           </mi> 
+           <mo>
+            +
+           </mo> 
+           <mn>
+            5
+           </mn> 
+          </mstyle> 
+         </mrow> 
+         <annotation encoding="application/x-tex">
+          {\displaystyle b_{+}\leq 2e+3\sigma +5}
+         </annotation> 
+        </semantics> 
+       </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/98419d6c85fc943696ecf0bd215a52ca6a8d71ee" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:17.188ex; height:2.509ex;" alt="{\displaystyle b_{+}\leq 2e+3\sigma +5}"></span>
+    </dd>
+   </dl> 
+   <p>or equivalently using <i>e</i> = 2 – 2 <i>b</i><sub>1</sub> + <i>b</i><sub>+</sub> + <i>b</i><sub>−</sub> </p> 
+   <dl>
+    <dd>
+     <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+       <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle b_{-}+4b_{1}\leq 4b_{+}+9.}"> 
+        <semantics> 
+         <mrow class="MJX-TeXAtom-ORD"> 
+          <mstyle displaystyle="true" scriptlevel="0"> 
+           <msub> 
+            <mi>
+             b
+            </mi> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mo>
+              −
+              <!-- − -->
+             </mo> 
+            </mrow> 
+           </msub> 
+           <mo>
+            +
+           </mo> 
+           <mn>
+            4
+           </mn> 
+           <msub> 
+            <mi>
+             b
+            </mi> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mn>
+              1
+             </mn> 
+            </mrow> 
+           </msub> 
+           <mo>
+            ≤
+            <!-- ≤ -->
+           </mo> 
+           <mn>
+            4
+           </mn> 
+           <msub> 
+            <mi>
+             b
+            </mi> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mo>
+              +
+             </mo> 
+            </mrow> 
+           </msub> 
+           <mo>
+            +
+           </mo> 
+           <mn>
+            9.
+           </mn> 
+          </mstyle> 
+         </mrow> 
+         <annotation encoding="application/x-tex">
+          {\displaystyle b_{-}+4b_{1}\leq 4b_{+}+9.}
+         </annotation> 
+        </semantics> 
+       </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a7d3f2d1e1a36ecadf95feb2eb679114b455ae39" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:19.982ex; height:2.509ex;" alt="{\displaystyle b_{-}+4b_{1}\leq 4b_{+}+9.}"></span>
+    </dd>
+   </dl> 
+   <p>Combining the Noether inequality with the <a href="/wiki/Noether_formula" class="mw-redirect" title="Noether formula">Noether formula</a> 12χ=<i>c</i><sub>1</sub><sup>2</sup>+<i>c</i><sub>2</sub> gives </p> 
+   <dl>
+    <dd>
+     <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+       <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle 5c_{1}(X)^{2}-c_{2}(X)+36\geq 12q}"> 
+        <semantics> 
+         <mrow class="MJX-TeXAtom-ORD"> 
+          <mstyle displaystyle="true" scriptlevel="0"> 
+           <mn>
+            5
+           </mn> 
+           <msub> 
+            <mi>
+             c
+            </mi> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mn>
+              1
+             </mn> 
+            </mrow> 
+           </msub> 
+           <mo stretchy="false">
+            (
+           </mo> 
+           <mi>
+            X
+           </mi> 
+           <msup> 
+            <mo stretchy="false">
+             )
+            </mo> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mn>
+              2
+             </mn> 
+            </mrow> 
+           </msup> 
+           <mo>
+            −
+            <!-- − -->
+           </mo> 
+           <msub> 
+            <mi>
+             c
+            </mi> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mn>
+              2
+             </mn> 
+            </mrow> 
+           </msub> 
+           <mo stretchy="false">
+            (
+           </mo> 
+           <mi>
+            X
+           </mi> 
+           <mo stretchy="false">
+            )
+           </mo> 
+           <mo>
+            +
+           </mo> 
+           <mn>
+            36
+           </mn> 
+           <mo>
+            ≥
+            <!-- ≥ -->
+           </mo> 
+           <mn>
+            12
+           </mn> 
+           <mi>
+            q
+           </mi> 
+          </mstyle> 
+         </mrow> 
+         <annotation encoding="application/x-tex">
+          {\displaystyle 5c_{1}(X)^{2}-c_{2}(X)+36\geq 12q}
+         </annotation> 
+        </semantics> 
+       </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5ae53561a0d7b1a10b5b8feb1dc6eb4e341c7648" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:28.416ex; height:3.176ex;" alt="{\displaystyle 5c_{1}(X)^{2}-c_{2}(X)+36\geq 12q}"></span>
+    </dd>
+   </dl> 
+   <p>where <i>q</i> is the <a href="/wiki/Irregularity_of_a_surface" title="Irregularity of a surface">irregularity of a surface</a>, which leads to a slightly weaker inequality, which is also often called the Noether inequality: </p> 
+   <dl>
+    <dd>
+     <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+       <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle 5c_{1}(X)^{2}-c_{2}(X)+36\geq 0\quad (c_{1}^{2}(X){\text{ even}})}"> 
+        <semantics> 
+         <mrow class="MJX-TeXAtom-ORD"> 
+          <mstyle displaystyle="true" scriptlevel="0"> 
+           <mn>
+            5
+           </mn> 
+           <msub> 
+            <mi>
+             c
+            </mi> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mn>
+              1
+             </mn> 
+            </mrow> 
+           </msub> 
+           <mo stretchy="false">
+            (
+           </mo> 
+           <mi>
+            X
+           </mi> 
+           <msup> 
+            <mo stretchy="false">
+             )
+            </mo> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mn>
+              2
+             </mn> 
+            </mrow> 
+           </msup> 
+           <mo>
+            −
+            <!-- − -->
+           </mo> 
+           <msub> 
+            <mi>
+             c
+            </mi> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mn>
+              2
+             </mn> 
+            </mrow> 
+           </msub> 
+           <mo stretchy="false">
+            (
+           </mo> 
+           <mi>
+            X
+           </mi> 
+           <mo stretchy="false">
+            )
+           </mo> 
+           <mo>
+            +
+           </mo> 
+           <mn>
+            36
+           </mn> 
+           <mo>
+            ≥
+            <!-- ≥ -->
+           </mo> 
+           <mn>
+            0
+           </mn> 
+           <mspace width="1em" /> 
+           <mo stretchy="false">
+            (
+           </mo> 
+           <msubsup> 
+            <mi>
+             c
+            </mi> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mn>
+              1
+             </mn> 
+            </mrow> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mn>
+              2
+             </mn> 
+            </mrow> 
+           </msubsup> 
+           <mo stretchy="false">
+            (
+           </mo> 
+           <mi>
+            X
+           </mi> 
+           <mo stretchy="false">
+            )
+           </mo> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mtext>
+             &nbsp;even
+            </mtext> 
+           </mrow> 
+           <mo stretchy="false">
+            )
+           </mo> 
+          </mstyle> 
+         </mrow> 
+         <annotation encoding="application/x-tex">
+          {\displaystyle 5c_{1}(X)^{2}-c_{2}(X)+36\geq 0\quad (c_{1}^{2}(X){\text{ even}})}
+         </annotation> 
+        </semantics> 
+       </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/59dbb79ce6974c20127db79d40db843842c2df90" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:41.332ex; height:3.343ex;" alt="{\displaystyle 5c_{1}(X)^{2}-c_{2}(X)+36\geq 0\quad (c_{1}^{2}(X){\text{ even}})}"></span>
+    </dd> 
+    <dd>
+     <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+       <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle 5c_{1}(X)^{2}-c_{2}(X)+30\geq 0\quad (c_{1}^{2}(X){\text{ odd}}).}"> 
+        <semantics> 
+         <mrow class="MJX-TeXAtom-ORD"> 
+          <mstyle displaystyle="true" scriptlevel="0"> 
+           <mn>
+            5
+           </mn> 
+           <msub> 
+            <mi>
+             c
+            </mi> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mn>
+              1
+             </mn> 
+            </mrow> 
+           </msub> 
+           <mo stretchy="false">
+            (
+           </mo> 
+           <mi>
+            X
+           </mi> 
+           <msup> 
+            <mo stretchy="false">
+             )
+            </mo> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mn>
+              2
+             </mn> 
+            </mrow> 
+           </msup> 
+           <mo>
+            −
+            <!-- − -->
+           </mo> 
+           <msub> 
+            <mi>
+             c
+            </mi> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mn>
+              2
+             </mn> 
+            </mrow> 
+           </msub> 
+           <mo stretchy="false">
+            (
+           </mo> 
+           <mi>
+            X
+           </mi> 
+           <mo stretchy="false">
+            )
+           </mo> 
+           <mo>
+            +
+           </mo> 
+           <mn>
+            30
+           </mn> 
+           <mo>
+            ≥
+            <!-- ≥ -->
+           </mo> 
+           <mn>
+            0
+           </mn> 
+           <mspace width="1em" /> 
+           <mo stretchy="false">
+            (
+           </mo> 
+           <msubsup> 
+            <mi>
+             c
+            </mi> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mn>
+              1
+             </mn> 
+            </mrow> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mn>
+              2
+             </mn> 
+            </mrow> 
+           </msubsup> 
+           <mo stretchy="false">
+            (
+           </mo> 
+           <mi>
+            X
+           </mi> 
+           <mo stretchy="false">
+            )
+           </mo> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mtext>
+             &nbsp;odd
+            </mtext> 
+           </mrow> 
+           <mo stretchy="false">
+            )
+           </mo> 
+           <mo>
+            .
+           </mo> 
+          </mstyle> 
+         </mrow> 
+         <annotation encoding="application/x-tex">
+          {\displaystyle 5c_{1}(X)^{2}-c_{2}(X)+30\geq 0\quad (c_{1}^{2}(X){\text{ odd}}).}
+         </annotation> 
+        </semantics> 
+       </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2fddb1e5865d85bf21053efaafb83aadad8a011a" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:41.141ex; height:3.343ex;" alt="{\displaystyle 5c_{1}(X)^{2}-c_{2}(X)+30\geq 0\quad (c_{1}^{2}(X){\text{ odd}}).}"></span>
+    </dd>
+   </dl> 
+   <p>Surfaces where equality holds (i.e. on the Noether line) are called <a href="/wiki/Surfaces_of_general_type#Horikawa_surfaces" class="mw-redirect" title="Surfaces of general type">Horikawa surfaces</a>. </p> 
+   <h2><span class="mw-headline" id="Proof_sketch">Proof sketch</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Noether_inequality&amp;action=edit&amp;section=2" title="Edit section: Proof sketch">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <p>It follows from the minimal general type condition that <i>K</i><sup>2</sup> &gt; 0. We may thus assume that <i>p</i><sub>g</sub> &gt; 1, since the inequality is otherwise automatic. In particular, we may assume there is an effective divisor <i>D</i> representing <i>K</i>. We then have an exact sequence </p> 
+   <dl>
+    <dd>
+     <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+       <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle 0\to H^{0}({\mathcal {O}}_{X})\to H^{0}(K)\to H^{0}(K|_{D})\to H^{1}({\mathcal {O}}_{X})\to }"> 
+        <semantics> 
+         <mrow class="MJX-TeXAtom-ORD"> 
+          <mstyle displaystyle="true" scriptlevel="0"> 
+           <mn>
+            0
+           </mn> 
+           <mo stretchy="false">
+            →
+            <!-- → -->
+           </mo> 
+           <msup> 
+            <mi>
+             H
+            </mi> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mn>
+              0
+             </mn> 
+            </mrow> 
+           </msup> 
+           <mo stretchy="false">
+            (
+           </mo> 
+           <msub> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mrow class="MJX-TeXAtom-ORD"> 
+              <mi class="MJX-tex-caligraphic" mathvariant="script">
+               O
+              </mi> 
+             </mrow> 
+            </mrow> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mi>
+              X
+             </mi> 
+            </mrow> 
+           </msub> 
+           <mo stretchy="false">
+            )
+           </mo> 
+           <mo stretchy="false">
+            →
+            <!-- → -->
+           </mo> 
+           <msup> 
+            <mi>
+             H
+            </mi> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mn>
+              0
+             </mn> 
+            </mrow> 
+           </msup> 
+           <mo stretchy="false">
+            (
+           </mo> 
+           <mi>
+            K
+           </mi> 
+           <mo stretchy="false">
+            )
+           </mo> 
+           <mo stretchy="false">
+            →
+            <!-- → -->
+           </mo> 
+           <msup> 
+            <mi>
+             H
+            </mi> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mn>
+              0
+             </mn> 
+            </mrow> 
+           </msup> 
+           <mo stretchy="false">
+            (
+           </mo> 
+           <mi>
+            K
+           </mi> 
+           <msub> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mo stretchy="false">
+              |
+             </mo> 
+            </mrow> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mi>
+              D
+             </mi> 
+            </mrow> 
+           </msub> 
+           <mo stretchy="false">
+            )
+           </mo> 
+           <mo stretchy="false">
+            →
+            <!-- → -->
+           </mo> 
+           <msup> 
+            <mi>
+             H
+            </mi> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mn>
+              1
+             </mn> 
+            </mrow> 
+           </msup> 
+           <mo stretchy="false">
+            (
+           </mo> 
+           <msub> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mrow class="MJX-TeXAtom-ORD"> 
+              <mi class="MJX-tex-caligraphic" mathvariant="script">
+               O
+              </mi> 
+             </mrow> 
+            </mrow> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mi>
+              X
+             </mi> 
+            </mrow> 
+           </msub> 
+           <mo stretchy="false">
+            )
+           </mo> 
+           <mo stretchy="false">
+            →
+            <!-- → -->
+           </mo> 
+          </mstyle> 
+         </mrow> 
+         <annotation encoding="application/x-tex">
+          {\displaystyle 0\to H^{0}({\mathcal {O}}_{X})\to H^{0}(K)\to H^{0}(K|_{D})\to H^{1}({\mathcal {O}}_{X})\to }
+         </annotation> 
+        </semantics> 
+       </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6c68310758a67092b58fbc425cd2dda9976e4255" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:51.792ex; height:3.176ex;" alt="{\displaystyle 0\to H^{0}({\mathcal {O}}_{X})\to H^{0}(K)\to H^{0}(K|_{D})\to H^{1}({\mathcal {O}}_{X})\to }"></span>
+    </dd>
+   </dl> 
+   <p>so <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle p_{g}-1\leq h^{0}(K|_{D}).}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <msub> 
+           <mi>
+            p
+           </mi> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mi>
+             g
+            </mi> 
+           </mrow> 
+          </msub> 
+          <mo>
+           −
+           <!-- − -->
+          </mo> 
+          <mn>
+           1
+          </mn> 
+          <mo>
+           ≤
+           <!-- ≤ -->
+          </mo> 
+          <msup> 
+           <mi>
+            h
+           </mi> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mn>
+             0
+            </mn> 
+           </mrow> 
+          </msup> 
+          <mo stretchy="false">
+           (
+          </mo> 
+          <mi>
+           K
+          </mi> 
+          <msub> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mo stretchy="false">
+             |
+            </mo> 
+           </mrow> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mi>
+             D
+            </mi> 
+           </mrow> 
+          </msub> 
+          <mo stretchy="false">
+           )
+          </mo> 
+          <mo>
+           .
+          </mo> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle p_{g}-1\leq h^{0}(K|_{D}).}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/cf7b169b1e32950bb10a8008bdcf84e867be7af5" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; margin-left: -0.089ex; width:18.537ex; height:3.343ex;" alt="{\displaystyle p_{g}-1\leq h^{0}(K|_{D}).}"></span> </p>
+   <p>Assume that <i>D</i> is smooth. By the <a href="/wiki/Adjunction_formula" title="Adjunction formula">adjunction formula</a> <i>D</i> has a canonical linebundle <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle {\mathcal {O}}_{D}(2K)}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <msub> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mi class="MJX-tex-caligraphic" mathvariant="script">
+              O
+             </mi> 
+            </mrow> 
+           </mrow> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mi>
+             D
+            </mi> 
+           </mrow> 
+          </msub> 
+          <mo stretchy="false">
+           (
+          </mo> 
+          <mn>
+           2
+          </mn> 
+          <mi>
+           K
+          </mi> 
+          <mo stretchy="false">
+           )
+          </mo> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle {\mathcal {O}}_{D}(2K)}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/de3cffc813361894c514ef03535948dd44b55349" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:8.481ex; height:2.843ex;" alt="{\displaystyle {\mathcal {O}}_{D}(2K)}"></span>, therefore <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle K|_{D}}"> 
+       <semantics> 
+        <mrow class="MJX-TeXAtom-ORD"> 
+         <mstyle displaystyle="true" scriptlevel="0"> 
+          <mi>
+           K
+          </mi> 
+          <msub> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mo stretchy="false">
+             |
+            </mo> 
+           </mrow> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mi>
+             D
+            </mi> 
+           </mrow> 
+          </msub> 
+         </mstyle> 
+        </mrow> 
+        <annotation encoding="application/x-tex">
+         {\displaystyle K|_{D}}
+        </annotation> 
+       </semantics> 
+      </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b3e1bbca21c52140d6cff6f5c8ba7e681c2916bb" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:4.306ex; height:2.843ex;" alt="{\displaystyle K|_{D}}"></span> is a <a href="/wiki/Special_divisor" class="mw-redirect" title="Special divisor">special divisor</a> and the <a href="/wiki/Clifford%27s_theorem_on_special_divisors" title="Clifford's theorem on special divisors">Clifford inequality</a> applies, which gives </p> 
+   <dl>
+    <dd>
+     <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+       <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle h^{0}(K|_{D})-1\leq {\frac {1}{2}}\mathrm {deg} _{D}(K)={\frac {1}{2}}K^{2}.}"> 
+        <semantics> 
+         <mrow class="MJX-TeXAtom-ORD"> 
+          <mstyle displaystyle="true" scriptlevel="0"> 
+           <msup> 
+            <mi>
+             h
+            </mi> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mn>
+              0
+             </mn> 
+            </mrow> 
+           </msup> 
+           <mo stretchy="false">
+            (
+           </mo> 
+           <mi>
+            K
+           </mi> 
+           <msub> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mo stretchy="false">
+              |
+             </mo> 
+            </mrow> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mi>
+              D
+             </mi> 
+            </mrow> 
+           </msub> 
+           <mo stretchy="false">
+            )
+           </mo> 
+           <mo>
+            −
+            <!-- − -->
+           </mo> 
+           <mn>
+            1
+           </mn> 
+           <mo>
+            ≤
+            <!-- ≤ -->
+           </mo> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mfrac> 
+             <mn>
+              1
+             </mn> 
+             <mn>
+              2
+             </mn> 
+            </mfrac> 
+           </mrow> 
+           <msub> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mi mathvariant="normal">
+              d
+             </mi> 
+             <mi mathvariant="normal">
+              e
+             </mi> 
+             <mi mathvariant="normal">
+              g
+             </mi> 
+            </mrow> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mi>
+              D
+             </mi> 
+            </mrow> 
+           </msub> 
+           <mo stretchy="false">
+            (
+           </mo> 
+           <mi>
+            K
+           </mi> 
+           <mo stretchy="false">
+            )
+           </mo> 
+           <mo>
+            =
+           </mo> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mfrac> 
+             <mn>
+              1
+             </mn> 
+             <mn>
+              2
+             </mn> 
+            </mfrac> 
+           </mrow> 
+           <msup> 
+            <mi>
+             K
+            </mi> 
+            <mrow class="MJX-TeXAtom-ORD"> 
+             <mn>
+              2
+             </mn> 
+            </mrow> 
+           </msup> 
+           <mo>
+            .
+           </mo> 
+          </mstyle> 
+         </mrow> 
+         <annotation encoding="application/x-tex">
+          {\displaystyle h^{0}(K|_{D})-1\leq {\frac {1}{2}}\mathrm {deg} _{D}(K)={\frac {1}{2}}K^{2}.}
+         </annotation> 
+        </semantics> 
+       </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6c3dc9bd7b697c894cc42901fd2ddd303ea6d3b5" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.838ex; width:35.456ex; height:5.176ex;" alt="{\displaystyle h^{0}(K|_{D})-1\leq {\frac {1}{2}}\mathrm {deg} _{D}(K)={\frac {1}{2}}K^{2}.}"></span>
+    </dd>
+   </dl> 
+   <p>In general, essentially the same argument applies using a more general version of the Clifford inequality for local complete intersections with a dualising line bundle and 1-dimensional sections in the trivial line bundle. These conditions are satisfied for the curve <i>D</i> by the adjunction formula and the fact that <i>D</i> is numerically connected. </p> 
+   <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Noether_inequality&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <ul>
+    <li><cite id="CITEREFBarthHulekPetersVan_de_Ven2004" class="citation">Barth, Wolf P.; Hulek, Klaus; Peters, Chris A.M.; Van de Ven, Antonius (2004), <i>Compact Complex Surfaces</i>, Ergebnisse der Mathematik und ihrer Grenzgebiete. 3. Folge., <b>4</b>, Springer-Verlag, Berlin, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-3-540-00832-3" title="Special:BookSources/978-3-540-00832-3"><bdi>978-3-540-00832-3</bdi></a>, <a href="/wiki/Mathematical_Reviews" title="Mathematical Reviews">MR</a>&nbsp;<a rel="nofollow" class="external text" href="//www.ams.org/mathscinet-getitem?mr=2030225">2030225</a></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Compact+Complex+Surfaces&amp;rft.series=Ergebnisse+der+Mathematik+und+ihrer+Grenzgebiete.+3.+Folge.&amp;rft.pub=Springer-Verlag%2C+Berlin&amp;rft.date=2004&amp;rft.isbn=978-3-540-00832-3&amp;rft_id=%2F%2Fwww.ams.org%2Fmathscinet-getitem%3Fmr%3D2030225&amp;rft.aulast=Barth&amp;rft.aufirst=Wolf+P.&amp;rft.au=Hulek%2C+Klaus&amp;rft.au=Peters%2C+Chris+A.M.&amp;rft.au=Van+de

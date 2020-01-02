@@ -1,0 +1,990 @@
+<div id="bodyContent" class="mw-body-content"> 
+ <div id="siteSub" class="noprint">
+  From Wikipedia, the free encyclopedia
+ </div> 
+ <div id="contentSub"></div> 
+ <div id="jump-to-nav"></div> 
+ <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> 
+ <a class="mw-jump-link" href="#p-search">Jump to search</a> 
+ <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+  <div class="mw-parser-output">
+   <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">
+    Commune in Grand Est, France
+   </div>
+   <table class="infobox geography vcard" style="width:22em;width:23em">
+    <tbody>
+     <tr>
+      <th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size:1.25em; white-space:nowrap">
+       <div style="display:inline" class="fn org">
+        Autruche
+       </div></th>
+     </tr>
+     <tr>
+      <td colspan="2" style="text-align:center;background-color:#cddeff; font-weight:bold;">
+       <div class="category">
+        <a href="/wiki/Communes_of_France" title="Communes of France">Commune</a>
+       </div></td>
+     </tr>
+     <tr class="mergedtoprow">
+      <td colspan="2" style="text-align:center"><a href="/wiki/File:Eglise_Autruche.jpg" class="image"><img alt="Eglise Autruche.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/Eglise_Autruche.jpg/270px-Eglise_Autruche.jpg" decoding="async" width="270" height="203" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/Eglise_Autruche.jpg/405px-Eglise_Autruche.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/57/Eglise_Autruche.jpg/540px-Eglise_Autruche.jpg 2x" data-file-width="2816" data-file-height="2112"></a></td>
+     </tr>
+     <tr class="mergedtoprow">
+      <td colspan="2" class="maptable" style="text-align:center">
+       <div style="display:table; width:100%; background:none;"> 
+        <div style="display:table-row">
+         <div style="display:table-cell;vertical-align:middle; text-align:center;">
+          <a href="/wiki/File:Blason_ville_fr_autruche_(ardennes).svg" class="image" title="Coat of arms of Autruche"><img alt="Coat of arms of Autruche" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Blason_ville_fr_autruche_%28ardennes%29.svg/73px-Blason_ville_fr_autruche_%28ardennes%29.svg.png" decoding="async" width="73" height="80" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Blason_ville_fr_autruche_%28ardennes%29.svg/109px-Blason_ville_fr_autruche_%28ardennes%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Blason_ville_fr_autruche_%28ardennes%29.svg/145px-Blason_ville_fr_autruche_%28ardennes%29.svg.png 2x" data-file-width="600" data-file-height="660"></a>
+          <br>
+          <small>Coat of arms</small>
+         </div>
+        </div>
+       </div></td>
+     </tr>
+     <tr class="mergedrow">
+      <td colspan="2" style="text-align:center">
+       <div class="mw-collapsible mw-collapsed" style="box-sizing:border-box;width:100%;font-size:95%;padding:4px;border:none;">
+        <div style="font-size:100%;line-height:1.6;font-weight:bold;background:transparent;text-align:center;;height:5px;">
+         Location of Autruche
+        </div>
+        <div class="mw-collapsible-content" style="background:transparent;text-align:left;;"> 
+         <div class="center" style="margin-top:1em">
+          <a class="mw-kartographer-map mw-kartographer-container center" data-mw="interface" data-style="osm-intl" data-width="270" data-height="200" data-zoom="12" data-lat="49.454722222222" data-lon="4.9" data-overlays="[&quot;_4cfaa470d0bbb675fe48a05f8ba1d6a232e22fbc&quot;]" style="background-image: url(https://maps.wikimedia.org/img/osm-intl,12,49.454722222222,4.9,270x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Autruche&amp;groups=_4cfaa470d0bbb675fe48a05f8ba1d6a232e22fbc); width: 270px; height: 200px;" href="/wiki/Special:Map/12/49.454722222222/4.9/en"></a>
+         </div>
+        </div>
+       </div></td>
+     </tr>
+     <tr class="mergedtoprow">
+      <td colspan="2" style="text-align:center">
+       <div class="switcher-container">
+        <div class="center">
+         <div style="width:270px;float:none;clear:both;margin-left:auto;margin-right:auto">
+          <div style="width:270px;padding:0">
+           <div style="position:relative;width:270px">
+            <a href="/wiki/File:France_location_map-Regions_and_departements-2016.svg" class="image" title="Autruche is located in France"><img alt="Autruche is located in France" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/France_location_map-Regions_and_departements-2016.svg/270px-France_location_map-Regions_and_departements-2016.svg.png" decoding="async" width="270" height="259" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/France_location_map-Regions_and_departements-2016.svg/405px-France_location_map-Regions_and_departements-2016.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e9/France_location_map-Regions_and_departements-2016.svg/540px-France_location_map-Regions_and_departements-2016.svg.png 2x" data-file-width="2000" data-file-height="1922"></a>
+            <div style="position:absolute;top:19.473%;left:67.723%">
+             <div style="position:absolute;left:-3px;top:-3px;line-height:0">
+              <img alt="Autruche" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/6px-Red_pog.svg.png" decoding="async" title="Autruche" width="6" height="6" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/9px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64">
+             </div>
+             <div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;right:4px;text-align:right">
+              <div style="display:inline;padding:1px;float:right">
+               Autruche
+              </div>
+             </div>
+            </div>
+           </div>
+           <div></div>
+           <span class="switcher-label" style="display:none">Show map of France</span>
+          </div>
+         </div>
+        </div>
+        <div class="center">
+         <div style="width:270px;float:none;clear:both;margin-left:auto;margin-right:auto">
+          <div style="width:270px;padding:0">
+           <div style="position:relative;width:270px">
+            <a href="/wiki/File:Alsace-Champagne-Ardenne-Lorraine_region_location_map.svg" class="image" title="Autruche is located in Grand Est"><img alt="Autruche is located in Grand Est" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Alsace-Champagne-Ardenne-Lorraine_region_location_map.svg/270px-Alsace-Champagne-Ardenne-Lorraine_region_location_map.svg.png" decoding="async" width="270" height="227" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Alsace-Champagne-Ardenne-Lorraine_region_location_map.svg/405px-Alsace-Champagne-Ardenne-Lorraine_region_location_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Alsace-Champagne-Ardenne-Lorraine_region_location_map.svg/540px-Alsace-Champagne-Ardenne-Lorraine_region_location_map.svg.png 2x" data-file-width="1724" data-file-height="1451"></a>
+            <div style="position:absolute;top:28.23%;left:32.678%">
+             <div style="position:absolute;left:-3px;top:-3px;line-height:0">
+              <img alt="Autruche" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/6px-Red_pog.svg.png" decoding="async" title="Autruche" width="6" height="6" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/9px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64">
+             </div>
+             <div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;right:4px;text-align:right">
+              <div style="display:inline;padding:1px;float:right">
+               Autruche
+              </div>
+             </div>
+            </div>
+           </div>
+           <div></div>
+           <span class="switcher-label" style="display:none">Show map of Grand Est</span>
+          </div>
+         </div>
+        </div>
+       </div></td>
+     </tr>
+     <tr class="mergedbottomrow">
+      <td colspan="2" style="text-align:center">Coordinates: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Autruche&amp;params=49.4553_N_4.9003_E_type:city(65)_region:FR-GES"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">49°27′19″N</span> <span class="longitude">4°54′01″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">49.4553°N 4.9003°E</span><span style="display:none">﻿ / <span class="geo">49.4553; 4.9003</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Autruche&amp;params=49.4553_N_4.9003_E_type:city(65)_region:FR-GES"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">49°27′19″N</span> <span class="longitude">4°54′01″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">49.4553°N 4.9003°E</span><span style="display:none">﻿ / <span class="geo">49.4553; 4.9003</span></span></span></a></span></span></span></td>
+     </tr>
+     <tr class="mergedtoprow">
+      <th scope="row">Country</th>
+      <td><a href="/wiki/France" title="France">France</a></td>
+     </tr>
+     <tr class="mergedrow">
+      <th scope="row"><a href="/wiki/Regions_of_France" title="Regions of France">Region</a></th>
+      <td><a href="/wiki/Grand_Est" title="Grand Est">Grand Est</a></td>
+     </tr>
+     <tr class="mergedrow">
+      <th scope="row"><a href="/wiki/Departments_of_France" title="Departments of France">Department</a></th>
+      <td><a href="/wiki/Ardennes_(department)" title="Ardennes (department)">Ardennes</a></td>
+     </tr>
+     <tr class="mergedrow">
+      <th scope="row"><a href="/wiki/Arrondissements_of_France" title="Arrondissements of France">Arrondissement</a></th>
+      <td><a href="/wiki/Arrondissement_of_Vouziers" title="Arrondissement of Vouziers">Vouziers</a></td>
+     </tr>
+     <tr class="mergedrow">
+      <th scope="row"><a href="/wiki/Cantons_of_France" title="Cantons of France">Canton</a></th>
+      <td><a href="/wiki/Canton_of_Vouziers" title="Canton of Vouziers">Vouziers</a></td>
+     </tr>
+     <tr class="mergedrow">
+      <th scope="row"><a href="/wiki/Communes_of_France#Intercommunality" title="Communes of France">Intercommunality</a></th>
+      <td><a href="/w/index.php?title=Communaut%C3%A9_de_communes_de_l%27Argonne_Ardennaise&amp;action=edit&amp;redlink=1" class="new" title="Communauté de communes de l'Argonne Ardennaise (page does not exist)">CC Argonne Ardennaise</a></td>
+     </tr>
+     <tr class="mergedtoprow">
+      <th colspan="2" style="text-align:center;text-align:left">Government
+       <div style="font-weight:normal;display:inline;"></div></th>
+     </tr>
+     <tr class="mergedrow">
+      <th scope="row">&nbsp;•&nbsp;Mayor <style data-mw-deduplicate="TemplateStyles:r886047488">.mw-parser-output .nobold{font-weight:normal}</style><span class="nobold">(2014-2020) </span></th>
+      <td>Anne Sembeni</td>
+     </tr>
+     <tr class="mergedtoprow">
+      <th scope="row">Area
+       <div style="font-weight:normal;display:inline;">
+        <sup><small><b>1</b></small></sup>
+       </div></th>
+      <td>8.24&nbsp;km<sup>2</sup> (3.18&nbsp;sq&nbsp;mi)</td>
+     </tr>
+     <tr class="mergedtoprow">
+      <th scope="row">Population 
+       <div style="font-weight:normal;display:inline;">
+        (2015)
+        <sup><small><b>2</b></small></sup>
+       </div></th>
+      <td>65</td>
+     </tr>
+     <tr class="mergedrow">
+      <th scope="row">&nbsp;•&nbsp;Density</th>
+      <td>7.9/km<sup>2</sup> (20/sq&nbsp;mi)</td>
+     </tr>
+     <tr class="mergedtoprow">
+      <th scope="row"><a href="/wiki/Time_zone" title="Time zone">Time zone</a></th>
+      <td><a href="/wiki/UTC%2B01:00" title="UTC+01:00">UTC+01:00</a> (<a href="/wiki/Central_European_Time" title="Central European Time">CET</a>)</td>
+     </tr>
+     <tr class="mergedrow">
+      <th scope="row"><span style="white-space:nowrap">&nbsp;•&nbsp;Summer (<a href="/wiki/Daylight_saving_time" title="Daylight saving time">DST</a>)</span></th>
+      <td><a href="/wiki/UTC%2B02:00" title="UTC+02:00">UTC+02:00</a> (<a href="/wiki/Central_European_Summer_Time" title="Central European Summer Time">CEST</a>)</td>
+     </tr>
+     <tr class="mergedtoprow">
+      <th scope="row"><a href="/wiki/INSEE_code" title="INSEE code">INSEE</a>/Postal code</th>
+      <td class="adr">
+       <div class="postal-code">
+        <a rel="nofollow" class="external text" href="https://www.insee.fr/fr/statistiques/1405599?geo=COM-08035">08035</a> /08240
+       </div></td>
+     </tr>
+     <tr class="mergedtoprow">
+      <th scope="row">Elevation</th>
+      <td>166–242&nbsp;m (545–794&nbsp;ft) <br>(avg. 186&nbsp;m or 610&nbsp;ft)</td>
+     </tr>
+     <tr>
+      <td colspan="2" style="text-align:center;text-align:left; font-size:smaller"><sup><b>1</b></sup> French Land Register data, which excludes lakes, ponds, glaciers &gt; 1&nbsp;km<sup>2</sup> (0.386&nbsp;sq&nbsp;mi or 247 acres) and river estuaries. <sup><b>2</b></sup> <i><a href="/wiki/Population_without_double_counting" title="Population without double counting">Population without double counting</a></i>: residents of multiple communes (e.g., students and military personnel) only counted once.</td>
+     </tr>
+    </tbody>
+   </table> 
+   <p><b>Autruche</b> is a <a href="/wiki/Communes_of_France" title="Communes of France">commune</a> in the <a href="/wiki/Ardennes_(department)" title="Ardennes (department)">Ardennes</a> <a href="/wiki/Departments_of_France" title="Departments of France">department</a> in the <a href="/wiki/Grand_Est" title="Grand Est">Grand Est</a> region of northern <a href="/wiki/France" title="France">France</a>. </p>
+   <p>The inhabitants of the commune are known as <i>Autruchiens</i> or <i>Autruchiennes</i>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> </p> 
+   <div id="toc" class="toc">
+    <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+    <div class="toctitle" lang="en" dir="ltr">
+     <h2>Contents</h2>
+     <span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+    </div> 
+    <ul> 
+     <li class="toclevel-1 tocsection-1"><a href="#Geography"><span class="tocnumber">1</span> <span class="toctext">Geography</span></a> 
+      <ul> 
+       <li class="toclevel-2 tocsection-2"><a href="#Neighbouring_communes_and_villages[2]"><span class="tocnumber">1.1</span> <span class="toctext">Neighbouring communes and villages<sup>[2]</sup></span></a></li> 
+       <li class="toclevel-2 tocsection-3"><a href="#Heraldry"><span class="tocnumber">1.2</span> <span class="toctext">Heraldry</span></a></li> 
+      </ul> </li> 
+     <li class="toclevel-1 tocsection-4"><a href="#Administration"><span class="tocnumber">2</span> <span class="toctext">Administration</span></a></li> 
+     <li class="toclevel-1 tocsection-5"><a href="#Demography"><span class="tocnumber">3</span> <span class="toctext">Demography</span></a></li> 
+     <li class="toclevel-1 tocsection-6"><a href="#Sites_and_monuments"><span class="tocnumber">4</span> <span class="toctext">Sites and monuments</span></a></li> 
+     <li class="toclevel-1 tocsection-7"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a> 
+      <ul> 
+       <li class="toclevel-2 tocsection-8"><a href="#External_links"><span class="tocnumber">5.1</span> <span class="toctext">External links</span></a></li> 
+      </ul> </li> 
+     <li class="toclevel-1 tocsection-9"><a href="#Notes_and_references"><span class="tocnumber">6</span> <span class="toctext">Notes and references</span></a> 
+      <ul> 
+       <li class="toclevel-2 tocsection-10"><a href="#Notes"><span class="tocnumber">6.1</span> <span class="toctext">Notes</span></a></li> 
+       <li class="toclevel-2 tocsection-11"><a href="#References"><span class="tocnumber">6.2</span> <span class="toctext">References</span></a></li> 
+      </ul> </li> 
+    </ul> 
+   </div> 
+   <h2><span class="mw-headline" id="Geography">Geography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Autruche&amp;action=edit&amp;section=1" title="Edit section: Geography">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <p>Autruche is located some 43&nbsp;km east by south-east of <a href="/wiki/Rethel" title="Rethel">Rethel</a> and 20&nbsp;km north-east of <a href="/wiki/Vouziers" title="Vouziers">Vouziers</a>. Access to the commune is by the D947 from <a href="/wiki/Germont" title="Germont">Germont</a> in the south-west which passes through the southern corner of the commune and continues east to <a href="/wiki/Bar-l%C3%A8s-Buzancy" title="Bar-lès-Buzancy">Bar-lès-Buzancy</a>. The D12 also comes from <a href="/wiki/Authe" title="Authe">Authe</a> in the north-west and joins the D947 in the commune. Access to the village is by a local road branching from the D947 which goes north to the village. The commune is entirely farmland except for some lakes in the south.<sup id="cite_ref-Google_2-0" class="reference"><a href="#cite_note-Google-2">[2]</a></sup> </p>
+   <p>The <a href="/wiki/Bar_(river)" title="Bar (river)">Bar</a> river forms the southern border of the commune as it flows west then follows the <a href="/wiki/Canal_des_Ardennes" title="Canal des Ardennes">Canal des Ardennes</a> to eventually join the <a href="/wiki/Meuse_(river)" class="mw-redirect" title="Meuse (river)">Meuse</a> at <a href="/wiki/Vrigne-Meuse" title="Vrigne-Meuse">Vrigne-Meuse</a>. The <i>Ruisseau de Saint Pierremont</i> flows from the north of the commune towards the south-west and continues to join the Bar west of the commune. The <i>Ruisseau du Clageot</i> rises in the north of the commune and flows south-west down the centre of the commune and also joins the Bar on the southern border.<sup id="cite_ref-Google_2-1" class="reference"><a href="#cite_note-Google-2">[2]</a></sup> </p> 
+   <h3><span id="Neighbouring_communes_and_villages.5B2.5D"></span><span class="mw-headline" id="Neighbouring_communes_and_villages[2]">Neighbouring communes and villages<sup id="cite_ref-Google_2-2" class="reference"><a href="#cite_note-Google-2">[2]</a></sup></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Autruche&amp;action=edit&amp;section=2" title="Edit section: Neighbouring communes and villages[2]">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+   <div role="navigation" class="navbox" aria-labelledby="Places_adjacent_to_Autruche" style="width:auto; clear:none; display:table;;padding:3px">
+    <table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+     <tbody>
+      <tr>
+       <th scope="col" class="navbox-title" colspan="2">
+        <div id="Places_adjacent_to_Autruche" style="font-size:114%;margin:0 4em">
+         Places adjacent to Autruche
+        </div></th>
+      </tr>
+      <tr>
+       <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+        <div style="padding:0em 0.25em">
+         <table role="presentation" style="width:100%; margin:0; text-align:center;">
+          <tbody>
+           <tr> 
+            <td><a href="/wiki/Brieulles-sur-Bar" title="Brieulles-sur-Bar">Brieulles-sur-Bar</a></td> 
+            <td><a href="/wiki/Saint-Pierremont,_Ardennes" title="Saint-Pierremont, Ardennes">Saint-Pierremont</a></td> 
+            <td><a href="/wiki/Vaux-en-Dieulet" title="Vaux-en-Dieulet">Vaux-en-Dieulet</a></td> 
+           </tr>
+           <tr> 
+            <td style="width:33%"><a href="/wiki/Authe" title="Authe">Authe</a></td> 
+            <td style="width:33%;"> 
+             <div>
+              <img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Pfeil_oben.svg/14px-Pfeil_oben.svg.png" decoding="async" title="North" width="14" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Pfeil_oben.svg/21px-Pfeil_oben.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/76/Pfeil_oben.svg/28px-Pfeil_oben.svg.png 2x" data-file-width="501" data-file-height="595">
+             </div> 
+             <div style="white-space:nowrap;">
+              <img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Pfeil_links.svg/17px-Pfeil_links.svg.png" decoding="async" title="West" width="17" height="14" style="vertical-align: middle" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Pfeil_links.svg/25px-Pfeil_links.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/85/Pfeil_links.svg/33px-Pfeil_links.svg.png 2x" data-file-width="595" data-file-height="501">
+              <b style="display:inline-block; vertical-align:middle; margin:0.75em 1em">Autruche</b>
+              <img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Pfeil_rechts.svg/17px-Pfeil_rechts.svg.png" decoding="async" title="East" width="17" height="14" style="vertical-align: middle" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Pfeil_rechts.svg/25px-Pfeil_rechts.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Pfeil_rechts.svg/33px-Pfeil_rechts.svg.png 2x" data-file-width="595" data-file-height="501">
+             </div> 
+             <div>
+              <img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pfeil_unten.svg/14px-Pfeil_unten.svg.png" decoding="async" title="South" width="14" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pfeil_unten.svg/21px-Pfeil_unten.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pfeil_unten.svg/28px-Pfeil_unten.svg.png 2x" data-file-width="501" data-file-height="595">
+             </div> </td> 
+            <td style="width:33%"><a href="/wiki/Foss%C3%A9,_Ardennes" title="Fossé, Ardennes">Fossé</a></td> 
+           </tr>
+           <tr> 
+            <td><a href="/wiki/Germont" title="Germont">Germont</a></td> 
+            <td></td> 
+            <td><a href="/wiki/Harricourt" title="Harricourt">Harricourt</a></td> 
+           </tr>
+          </tbody>
+         </table>
+        </div></td>
+      </tr>
+     </tbody>
+    </table>
+   </div> 
+   <h3><span class="mw-headline" id="Heraldry">Heraldry</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Autruche&amp;action=edit&amp;section=3" title="Edit section: Heraldry">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+   <table class="wikitable"> 
+    <tbody>
+     <tr> 
+      <td style="text-align:center;padding:5px 8px;width:120px;">
+       <div class="center">
+        <div class="floatnone">
+         <a href="/wiki/File:Blason_ville_fr_autruche_(ardennes).svg" class="image" title="Arms of Autruche"><img alt="Arms of Autruche" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Blason_ville_fr_autruche_%28ardennes%29.svg/120px-Blason_ville_fr_autruche_%28ardennes%29.svg.png" decoding="async" width="120" height="132" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Blason_ville_fr_autruche_%28ardennes%29.svg/180px-Blason_ville_fr_autruche_%28ardennes%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Blason_ville_fr_autruche_%28ardennes%29.svg/240px-Blason_ville_fr_autruche_%28ardennes%29.svg.png 2x" data-file-width="600" data-file-height="660"></a>
+        </div>
+       </div> </td> 
+      <td style="vertical-align:top;">The official status of the blazon remains to be determined. <p><b>Blazon:</b><br> <i>Argent, a stalk of grass leaved and stalked in Vert with head of Sable between two pales of Gules, in chief Sable embattled of four and charged with three billets posed in fesse.</i> </p><p><br> </p><p><br> </p> </td>
+     </tr>
+    </tbody>
+   </table> 
+   <h2><span class="mw-headline" id="Administration">Administration</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Autruche&amp;action=edit&amp;section=4" title="Edit section: Administration">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <p><b>List of Successive Mayors</b><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> </p> 
+   <table class="wikitable"> 
+    <tbody>
+     <tr> 
+      <th>From</th> 
+      <th>To</th> 
+      <th>Name</th> 
+      <th>Party</th> 
+      <th>Position </th>
+     </tr> 
+     <tr> 
+      <td>1995</td> 
+      <td>2014</td> 
+      <td>Claude Lambert</td> 
+      <td></td> 
+      <td> </td>
+     </tr> 
+     <tr> 
+      <td>2014</td> 
+      <td>2020</td> 
+      <td>Anne Sembeni</td> 
+      <td></td> 
+      <td> </td>
+     </tr>
+    </tbody>
+   </table> 
+   <p>(Not all data is known) </p> 
+   <h2><span class="mw-headline" id="Demography">Demography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Autruche&amp;action=edit&amp;section=5" title="Edit section: Demography">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <p>In 2010 the commune had 63 inhabitants. The evolution of the number of inhabitants is known from the population censuses conducted in the commune since 1793. From the 21st century, a census of communes with fewer than 10,000 inhabitants is held every five years, unlike larger communes that have a sample survey every year.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[Note 1]</a></sup> </p> 
+   <div style="clear:both;"></div> 
+   <center>
+    <b>Population change</b> 
+    <small><a href="/wiki/Template:Database_Population_Autruche" title="Template:Database Population Autruche">(See database)</a></small> 
+    <table class="wikitable centre" style="table-layout:fixed;width:48em;text-align:center;margin-top: 6px; margin-bottom: 10px;font-size:90%;line-height:120%;"> 
+     <tbody>
+      <tr> 
+       <th scope="col" style="background-color:#DFD;">1793</th> 
+       <th scope="col" style="background-color:#DFD;">1800</th> 
+       <th scope="col" style="background-color:#DFD;">1806</th> 
+       <th scope="col" style="background-color:#DFD;">1821</th> 
+       <th scope="col" style="background-color:#DFD;">1831</th> 
+       <th scope="col" style="background-color:#DFD;">1836</th> 
+       <th scope="col" style="background-color:#DFD;">1841</th> 
+       <th scope="col" style="background-color:#DFD;">1846</th> 
+       <th scope="col" style="background-color:#DFD;">1851</th> 
+      </tr> 
+      <tr> 
+       <td style="background-color:#f3fff3;">225</td> 
+       <td style="background-color:#f3fff3;">248</td> 
+       <td style="background-color:#f3fff3;">256</td> 
+       <td style="background-color:#f3fff3;">217</td> 
+       <td style="background-color:#f3fff3;">239</td> 
+       <td style="background-color:#f3fff3;">246</td> 
+       <td style="background-color:#f3fff3;">242</td> 
+       <td style="background-color:#f3fff3;">254</td> 
+       <td style="background-color:#f3fff3;">240</td> 
+      </tr> 
+     </tbody>
+    </table>
+    <table class="wikitable centre" style="table-layout:fixed;width:48em;text-align:center;margin-top: 6px; margin-bottom: 10px;font-size:90%;line-height:120%;"> 
+     <tbody>
+      <tr> 
+       <th scope="col" style="background-color:#DFD;">1856</th> 
+       <th scope="col" style="background-color:#DFD;">1861</th> 
+       <th scope="col" style="background-color:#DFD;">1866</th> 
+       <th scope="col" style="background-color:#DFD;">1872</th> 
+       <th scope="col" style="background-color:#DFD;">1876</th> 
+       <th scope="col" style="background-color:#DFD;">1881</th> 
+       <th scope="col" style="background-color:#DFD;">1886</th> 
+       <th scope="col" style="background-color:#DFD;">1891</th> 
+       <th scope="col" style="background-color:#DFD;">1896</th> 
+      </tr> 
+      <tr> 
+       <td style="background-color:#f3fff3;">-</td> 
+       <td style="background-color:#f3fff3;">-</td> 
+       <td style="background-color:#f3fff3;">222</td> 
+       <td style="background-color:#f3fff3;">217</td> 
+       <td style="background-color:#f3fff3;">207</td> 
+       <td style="background-color:#f3fff3;">213</td> 
+       <td style="background-color:#f3fff3;">207</td> 
+       <td style="background-color:#f3fff3;">199</td> 
+       <td style="background-color:#f3fff3;">200</td> 
+      </tr> 
+     </tbody>
+    </table>
+    <table class="wikitable centre" style="table-layout:fixed;width:48em;text-align:center;margin-top: 6px; margin-bottom: 10px;font-size:90%;line-height:120%;"> 
+     <tbody>
+      <tr> 
+       <th scope="col" style="background-color:#DFD;">1901</th> 
+       <th scope="col" style="background-color:#DFD;">1906</th> 
+       <th scope="col" style="background-color:#DFD;">1911</th> 
+       <th scope="col" style="background-color:#DFD;">1921</th> 
+       <th scope="col" style="background-color:#DFD;">1926</th> 
+       <th scope="col" style="background-color:#DFD;">1931</th> 
+       <th scope="col" style="background-color:#DFD;">1936</th> 
+       <th scope="col" style="background-color:#DFD;">1946</th> 
+       <th scope="col" style="background-color:#DFD;">1954</th> 
+      </tr> 
+      <tr> 
+       <td style="background-color:#f3fff3;">197</td> 
+       <td style="background-color:#f3fff3;">207</td> 
+       <td style="background-color:#f3fff3;">196</td> 
+       <td style="background-color:#f3fff3;">160</td> 
+       <td style="background-color:#f3fff3;">183</td> 
+       <td style="background-color:#f3fff3;">156</td> 
+       <td style="background-color:#f3fff3;">142</td> 
+       <td style="background-color:#f3fff3;">119</td> 
+       <td style="background-color:#f3fff3;">117</td> 
+      </tr> 
+     </tbody>
+    </table>
+    <table class="wikitable centre" style="table-layout:fixed;width:48em;text-align:center;margin-top: 6px; margin-bottom: 10px;font-size:90%;line-height:120%;"> 
+     <tbody>
+      <tr> 
+       <th scope="col" style="background-color:#DFD;">1962</th> 
+       <th scope="col" style="background-color:#DFD;">1968</th> 
+       <th scope="col" style="background-color:#DFD;">1975</th> 
+       <th scope="col" style="background-color:#DFD;">1982</th> 
+       <th scope="col" style="background-color:#DFD;">1990</th> 
+       <th scope="col" style="background-color:#DFD;">1999</th> 
+       <th scope="col" style="background-color:#DFD;">2006</th> 
+       <th scope="col" style="background-color:#DFD;">2010</th> 
+       <th scope="col" style="background-color:#DFD;">-</th> 
+      </tr> 
+      <tr> 
+       <td style="background-color:#f3fff3;">113</td> 
+       <td style="background-color:#f3fff3;">101</td> 
+       <td style="background-color:#f3fff3;">87</td> 
+       <td style="background-color:#f3fff3;">71</td> 
+       <td style="background-color:#f3fff3;">48</td> 
+       <td style="background-color:#f3fff3;">44</td> 
+       <td style="background-color:#f3fff3;">51</td> 
+       <td style="background-color:#f3fff3;">63</td> 
+       <td style="background-color:#f3fff3;">-</td> 
+      </tr> 
+     </tbody>
+    </table> 
+    <p>Sources&nbsp;: <a rel="nofollow" class="external text" href="http://cassini.ehess.fr/cassini/fr/html/fiche.php?select_resultat=2034">Ldh/EHESS/Cassini until 1962</a>, <a rel="nofollow" class="external text" href="http://www.insee.fr/fr/themes/tableau_local.asp?ref_id=POP&amp;millesime=2010&amp;typgeo=COM&amp;codgeo=08035">INSEE database from 1968</a> (<a href="/wiki/Population_without_double_counting" title="Population without double counting">population without double counting</a> and municipal population from 2006) </p> 
+   </center> 
+   <p><br> </p> 
+   <div class="center">
+    <div class="thumb tnone">
+     <div class="thumbinner" style="width:477px;">
+      <a href="/wiki/File:Population_-_Municipality_code_08035.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/23/Population_-_Municipality_code_08035.svg/475px-Population_-_Municipality_code_08035.svg.png" decoding="async" width="475" height="355" class="thumbimage" data-file-width="475" data-file-height="355"></a> 
+      <div class="thumbcaption">
+       <b>Population of Autruche</b>
+      </div>
+     </div>
+    </div>
+   </div> 
+   <h2><span class="mw-headline" id="Sites_and_monuments">Sites and monuments</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Autruche&amp;action=edit&amp;section=6" title="Edit section: Sites and monuments">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <p>The <b>Church of Saint-Nicolas</b> (16th century)<a href="/wiki/File:Logo_monument_historique_-_rouge_sans_texte.svg" class="image"><img alt="Logo monument historique - rouge sans texte.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Logo_monument_historique_-_rouge_sans_texte.svg/18px-Logo_monument_historique_-_rouge_sans_texte.svg.png" decoding="async" width="18" height="18" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Logo_monument_historique_-_rouge_sans_texte.svg/27px-Logo_monument_historique_-_rouge_sans_texte.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Logo_monument_historique_-_rouge_sans_texte.svg/36px-Logo_monument_historique_-_rouge_sans_texte.svg.png 2x" data-file-width="558" data-file-height="558"></a> is registered as an historical monument.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup> The church contains two items that are registered as historical objects: </p> 
+   <ul>
+    <li>6 Statuettes (17th century)<a href="/wiki/File:Logo_monument_historique_-_noir_sans_texte.svg" class="image"><img alt="Logo monument historique - noir sans texte.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_monument_historique_-_noir_sans_texte.svg/18px-Logo_monument_historique_-_noir_sans_texte.svg.png" decoding="async" width="18" height="18" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_monument_historique_-_noir_sans_texte.svg/27px-Logo_monument_historique_-_noir_sans_texte.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_monument_historique_-_noir_sans_texte.svg/36px-Logo_monument_historique_-_noir_sans_texte.svg.png 2x" data-file-width="558" data-file-height="558"></a><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[5]</a></sup></li> 
+    <li>A Sculpture: Triumphant Virgin (17th century)<a href="/wiki/File:Logo_monument_historique_-_noir_sans_texte.svg" class="image"><img alt="Logo monument historique - noir sans texte.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_monument_historique_-_noir_sans_texte.svg/18px-Logo_monument_historique_-_noir_sans_texte.svg.png" decoding="async" width="18" height="18" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_monument_historique_-_noir_sans_texte.svg/27px-Logo_monument_historique_-_noir_sans_texte.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_monument_historique_-_noir_sans_texte.svg/36px-Logo_monument_historique_-_noir_sans_texte.svg.png 2x" data-file-width="558" data-file-height="558"></a><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[6]</a></sup></li>
+   </ul> 
+   <h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Autruche&amp;action=edit&amp;section=7" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <ul>
+    <li><a href="/wiki/Communes_of_the_Ardennes_department" title="Communes of the Ardennes department">Communes of the Ardennes department</a></li>
+   </ul> 
+   <h3><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Autruche&amp;action=edit&amp;section=8" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+   <ul>
+    <li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070312131330/http://www.ign.fr/affiche_rubrique.asp?rbr_id=1087&amp;CommuneId=93996">Autruche on the old IGN website</a> <span class="languageicon">(in French)</span></li> 
+    <li><a rel="nofollow" class="external text" href="http://www.lion1906.com/departements/ardennes/autruche-.php">Autruche on Lion1906</a></li> 
+    <li><a rel="nofollow" class="external text" href="https://www.google.com/maps/place/08240+Autruche/@49.4482208,4.9044811,5912m/data=!3m1!1e3!4m2!3m1!1s0x47ea45a5ae13f343:0x40a5fb99a3f7e80?hl=en">Autruche on Google Maps</a></li> 
+    <li><a rel="nofollow" class="external text" href="http://www.geoportail.gouv.fr/accueil?c=4.9003,49.4553&amp;z=7.92265E-5&amp;l=GEOGRAPHICALGRIDSYSTEMS.MAPS.3D$GEOPORTAIL:OGC:WMTS@aggregate(1)&amp;l=ADMINISTRATIVEUNITS.BOUNDARIES$GEOPORTAIL:OGC:WMTS(1)&amp;permalink=yes">Autruche on Géoportail</a>, <a href="/wiki/Institut_g%C3%A9ographique_national" title="Institut géographique national">National Geographic Institute</a> (IGN) website <span class="languageicon">(in French)</span></li> 
+    <li><a rel="nofollow" class="external text" href="http://rumsey.geogarage.com/maps/cassinige.html?lat=49.4553&amp;lon=4.9003&amp;zoom=13"><i>Autruche</i> on the 1750 Cassini Map</a></li> 
+    <li><a rel="nofollow" class="external text" href="http://www.insee.fr/fr/themes/tableau_local.asp?ref_id=POP&amp;millesime=2010&amp;typgeo=COM&amp;codgeo=08035">Autruche on the INSEE website</a> <span class="languageicon">(in French)</span></li> 
+    <li><a rel="nofollow" class="external text" href="http://www.insee.fr/en/home/home_page.asp">INSEE</a> <span class="languageicon">(in French)</span></li>
+   </ul> 
+   <h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Autruche&amp;action=edit&amp;section=9" title="Edit section: Notes and references">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <h3><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Autruche&amp;action=edit&amp;section=10" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+   <div class="mw-references-wrap">
+    <ol class="references"> 
+     <li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">At the beginning of the 21st century, the methods of identification have been modified by <a rel="nofollow" class="external text" href="https://web.archive.org/web/20130514005038/http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000593100&amp;fastPos=1&amp;fastReqId=2036940488&amp;categorieLien=cid&amp;oldAction=rechTexte">Law No. 2002-276 of 27 February 2002</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20160306074946/https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000593100">Archived</a> 6 March 2016 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>, the so-called "law of local democracy" and in particular Title V "census operations" allows, after a transitional period running from 2004 to 2008, the annual publication of the legal population of the different French administrative districts. For communes with a population greater than 10,000 inhabitants, a sample survey is conducted annually, the entire territory of these communes is taken into account at the end of the period of five years. The first "legal population" after 1999 under this new law came into force on 1 January 2009 and was based on the census of 2006.</span> </li> 
+    </ol>
+   </div> 
+   <h3><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Autruche&amp;action=edit&amp;section=11" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+   <div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;"> 
+    <ol class="references"> 
+     <li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.habitants.fr/habitants_departement_ardennes_08.html">Inhabitants of Ardennes</a> <span class="languageicon">(in French)</span></span> </li> 
+     <li id="cite_note-Google-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-Google_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Google_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Google_2-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.google.com/maps/place/08240+Autruche/@49.4482208,4.9044811,5912m/data=!3m1!1e3!4m2!3m1!1s0x47ea45a5ae13f343:0x40a5fb99a3f7e80?hl=en">Google Maps</a></span> </li> 
+     <li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.francegenweb.org/mairesgenweb/resultcommune.php?id=8449">List of Mayors of France</a> <span class="languageicon">(in French)</span></span> </li> 
+     <li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Ministry of Culture, Mérimée <a rel="nofollow" class="external text" href="http://www.culture.gouv.fr/public/mistral/merimee_fr?ACTION=RETROUVER&amp;REQ=((PA00078337):REF)">PA00078337 Church of Saint-Nicolas</a> <span class="languageicon">(in French)</span><a href="/wiki/File:Camera_aabb.svg" class="image"><img alt="Camera aabb.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Camera_aabb.svg/20px-Camera_aabb.svg.png" decoding="async" width="20" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Camera_aabb.svg/30px-Camera_aabb.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Camera_aabb.svg/40px-Camera_aabb.svg.png 2x" data-file-width="500" data-file-height="341"></a></span> </li> 
+     <li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Ministry of Culture, Palissy <a rel="nofollow" class="external text" href="https://www.pop.culture.gouv.fr/notice/palissy/PM08000038">PM08000038 6 Statuettes</a> <span class="languageicon">(in French)</span><a href="/wiki/File:Camera_aabb.svg" class="image"><img alt="Camera aabb.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Camera_aabb.svg/20px-Camera_aabb.svg.png" decoding="async" width="20" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Camera_aabb.svg/30px-Camera_aabb.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Camera_aabb.svg/40px-Camera_aabb.svg.png 2x" data-file-width="500" data-file-height="341"></a></span> </li> 
+     <li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Ministry of Culture, Palissy <a rel="nofollow" class="external text" href="https://www.pop.culture.gouv.fr/notice/palissy/PM08000037">PM08000037 Sculpture: Triumphant Virgin</a> <span class="languageicon">(in French)</span><a href="/wiki/File:Camera_aabb.svg" class="image"><img alt="Camera aabb.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Camera_aabb.svg/20px-Camera_aabb.svg.png" decoding="async" width="20" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Camera_aabb.svg/30px-Camera_aabb.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Camera_aabb.svg/40px-Camera_aabb.svg.png 2x" data-file-width="500" data-file-height="341"></a></span> </li> 
+    </ol>
+   </div> 
+   <table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000"> 
+    <tbody>
+     <tr> 
+      <td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376"></td> 
+      <td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Autruche_(Ardennes)" class="extiw" title="commons:Category:Autruche (Ardennes)">Autruche</a></b></i>.</td>
+     </tr>
+    </tbody>
+   </table> 
+   <div role="navigation" class="navbox" aria-labelledby="Communes_of_the_Ardennes_department_23x15px&amp;#124;border_&amp;#124;alt=&amp;#124;link=" style="padding:3px">
+    <table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+     <tbody>
+      <tr>
+       <th scope="col" class="navbox-title" colspan="2">
+        <div class="plainlinks hlist navbar mini">
+         <ul>
+          <li class="nv-view"><a href="/wiki/Template:Ardennes_communes" title="Template:Ardennes communes"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+          <li class="nv-talk"><a href="/wiki/Template_talk:Ardennes_communes" title="Template talk:Ardennes communes"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+          <li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Ardennes_communes&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+         </ul>
+        </div>
+        <div id="Communes_of_the_Ardennes_department_23x15px&amp;#124;border_&amp;#124;alt=&amp;#124;link=" style="font-size:114%;margin:0 4em">
+         <a href="/wiki/Communes_of_the_Ardennes_department" title="Communes of the Ardennes department">Communes</a> of the 
+         <a href="/wiki/Ardennes_(department)" title="Ardennes (department)">Ardennes</a> department 
+         <span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600"></span>
+        </div></th>
+      </tr>
+      <tr>
+       <td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><a href="/wiki/Acy-Romance" title="Acy-Romance">Acy-Romance</a></li> 
+          <li><a href="/wiki/Aiglemont" title="Aiglemont">Aiglemont</a></li> 
+          <li><a href="/wiki/Aire,_Ardennes" title="Aire, Ardennes">Aire</a></li> 
+          <li><a href="/wiki/Alincourt" title="Alincourt">Alincourt</a></li> 
+          <li><a href="/wiki/Alland%27Huy-et-Sausseuil" title="Alland'Huy-et-Sausseuil">Alland'Huy-et-Sausseuil</a></li> 
+          <li><a href="/wiki/Amagne" title="Amagne">Amagne</a></li> 
+          <li><a href="/wiki/Ambly-Fleury" title="Ambly-Fleury">Ambly-Fleury</a></li> 
+          <li><a href="/wiki/Anchamps" title="Anchamps">Anchamps</a></li> 
+          <li><a href="/wiki/Angecourt" title="Angecourt">Angecourt</a></li> 
+          <li><a href="/wiki/Annelles" title="Annelles">Annelles</a></li> 
+          <li><a href="/wiki/Antheny" title="Antheny">Antheny</a></li> 
+          <li><a href="/wiki/Aouste" title="Aouste">Aouste</a></li> 
+          <li><a href="/wiki/Apremont,_Ardennes" title="Apremont, Ardennes">Apremont</a></li> 
+          <li><a href="/wiki/Ardeuil-et-Montfauxelles" title="Ardeuil-et-Montfauxelles">Ardeuil-et-Montfauxelles</a></li> 
+          <li><a href="/wiki/Arnicourt" title="Arnicourt">Arnicourt</a></li> 
+          <li><a href="/wiki/Arreux" title="Arreux">Arreux</a></li> 
+          <li><a href="/wiki/Artaise-le-Vivier" title="Artaise-le-Vivier">Artaise-le-Vivier</a></li> 
+          <li><a href="/wiki/Asfeld" title="Asfeld">Asfeld</a></li> 
+          <li><a href="/wiki/Attigny,_Ardennes" title="Attigny, Ardennes">Attigny</a></li> 
+          <li><a href="/wiki/Aubigny-les-Poth%C3%A9es" title="Aubigny-les-Pothées">Aubigny-les-Pothées</a></li> 
+          <li><a href="/wiki/Auboncourt-Vauzelles" title="Auboncourt-Vauzelles">Auboncourt-Vauzelles</a></li> 
+          <li><a href="/wiki/Aubrives" title="Aubrives">Aubrives</a></li> 
+          <li><a href="/wiki/Auflance" title="Auflance">Auflance</a></li> 
+          <li><a href="/wiki/Auge,_Ardennes" title="Auge, Ardennes">Auge</a></li> 
+          <li><a href="/wiki/Aure,_Ardennes" title="Aure, Ardennes">Aure</a></li> 
+          <li><a href="/wiki/Aussonce" title="Aussonce">Aussonce</a></li> 
+          <li><a href="/wiki/Authe" title="Authe">Authe</a></li> 
+          <li><a href="/wiki/Autrecourt-et-Pourron" title="Autrecourt-et-Pourron">Autrecourt-et-Pourron</a></li> 
+          <li><a class="mw-selflink selflink">Autruche</a></li> 
+          <li><a href="/wiki/Autry" title="Autry">Autry</a></li> 
+          <li><a href="/wiki/Auvillers-les-Forges" title="Auvillers-les-Forges">Auvillers-les-Forges</a></li> 
+          <li><a href="/wiki/Avan%C3%A7on,_Ardennes" title="Avançon, Ardennes">Avançon</a></li> 
+          <li><a href="/wiki/Avaux" title="Avaux">Avaux</a></li> 
+          <li><a href="/wiki/Les_Ayvelles" title="Les Ayvelles">Les Ayvelles</a></li> 
+          <li><a href="/wiki/Ba%C3%A2lons" title="Baâlons">Baâlons</a></li> 
+          <li><a href="/wiki/Bairon_et_ses_environs" title="Bairon et ses environs">Bairon et ses environs</a></li> 
+          <li><a href="/wiki/Balan,_Ardennes" title="Balan, Ardennes">Balan</a></li> 
+          <li><a href="/wiki/Balham,_Ardennes" title="Balham, Ardennes">Balham</a></li> 
+          <li><a href="/wiki/Ballay" title="Ballay">Ballay</a></li> 
+          <li><a href="/wiki/Banogne-Recouvrance" title="Banogne-Recouvrance">Banogne-Recouvrance</a></li> 
+          <li><a href="/wiki/Barbaise" title="Barbaise">Barbaise</a></li> 
+          <li><a href="/wiki/Barby,_Ardennes" title="Barby, Ardennes">Barby</a></li> 
+          <li><a href="/wiki/Bar-l%C3%A8s-Buzancy" title="Bar-lès-Buzancy">Bar-lès-Buzancy</a></li> 
+          <li><a href="/wiki/Bayonville" title="Bayonville">Bayonville</a></li> 
+          <li><a href="/wiki/Bazeilles" title="Bazeilles">Bazeilles</a></li> 
+          <li><a href="/wiki/Beaumont-en-Argonne" title="Beaumont-en-Argonne">Beaumont-en-Argonne</a></li> 
+          <li><a href="/wiki/Beffu-et-le-Morthomme" title="Beffu-et-le-Morthomme">Beffu-et-le-Morthomme</a></li> 
+          <li><a href="/wiki/Belleville-et-Ch%C3%A2tillon-sur-Bar" title="Belleville-et-Châtillon-sur-Bar">Belleville-et-Châtillon-sur-Bar</a></li> 
+          <li><a href="/wiki/Belval,_Ardennes" title="Belval, Ardennes">Belval</a></li> 
+          <li><a href="/wiki/Belval-Bois-des-Dames" title="Belval-Bois-des-Dames">Belval-Bois-des-Dames</a></li> 
+          <li><a href="/wiki/Bergnicourt" title="Bergnicourt">Bergnicourt</a></li> 
+          <li><a href="/wiki/La_Berli%C3%A8re" title="La Berlière">La Berlière</a></li> 
+          <li><a href="/wiki/Bertoncourt" title="Bertoncourt">Bertoncourt</a></li> 
+          <li><a href="/wiki/La_Besace" title="La Besace">La Besace</a></li> 
+          <li><a href="/wiki/Biermes" title="Biermes">Biermes</a></li> 
+          <li><a href="/wiki/Bi%C3%A8vres,_Ardennes" title="Bièvres, Ardennes">Bièvres</a></li> 
+          <li><a href="/wiki/Bignicourt" title="Bignicourt">Bignicourt</a></li> 
+          <li><a href="/wiki/Blagny" title="Blagny">Blagny</a></li> 
+          <li><a href="/wiki/Blanchefosse-et-Bay" title="Blanchefosse-et-Bay">Blanchefosse-et-Bay</a></li> 
+          <li><a href="/wiki/Blanzy-la-Salonnaise" title="Blanzy-la-Salonnaise">Blanzy-la-Salonnaise</a></li> 
+          <li><a href="/wiki/Blombay" title="Blombay">Blombay</a></li> 
+          <li><a href="/wiki/Bogny-sur-Meuse" title="Bogny-sur-Meuse">Bogny-sur-Meuse</a></li> 
+          <li><a href="/wiki/Bossus-l%C3%A8s-Rumigny" title="Bossus-lès-Rumigny">Bossus-lès-Rumigny</a></li> 
+          <li><a href="/wiki/Bouconville" title="Bouconville">Bouconville</a></li> 
+          <li><a href="/wiki/Boult-aux-Bois" title="Boult-aux-Bois">Boult-aux-Bois</a></li> 
+          <li><a href="/wiki/Boulzicourt" title="Boulzicourt">Boulzicourt</a></li> 
+          <li><a href="/wiki/Bourcq" title="Bourcq">Bourcq</a></li> 
+          <li><a href="/wiki/Bourg-Fid%C3%A8le" title="Bourg-Fidèle">Bourg-Fidèle</a></li> 
+          <li><a href="/wiki/Bouvellemont" title="Bouvellemont">Bouvellemont</a></li> 
+          <li><a href="/wiki/Br%C3%A9cy-Bri%C3%A8res" title="Brécy-Brières">Brécy-Brières</a></li> 
+          <li><a href="/wiki/Br%C3%A9villy" title="Brévilly">Brévilly</a></li> 
+          <li><a href="/wiki/Brienne-sur-Aisne" title="Brienne-sur-Aisne">Brienne-sur-Aisne</a></li> 
+          <li><a href="/wiki/Brieulles-sur-Bar" title="Brieulles-sur-Bar">Brieulles-sur-Bar</a></li> 
+          <li><a href="/wiki/Briquenay" title="Briquenay">Briquenay</a></li> 
+          <li><a href="/wiki/Brognon,_Ardennes" title="Brognon, Ardennes">Brognon</a></li> 
+          <li><a href="/wiki/Bulson" title="Bulson">Bulson</a></li> 
+          <li><a href="/wiki/Buzancy,_Ardennes" title="Buzancy, Ardennes">Buzancy</a></li> 
+          <li><a href="/wiki/Carignan,_Ardennes" title="Carignan, Ardennes">Carignan</a></li> 
+          <li><a href="/wiki/Cauroy" title="Cauroy">Cauroy</a></li> 
+          <li><a href="/wiki/Cernion" title="Cernion">Cernion</a></li> 
+          <li><a href="/wiki/Chagny,_Ardennes" title="Chagny, Ardennes">Chagny</a></li> 
+          <li><a href="/wiki/Chalandry-Elaire" title="Chalandry-Elaire">Chalandry-Elaire</a></li> 
+          <li><a href="/wiki/Challerange" title="Challerange">Challerange</a></li> 
+          <li><a href="/wiki/Champigneulle" title="Champigneulle">Champigneulle</a></li> 
+          <li><a href="/wiki/Champigneul-sur-Vence" title="Champigneul-sur-Vence">Champigneul-sur-Vence</a></li> 
+          <li><a href="/wiki/Champlin,_Ardennes" title="Champlin, Ardennes">Champlin</a></li> 
+          <li><a href="/wiki/La_Chapelle,_Ardennes" title="La Chapelle, Ardennes">La Chapelle</a></li> 
+          <li><a href="/wiki/Chappes,_Ardennes" title="Chappes, Ardennes">Chappes</a></li> 
+          <li><a href="/wiki/Charbogne" title="Charbogne">Charbogne</a></li> 
+          <li><a href="/wiki/Chardeny" title="Chardeny">Chardeny</a></li> 
+          <li><a href="/wiki/Charleville-M%C3%A9zi%C3%A8res" title="Charleville-Mézières">Charleville-Mézières</a></li> 
+          <li><a href="/wiki/Charnois" title="Charnois">Charnois</a></li> 
+          <li><a href="/wiki/Ch%C3%A2teau-Porcien" title="Château-Porcien">Château-Porcien</a></li> 
+          <li><a href="/wiki/Chatel-Ch%C3%A9h%C3%A9ry" title="Chatel-Chéhéry">Chatel-Chéhéry</a></li> 
+          <li><a href="/wiki/Le_Ch%C3%A2telet-sur-Retourne" title="Le Châtelet-sur-Retourne">Le Châtelet-sur-Retourne</a></li> 
+          <li><a href="/wiki/Le_Ch%C3%A2telet-sur-Sormonne" title="Le Châtelet-sur-Sormonne">Le Châtelet-sur-Sormonne</a></li> 
+          <li><a href="/wiki/Chaumont-Porcien" title="Chaumont-Porcien">Chaumont-Porcien</a></li> 
+          <li><a href="/wiki/Ch%C3%A9mery-Ch%C3%A9h%C3%A9ry" title="Chémery-Chéhéry">Chémery-Chéhéry</a></li> 
+          <li><a href="/wiki/Chesnois-Auboncourt" title="Chesnois-Auboncourt">Chesnois-Auboncourt</a></li> 
+          <li><a href="/wiki/Cheveuges" title="Cheveuges">Cheveuges</a></li> 
+          <li><a href="/wiki/Chevi%C3%A8res" title="Chevières">Chevières</a></li> 
+          <li><a href="/wiki/Chilly,_Ardennes" title="Chilly, Ardennes">Chilly</a></li> 
+          <li><a href="/wiki/Chooz,_Ardennes" title="Chooz, Ardennes">Chooz</a></li> 
+          <li><a href="/wiki/Chuffilly-Roche" title="Chuffilly-Roche">Chuffilly-Roche</a></li> 
+          <li><a href="/wiki/Clavy-Warby" title="Clavy-Warby">Clavy-Warby</a></li> 
+          <li><a href="/wiki/Cliron" title="Cliron">Cliron</a></li> 
+          <li><a href="/wiki/Cond%C3%A9-l%C3%A8s-Autry" title="Condé-lès-Autry">Condé-lès-Autry</a></li> 
+          <li><a href="/wiki/Cond%C3%A9-l%C3%A8s-Herpy" title="Condé-lès-Herpy">Condé-lès-Herpy</a></li> 
+          <li><a href="/wiki/Contreuve" title="Contreuve">Contreuve</a></li> 
+          <li><a href="/wiki/Cornay" title="Cornay">Cornay</a></li> 
+          <li><a href="/wiki/Corny-Mach%C3%A9rom%C3%A9nil" title="Corny-Machéroménil">Corny-Machéroménil</a></li> 
+          <li><a href="/wiki/Coucy,_Ardennes" title="Coucy, Ardennes">Coucy</a></li> 
+          <li><a href="/wiki/Coulommes-et-Marqueny" title="Coulommes-et-Marqueny">Coulommes-et-Marqueny</a></li> 
+          <li><a href="/wiki/La_Croix-aux-Bois" title="La Croix-aux-Bois">La Croix-aux-Bois</a></li> 
+          <li><a href="/wiki/Daigny" title="Daigny">Daigny</a></li> 
+          <li><a href="/wiki/Damouzy" title="Damouzy">Damouzy</a></li> 
+          <li><a href="/wiki/Les_Deux-Villes" title="Les Deux-Villes">Les Deux-Villes</a></li> 
+          <li><a href="/wiki/Deville,_Ardennes" title="Deville, Ardennes">Deville</a></li> 
+          <li><a href="/wiki/Dom-le-Mesnil" title="Dom-le-Mesnil">Dom-le-Mesnil</a></li> 
+          <li><a href="/wiki/Dommery" title="Dommery">Dommery</a></li> 
+          <li><a href="/wiki/Donchery" title="Donchery">Donchery</a></li> 
+          <li><a href="/wiki/Doumely-B%C3%A9gny" title="Doumely-Bégny">Doumely-Bégny</a></li> 
+          <li><a href="/wiki/Doux,_Ardennes" title="Doux, Ardennes">Doux</a></li> 
+          <li><a href="/wiki/Douzy" title="Douzy">Douzy</a></li> 
+          <li><a href="/wiki/Draize" title="Draize">Draize</a></li> 
+          <li><a href="/wiki/Dricourt" title="Dricourt">Dricourt</a></li> 
+          <li><a href="/wiki/L%27%C3%89caille" title="L'Écaille">L'Écaille</a></li> 
+          <li><a href="/wiki/L%27%C3%89chelle" title="L'Échelle">L'Échelle</a></li> 
+          <li><a href="/wiki/%C3%89cly" title="Écly">Écly</a></li> 
+          <li><a href="/wiki/%C3%89cordal" title="Écordal">Écordal</a></li> 
+          <li><a href="/wiki/Escombres-et-le-Chesnois" title="Escombres-et-le-Chesnois">Escombres-et-le-Chesnois</a></li> 
+          <li><a href="/wiki/Estrebay" title="Estrebay">Estrebay</a></li> 
+          <li><a href="/wiki/%C3%89talle,_Ardennes" title="Étalle, Ardennes">Étalle</a></li> 
+          <li><a href="/wiki/%C3%89teigni%C3%A8res" title="Éteignières">Éteignières</a></li> 
+          <li><a href="/wiki/%C3%89tr%C3%A9pigny" title="Étrépigny">Étrépigny</a></li> 
+          <li><a href="/wiki/Euilly-et-Lombut" title="Euilly-et-Lombut">Euilly-et-Lombut</a></li> 
+          <li><a href="/wiki/%C3%89vigny" title="Évigny">Évigny</a></li> 
+          <li><a href="/wiki/Exermont" title="Exermont">Exermont</a></li> 
+          <li><a href="/wiki/Fagnon" title="Fagnon">Fagnon</a></li> 
+          <li><a href="/wiki/Faissault" title="Faissault">Faissault</a></li> 
+          <li><a href="/wiki/Falaise,_Ardennes" title="Falaise, Ardennes">Falaise</a></li> 
+          <li><a href="/wiki/Faux,_Ardennes" title="Faux, Ardennes">Faux</a></li> 
+          <li><a href="/wiki/F%C3%A9pin" title="Fépin">Fépin</a></li> 
+          <li><a href="/wiki/La_F%C3%A9r%C3%A9e" title="La Férée">La Férée</a></li> 
+          <li><a href="/wiki/La_Fert%C3%A9-sur-Chiers" title="La Ferté-sur-Chiers">La Ferté-sur-Chiers</a></li> 
+          <li><a href="/wiki/Flaignes-Havys" title="Flaignes-Havys">Flaignes-Havys</a></li> 
+          <li><a href="/wiki/Fleigneux" title="Fleigneux">Fleigneux</a></li> 
+          <li><a href="/wiki/Fl%C3%A9ville" title="Fléville">Fléville</a></li> 
+          <li><a href="/wiki/Fligny" title="Fligny">Fligny</a></li> 
+          <li><a href="/wiki/Flize" title="Flize">Flize</a></li> 
+          <li><a href="/wiki/Floing,_Ardennes" title="Floing, Ardennes">Floing</a></li> 
+          <li><a href="/wiki/Foisches" title="Foisches">Foisches</a></li> 
+          <li><a href="/wiki/Foss%C3%A9,_Ardennes" title="Fossé, Ardennes">Fossé</a></li> 
+          <li><a href="/wiki/Fraillicourt" title="Fraillicourt">Fraillicourt</a></li> 
+          <li><a href="/wiki/Francheval" title="Francheval">Francheval</a></li> 
+          <li><a href="/wiki/La_Francheville" title="La Francheville">La Francheville</a></li> 
+          <li><a href="/wiki/Le_Fr%C3%A9ty" title="Le Fréty">Le Fréty</a></li> 
+          <li><a href="/wiki/Fromelennes" title="Fromelennes">Fromelennes</a></li> 
+          <li><a href="/wiki/Fromy" title="Fromy">Fromy</a></li> 
+          <li><a href="/wiki/Fumay" title="Fumay">Fumay</a></li> 
+          <li><a href="/wiki/Germont" title="Germont">Germont</a></li> 
+          <li><a href="/wiki/Gernelle" title="Gernelle">Gernelle</a></li> 
+          <li><a href="/wiki/Gespunsart" title="Gespunsart">Gespunsart</a></li> 
+          <li><a href="/wiki/Girondelle" title="Girondelle">Girondelle</a></li> 
+          <li><a href="/wiki/Givet" title="Givet">Givet</a></li> 
+          <li><a href="/wiki/Givonne" title="Givonne">Givonne</a></li> 
+          <li><a href="/wiki/Givron" title="Givron">Givron</a></li> 
+          <li><a href="/wiki/Givry,_Ardennes" title="Givry, Ardennes">Givry</a></li> 
+          <li><a href="/wiki/Glaire" title="Glaire">Glaire</a></li> 
+          <li><a href="/wiki/Gomont" title="Gomont">Gomont</a></li> 
+          <li><a href="/wiki/Grandchamp,_Ardennes" title="Grandchamp, Ardennes">Grandchamp</a></li> 
+          <li><a href="/wiki/Les_Grandes-Armoises" title="Les Grandes-Armoises">Les Grandes-Armoises</a></li> 
+          <li><a href="/wiki/Grandham" title="Grandham">Grandham</a></li> 
+          <li><a href="/wiki/Grandpr%C3%A9,_Ardennes" title="Grandpré, Ardennes">Grandpré</a></li> 
+          <li><a href="/wiki/La_Grandville" title="La Grandville">La Grandville</a></li> 
+          <li><a href="/wiki/Grivy-Loisy" title="Grivy-Loisy">Grivy-Loisy</a></li> 
+          <li><a href="/wiki/Gruy%C3%A8res,_Ardennes" title="Gruyères, Ardennes">Gruyères</a></li> 
+          <li><a href="/wiki/Gu%C3%A9-d%27Hossus" title="Gué-d'Hossus">Gué-d'Hossus</a></li> 
+          <li><a href="/wiki/Guignicourt-sur-Vence" title="Guignicourt-sur-Vence">Guignicourt-sur-Vence</a></li> 
+          <li><a href="/wiki/Guincourt" title="Guincourt">Guincourt</a></li> 
+          <li><a href="/wiki/Hagnicourt" title="Hagnicourt">Hagnicourt</a></li> 
+          <li><a href="/wiki/Ham-les-Moines" title="Ham-les-Moines">Ham-les-Moines</a></li> 
+          <li><a href="/wiki/Ham-sur-Meuse" title="Ham-sur-Meuse">Ham-sur-Meuse</a></li> 
+          <li><a href="/wiki/Hannappes" title="Hannappes">Hannappes</a></li> 
+          <li><a href="/wiki/Hannogne-Saint-Martin" title="Hannogne-Saint-Martin">Hannogne-Saint-Martin</a></li> 
+          <li><a href="/wiki/Hannogne-Saint-R%C3%A9my" title="Hannogne-Saint-Rémy">Hannogne-Saint-Rémy</a></li> 
+          <li><a href="/wiki/Haraucourt,_Ardennes" title="Haraucourt, Ardennes">Haraucourt</a></li> 
+          <li><a href="/wiki/Harcy" title="Harcy">Harcy</a></li> 
+          <li><a href="/wiki/Hargnies,_Ardennes" title="Hargnies, Ardennes">Hargnies</a></li> 
+          <li><a href="/wiki/Harricourt" title="Harricourt">Harricourt</a></li> 
+          <li><a href="/wiki/Haudrecy" title="Haudrecy">Haudrecy</a></li> 
+          <li><a href="/wiki/Haulm%C3%A9" title="Haulmé">Haulmé</a></li> 
+          <li><a href="/wiki/Les_Hautes-Rivi%C3%A8res" title="Les Hautes-Rivières">Les Hautes-Rivières</a></li> 
+          <li><a href="/wiki/Hauteville,_Ardennes" title="Hauteville, Ardennes">Hauteville</a></li> 
+          <li><a href="/wiki/Hauvin%C3%A9" title="Hauviné">Hauviné</a></li> 
+          <li><a href="/wiki/Haybes" title="Haybes">Haybes</a></li> 
+          <li><a href="/wiki/Herbeuval" title="Herbeuval">Herbeuval</a></li> 
+          <li><a href="/wiki/Herpy-l%27Arl%C3%A9sienne" title="Herpy-l'Arlésienne">Herpy-l'Arlésienne</a></li> 
+          <li><a href="/wiki/Hierges" title="Hierges">Hierges</a></li> 
+          <li><a href="/wiki/La_Horgne" title="La Horgne">La Horgne</a></li> 
+          <li><a href="/wiki/Houdilcourt" title="Houdilcourt">Houdilcourt</a></li> 
+          <li><a href="/wiki/Houldizy" title="Houldizy">Houldizy</a></li> 
+          <li><a href="/wiki/Illy,_Ardennes" title="Illy, Ardennes">Illy</a></li> 
+          <li><a href="/wiki/Im%C3%A9court" title="Imécourt">Imécourt</a></li> 
+          <li><a href="/wiki/Inaumont" title="Inaumont">Inaumont</a></li> 
+          <li><a href="/wiki/Issancourt-et-Rumel" title="Issancourt-et-Rumel">Issancourt-et-Rumel</a></li> 
+          <li><a href="/wiki/Jandun" title="Jandun">Jandun</a></li> 
+          <li><a href="/wiki/Joigny-sur-Meuse" title="Joigny-sur-Meuse">Joigny-sur-Meuse</a></li> 
+          <li><a href="/wiki/Jonval" title="Jonval">Jonval</a></li> 
+          <li><a href="/wiki/Juniville" title="Juniville">Juniville</a></li> 
+          <li><a href="/wiki/Justine-Herbigny" title="Justine-Herbigny">Justine-Herbigny</a></li> 
+          <li><a href="/wiki/Laifour" title="Laifour">Laifour</a></li> 
+          <li><a href="/wiki/Lalobbe" title="Lalobbe">Lalobbe</a></li> 
+          <li><a href="/wiki/Lametz" title="Lametz">Lametz</a></li> 
+          <li><a href="/wiki/Lan%C3%A7on,_Ardennes" title="Lançon, Ardennes">Lançon</a></li> 
+          <li><a href="/wiki/Landres-et-Saint-Georges" title="Landres-et-Saint-Georges">Landres-et-Saint-Georges</a></li> 
+          <li><a href="/wiki/Landrichamps" title="Landrichamps">Landrichamps</a></li> 
+          <li><a href="/wiki/Launois-sur-Vence" title="Launois-sur-Vence">Launois-sur-Vence</a></li> 
+          <li><a href="/wiki/Laval-Morency" title="Laval-Morency">Laval-Morency</a></li> 
+          <li><a href="/wiki/Leffincourt" title="Leffincourt">Leffincourt</a></li> 
+          <li><a href="/wiki/L%C3%A9pron-les-Vall%C3%A9es" title="Lépron-les-Vallées">Lépron-les-Vallées</a></li> 
+          <li><a href="/wiki/L%C3%A9tanne" title="Létanne">Létanne</a></li> 
+          <li><a href="/wiki/Liart" title="Liart">Liart</a></li> 
+          <li><a href="/wiki/Linay" title="Linay">Linay</a></li> 
+          <li><a href="/wiki/Liry" title="Liry">Liry</a></li> 
+          <li><a href="/wiki/Logny-Bogny" title="Logny-Bogny">Logny-Bogny</a></li> 
+          <li><a href="/wiki/Longw%C3%A9" title="Longwé">Longwé</a></li> 
+          <li><a href="/wiki/Lonny" title="Lonny">Lonny</a></li> 
+          <li><a href="/wiki/Lucquy" title="Lucquy">Lucquy</a></li> 
+          <li><a href="/wiki/Lumes" title="Lumes">Lumes</a></li> 
+          <li><a href="/wiki/Machault,_Ardennes" title="Machault, Ardennes">Machault</a></li> 
+          <li><a href="/wiki/Maisoncelle-et-Villers" title="Maisoncelle-et-Villers">Maisoncelle-et-Villers</a></li> 
+          <li><a href="/wiki/Malandry" title="Malandry">Malandry</a></li> 
+          <li><a href="/wiki/Manre" title="Manre">Manre</a></li> 
+          <li><a href="/wiki/Maranwez" title="Maranwez">Maranwez</a></li> 
+          <li><a href="/wiki/Marby" title="Marby">Marby</a></li> 
+          <li><a href="/wiki/Marcq,_Ardennes" title="Marcq, Ardennes">Marcq</a></li> 
+          <li><a href="/wiki/Margny,_Ardennes" title="Margny, Ardennes">Margny</a></li> 
+          <li><a href="/wiki/Margut" title="Margut">Margut</a></li> 
+          <li><a href="/wiki/Marlemont" title="Marlemont">Marlemont</a></li> 
+          <li><a href="/wiki/Marquigny" title="Marquigny">Marquigny</a></li> 
+          <li><a href="/wiki/Mars-sous-Bourcq" title="Mars-sous-Bourcq">Mars-sous-Bourcq</a></li> 
+          <li><a href="/wiki/Marvaux-Vieux" title="Marvaux-Vieux">Marvaux-Vieux</a></li> 
+          <li><a href="/wiki/Matton-et-Cl%C3%A9mency" title="Matton-et-Clémency">Matton-et-Clémency</a></li> 
+          <li><a href="/wiki/Maubert-Fontaine" title="Maubert-Fontaine">Maubert-Fontaine</a></li> 
+          <li><a href="/wiki/Mazerny" title="Mazerny">Mazerny</a></li> 
+          <li><a href="/wiki/Les_Mazures" title="Les Mazures">Les Mazures</a></li> 
+          <li><a href="/wiki/M%C3%A9nil-Annelles" title="Ménil-Annelles">Ménil-Annelles</a></li> 
+          <li><a href="/wiki/M%C3%A9nil-L%C3%A9pinois" title="Ménil-Lépinois">Ménil-Lépinois</a></li> 
+          <li><a href="/wiki/Mesmont,_Ardennes" title="Mesmont, Ardennes">Mesmont</a></li> 
+          <li><a href="/wiki/Messincourt" title="Messincourt">Messincourt</a></li> 
+          <li><a href="/wiki/Mogues" title="Mogues">Mogues</a></li> 
+          <li><a href="/wiki/Moiry,_Ardennes" title="Moiry, Ardennes">Moiry</a></li> 
+          <li><a href="/wiki/La_Moncelle" title="La Moncelle">La Moncelle</a></li> 
+          <li><a href="/wiki/Mondigny" title="Mondigny">Mondigny</a></li> 
+          <li><a href="/wiki/Montcheutin" title="Montcheutin">Montcheutin</a></li> 
+          <li><a href="/wiki/Montcornet,_Ardennes" title="Montcornet, Ardennes">Montcornet</a></li> 
+          <li><a href="/wiki/Montcy-Notre-Dame" title="Montcy-Notre-Dame">Montcy-Notre-Dame</a></li> 
+          <li><a href="/wiki/Le_Mont-Dieu" title="Le Mont-Dieu">Le Mont-Dieu</a></li> 
+          <li><a href="/wiki/Montgon" title="Montgon">Montgon</a></li> 
+          <li><a href="/wiki/Montherm%C3%A9" title="Monthermé">Monthermé</a></li> 
+          <li><a href="/wiki/Monthois" title="Monthois">Monthois</a></li> 
+          <li><a href="/wiki/Montigny-sur-Meuse" title="Montigny-sur-Meuse">Montigny-sur-Meuse</a></li> 
+          <li><a href="/wiki/Montigny-sur-Vence" title="Montigny-sur-Vence">Montigny-sur-Vence</a></li> 
+          <li><a href="/wiki/Mont-Laurent" title="Mont-Laurent">Mont-Laurent</a></li> 
+          <li><a href="/wiki/Montmeillant" title="Montmeillant">Montmeillant</a></li> 
+          <li><a href="/wiki/Mont-Saint-Martin,_Ardennes" title="Mont-Saint-Martin, Ardennes">Mont-Saint-Martin</a></li> 
+          <li><a href="/wiki/Mont-Saint-Remy" title="Mont-Saint-Remy">Mont-Saint-Remy</a></li> 
+          <li><a href="/wiki/Mouron" title="Mouron">Mouron</a></li> 
+          <li><a href="/wiki/Mouzon,_Ardennes" title="Mouzon, Ardennes">Mouzon</a></li> 
+          <li><a href="/wiki/Murtin-et-Bogny" title="Murtin-et-Bogny">Murtin-et-Bogny</a></li> 
+          <li><a href="/wiki/Nanteuil-sur-Aisne" title="Nanteuil-sur-Aisne">Nanteuil-sur-Aisne</a></li> 
+          <li><a href="/wiki/Neuflize" title="Neuflize">Neuflize</a></li> 
+          <li><a href="/wiki/Neufmaison" title="Neufmaison">Neufmaison</a></li> 
+          <li><a href="/wiki/Neufmanil" title="Neufmanil">Neufmanil</a></li> 
+          <li><a href="/wiki/La_Neuville-%C3%A0-Maire" title="La Neuville-à-Maire">La Neuville-à-Maire</a></li> 
+          <li><a href="/wiki/La_Neuville-aux-Jo%C3%BBtes" title="La Neuville-aux-Joûtes">La Neuville-aux-Joûtes</a></li> 
+          <li><a href="/wiki/Neuville-Day" title="Neuville-Day">Neuville-Day</a></li> 
+          <li><a href="/wiki/La_Neuville-en-Tourne-%C3%A0-Fuy" title="La Neuville-en-Tourne-à-Fuy">La Neuville-en-Tourne-à-Fuy</a></li> 
+          <li><a href="/wiki/Neuville-l%C3%A8s-This" title="Neuville-lès-This">Neuville-lès-This</a></li> 
+          <li><a href="/wiki/La_Neuville-l%C3%A8s-Wasigny" title="La Neuville-lès-Wasigny">La Neuville-lès-Wasigny</a></li> 
+          <li><a href="/wiki/Neuville-lez-Beaulieu" title="Neuville-lez-Beaulieu">Neuville-lez-Beaulieu</a></li> 
+          <li><a href="/wiki/Neuvizy" title="Neuvizy">Neuvizy</a></li> 
+          <li><a href="/wiki/Noirval" title="Noirval">Noirval</a></li> 
+          <li><a href="/wiki/Nouart" title="Nouart">Nouart</a></li> 
+          <li><a href="/wiki/Nouvion-sur-Meuse" title="Nouvion-sur-Meuse">Nouvion-sur-Meuse</a></li> 
+          <li><a href="/wiki/Nouzonville" title="Nouzonville">Nouzonville</a></li> 
+          <li><a href="/wiki/Novion-Porcien" title="Novion-Porcien">Novion-Porcien</a></li> 
+          <li><a href="/wiki/Novy-Chevri%C3%A8res" title="Novy-Chevrières">Novy-Chevrières</a></li> 
+          <li><a href="/wiki/Noyers-Pont-Maugis" title="Noyers-Pont-Maugis">Noyers-Pont-Maugis</a></li> 
+          <li><a href="/wiki/Oches" title="Oches">Oches</a></li> 
+          <li><a href="/wiki/Olizy-Primat" title="Olizy-Primat">Olizy-Primat</a></li> 
+          <li><a href="/wiki/Omicourt" title="Omicourt">Omicourt</a></li> 
+          <li><a href="/wiki/Omont" title="Omont">Omont</a></li> 
+          <li><a href="/wiki/Osnes" title="Osnes">Osnes</a></li> 
+          <li><a href="/wiki/Pauvres" title="Pauvres">Pauvres</a></li> 
+          <li><a href="/wiki/Perthes,_Ardennes" title="Perthes, Ardennes">Perthes</a></li> 
+          <li><a href="/wiki/Les_Petites-Armoises" title="Les Petites-Armoises">Les Petites-Armoises</a></li> 
+          <li><a href="/wiki/Poilcourt-Sydney" title="Poilcourt-Sydney">Poilcourt-Sydney</a></li> 
+          <li><a href="/wiki/Poix-Terron" title="Poix-Terron">Poix-Terron</a></li> 
+          <li><a href="/wiki/Pouru-aux-Bois" title="Pouru-aux-Bois">Pouru-aux-Bois</a></li> 
+          <li><a href="/wiki/Pouru-Saint-Remy" title="Pouru-Saint-Remy">Pouru-Saint-Remy</a></li> 
+          <li><a href="/wiki/Prez,_Ardennes" title="Prez, Ardennes">Prez</a></li> 
+          <li><a href="/wiki/Prix-l%C3%A8s-M%C3%A9zi%C3%A8res" title="Prix-lès-Mézières">Prix-lès-Mézières</a></li> 
+          <li><a href="/wiki/Puilly-et-Charbeaux" title="Puilly-et-Charbeaux">Puilly-et-Charbeaux</a></li> 
+          <li><a href="/wiki/Puiseux,_Ardennes" title="Puiseux, Ardennes">Puiseux</a></li> 
+          <li><a href="/wiki/Pure,_Ardennes" title="Pure, Ardennes">Pure</a></li> 
+          <li><a href="/wiki/Quatre-Champs" title="Quatre-Champs">Quatre-Champs</a></li> 
+          <li><a href="/wiki/Quilly,_Ardennes" title="Quilly, Ardennes">Quilly</a></li> 
+          <li><a href="/wiki/Raillicourt" title="Raillicourt">Raillicourt</a></li> 
+          <li><a href="/wiki/Rancennes" title="Rancennes">Rancennes</a></li> 
+          <li><a href="/wiki/Raucourt-et-Flaba" title="Raucourt-et-Flaba">Raucourt-et-Flaba</a></li> 
+          <li><a href="/wiki/Regniowez" title="Regniowez">Regniowez</a></li> 
+          <li><a href="/wiki/Remaucourt,_Ardennes" title="Remaucourt, Ardennes">Remaucourt</a></li> 
+          <li><a href="/wiki/Remilly-Aillicourt" title="Remilly-Aillicourt">Remilly-Aillicourt</a></li> 
+          <li><a href="/wiki/Remilly-les-Poth%C3%A9es" title="Remilly-les-Pothées">Remilly-les-Pothées</a></li> 
+          <li><a href="/wiki/Renneville,_Ardennes" title="Renneville, Ardennes">Renneville</a></li> 
+          <li><a href="/wiki/Renwez" title="Renwez">Renwez</a></li> 
+          <li><a href="/wiki/Rethel" title="Rethel">Rethel</a></li> 
+          <li><a href="/wiki/Revin" title="Revin">Revin</a></li> 
+          <li><a href="/wiki/Rilly-sur-Aisne" title="Rilly-sur-Aisne">Rilly-sur-Aisne</a></li> 
+          <li><a href="/wiki/Rimogne" title="Rimogne">Rimogne</a></li> 
+          <li><a href="/wiki/Rocquigny,_Ardennes" title="Rocquigny, Ardennes">Rocquigny</a></li> 
+          <li><a href="/wiki/Rocroi" title="Rocroi">Rocroi</a></li> 
+          <li><a href="/wiki/Roizy" title="Roizy">Roizy</a></li> 
+          <li><a href="/wiki/La_Romagne,_Ardennes" title="La Romagne, Ardennes">La Romagne</a></li> 
+          <li><a href="/wiki/Rouvroy-sur-Audry" title="Rouvroy-sur-Audry">Rouvroy-sur-Audry</a></li> 
+          <li><a href="/wiki/Rubigny" title="Rubigny">Rubigny</a></li> 
+          <li><a href="/wiki/Rumigny,_Ardennes" title="Rumigny, Ardennes">Rumigny</a></li> 
+          <li><a href="/wiki/La_Sabotterie" title="La Sabotterie">La Sabotterie</a></li> 
+          <li><a href="/wiki/Sachy,_Ardennes" title="Sachy, Ardennes">Sachy</a></li> 
+          <li><a href="/wiki/Sailly,_Ardennes" title="Sailly, Ardennes">Sailly</a></li> 
+          <li><a href="/wiki/Saint-Aignan,_Ardennes" title="Saint-Aignan, Ardennes">Saint-Aignan</a></li> 
+          <li><a href="/wiki/Saint-Cl%C3%A9ment-%C3%A0-Arnes" title="Saint-Clément-à-Arnes">Saint-Clément-à-Arnes</a></li> 
+          <li><a href="/wiki/Sainte-Marie,_Ardennes" title="Sainte-Marie, Ardennes">Sainte-Marie</a></li> 
+          <li><a href="/wiki/Saint-%C3%89tienne-%C3%A0-Arnes" title="Saint-Étienne-à-Arnes">Saint-Étienne-à-Arnes</a></li> 
+          <li><a href="/wiki/Sainte-Vaubourg" title="Sainte-Vaubourg">Sainte-Vaubourg</a></li> 
+          <li><a href="/wiki/Saint-Fergeux" title="Saint-Fergeux">Saint-Fergeux</a></li> 
+          <li><a href="/wiki/Saint-Germainmont" title="Saint-Germainmont">Saint-Germainmont</a></li> 
+          <li><a href="/wiki/Saint-Jean-aux-Bois,_Ardennes" title="Saint-Jean-aux-Bois, Ardennes">Saint-Jean-aux-Bois</a></li> 
+          <li><a href="/wiki/Saint-Juvin" title="Saint-Juvin">Saint-Juvin</a></li> 
+          <li><a href="/wiki/Saint-Lambert-et-Mont-de-Jeux" title="Saint-Lambert-et-Mont-de-Jeux">Saint-Lambert-et-Mont-de-Jeux</a></li> 
+          <li><a href="/wiki/Saint-Laurent,_Ardennes" title="Saint-Laurent, Ardennes">Saint-Laurent</a></li> 
+          <li><a href="/wiki/Saint-Loup-en-Champagne" title="Saint-Loup-en-Champagne">Saint-Loup-en-Champagne</a></li> 
+          <li><a href="/wiki/Saint-Loup-Terrier" title="Saint-Loup-Terrier">Saint-Loup-Terrier</a></li> 
+          <li><a href="/wiki/Saint-Marceau,_Ardennes" title="Saint-Marceau, Ardennes">Saint-Marceau</a></li> 
+          <li><a href="/wiki/Saint-Marcel,_Ardennes" title="Saint-Marcel, Ardennes">Saint-Marcel</a></li> 
+          <li><a href="/wiki/Saint-Menges" title="Saint-Menges">Saint-Menges</a></li> 
+          <li><a href="/wiki/Saint-Morel" title="Saint-Morel">Saint-Morel</a></li> 
+          <li><a href="/wiki/Saint-Pierre-%C3%A0-Arnes" title="Saint-Pierre-à-Arnes">Saint-Pierre-à-Arnes</a></li> 
+          <li><a href="/wiki/Saint-Pierremont,_Ardennes" title="Saint-Pierremont, Ardennes">Saint-Pierremont</a></li> 
+          <li><a href="/wiki/Saint-Pierre-sur-Vence" title="Saint-Pierre-sur-Vence">Saint-Pierre-sur-Vence</a></li> 
+          <li><a href="/wiki/Saint-Quentin-le-Petit" title="Saint-Quentin-le-Petit">Saint-Quentin-le-Petit</a></li> 
+          <li><a href="/wiki/Saint-Remy-le-Petit" title="Saint-Remy-le-Petit">Saint-Remy-le-Petit</a></li> 
+          <li><a href="/wiki/Sapogne-et-Feuch%C3%A8res" title="Sapogne-et-Feuchères">Sapogne-et-Feuchères</a></li> 
+          <li><a href="/wiki/Sapogne-sur-Marche" title="Sapogne-sur-Marche">Sapogne-sur-Marche</a></li> 
+          <li><a href="/wiki/Saulces-Champenoises" title="Saulces-Champenoises">Saulces-Champenoises</a></li> 
+          <li><a href="/wiki/Saulces-Monclin" title="Saulces-Monclin">Saulces-Monclin</a></li> 
+          <li><a href="/wiki/Sault-l%C3%A8s-Rethel" title="Sault-lès-Rethel">Sault-lès-Rethel</a></li> 
+          <li><a href="/wiki/Sault-Saint-Remy" title="Sault-Saint-Remy">Sault-Saint-Remy</a></li> 
+          <li><a href="/wiki/Sauville,_Ardennes" title="Sauville, Ardennes">Sauville</a></li> 
+          <li><a href="/wiki/Savigny-sur-Aisne" title="Savigny-sur-Aisne">Savigny-sur-Aisne</a></li> 
+          <li><a href="/wiki/S%C3%A9chault" title="Séchault">Séchault</a></li> 
+          <li><a href="/wiki/S%C3%A9cheval" title="Sécheval">Sécheval</a></li> 
+          <li><a href="/wiki/Sedan,_Ardennes" title="Sedan, Ardennes">Sedan</a></li> 
+          <li><a href="/wiki/Semide" title="Semide">Semide</a></li> 
+          <li><a href="/wiki/Semuy" title="Semuy">Semuy</a></li> 
+          <li><a href="/wiki/Senuc" title="Senuc">Senuc</a></li> 
+          <li><a href="/wiki/Seraincourt,_Ardennes" title="Seraincourt, Ardennes">Seraincourt</a></li> 
+          <li><a href="/wiki/Sery,_Ardennes" title="Sery, Ardennes">Sery</a></li> 
+          <li><a href="/wiki/Seuil" title="Seuil">Seuil</a></li> 
+          <li><a href="/wiki/S%C3%A9vigny-la-For%C3%AAt" title="Sévigny-la-Forêt">Sévigny-la-Forêt</a></li> 
+          <li><a href="/wiki/S%C3%A9vigny-Waleppe" title="Sévigny-Waleppe">Sévigny-Waleppe</a></li> 
+          <li><a href="/wiki/Signy-l%27Abbaye" title="Signy-l'Abbaye">Signy-l'Abbaye</a></li> 
+          <li><a href="/wiki/Signy-le-Petit" title="Signy-le-Petit">Signy-le-Petit</a></li> 
+          <li><a href="/wiki/Signy-Montlibert" title="Signy-Montlibert">Signy-Montlibert</a></li> 
+          <li><a href="/wiki/Singly" title="Singly">Singly</a></li> 
+          <li><a href="/wiki/Sommauthe" title="Sommauthe">Sommauthe</a></li> 
+          <li><a href="/wiki/Sommerance" title="Sommerance">Sommerance</a></li> 
+          <li><a href="/wiki/Son,_Ardennes" title="Son, Ardennes">Son</a></li> 
+          <li><a href="/wiki/Sorbon" title="Sorbon">Sorbon</a></li> 
+          <li><a href="/wiki/Sorcy-Bauth%C3%A9mont" title="Sorcy-Bauthémont">Sorcy-Bauthémont</a></li> 
+          <li><a href="/wiki/Sormonne" title="Sormonne">Sormonne</a></li> 
+          <li><a href="/wiki/Stonne" title="Stonne">Stonne</a></li> 
+          <li><a href="/wiki/Sugny" title="Sugny">Sugny</a></li> 
+          <li><a href="/wiki/Sury" title="Sury">Sury</a></li> 
+          <li><a href="/wiki/Suzanne,_Ardennes" title="Suzanne, Ardennes">Suzanne</a></li> 
+          <li><a href="/wiki/Sy,_Ardennes" title="Sy, Ardennes">Sy</a></li> 
+          <li><a href="/wiki/Tagnon" title="Tagnon">Tagnon</a></li> 
+          <li><a href="/wiki/Taillette" title="Taillette">Taillette</a></li> 
+          <li><a href="/wiki/Tailly,_Ardennes" title="Tailly, Ardennes">Tailly</a></li> 
+          <li><a href="/wiki/Taizy" title="Taizy">Taizy</a></li> 
+          <li><a href="/wiki/Tannay,_Ardennes" title="Tannay, Ardennes">Tannay</a></li> 
+          <li><a href="/wiki/Tarzy" title="Tarzy">Tarzy</a></li> 
+          <li><a href="/wiki/T%C3%A9taigne" title="Tétaigne">Tétaigne</a></li> 
+          <li><a href="/wiki/Thelonne" title="Thelonne">Thelonne</a></li> 
+          <li><a href="/wiki/Th%C3%A9norgues" title="Thénorgues">Thénorgues</a></li> 
+          <li><a href="/wiki/Thilay" title="Thilay">Thilay</a></li> 
+          <li><a href="/wiki/Thin-le-Moutier" title="Thin-le-Moutier">Thin-le-Moutier</a></li> 
+          <li><a href="/wiki/This,_Ardennes" title="This, Ardennes">This</a></li> 
+          <li><a href="/wiki/Le_Thour" title="Le Thour">Le Thour</a></li> 
+          <li><a href="/wiki/Thugny-Trugny" title="Thugny-Trugny">Thugny-Trugny</a></li> 
+          <li><a href="/wiki/Toges,_Ardennes" title="Toges, Ardennes">Toges</a></li> 
+          <li><a href="/wiki/Touligny" title="Touligny">Touligny</a></li> 
+          <li><a href="/wiki/Tourcelles-Chaumont" title="Tourcelles-Chaumont">Tourcelles-Chaumont</a></li> 
+          <li><a href="/wiki/Tournavaux" title="Tournavaux">Tournavaux</a></li> 
+          <li><a href="/wiki/Tournes" title="Tournes">Tournes</a></li> 
+          <li><a href="/wiki/Tourteron" title="Tourteron">Tourteron</a></li> 
+          <li><a href="/wiki/Tremblois-l%C3%A8s-Carignan" title="Tremblois-lès-Carignan">Tremblois-lès-Carignan</a></li> 
+          <li><a href="/wiki/Tremblois-l%C3%A8s-Rocroi" title="Tremblois-lès-Rocroi">Tremblois-lès-Rocroi</a></li> 
+          <li><a href="/wiki/Vandy,_Ardennes" title="Vandy, Ardennes">Vandy</a></li> 
+          <li><a href="/wiki/Vaux-Champagne" title="Vaux-Champagne">Vaux-Champagne</a></li> 
+          <li><a href="/wiki/Vaux-en-Dieulet" title="Vaux-en-Dieulet">Vaux-en-Dieulet</a></li> 
+          <li><a href="/wiki/Vaux-l%C3%A8s-Mouron" title="Vaux-lès-Mouron">Vaux-lès-Mouron</a></li> 
+          <li><a href="/wiki/Vaux-l%C3%A8s-Mouzon" title="Vaux-lès-Mouzon">Vaux-lès-Mouzon</a></li> 
+          <li><a href="/wiki/Vaux-l%C3%A8s-Rubigny" title="Vaux-lès-Rubigny">Vaux-lès-Rubigny</a></li> 
+          <li><a href="/wiki/Vaux-Montreuil" title="Vaux-Montreuil">Vaux-Montreuil</a></li> 
+          <li><a href="/wiki/Vaux-Villaine" title="Vaux-Villaine">Vaux-Villaine</a></li> 
+          <li><a href="/wiki/Vendresse" title="Vendresse">Vendresse</a></li> 
+          <li><a href="/wiki/Verpel" title="Verpel">Verpel</a></li> 
+          <li><a href="/wiki/Verri%C3%A8res,_Ardennes" title="Verrières, Ardennes">Verrières</a></li> 
+          <li><a href="/wiki/Viel-Saint-Remy" title="Viel-Saint-Remy">Viel-Saint-Remy</a></li> 
+          <li><a href="/wiki/Vieux-l%C3%A8s-Asfeld" title="Vieux-lès-Asfeld">Vieux-lès-Asfeld</a></li> 
+          <li><a href="/wiki/Villers-devant-le-Thour" title="Villers-devant-le-Thour">Villers-devant-le-Thour</a></li> 
+          <li><a href="/wiki/Villers-devant-Mouzon" title="Villers-devant-Mouzon">Villers-devant-Mouzon</a></li> 
+          <li><a href="/wiki/Villers-le-Tilleul" title="Villers-le-Tilleul">Villers-le-Tilleul</a></li> 
+          <li><a href="/wiki/Villers-le-Tourneur" title="Villers-le-Tourneur">Villers-le-Tourneur</a></li> 
+          <li><a href="/wiki/Villers-Semeuse" title="Villers-Semeuse">Villers-Semeuse</a></li> 
+          <li><a href="/wiki/Villers-sur-Bar" title="Villers-sur-Bar">Villers-sur-Bar</a></li> 
+          <li><a href="/wiki/Villers-sur-le-Mont" title="Villers-sur-le-Mont">Villers-sur-le-Mont</a></li> 
+          <li><a href="/wiki/Ville-sur-Lumes" title="Ville-sur-Lumes">Ville-sur-Lumes</a></li> 
+          <li><a href="/wiki/Ville-sur-Retourne" title="Ville-sur-Retourne">Ville-sur-Retourne</a></li> 
+          <li><a href="/wiki/Villy,_Ardennes" title="Villy, Ardennes">Villy</a></li> 
+          <li><a href="/wiki/Vireux-Molhain" title="Vireux-Molhain">Vireux-Molhain</a></li> 
+          <li><a href="/wiki/Vireux-Wallerand" title="Vireux-Wallerand">Vireux-Wallerand</a></li> 
+          <li><a href="/wiki/Vivier-au-Court" title="Vivier-au-Court">Vivier-au-Court</a></li> 
+          <li><a href="/wiki/Voncq" title="Voncq">Voncq</a></li> 
+          <li><a href="/wiki/Vouziers" title="Vouziers">Vouziers</a></li> 
+          <li><a href="/wiki/Vrigne-aux-Bois" title="Vrigne-aux-Bois">Vrigne-aux-Bois</a></li> 
+          <li><a href="/wiki/Vrigne-Meuse" title="Vrigne-Meuse">Vrigne-Meuse</a></li> 
+          <li><a href="/wiki/Wadelincourt,_Ardennes" title="Wadelincourt, Ardennes">Wadelincourt</a></li> 
+          <li><a href="/wiki/Wagnon" title="Wagnon">Wagnon</a></li> 
+          <li><a href="/wiki/Warcq,_Ardennes" title="Warcq, Ardennes">Warcq</a></li> 
+          <li><a href="/wiki/Warn%C3%A9court" title="Warnécourt">Warnécourt</a></li> 
+          <li><a href="/wiki/Wasigny" title="Wasigny">Wasigny</a></li> 
+          <li><a href="/wiki/Wignicourt" title="Wignicourt">Wignicourt</a></li> 
+          <li><a href="/wiki/Williers" title="Williers">Williers</a></li> 
+          <li><a href="/wiki/Yoncq" title="Yoncq">Yoncq</a></li> 
+          <li><a href="/wiki/Yvernaumont" title="Yvernaumont">Yvernaumont</a></li>
+         </ul> 
+        </div></td>
+      </tr>
+     </tbody>
+    </table>
+   </div> 
+   <!-- 
+NewPP limit report
+Parsed by mw1330
+Cached time: 20190504164430
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 1.008 seconds
+Real time usage: 1.274 seconds
+Preprocessor visited node count: 10410/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 112352/2097152 bytes
+Template argument size: 20285/2097152 bytes
+Highest expansion depth: 26/40
+Expensive parser function count: 5/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 6696/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.488/10.000 seconds
+Lua memory usage: 12.55 MB/50 MB
+--> 
+   <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1063.767      1 -total
+ 61.12%  650.161      1 Template:Infobox_French_commune
+ 58.28%  620.001      1 Template:Infobox_settlement
+ 45.63%  485.353      1 Template:Infobox
+ 17.89%  190.315      9 Template:Fr_icon
+ 17.68%  188.031      2 Template:Link_language
+  8.43%   89.722      1 Template:Table_Population_Town
+  4.79%   50.951      8 Template:Both
+  4.47%   47.582      2 Template:Infobox_mapframe
+  4.33%   46.031      1 Template:Coord
+--> 
+   <!-- Saved in parser cache with key enwiki:pcache:idhash:13706177-0!canonical and timestamp 20190504164428 and revision id 821091482
+ --> 
+  </div>
+  <noscript>
+   <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+  </noscript>
+ </div> 
+ <div class="printfooter">
+  Retrieved from "
+  <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Autruche&amp;oldid=8210

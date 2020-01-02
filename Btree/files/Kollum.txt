@@ -1,0 +1,392 @@
+<div id="bodyContent" class="mw-body-content"> 
+ <div id="siteSub" class="noprint">
+  From Wikipedia, the free encyclopedia
+ </div> 
+ <div id="contentSub"></div> 
+ <div id="jump-to-nav"></div> 
+ <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> 
+ <a class="mw-jump-link" href="#p-search">Jump to search</a> 
+ <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+  <div class="mw-parser-output">
+   <table class="box-Unreferenced plainlinks metadata ambox ambox-content ambox-Unreferenced" role="presentation">
+    <tbody>
+     <tr>
+      <td class="mbox-image">
+       <div style="width:52px">
+        <a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399"></a>
+       </div></td>
+      <td class="mbox-text">
+       <div class="mbox-text-span">
+        This article 
+        <b>does not <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">cite</a> any <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">sources</a></b>.
+        <span class="hide-when-compact"> Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Kollum&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.</span> 
+        <small class="date-container"><i>(<span class="date">April 2008</span>)</i></small>
+        <small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small>
+       </div></td>
+     </tr>
+    </tbody>
+   </table> 
+   <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">
+    Village in Friesland, Netherlands
+   </div>
+   <table class="infobox geography vcard" style="width:22em;width:23em">
+    <tbody>
+     <tr>
+      <th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size:1.25em; white-space:nowrap">
+       <div style="display:inline" class="fn org">
+        Kollum
+       </div></th>
+     </tr>
+     <tr>
+      <td colspan="2" style="text-align:center;background-color:#cddeff; font-weight:bold;">
+       <div class="category">
+        Village
+       </div></td>
+     </tr>
+     <tr class="mergedtoprow">
+      <td colspan="2" style="text-align:center"><a href="/wiki/File:Gemeentehuis_Kollumerland.jpg" class="image" title="Kollum town hall"><img alt="Kollum town hall" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Gemeentehuis_Kollumerland.jpg/250px-Gemeentehuis_Kollumerland.jpg" decoding="async" width="250" height="188" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Gemeentehuis_Kollumerland.jpg/375px-Gemeentehuis_Kollumerland.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Gemeentehuis_Kollumerland.jpg/500px-Gemeentehuis_Kollumerland.jpg 2x" data-file-width="1028" data-file-height="772"></a>
+       <div style="padding:0.4em 0 0 0;">
+        Kollum town hall
+       </div></td>
+     </tr>
+     <tr class="mergedtoprow">
+      <td colspan="2" class="maptable" style="text-align:center">
+       <div style="display:table; width:100%; background:none;"> 
+        <div style="display:table-row">
+         <div style="display:table-cell;vertical-align:middle; text-align:center;">
+          <a href="/wiki/File:Flag_of_Kollum.svg" class="image" title="Flag of Kollum"><img alt="Flag of Kollum" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_Kollum.svg/100px-Flag_of_Kollum.svg.png" decoding="async" width="100" height="75" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_Kollum.svg/150px-Flag_of_Kollum.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_Kollum.svg/200px-Flag_of_Kollum.svg.png 2x" data-file-width="400" data-file-height="300"></a>
+          <br>
+          <small>Flag</small>
+         </div>
+         <div style="display:table-cell;vertical-align:middle; text-align:center;">
+          <a href="/wiki/File:Kollum_dorpswapen.svg" class="image" title="Coat of arms of Kollum"><img alt="Coat of arms of Kollum" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Kollum_dorpswapen.svg/100px-Kollum_dorpswapen.svg.png" decoding="async" width="100" height="164" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Kollum_dorpswapen.svg/150px-Kollum_dorpswapen.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Kollum_dorpswapen.svg/200px-Kollum_dorpswapen.svg.png 2x" data-file-width="167" data-file-height="274"></a>
+          <br>
+          <small>Coat of arms</small>
+         </div>
+        </div>
+       </div></td>
+     </tr>
+     <tr class="mergedtoprow">
+      <td colspan="2" style="text-align:center"><a href="/wiki/File:Map_NL_Kollumerl%C3%A2n_Kollum.png" class="image" title="Location in the Kollumerland municipality"><img alt="Location in the Kollumerland municipality" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Map_NL_Kollumerl%C3%A2n_Kollum.png/250px-Map_NL_Kollumerl%C3%A2n_Kollum.png" decoding="async" width="250" height="156" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Map_NL_Kollumerl%C3%A2n_Kollum.png/375px-Map_NL_Kollumerl%C3%A2n_Kollum.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/34/Map_NL_Kollumerl%C3%A2n_Kollum.png/500px-Map_NL_Kollumerl%C3%A2n_Kollum.png 2x" data-file-width="800" data-file-height="500"></a>
+       <div style="padding:0.3em 0 0 0;">
+        Location in the Kollumerland municipality
+       </div></td>
+     </tr>
+     <tr class="mergedtoprow">
+      <td colspan="2" style="text-align:center">
+       <div class="center">
+        <div style="width:250px;float:none;clear:both;margin-left:auto;margin-right:auto">
+         <div style="width:250px;padding:0">
+          <div style="position:relative;width:250px">
+           <a href="/wiki/File:Netherlands_location_map.svg" class="image" title="Kollum is located in Netherlands"><img alt="Kollum is located in Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Netherlands_location_map.svg/250px-Netherlands_location_map.svg.png" decoding="async" width="250" height="282" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Netherlands_location_map.svg/375px-Netherlands_location_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/48/Netherlands_location_map.svg/500px-Netherlands_location_map.svg.png 2x" data-file-width="888" data-file-height="1001"></a>
+           <div style="position:absolute;top:13.575%;left:69.337%">
+            <div style="position:absolute;left:-3px;top:-3px;line-height:0">
+             <img alt="Kollum" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/6px-Red_pog.svg.png" decoding="async" title="Kollum" width="6" height="6" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/9px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64">
+            </div>
+            <div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;right:4px;text-align:right">
+             <div style="display:inline;padding:1px;float:right">
+              Kollum
+             </div>
+            </div>
+           </div>
+          </div>
+          <div>
+           Location in the Netherlands
+          </div>
+         </div>
+        </div>
+       </div></td>
+     </tr>
+     <tr class="mergedbottomrow">
+      <td colspan="2" style="text-align:center">Coordinates: <span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Kollum&amp;params=53_16_45_N_6_9_3_E_region:NL_type:city_source:nlwiki"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">53°16′45″N</span> <span class="longitude">6°9′3″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">53.27917°N 6.15083°E</span><span style="display:none">﻿ / <span class="geo">53.27917; 6.15083</span></span></span></a></span></span></span></td>
+     </tr>
+     <tr class="mergedtoprow">
+      <th scope="row">Country</th>
+      <td><span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600"></a></span> <a href="/wiki/Netherlands" title="Netherlands">Netherlands</a></td>
+     </tr>
+     <tr class="mergedrow">
+      <th scope="row"><a href="/wiki/Provinces_of_the_Netherlands" title="Provinces of the Netherlands">Province</a></th>
+      <td><span class="flagicon"><a href="/wiki/Friesland" title="Friesland"><img alt="Friesland" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Frisian_flag.svg/22px-Frisian_flag.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Frisian_flag.svg/33px-Frisian_flag.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Frisian_flag.svg/44px-Frisian_flag.svg.png 2x" data-file-width="910" data-file-height="630"></a></span> <a href="/wiki/Friesland" title="Friesland">Friesland</a></td>
+     </tr>
+     <tr class="mergedrow">
+      <th scope="row"><a href="/wiki/List_of_municipalities_of_the_Netherlands" title="List of municipalities of the Netherlands">Municipality</a></th>
+      <td><a href="/wiki/Noardeast-Frysl%C3%A2n" title="Noardeast-Fryslân">Noardeast-Fryslân</a></td>
+     </tr>
+     <tr class="mergedtoprow">
+      <th colspan="2" style="text-align:center;text-align:left">Population 
+       <div style="font-weight:normal;display:inline;">
+        (2017)
+       </div></th>
+     </tr>
+     <tr class="mergedrow">
+      <th scope="row">&nbsp;•&nbsp;Total</th>
+      <td>5,529</td>
+     </tr>
+     <tr class="mergedtoprow">
+      <th scope="row"><a href="/wiki/Time_zone" title="Time zone">Time zone</a></th>
+      <td><a href="/wiki/UTC%2B1" class="mw-redirect" title="UTC+1">UTC+1</a> (<a href="/wiki/Central_European_Time" title="Central European Time">CET</a>)</td>
+     </tr>
+     <tr class="mergedrow">
+      <th scope="row"><span style="white-space:nowrap">&nbsp;•&nbsp;Summer (<a href="/wiki/Daylight_saving_time" title="Daylight saving time">DST</a>)</span></th>
+      <td><a href="/wiki/UTC%2B2" class="mw-redirect" title="UTC+2">UTC+2</a> (<a href="/wiki/Central_European_Summer_Time" title="Central European Summer Time">CEST</a>)</td>
+     </tr>
+     <tr class="mergedtoprow">
+      <th scope="row">Postal code</th>
+      <td class="adr">
+       <div class="postal-code">
+        9290-91
+       </div></td>
+     </tr>
+     <tr class="mergedrow">
+      <th scope="row">Telephone area</th>
+      <td>0511</td>
+     </tr>
+    </tbody>
+   </table> 
+   <p><b>Kollum</b> (<a href="/wiki/Dutch_Low_Saxon" title="Dutch Low Saxon">Low Saxon</a>: <i>Kölm</i>) is a village in <a href="/wiki/Noardeast-Frysl%C3%A2n" title="Noardeast-Fryslân">Noardeast-Fryslân</a> municipality in the province <a href="/wiki/Friesland" title="Friesland">Friesland</a>, the <a href="/wiki/Netherlands" title="Netherlands">Netherlands</a>. It had a population of around 5529 in January 2017.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> There is a restored windmill, <a href="/wiki/Tochmaland,_Kollum" title="Tochmaland, Kollum"><i>Tochmaland</i></a> in the village. </p> 
+   <div id="toc" class="toc">
+    <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+    <div class="toctitle" lang="en" dir="ltr">
+     <h2>Contents</h2>
+     <span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+    </div> 
+    <ul> 
+     <li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a> 
+      <ul> 
+       <li class="toclevel-2 tocsection-2"><a href="#Marianne_Vaatstra_murder"><span class="tocnumber">1.1</span> <span class="toctext">Marianne Vaatstra murder</span></a></li> 
+      </ul> </li> 
+     <li class="toclevel-1 tocsection-3"><a href="#References"><span class="tocnumber">2</span> <span class="toctext">References</span></a></li> 
+     <li class="toclevel-1 tocsection-4"><a href="#External_links"><span class="tocnumber">3</span> <span class="toctext">External links</span></a></li> 
+    </ul> 
+   </div> 
+   <h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Kollum&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <p>It was the <a href="/wiki/Battle_of_Kollum" title="Battle of Kollum">site of a battle</a> during the <a href="/wiki/Eighty_years_war" class="mw-redirect" title="Eighty years war">Eighty years war</a> in 1581. Before 2019, the village was part of the <a href="/wiki/Kollumerland_en_Nieuwkruisland" title="Kollumerland en Nieuwkruisland">Kollumerland en Nieuwkruisland</a> municipality. </p> 
+   <h3><span class="mw-headline" id="Marianne_Vaatstra_murder">Marianne Vaatstra murder</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Kollum&amp;action=edit&amp;section=2" title="Edit section: Marianne Vaatstra murder">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+   <p>The village made national headlines after the <a href="/wiki/Murder_of_Marianne_Vaatstra" title="Murder of Marianne Vaatstra">murder of Marianne Vaatstra</a> and subsequent riots which took place in the area in 1999. The case was only solved 13 years after the murder when the perpetrator was arrested after a DNA match.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> </p> 
+   <ul class="gallery mw-gallery-traditional"> 
+    <li class="gallerybox" style="width: 155px">
+     <div style="width: 155px"> 
+      <div class="thumb" style="width: 150px;">
+       <div style="margin:30px auto;">
+        <a href="/wiki/File:Old_townhall_Kollum_NL.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Old_townhall_Kollum_NL.jpg/120px-Old_townhall_Kollum_NL.jpg" decoding="async" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Old_townhall_Kollum_NL.jpg/180px-Old_townhall_Kollum_NL.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Old_townhall_Kollum_NL.jpg/240px-Old_townhall_Kollum_NL.jpg 2x" data-file-width="1028" data-file-height="772"></a>
+       </div>
+      </div> 
+      <div class="gallerytext"> 
+       <p>Former town hall </p> 
+      </div> 
+     </div></li> 
+    <li class="gallerybox" style="width: 155px">
+     <div style="width: 155px"> 
+      <div class="thumb" style="width: 150px;">
+       <div style="margin:15px auto;">
+        <a href="/wiki/File:St-Maartenschurch_Kollum_NL.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d2/St-Maartenschurch_Kollum_NL.jpg/90px-St-Maartenschurch_Kollum_NL.jpg" decoding="async" width="90" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d2/St-Maartenschurch_Kollum_NL.jpg/135px-St-Maartenschurch_Kollum_NL.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d2/St-Maartenschurch_Kollum_NL.jpg/180px-St-Maartenschurch_Kollum_NL.jpg 2x" data-file-width="1028" data-file-height="1368"></a>
+       </div>
+      </div> 
+      <div class="gallerytext"> 
+       <p>St Martin's church </p> 
+      </div> 
+     </div></li> 
+   </ul> 
+   <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Kollum&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <div class="reflist" style="list-style-type: decimal;"> 
+    <div class="mw-references-wrap">
+     <ol class="references"> 
+      <li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.kollumerland.nl/gemeente/feiten-en-cijfers_3721/item/inwonertal-en-info-2017_6145.html">Inwonertal en info 2017</a> - Kollumerland</span> </li> 
+      <li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.rtlnieuws.nl/nieuws/binnenland/beeld-tijdlijn-moordzaak-marianne-vaatstra">In beeld: Tijdlijn moordzaak Marianne Vaatstra (Timeline murder case</a> - RTL Nieuws <span class="languageicon">(in Dutch)</span></span> </li> 
+     </ol>
+    </div>
+   </div> 
+   <h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Kollum&amp;action=edit&amp;section=4" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <p><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" decoding="async" width="12" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376"></a> Media related to <a href="https://commons.wikimedia.org/wiki/Category:Kollum" class="extiw" title="commons:Category:Kollum">Kollum</a> at Wikimedia Commons </p> 
+   <div role="navigation" class="navbox" aria-labelledby="Populated_places_in_the_municipality_of_Noardeast-Fryslân" style="padding:3px">
+    <table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+     <tbody>
+      <tr>
+       <th scope="col" class="navbox-title" colspan="2">
+        <div class="plainlinks hlist navbar mini">
+         <ul>
+          <li class="nv-view"><a href="/wiki/Template:Dutch_municipality_Noardeast-Frysl%C3%A2n" title="Template:Dutch municipality Noardeast-Fryslân"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+          <li class="nv-talk"><a href="/w/index.php?title=Template_talk:Dutch_municipality_Noardeast-Frysl%C3%A2n&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Dutch municipality Noardeast-Fryslân (page does not exist)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+          <li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Dutch_municipality_Noardeast-Frysl%C3%A2n&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+         </ul>
+        </div>
+        <div id="Populated_places_in_the_municipality_of_Noardeast-Fryslân" style="font-size:114%;margin:0 4em">
+         Populated places in the 
+         <a href="/wiki/List_of_municipalities_of_the_Netherlands" title="List of municipalities of the Netherlands">municipality</a> of 
+         <a href="/wiki/Noardeast-Frysl%C3%A2n" title="Noardeast-Fryslân">Noardeast-Fryslân</a>
+        </div></th>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%">Towns</th>
+       <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><a href="/wiki/Dokkum" title="Dokkum">Dokkum</a></li>
+         </ul> 
+         <ul>
+          <li><i>Former municipalities:</i> <a href="/wiki/Dongeradeel" title="Dongeradeel">Dongeradeel</a></li> 
+          <li><a href="/wiki/Ferwerderadiel" title="Ferwerderadiel">Ferwerderadiel</a></li> 
+          <li><a href="/wiki/Kollumerland_en_Nieuwkruisland" title="Kollumerland en Nieuwkruisland">Kollumerland en Nieuwkruisland</a></li>
+         </ul> 
+        </div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%">Villages</th>
+       <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><a href="/wiki/Aalsum,_Friesland" title="Aalsum, Friesland">Aalsum</a></li> 
+          <li><a href="/wiki/Anjum" title="Anjum">Anjum</a></li> 
+          <li><a href="/wiki/Augsbuurt" title="Augsbuurt">Augsbuurt</a></li> 
+          <li><a href="/wiki/Blije" title="Blije">Blije</a></li> 
+          <li><a href="/wiki/Bornwird" title="Bornwird">Bornwird</a></li> 
+          <li><a href="/wiki/Brantgum" title="Brantgum">Brantgum</a></li> 
+          <li><a href="/wiki/Burdaard" title="Burdaard">Burdaard</a></li> 
+          <li><a href="/wiki/Burum,_Friesland" title="Burum, Friesland">Burum</a></li> 
+          <li><a href="/wiki/Ee,_Noardeast-Frysl%C3%A2n" title="Ee, Noardeast-Fryslân">Ee</a></li> 
+          <li><a href="/wiki/Engwierum" title="Engwierum">Engwierum</a></li> 
+          <li><a href="/wiki/Ferwert" title="Ferwert">Ferwert</a></li> 
+          <li><a href="/wiki/Foudgum" title="Foudgum">Foudgum</a></li> 
+          <li><a href="/wiki/Ginnum" title="Ginnum">Ginnum</a></li> 
+          <li><a href="/wiki/Hallum" title="Hallum">Hallum</a></li> 
+          <li><a href="/wiki/Hantum" title="Hantum">Hantum</a></li> 
+          <li><a href="/wiki/Hantumeruitburen" title="Hantumeruitburen">Hantumeruitburen</a></li> 
+          <li><a href="/wiki/Hantumhuizen" title="Hantumhuizen">Hantumhuizen</a></li> 
+          <li><a href="/wiki/Hegebeintum" title="Hegebeintum">Hegebeintum</a></li> 
+          <li><a href="/wiki/Hiaure" title="Hiaure">Hiaure</a></li> 
+          <li><a href="/wiki/Holwerd" title="Holwerd">Holwerd</a></li> 
+          <li><a href="/wiki/Jannum" title="Jannum">Jannum</a></li> 
+          <li><a href="/wiki/Jislum" title="Jislum">Jislum</a></li> 
+          <li><a href="/wiki/Jouswier" title="Jouswier">Jouswier</a></li> 
+          <li><a class="mw-selflink selflink">Kollum</a></li> 
+          <li><a href="/wiki/Kollumerpomp" title="Kollumerpomp">Kollumerpomp</a></li> 
+          <li><a href="/wiki/Kollumerzwaag" title="Kollumerzwaag">Kollumerzwaag</a></li> 
+          <li><a href="/wiki/Lichtaard" title="Lichtaard">Lichtaard</a></li> 
+          <li><a href="/wiki/Lioessens" title="Lioessens">Lioessens</a></li> 
+          <li><a href="/wiki/Marrum" title="Marrum">Marrum</a></li> 
+          <li><a href="/wiki/Metslawier" title="Metslawier">Metslawier</a></li> 
+          <li><a href="/wiki/Moddergat" title="Moddergat">Moddergat</a></li> 
+          <li><a href="/wiki/Morra,_Noardeast-Frysl%C3%A2n" title="Morra, Noardeast-Fryslân">Morra</a></li> 
+          <li><a href="/wiki/Munnekezijl" title="Munnekezijl">Munnekezijl</a></li> 
+          <li><a href="/wiki/Nes,_Noardeast-Frysl%C3%A2n" title="Nes, Noardeast-Fryslân">Nes</a></li> 
+          <li><a href="/wiki/Niawier" title="Niawier">Niawier</a></li> 
+          <li><a href="/wiki/Oosternijkerk" title="Oosternijkerk">Oosternijkerk</a></li> 
+          <li><a href="/wiki/Oostmahorn" title="Oostmahorn">Oostmahorn</a></li> 
+          <li><a href="/wiki/Oostrum" title="Oostrum">Oostrum</a></li> 
+          <li><a href="/wiki/Oudwoude" title="Oudwoude">Oudwoude</a></li> 
+          <li><a href="/wiki/Paesens" title="Paesens">Paesens</a></li> 
+          <li><a href="/wiki/Raard" title="Raard">Raard</a></li> 
+          <li><a href="/wiki/Reitsum" title="Reitsum">Reitsum</a></li> 
+          <li><a href="/wiki/Ternaard" title="Ternaard">Ternaard</a></li> 
+          <li><a href="/wiki/Triemen" title="Triemen">Triemen</a></li> 
+          <li><a href="/wiki/Veenklooster" title="Veenklooster">Veenklooster</a></li> 
+          <li><a href="/wiki/Waaxens" title="Waaxens">Waaxens</a></li> 
+          <li><a href="/wiki/W%C3%A2nswert" title="Wânswert">Wânswert</a></li> 
+          <li><a href="/wiki/Warfstermolen" title="Warfstermolen">Warfstermolen</a></li> 
+          <li><a href="/wiki/Westergeest" title="Westergeest">Westergeest</a></li> 
+          <li><a href="/wiki/Wetsens" title="Wetsens">Wetsens</a></li> 
+          <li><a href="/wiki/Wierum,_Friesland" title="Wierum, Friesland">Wierum</a></li> 
+          <li><a href="/wiki/Zwagerbosch" title="Zwagerbosch">Zwagerbosch</a></li>
+         </ul> 
+        </div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%">Hamlets</th>
+       <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><a href="/w/index.php?title=Abbewier&amp;action=edit&amp;redlink=1" class="new" title="Abbewier (page does not exist)">Abbewier</a></li> 
+          <li><a href="/wiki/Bartlehiem" title="Bartlehiem">Bartlehiem</a></li> 
+          <li><a href="/wiki/Betterwird" title="Betterwird">Betterwird</a></li> 
+          <li><a href="/w/index.php?title=Dokkumer_Nieuwe_Zijlen&amp;action=edit&amp;redlink=1" class="new" title="Dokkumer Nieuwe Zijlen (page does not exist)">Dokkumer Nieuwe Zijlen</a></li> 
+          <li><a href="/w/index.php?title=Ezumazijl&amp;action=edit&amp;redlink=1" class="new" title="Ezumazijl (page does not exist)">Ezumazijl</a></li> 
+          <li><a href="/w/index.php?title=H%C3%BAsternoard&amp;action=edit&amp;redlink=1" class="new" title="Hústernoard (page does not exist)">Hústernoard</a></li> 
+          <li><a href="/w/index.php?title=Keatlingwier&amp;action=edit&amp;redlink=1" class="new" title="Keatlingwier (page does not exist)">Keatlingwier</a></li> 
+          <li><a href="/w/index.php?title=Kollumeroudzijl&amp;action=edit&amp;redlink=1" class="new" title="Kollumeroudzijl (page does not exist)">Kollumeroudzijl</a></li> 
+          <li><a href="/w/index.php?title=Leechl%C3%A2n&amp;action=edit&amp;redlink=1" class="new" title="Leechlân (page does not exist)">Leechlân</a></li> 
+          <li><a href="/wiki/Westernijtsjerk" title="Westernijtsjerk">Westernijtsjerk</a></li> 
+          <li><a href="/w/index.php?title=Zevenhuzen&amp;action=edit&amp;redlink=1" class="new" title="Zevenhuzen (page does not exist)">Zevenhuzen</a></li>
+         </ul> 
+        </div></td>
+      </tr>
+      <tr>
+       <td class="navbox-abovebelow" colspan="2">
+        <div>
+         <a href="/wiki/List_of_cities,_towns_and_villages_in_Friesland" title="List of cities, towns and villages in Friesland">List of cities, towns and villages in Friesland</a>
+        </div></td>
+      </tr>
+     </tbody>
+    </table>
+   </div> 
+   <table class="metadata plainlinks stub" role="presentation" style="background:transparent">
+    <tbody>
+     <tr>
+      <td><a href="/wiki/File:Frisian_flag.svg" class="image"><img alt="Stub icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Frisian_flag.svg/30px-Frisian_flag.svg.png" decoding="async" width="30" height="21" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Frisian_flag.svg/45px-Frisian_flag.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Frisian_flag.svg/60px-Frisian_flag.svg.png 2x" data-file-width="910" data-file-height="630"></a></td>
+      <td><i>This <a href="/wiki/Friesland" title="Friesland">Friesland</a> location article is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="//en.wikipedia.org/w/index.php?title=Kollum&amp;action=edit">expanding it</a>.</i>
+       <div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;">
+        <ul>
+         <li class="nv-view"><a href="/wiki/Template:Friesland-geo-stub" title="Template:Friesland-geo-stub"><abbr title="View this template">v</abbr></a></li>
+         <li class="nv-talk"><a href="/wiki/Template_talk:Friesland-geo-stub" title="Template talk:Friesland-geo-stub"><abbr title="Discuss this template">t</abbr></a></li>
+         <li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Friesland-geo-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+        </ul>
+       </div></td>
+     </tr>
+    </tbody>
+   </table> 
+   <!-- 
+NewPP limit report
+Parsed by mw1252
+Cached time: 20190504210720
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.488 seconds
+Real time usage: 0.660 seconds
+Preprocessor visited node count: 3426/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 47916/2097152 bytes
+Template argument size: 9060/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 4/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 2560/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.242/10.000 seconds
+Lua memory usage: 11.1 MB/50 MB
+--> 
+   <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  585.349      1 -total
+ 50.43%  295.203      1 Template:Infobox_settlement
+ 29.74%  174.075      1 Template:Infobox
+ 27.17%  159.040      1 Template:Reflist
+ 26.00%  152.194      1 Template:Nl
+ 25.13%  147.070      1 Template:Link_language
+  9.29%   54.401      1 Template:Unreferenced
+  7.12%   41.670      7 Template:Both
+  6.70%   39.244      1 Template:Ambox
+  6.56%   38.417      1 Template:Commonscat-inline
+--> 
+   <!-- Saved in parser cache with key enwiki:pcache:idhash:16659078-0!canonical and timestamp 20190504210719 and revision id 882805677
+ --> 
+  </div>
+  <noscript>
+   <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+  </noscript>
+ </div> 
+ <div class="printfooter">
+  Retrieved from "
+  <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Kollum&amp;oldid=882805677">https://en.wikipedia.org/w/index.php?title=Kollum&amp;oldid=882805677</a>"
+ </div> 
+ <div id="catlinks" class="catlinks" data-mw="interface">
+  <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+   <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+   <ul>
+    <li><a href="/wiki/Category:Noardeast-Frysl%C3%A2n" title="Category:Noardeast-Fryslân">Noardeast-Fryslân</a></li>
+    <li><a href="/wiki/Category:Populated_places_in_Friesland" title="Category:Populated places in Friesland">Populated places in Friesland</a></li>
+    <li><a href="/wiki/Category:Friesland_geography_stubs" title="Category:Friesland geography stubs">Friesland geography stubs</a></li>
+   </ul>
+  </div>
+  <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+   Hidden categories: 
+   <ul>
+    <li><a href="/wiki/Category:Articles_with_Dutch-language_external_links" title="Category:Articles with Dutch-language external links">Articles with Dutch-language exte

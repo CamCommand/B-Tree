@@ -1,0 +1,114 @@
+<div id="bodyContent" class="mw-body-content"> 
+ <div id="siteSub" class="noprint">
+  From Wikipedia, the free encyclopedia
+ </div> 
+ <div id="contentSub"></div> 
+ <div id="jump-to-nav"></div> 
+ <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> 
+ <a class="mw-jump-link" href="#p-search">Jump to search</a> 
+ <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+  <div class="mw-parser-output">
+   <table class="infobox vcard" style="width:22em">
+    <tbody>
+     <tr>
+      <th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size: 100%;">
+       <div style="display:inline-block; font-size:130%;" class="fn">
+        Chief Martin Agbaso
+       </div></th>
+     </tr>
+     <tr>
+      <td colspan="2" style="text-align:center"><a href="/wiki/File:Martin_agbaso.jpg" class="image"><img alt="Martin agbaso.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Martin_agbaso.jpg/220px-Martin_agbaso.jpg" decoding="async" width="220" height="220" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Martin_agbaso.jpg/330px-Martin_agbaso.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Martin_agbaso.jpg/440px-Martin_agbaso.jpg 2x" data-file-width="612" data-file-height="612"></a></td>
+     </tr>
+     <tr>
+      <td colspan="2" style="text-align:center"></td>
+     </tr>
+     <tr>
+      <th colspan="2" style="text-align:center;background:lavender;line-height:normal;padding:0.2em 0.2em">Politician</th>
+     </tr>
+     <tr style="display:none">
+      <td colspan="2"> </td>
+     </tr>
+     <tr>
+      <th colspan="2" style="text-align:center;background:lavender">Personal details</th>
+     </tr>
+     <tr>
+      <th scope="row">Born</th>
+      <td><a href="/wiki/Birth_date" class="mw-redirect" title="Birth date">1959</a><br><a href="/wiki/Emekuku" title="Emekuku">Emekuku, Owerri</a></td>
+     </tr>
+     <tr>
+      <th scope="row">Spouse(s)</th>
+      <td><a href="/w/index.php?title=Robin_Agbaso&amp;action=edit&amp;redlink=1" class="new" title="Robin Agbaso (page does not exist)">Robin Agbaso</a></td>
+     </tr>
+     <tr>
+      <th scope="row">Children</th>
+      <td>Nnanna Agbaso, Adanna Agbaso, Ikenna Agbaso</td>
+     </tr>
+     <tr>
+      <th scope="row">Profession</th>
+      <td><a href="/wiki/Economist" title="Economist">Economist</a></td>
+     </tr>
+    </tbody>
+   </table> 
+   <p><b>Chief Martin Agbaso</b> (born 1959) is a <a href="/wiki/Nigeria" title="Nigeria">Nigerian</a> economist, politician and was a candidate for <a href="/wiki/Governor_of_Imo_State" class="mw-redirect" title="Governor of Imo State">Governor of Imo State</a>. Agbaso is the former Imo State Senator for Owerri, a special assistant on Ecology to the President of the Federal Republic of Nigeria and is married to Robin Agbaso, an American. The Agbasos have three children. </p> 
+   <div id="toc" class="toc">
+    <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+    <div class="toctitle" lang="en" dir="ltr">
+     <h2>Contents</h2>
+     <span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+    </div> 
+    <ul> 
+     <li class="toclevel-1 tocsection-1"><a href="#Formative_Period"><span class="tocnumber">1</span> <span class="toctext">Formative Period</span></a></li> 
+     <li class="toclevel-1 tocsection-2"><a href="#Early_life"><span class="tocnumber">2</span> <span class="toctext">Early life</span></a></li> 
+     <li class="toclevel-1 tocsection-3"><a href="#Family_Life"><span class="tocnumber">3</span> <span class="toctext">Family Life</span></a></li> 
+     <li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li> 
+     <li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a> 
+      <ul> 
+       <li class="toclevel-2 tocsection-6"><a href="#Official_sites"><span class="tocnumber">5.1</span> <span class="toctext">Official sites</span></a></li> 
+      </ul> </li> 
+    </ul> 
+   </div> 
+   <h2><span class="mw-headline" id="Formative_Period">Formative Period</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Martin_Agbaso&amp;action=edit&amp;section=1" title="Edit section: Formative Period">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <p>Chief Martin Agbaso was born on April 5, 1959 in <a href="/wiki/Emekuku" title="Emekuku">Emekuku</a>, <a href="/wiki/Owerri_North" title="Owerri North">Owerri North</a> Local Government Area of <a href="/wiki/Imo_State" title="Imo State">Imo State</a>. The first son of Chief Nathan and Mrs. Anna Agbaso. </p> 
+   <h2><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Martin_Agbaso&amp;action=edit&amp;section=2" title="Edit section: Early life">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <p>Young Martin began his early education at Our Lady's Primary School, Emekuku (now Chief Obi Memorial Primary School), from which he graduated with the First School Leaving Certificate in 1971. </p> 
+   <h2><span class="mw-headline" id="Family_Life">Family Life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Martin_Agbaso&amp;action=edit&amp;section=3" title="Edit section: Family Life">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <p>He married his 19 year old sweetheart, Robin, in New York at the age of 23. They have three children. </p> 
+   <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Martin_Agbaso&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;"> 
+   </div> 
+   <h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Martin_Agbaso&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <p>Maurice Iwu and APGA </p>
+   <p>Martin Agbaso Waits On The Doorsteps Of Justice -by Stephen </p>
+   <p>How Chief Martin Agbaso is loved by people; As his friendship cut across the border </p>
+   <p><br> </p> 
+   <h3><span class="mw-headline" id="Official_sites">Official sites</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Martin_Agbaso&amp;action=edit&amp;section=6" title="Edit section: Official sites">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+   <ul>
+    <li><a rel="nofollow" class="external text" href="http://www.martinagbaso.com/">Governor of Imo State Candidate</a> - Official gubernatorial campaign website</li>
+   </ul> 
+   <!-- 
+NewPP limit report
+Parsed by mw1321
+Cached time: 20190423105105
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.232 seconds
+Real time usage: 0.266 seconds
+Preprocessor visited node count: 7654/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 5106/2097152 bytes
+Template argument size: 513/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.043/10.000 seconds
+Lua memory usage: 1.35 MB/50 MB
+--> 
+   <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  249.200      1 -total
+ 97.10%  241.972      1 Template:Infobox_Governor
+ 61.99%  154.491      2 Template:Infobox
+ 27.45%   68.414     17 Template:Infobox_officeholder/office
+  7.54%   18.801      4 Template:Br_

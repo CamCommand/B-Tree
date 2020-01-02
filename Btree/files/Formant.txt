@@ -1,0 +1,383 @@
+<div id="bodyContent" class="mw-body-content"> 
+ <div id="siteSub" class="noprint">
+  From Wikipedia, the free encyclopedia
+ </div> 
+ <div id="contentSub"></div> 
+ <div id="jump-to-nav"></div> 
+ <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> 
+ <a class="mw-jump-link" href="#p-search">Jump to search</a> 
+ <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+  <div class="mw-parser-output">
+   <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">
+    Spectrum of phonetic resonance in speech production, or its peak
+   </div> 
+   <div class="thumb tright">
+    <div class="thumbinner" style="width:252px;">
+     <a href="/wiki/File:Spectrogram_-iua-.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Spectrogram_-iua-.png/250px-Spectrogram_-iua-.png" decoding="async" width="250" height="186" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Spectrogram_-iua-.png/375px-Spectrogram_-iua-.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/77/Spectrogram_-iua-.png/500px-Spectrogram_-iua-.png 2x" data-file-width="946" data-file-height="705"></a> 
+     <div class="thumbcaption">
+      <div class="magnify">
+       <a href="/wiki/File:Spectrogram_-iua-.png" class="internal" title="Enlarge"></a>
+      </div>
+      <a href="/wiki/Spectrogram" title="Spectrogram">Spectrogram</a> of American English vowels 
+      <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[i, u, ɑ]</span> showing the formants 
+      <i>F</i>
+      <sub>1</sub> and 
+      <i>F</i>
+      <sub>2</sub>
+     </div>
+    </div>
+   </div> 
+   <table role="presentation" class="metadata mbox-small noprint selfref" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000;width: 22em;"> 
+    <tbody>
+     <tr> 
+      <td class="mbox-image"><a href="/wiki/Help:IPA" title="Help:IPA"><img alt="[]" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Parentesi_Quadre.svg/30px-Parentesi_Quadre.svg.png" decoding="async" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Parentesi_Quadre.svg/45px-Parentesi_Quadre.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Parentesi_Quadre.svg/60px-Parentesi_Quadre.svg.png 2x" data-file-width="75" data-file-height="100"></a></td> 
+      <td class="mbox-text plainlist" style="vertical-align:middle; font-size:95%;"><b>This article contains <a href="/wiki/International_Phonetic_Alphabet" title="International Phonetic Alphabet">IPA</a> phonetic symbols.</b> Without proper <a href="/wiki/Help:IPA#Rendering_issues" title="Help:IPA">rendering support</a>, you may see <a href="/wiki/Specials_(Unicode_block)#Replacement_character" title="Specials (Unicode block)">question marks, boxes, or other symbols</a> instead of <a href="/wiki/Unicode" title="Unicode">Unicode</a> characters. For an introductory guide on IPA symbols, see <a href="/wiki/Help:IPA" title="Help:IPA">Help:IPA</a>.</td>
+     </tr>
+    </tbody>
+   </table> 
+   <p>In <a href="/wiki/Speech_science" title="Speech science">speech science</a> and <a href="/wiki/Phonetics" title="Phonetics">phonetics</a>, a <b>formant</b> is the spectral shaping that results from an <a href="/wiki/Acoustic_resonance" title="Acoustic resonance">acoustic resonance</a> of the human vocal tract.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> However, in <a href="/wiki/Acoustics" title="Acoustics">acoustics</a>, the definition of a formant differs slightly as it is defined as a peak, or local maximum, in the spectrum.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> For harmonic sounds, with this definition, it is therefore the <a href="/wiki/Harmonic" title="Harmonic">harmonic</a> partial that is augmented by a resonance. The difference between these two definitions resides in whether "formants" characterise the production mechanisms of a sound or the produced sound itself. In practice, the frequency of a spectral peak can differ from the associated resonance frequency when, for instance, harmonics are not aligned with the resonance frequency. In most cases, this subtle difference is irrelevant and, in <a href="/wiki/Phonetics" title="Phonetics">phonetics</a>, formant can mean either a resonance or the spectral maximum that the resonance produces. Formants are often measured as amplitude peaks in the <a href="/wiki/Frequency_spectrum" class="mw-redirect" title="Frequency spectrum">frequency spectrum</a> of the sound, using a spectrogram (in the figure) or a spectrum analyzer and, in the case of the voice, this gives an estimate of the vocal tract resonances. In vowels spoken with a high <a href="/wiki/Voice_frequency#Fundamental_frequency" title="Voice frequency">fundamental frequency</a>, as in a female or child voice, however, the frequency of the resonance may lie between the widely spaced harmonics and hence no corresponding peak is visible. </p>
+   <p>A room can be said to have formants characteristic of that particular room, due to the way sound reflects from its walls and objects. Room formants of this nature reinforce themselves by emphasizing specific frequencies and absorbing others, as exploited, for example, by <a href="/wiki/Alvin_Lucier" title="Alvin Lucier">Alvin Lucier</a> in his piece <i><a href="/wiki/I_Am_Sitting_in_a_Room" title="I Am Sitting in a Room">I Am Sitting in a Room</a></i>. </p> 
+   <div id="toc" class="toc">
+    <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+    <div class="toctitle" lang="en" dir="ltr">
+     <h2>Contents</h2>
+     <span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+    </div> 
+    <ul> 
+     <li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li> 
+     <li class="toclevel-1 tocsection-2"><a href="#Phonetics"><span class="tocnumber">2</span> <span class="toctext">Phonetics</span></a></li> 
+     <li class="toclevel-1 tocsection-3"><a href="#Formant_plots"><span class="tocnumber">3</span> <span class="toctext">Formant plots</span></a></li> 
+     <li class="toclevel-1 tocsection-4"><a href="#Singer's_formant"><span class="tocnumber">4</span> <span class="toctext">Singer's formant</span></a></li> 
+     <li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li> 
+     <li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li> 
+     <li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li> 
+    </ul> 
+   </div> 
+   <h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Formant&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <p>From an acoustic point of view, phonetics had a serious problem with the idea that length of vocal tract changed vowels. It was unclear how they could depend on frequencies when everyone from <a href="/wiki/Bass_(voice_type)" title="Bass (voice type)">bass</a> to <a href="/wiki/Soprano" title="Soprano">soprano</a> can make the same vowels. There had to be some way to normalize the frequencies. <a href="/wiki/Ludimar_Hermann" title="Ludimar Hermann">Hermann</a> suggested a solution to this problem in 1894, coining the term “formant”. A vowel, according to him, is a special acoustic phenomenon, depending on the intermittent production of a special partial, or “formant”, or “characteristique”. The frequency of the “formant” may vary a little without altering the character of the vowel. For <i>a</i>, for example, the “formant” may vary from 350 to 440 Hz even in the same person.<sup id="cite_ref-McKendrick_5-0" class="reference"><a href="#cite_note-McKendrick-5">[5]</a></sup> </p> 
+   <h2><span class="mw-headline" id="Phonetics">Phonetics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Formant&amp;action=edit&amp;section=2" title="Edit section: Phonetics">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <table class="wikitable sortable" style="margin:20px; float:right; text-align:center;"> 
+    <caption>
+     Average vowel formants
+     <sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> 
+    </caption> 
+    <tbody>
+     <tr> 
+      <th>Vowel<br>(<a href="/wiki/International_Phonetic_Alphabet" title="International Phonetic Alphabet">IPA</a>) </th> 
+      <th>Formant <i>F</i><sub>1</sub><br>(Hz) </th> 
+      <th>Formant <i>F</i><sub>2</sub><br>(Hz) </th> 
+      <th>Difference<br><i>F</i><sub>1</sub><br> – <i>F</i><sub>2</sub><br>(Hz) </th>
+     </tr> 
+     <tr> 
+      <td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">i</span></td> 
+      <td>240</td> 
+      <td>2400</td> 
+      <td>2160 </td>
+     </tr> 
+     <tr> 
+      <td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">y</span></td> 
+      <td>235</td> 
+      <td>2100</td> 
+      <td>1865 </td>
+     </tr> 
+     <tr> 
+      <td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">e</span></td> 
+      <td>390</td> 
+      <td>2300</td> 
+      <td>1910 </td>
+     </tr> 
+     <tr> 
+      <td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">ø</span></td> 
+      <td>370</td> 
+      <td>1900</td> 
+      <td>1530 </td>
+     </tr> 
+     <tr> 
+      <td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">ɛ</span></td> 
+      <td>610</td> 
+      <td>1900</td> 
+      <td>1290 </td>
+     </tr> 
+     <tr> 
+      <td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">œ</span></td> 
+      <td>585</td> 
+      <td>1710</td> 
+      <td>1125 </td>
+     </tr> 
+     <tr> 
+      <td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">a</span></td> 
+      <td>850</td> 
+      <td>1610</td> 
+      <td>760 </td>
+     </tr> 
+     <tr> 
+      <td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">ɶ</span></td> 
+      <td>820</td> 
+      <td>1530</td> 
+      <td>710 </td>
+     </tr> 
+     <tr> 
+      <td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">ɑ</span></td> 
+      <td>750</td> 
+      <td>940</td> 
+      <td>190 </td>
+     </tr> 
+     <tr> 
+      <td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">ɒ</span></td> 
+      <td>700</td> 
+      <td>760</td> 
+      <td>60 </td>
+     </tr> 
+     <tr> 
+      <td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">ʌ</span></td> 
+      <td>600</td> 
+      <td>1170</td> 
+      <td>570 </td>
+     </tr> 
+     <tr> 
+      <td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">ɔ</span></td> 
+      <td>500</td> 
+      <td>700</td> 
+      <td>200 </td>
+     </tr> 
+     <tr> 
+      <td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">ɤ</span></td> 
+      <td>460</td> 
+      <td>1310</td> 
+      <td>850 </td>
+     </tr> 
+     <tr> 
+      <td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">o</span></td> 
+      <td>360</td> 
+      <td>640</td> 
+      <td>280 </td>
+     </tr> 
+     <tr> 
+      <td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">ɯ</span></td> 
+      <td>300</td> 
+      <td>1390</td> 
+      <td>1090 </td>
+     </tr> 
+     <tr> 
+      <td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">u</span></td> 
+      <td>250</td> 
+      <td>595</td> 
+      <td>345 </td>
+     </tr>
+    </tbody>
+   </table> 
+   <div class="thumb tright">
+    <div class="thumbinner" style="width:222px;">
+     <a href="/wiki/File:Average_vowel_formants_F1_F2.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Average_vowel_formants_F1_F2.png/220px-Average_vowel_formants_F1_F2.png" decoding="async" width="220" height="182" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Average_vowel_formants_F1_F2.png/330px-Average_vowel_formants_F1_F2.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Average_vowel_formants_F1_F2.png/440px-Average_vowel_formants_F1_F2.png 2x" data-file-width="467" data-file-height="387"></a> 
+     <div class="thumbcaption">
+      <div class="magnify">
+       <a href="/wiki/File:Average_vowel_formants_F1_F2.png" class="internal" title="Enlarge"></a>
+      </div>Average vowel formants in a diagram
+     </div>
+    </div>
+   </div> 
+   <p>Formants are distinctive frequency components of the acoustic signal produced by speech or <a href="/wiki/Singing" title="Singing">singing</a>. The information that humans require to distinguish between speech sounds can be represented purely quantitatively by specifying peaks in the amplitude or frequency spectrum. Most of these formants are produced by tube and chamber <a href="/wiki/Resonance" title="Resonance">resonance</a>, but a few whistle tones derive from periodic collapse of <a href="/wiki/Venturi_effect" title="Venturi effect">Venturi effect</a> low-pressure zones<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (May 2015)">citation needed</span></a></i>]</sup>. The formant with the lowest frequency is called <i>F</i><sub>1</sub>, the second <i>F</i><sub>2</sub>, and the third <i>F</i><sub>3</sub>. Most often the two first formants, <i>F</i><sub>1</sub> and <i>F</i><sub>2</sub>, are enough to disambiguate the vowel. The relationship between the perceived vowel quality and the first two formant frequencies can be appreciated by listening to "artificial vowels" that are generated by passing a click train (to simulate the glottal pulse train) through a pair of bandpass filters (to simulate vocal tract resonances). </p>
+   <p>Nasal consonants usually have an additional formant around 2500&nbsp;Hz. The liquid <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[l]</span> usually has an extra formant at 1500&nbsp;Hz, whereas the <a href="/wiki/English_language" title="English language">English</a> "r" sound (<span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[ɹ]</span>) is distinguished by a very low third formant (well below 2000&nbsp;Hz). </p>
+   <p><a href="/wiki/Plosives" class="mw-redirect" title="Plosives">Plosives</a> (and, to some degree, <a href="/wiki/Fricative_consonant" title="Fricative consonant">fricatives</a>) modify the placement of formants in the surrounding vowels. <a href="/wiki/Bilabial_consonant" title="Bilabial consonant">Bilabial</a> sounds (such as <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/b/</span> and <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/p/</span> in "ball" or "sap") cause a lowering of the formants; <a href="/wiki/Velar_consonant" title="Velar consonant">velar</a> sounds (<span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/k/</span> and <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ɡ/</span> in English) almost always show <i>F</i><sub>2</sub> and <i>F</i><sub>3</sub> coming together in a 'velar pinch' before the <a href="/wiki/Velar_consonant" title="Velar consonant">velar</a> and separating from the same 'pinch' as the velar is released; <a href="/wiki/Alveolar_consonant" title="Alveolar consonant">alveolar</a> sounds (English <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/t/</span> and <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/d/</span>) cause fewer systematic changes in neighbouring vowel formants, depending partially on exactly which vowel is present. The time course of these changes in vowel formant frequencies are referred to as 'formant transitions'. </p>
+   <p>If the fundamental frequency of the underlying vibration is higher than a resonance frequency of the system, then the formant usually imparted by that resonance will be mostly lost. This is most apparent in the example of <a href="/wiki/Soprano" title="Soprano">soprano</a> <a href="/wiki/Opera" title="Opera">opera</a> singers, who sing high enough that their vowels become very hard to distinguish. </p>
+   <p>Control of resonances is an essential component of the vocal technique known as <a href="/wiki/Overtone_singing" title="Overtone singing">overtone singing</a>, in which the performer sings a low fundamental tone, and creates sharp resonances to select upper <a href="/wiki/Harmonics" class="mw-redirect" title="Harmonics">harmonics</a>, giving the impression of several tones being sung at once. </p>
+   <p><a href="/wiki/Spectrogram" title="Spectrogram">Spectrograms</a> are used to visualise formants. In spectrograms, it can be hard to distinguish formants from naturally occurring harmonics when one sings. However, one can hear the natural formants in a vowel shape through atonal techniques such as <a href="/wiki/Vocal_fry" class="mw-redirect" title="Vocal fry">vocal fry</a>. </p> 
+   <h2><span class="mw-headline" id="Formant_plots">Formant plots</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Formant&amp;action=edit&amp;section=3" title="Edit section: Formant plots">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+   <p> The first two formants are important in determining the quality of vowels, and are frequently said to correspond to the open/close and front/back dimensions (which have traditionally, though not entirely accurately, been associated with the shape and position of the <a href="/wiki/Tongue" title="Tongue">tongue</a>). Thus the first formant <i>F</i><sub>1</sub> has a higher frequency for an open vowel (such as <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[a]</span>) and a lower frequency for a close vowel (such as <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[i]</span> or <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[u]</span>); and the second formant <i>F</i><sub>2</sub> has a higher frequency for a front vowel (such as <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[i]</span>) and a lower frequency for a back vowel (such as <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[u]</span>).<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> as can be seen in Fig. 1. </p>
+   <div class="thumb tright">
+    <div class="thumbinner" style="width:332px;">
+     <a href="/wiki/File:FormantPlotSchematic.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/db/FormantPlotSchematic.JPG/330px-FormantPlotSchematic.JPG" decoding="async" width="330" height="185" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/db/FormantPlotSchematic.JPG/495px-FormantPlotSchematic.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/db/FormantPlotSchematic.JPG/660px-FormantPlotSchematic.JPG 2x" data-file-width="1064" data-file-height="598"></a> 
+     <div class="thumbcaption">
+      <div class="magnify">
+       <a href="/wiki/File:FormantPlotSchematic.JPG" class="internal" title="Enlarge"></a>
+      </div>Fig. 1 Schematic diagram of formant plot
+     </div>
+    </div>
+   </div>
+   <p> Vowels will almost always have four or more distinguishable formants; sometimes there are more than six. However, the first two formants are most important in determining vowel quality, and this is often displayed in terms of a plot of the first formant against the second formant,<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> though this is not sufficient to capture some aspects of vowel quality, such as rounding.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> An example of how the vowels of a language or dialect may be plotted on a traditional auditory vowel chart and also on a formant plot may be seen in the case of <a href="/wiki/Norwegian_phonology#Vowels" title="Norwegian phonology">Norwegian</a>. </p>
+   <div class="thumb tright">
+    <div class="thumbinner" style="width:222px;">
+     <a href="/wiki/File:Vowel_triange,_cardinal_vowels.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/8/87/Vowel_triange%2C_cardinal_vowels.png/220px-Vowel_triange%2C_cardinal_vowels.png" decoding="async" width="220" height="182" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/87/Vowel_triange%2C_cardinal_vowels.png/330px-Vowel_triange%2C_cardinal_vowels.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/87/Vowel_triange%2C_cardinal_vowels.png/440px-Vowel_triange%2C_cardinal_vowels.png 2x" data-file-width="670" data-file-height="554"></a> 
+     <div class="thumbcaption">
+      <div class="magnify">
+       <a href="/wiki/File:Vowel_triange,_cardinal_vowels.png" class="internal" title="Enlarge"></a>
+      </div>While 
+      <a href="/wiki/Daniel_Jones_(phonetician)" title="Daniel Jones (phonetician)">Daniel Jones's</a> attempts at capturing vowel articulation resulted in the International Phonetic Association plotting vowels in a trapezoid, actual formant space may be more triangular. Shown is an idealized plot of the formants of Jones and 
+      <a href="/wiki/John_C._Wells" title="John C. Wells">John Wells</a> pronouncing the cardinal vowels of the IPA.
+      <sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>
+     </div>
+    </div>
+   </div> 
+   <p>Many writers have addressed the problem of finding an optimal alignment of the positions of vowels on formant plots with those on the conventional vowel quadrilateral. The pioneering work of Ladefoged<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> used the <a href="/wiki/Mel_scale" title="Mel scale">Mel scale</a> because this scale was claimed to correspond more closely to the auditory scale of <a href="/wiki/Pitch_(music)" title="Pitch (music)">pitch</a> than to the acoustic measure of <a href="/wiki/Fundamental_frequency" title="Fundamental frequency">fundamental frequency</a> expressed in Hertz as in Fig. 1. Two alternatives to the Mel scale are the <a href="/wiki/Bark_scale" title="Bark scale">Bark scale</a> and the <a href="/wiki/Equivalent_rectangular_bandwidth" title="Equivalent rectangular bandwidth">ERB-rate scale</a>. A comparison of these three scales is shown by Hayward, p.&nbsp;141, and formant plots based on the Hertz scale and on the Bark scale are compared on p.&nbsp;153.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> Another strategy for improving formant plots that has been widely adopted is to plot on the horizontal axis not the value of F2 but the difference between F1 and F2 for a given vowel. </p> 
+   <h2><span id="Singer.27s_formant"></span><span class="mw-headline" id="Singer's_formant">Singer's formant</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Formant&amp;action=edit&amp;section=4" title="Edit section: Singer's formant">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <div role="note" class="hatnote navigation-not-searchable">
+    Main article: 
+    <a href="/wiki/Squillo" title="Squillo">Squillo</a>
+   </div> 
+   <p>Studies of the frequency spectrum of trained classical <a href="/wiki/Singing" title="Singing">singers</a>, especially male singers, indicate a clear formant around 3000&nbsp;Hz (between 2800 and 3400&nbsp;Hz) that is absent in speech or in the spectra of untrained singers. It is thought to be associated with one or more of the higher resonances of the vocal tract.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> It is this increase in energy at 3000&nbsp;Hz which allows singers to be heard and understood over an <a href="/wiki/Orchestra" title="Orchestra">orchestra</a>. This formant is actively developed through <a href="/wiki/Vocal_pedagogy" title="Vocal pedagogy">vocal training</a>, for instance through so-called <i>voce di strega</i> or "witch's voice"<sup id="cite_ref-FrisellBrandenBooks_15-0" class="reference"><a href="#cite_note-FrisellBrandenBooks-15">[15]</a></sup> exercises and is caused by a part of the vocal tract acting as a <a href="/wiki/Helmholtz_resonator" class="mw-redirect" title="Helmholtz resonator">resonator</a>.<sup id="cite_ref-SingersFormantNationalCenter_16-0" class="reference"><a href="#cite_note-SingersFormantNationalCenter-16">[16]</a></sup><sup id="cite_ref-Sundberg_17-0" class="reference"><a href="#cite_note-Sundberg-17">[17]</a></sup> In classical music and vocal pedagogy, this phenomenon is also known as <i><a href="/wiki/Squillo" title="Squillo">squillo</a></i>. </p> 
+   <h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Formant&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <ul>
+    <li><a href="/wiki/Formant_synthesis" class="mw-redirect" title="Formant synthesis">Formant synthesis</a></li> 
+    <li><a href="/wiki/Human_voice" title="Human voice">Human voice</a></li> 
+    <li><a href="/wiki/Linear_predictive_coding" title="Linear predictive coding">Linear predictive coding</a></li> 
+    <li><a href="/wiki/Praat" title="Praat">Praat</a></li> 
+    <li><a href="/wiki/Timbre" title="Timbre">Timbre</a></li> 
+    <li><a href="/wiki/Vocoder" title="Vocoder">Vocoder</a></li>
+   </ul> 
+   <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Formant&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <div class="reflist" style="list-style-type: decimal;"> 
+    <div class="mw-references-wrap mw-references-columns">
+     <ol class="references"> 
+      <li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Titze, I.R. (1994). Principles of Voice Production, Prentice Hall, <style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-0-13-717893-3" title="Special:BookSources/978-0-13-717893-3">978-0-13-717893-3</a>.</span> </li> 
+      <li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Titze, I.R., Baken, R.J. Bozeman, K.W., Granqvist, S. Henrich, N., Herbst, C.T., Howard, D.M., Hunter, E.J., Kaelin, D., Kent, R.D., Löfqvist, A., McCoy, S., Miller, D.G., Noé, H., Scherer, R.C., Smith, J.R., Story, B.H., Švec, J.G., Ternström, S. and Wolfe, J. (2015) "Toward a consensus on symbolic notation of harmonics, resonances, and formants in vocalization." J. Acoust. Soc. America. 137, 3005-3007.</span> </li> 
+      <li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Jeans, J.H. (1938) Science &amp; Music, reprinted by Dover, 1968.</span> </li> 
+      <li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Standards Secretariat, Acoustical Society of America, (1994). ANSI S1.1-1994 (R2004) American National Standard Acoustical Terminology, (12.41) Acoustical Society of America, Melville, NY.</span> </li> 
+      <li id="cite_note-McKendrick-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-McKendrick_5-0">^</a></b></span> <span class="reference-text">McKendrick, J. G. (1903). Experimental phonetics. In Annual report of the board of regents of the Smithsonian institution for the year ending June 30, 1902 (pp. 241–259). Smithsonian Institution.</span> </li> 
+      <li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Catford, J.C. (1988) <i>A Practical Introduction to Phonetics</i>, Oxford University Press, p. 161. 
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-0198242178" title="Special:BookSources/978-0198242178">978-0198242178</a></span> </li> 
+      <li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Ladefoged, Peter (2006) <i>A Course in Phonetics (Fifth Edition)</i>, Boston, MA: Thomson Wadsworth, p. 188. 
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/1-4130-2079-8" title="Special:BookSources/1-4130-2079-8">1-4130-2079-8</a></span> </li> 
+      <li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Ladefoged, Peter (2001) <i>Vowels and Consonants: An Introduction to the Sounds of Language</i>, Maldern, MA: Blackwell, p. 40. 
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/0-631-21412-7" title="Special:BookSources/0-631-21412-7">0-631-21412-7</a></span> </li> 
+      <li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Deterding, David (1997) 'The Formants of Monophthong Vowels in Standard Southern British English Pronunciation', <i>Journal of the International Phonetic Association</i>, 27, pp. 47-55.</span> </li> 
+      <li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Hayward, Katrina (2000) <i>Experimental Phonetics</i>, Harlow, UK: Pearson, p. 149. 
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/0-582-29137-2" title="Special:BookSources/0-582-29137-2">0-582-29137-2</a></span> </li> 
+      <li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a href="/wiki/Geoff_Lindsey" title="Geoff Lindsey">Geoff Lindsey</a>, 2013. <i>The Vowel Space</i>.<a rel="nofollow" class="external autonumber" href="http://englishspeechservices.com/blog/the-vowel-space/">[1]</a></span> </li> 
+      <li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation book">Ladefoged, P. (1967). <i>Three Areas of Experimental Phonetics</i>. Oxford. p.&nbsp;87.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Three+Areas+of+Experimental+Phonetics&amp;rft.pages=87&amp;rft.pub=Oxford&amp;rft.date=1967&amp;rft.aulast=Ladefoged&amp;rft.aufirst=P.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFormant" class="Z3988"></span>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+      <li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation book">Hayward, K. (2000). <i>Experimental Phonetics</i>. Longman. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/0-582-29137-2" title="Special:BookSources/0-582-29137-2"><bdi>0-582-29137-2</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Experimental+Phonetics&amp;rft.pub=Longman&amp;rft.date=2000&amp;rft.isbn=0-582-29137-2&amp;rft.aulast=Hayward&amp;rft.aufirst=K.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFormant" class="Z3988"></span>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+      <li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text">Sundberg, J. (1974). "Articulatory interpretation of the 'singing formant'", <i>Journal of the Acoustical Society of America</i>, 55, 838-844.</span> </li> 
+      <li id="cite_note-FrisellBrandenBooks-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-FrisellBrandenBooks_15-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Frisell, Anthony (2007). <i>Baritone Voice</i>. Boston: Branden Books. p.&nbsp;84. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/0-8283-2181-7" title="Special:BookSources/0-8283-2181-7"><bdi>0-8283-2181-7</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Baritone+Voice&amp;rft.place=Boston&amp;rft.pages=84&amp;rft.pub=Branden+Books&amp;rft.date=2007&amp;rft.isbn=0-8283-2181-7&amp;rft.au=Frisell%2C+Anthony&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFormant" class="Z3988"></span>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+      <li id="cite_note-SingersFormantNationalCenter-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-SingersFormantNationalCenter_16-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.ncvs.org/ncvs/tutorials/voiceprod/tutorial/singer.html">"Vocal Ring, or The Singer's Formant"</a>. <i>The National Center for Voice and Speech</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2008-04-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+National+Center+for+Voice+and+Speech&amp;rft.atitle=Vocal+Ring%2C+or+The+Singer%27s+Formant&amp;rft_id=http%3A%2F%2Fwww.ncvs.org%2Fncvs%2Ftutorials%2Fvoiceprod%2Ftutorial%2Fsinger.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFormant" class="Z3988"></span>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+      <li id="cite_note-Sundberg-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-Sundberg_17-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Sundberg, Johan (1987). <i>The science of the singing voice</i>. DeKalb, Ill: <a href="/wiki/Northern_Illinois_University_Press" title="Northern Illinois University Press">Northern Illinois University Press</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/0-87580-542-6" title="Special:BookSources/0-87580-542-6"><bdi>0-87580-542-6</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+science+of+the+singing+voice&amp;rft.place=DeKalb%2C+Ill&amp;rft.pub=Northern+Illinois+University+Press&amp;rft.date=1987&amp;rft.isbn=0-87580-542-6&amp;rft.au=Sundberg%2C+Johan&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFormant" class="Z3988"></span>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+     </ol>
+    </div>
+   </div> 
+   <h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Formant&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <ul>
+    <li><a rel="nofollow" class="external text" href="http://homepage.ntu.edu.tw/~karchung/Phonetics%20II%20page%20nineteen.htm">Formants for fun and profit</a></li> 
+    <li><a rel="nofollow" class="external text" href="http://www.geofex.com/Article_Folders/wahpedl/voicewah.htm">Formants and wah-wah pedals</a></li> 
+    <li><a rel="nofollow" class="external text" href="http://www.phys.unsw.edu.au/jw/formant.html">What is a formant?</a> A discussion of the three different meanings of the word 'formant'</li> 
+    <li><a rel="nofollow" class="external text" href="http://www.phys.unsw.edu.au/jw/soprane.html">Formant tuning by soprano singers</a> from the University of New South Wales</li> 
+    <li><a rel="nofollow" class="external text" href="http://www.phys.unsw.edu.au/jw/xoomi.html">The acoustics of harmonic or overtone singing</a> from the University of New South Wales</li> 
+    <li><a rel="nofollow" class="external text" href="http://videoweb.nie.edu.sg/phonetic/vowels/measurements.html">Materials for measuring and plotting vowel formants</a></li> 
+    <li><a rel="nofollow" class="external text" href="http://www.vowel.ch/acoustics/index.htm">Acoustics of the Vowel</a> A discussion of possible formant variations without affection of the phoneme identity.</li>
+   </ul> 
+   <div role="navigation" class="navbox" aria-labelledby="Acoustics" style="padding:3px">
+    <table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+     <tbody>
+      <tr>
+       <th scope="col" class="navbox-title" colspan="3">
+        <div class="plainlinks hlist navbar mini">
+         <ul>
+          <li class="nv-view"><a href="/wiki/Template:Acoustics" title="Template:Acoustics"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+          <li class="nv-talk"><a href="/wiki/Template_talk:Acoustics" title="Template talk:Acoustics"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+          <li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Acoustics&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+         </ul>
+        </div>
+        <div id="Acoustics" style="font-size:114%;margin:0 4em">
+         <a href="/wiki/Acoustics" title="Acoustics">Acoustics</a>
+        </div></th>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Acoustical_engineering" title="Acoustical engineering">Engineering</a></th>
+       <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><a href="/wiki/Architectural_acoustics" title="Architectural acoustics">Architectural acoustics</a></li> 
+          <li><a href="/wiki/Monochord" title="Monochord">Monochord</a></li> 
+          <li><a href="/wiki/Reverberation" title="Reverberation">Reverberation</a></li> 
+          <li><a href="/wiki/Soundproofing" title="Soundproofing">Soundproofing</a></li> 
+          <li><a href="/wiki/String_vibration" title="String vibration">String vibration</a> 
+           <ul>
+            <li><a href="/wiki/String_resonance" title="String resonance">string resonance</a></li>
+           </ul></li>
+         </ul> 
+        </div></td>
+       <td class="navbox-image" rowspan="5" style="width:1px;padding:0px 0px 0px 2px">
+        <div>
+         <div class="plainlist">
+          <ul>
+           <li><a href="/wiki/File:Spectrogram_showing_shared_partials.png" class="image"><img alt="A spectrogram of a violin playing a note and then a perfect fifth above it. The shared partials are highlighted by the white dashes." src="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Spectrogram_showing_shared_partials.png/80px-Spectrogram_showing_shared_partials.png" decoding="async" width="80" height="67" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Spectrogram_showing_shared_partials.png/120px-Spectrogram_showing_shared_partials.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/26/Spectrogram_showing_shared_partials.png/160px-Spectrogram_showing_shared_partials.png 2x" data-file-width="300" data-file-height="250"></a></li>
+           <li><span style="font-size:90%;"><a href="/wiki/Spectrogram" title="Spectrogram">Spectrogram</a></span></li>
+          </ul>
+         </div>
+        </div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Psychoacoustics" title="Psychoacoustics">Psychoacoustics</a></th>
+       <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><a href="/wiki/Bark_scale" title="Bark scale">Bark scale</a></li> 
+          <li><a href="/wiki/Combination_tone" title="Combination tone">Combination tone</a></li> 
+          <li><a href="/wiki/Equal-loudness_contour" title="Equal-loudness contour">Equal-loudness contour</a> 
+           <ul>
+            <li><a href="/wiki/Fletcher%E2%80%93Munson_curves" title="Fletcher–Munson curves">Fletcher–Munson curves</a></li>
+           </ul></li> 
+          <li><a href="/wiki/Mel_scale" title="Mel scale">Mel scale</a></li> 
+          <li><a href="/wiki/Missing_fundamental" title="Missing fundamental">Missing fundamental</a></li>
+         </ul> 
+        </div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Frequency" title="Frequency">Frequency</a> and <a href="/wiki/Pitch_(music)" title="Pitch (music)">pitch</a></th>
+       <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><a href="/wiki/Beat_(acoustics)" title="Beat (acoustics)">Beat</a></li> 
+          <li><a class="mw-selflink selflink">Formant</a></li> 
+          <li><a href="/wiki/Fundamental_frequency" title="Fundamental frequency">Fundamental frequency</a></li> 
+          <li><a href="/wiki/Frequency_spectrum" class="mw-redirect" title="Frequency spectrum">Frequency spectrum</a> 
+           <ul>
+            <li><a href="/wiki/Harmonic_spectrum" title="Harmonic spectrum">harmonic spectrum</a></li>
+           </ul></li> 
+          <li><a href="/wiki/Harmonic" title="Harmonic">Harmonic</a> 
+           <ul>
+            <li><a href="/wiki/Harmonic_series_(music)" title="Harmonic series (music)">series</a></li> 
+            <li><a href="/wiki/Inharmonicity" title="Inharmonicity">inharmonicity</a></li>
+           </ul></li> 
+          <li><a href="/wiki/Mersenne%27s_laws" title="Mersenne's laws">Mersenne's laws</a></li> 
+          <li><a href="/wiki/Overtone" title="Overtone">Overtone</a></li> 
+          <li><a href="/wiki/Acoustic_resonance" title="Acoustic resonance">Resonance</a></li> 
+          <li><a href="/wiki/Standing_wave" title="Standing wave">Standing wave</a> 
+           <ul>
+            <li><a href="/wiki/Node_(physics)" title="Node (physics)">Node</a></li>
+           </ul></li> 
+          <li><a href="/wiki/Undertone_series" title="Undertone series">Subharmonic</a></li>
+         </ul> 
+        </div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%">Acousticians</th>
+       <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><a href="/wiki/John_Backus_(acoustician)" title="John Backus (acoustician)">John Backus</a></li> 
+          <li><a href="/wiki/Jens_Blauert" title="Jens Blauert">Jens Blauert</a></li> 
+          <li><a href="/wiki/Ernst_Chladni" title="Ernst Chladni">Ernst Chladni</a></li> 
+          <li><a href="/wiki/Hermann_von_Helmholtz" title="Hermann von Helmholtz">Hermann von Helmholtz</a></li> 
+          <li><a href="/wiki/Franz_Melde" title="Franz Melde">Franz Melde</a></li> 
+          <li><a href="/wiki/Marin_Mersenne" title="Marin Mersenne">Marin Mersenne</a></li> 
+          <li><a href="/wiki/Werner_Meyer-Eppler" title="Werner Meyer-Eppler">Werner Meyer-Eppler</a></li> 
+          <li><a href="/wiki/John_Strutt,_3rd_Baron_Rayleigh" class="mw-redirect" title="John Strutt, 3rd Baron Rayleigh">Lord Rayleigh</a></li> 
+          <li><a href="/wiki/Joseph_Sauveur" title="Joseph Sauveur">Joseph Sauveur</a></li> 
+          <li><a href="/wiki/D._Van_Holliday" title="D. Van Holliday">D. Van Holliday</a></li> 
+          <li><a href="/wiki/Thomas_Young_(scientist)" title="Thomas Young (scientist)">Thomas Young</a></li>
+         </ul> 
+        </div></td>
+      </tr>
+      <tr>
+       <th scope="row" class="navbox-group" style="width:1%">Related topics</th>
+       <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+        <div style="padding:0em 0.25em"> 
+         <ul>
+          <li><a href="/wiki/Echo_(phenomenon)" class="mw-redirect" title="Echo (phenomenon)">Echo</a></li> 
+          <li><a href="/wiki/Infrasound" title="Infrasound">Infrasound</a></li> 
+          <li><a href="/wiki/Sound" title="Sound">Sound</a></li> 
+          <li><a href="/wiki/Ultrasound" title="Ultrasound">Ultrasound</a></li> 
+          <li><a href="/wiki/Musical_acoustics" title="Musical acoustics

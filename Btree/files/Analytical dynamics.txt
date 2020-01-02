@@ -1,0 +1,384 @@
+<div id="bodyContent" class="mw-body-content"> 
+ <div id="siteSub" class="noprint">
+  From Wikipedia, the free encyclopedia
+ </div> 
+ <div id="contentSub"></div> 
+ <div id="jump-to-nav"></div> 
+ <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> 
+ <a class="mw-jump-link" href="#p-search">Jump to search</a> 
+ <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+  <div class="mw-parser-output">
+   <div role="note" class="hatnote navigation-not-searchable">
+    For dynamics as the time evolution of physical processes, see 
+    <a href="/wiki/Dynamics_(mechanics)" title="Dynamics (mechanics)">Dynamics (mechanics)</a>.
+   </div> 
+   <table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+    <tbody>
+     <tr>
+      <td style="padding-top:0.4em;line-height:1.2em">Part of a series of articles about</td>
+     </tr>
+     <tr>
+      <th style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em;padding-left:0.9em;padding-right:0.9em;"><a href="/wiki/Classical_mechanics" title="Classical mechanics">Classical mechanics</a></th>
+     </tr>
+     <tr>
+      <td style="padding:0.2em 0 0.4em"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle {\vec {F}}=m{\vec {a}}}"> 
+          <semantics> 
+           <mrow class="MJX-TeXAtom-ORD"> 
+            <mstyle displaystyle="true" scriptlevel="0"> 
+             <mrow class="MJX-TeXAtom-ORD"> 
+              <mrow class="MJX-TeXAtom-ORD"> 
+               <mover> 
+                <mi>
+                 F
+                </mi> 
+                <mo stretchy="false">
+                 →
+                 <!-- → -->
+                </mo> 
+               </mover> 
+              </mrow> 
+             </mrow> 
+             <mo>
+              =
+             </mo> 
+             <mi>
+              m
+             </mi> 
+             <mrow class="MJX-TeXAtom-ORD"> 
+              <mrow class="MJX-TeXAtom-ORD"> 
+               <mover> 
+                <mi>
+                 a
+                </mi> 
+                <mo stretchy="false">
+                 →
+                 <!-- → -->
+                </mo> 
+               </mover> 
+              </mrow> 
+             </mrow> 
+            </mstyle> 
+           </mrow> 
+           <annotation encoding="application/x-tex">
+            {\displaystyle {\vec {F}}=m{\vec {a}}}
+           </annotation> 
+          </semantics> 
+         </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f7b202a8eaba4b424be52bcbaa043727b6ad9860" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:8.14ex; height:2.843ex;" alt="{\vec {F}}=m{\vec {a}}"></span>
+       <div style="padding-top:0.2em;line-height:1.2em;font-size:90%;padding:0.6em 0;font-style:italic;">
+        <a href="/wiki/Second_law_of_motion" class="mw-redirect" title="Second law of motion">Second law of motion</a>
+       </div></td>
+     </tr>
+     <tr>
+      <th style="padding:0.1em;background:#ddf; display:block;margin-bottom:1.0em;"> 
+       <div class="hlist"> 
+        <ul>
+         <li><a href="/wiki/History_of_classical_mechanics" title="History of classical mechanics">History</a></li> 
+         <li><a href="/wiki/Timeline_of_classical_mechanics" title="Timeline of classical mechanics">Timeline</a></li>
+        </ul> 
+       </div></th>
+     </tr>
+     <tr>
+      <td style="padding:0 0.1em 0.4em"> 
+       <div class="NavFrame" style="border:none;padding:0">
+        <div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;">
+         Branches
+        </div>
+        <div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:0.35em;">
+         <div class="hlist"> 
+          <ul>
+           <li><a href="/wiki/Applied_mechanics" title="Applied mechanics">Applied</a></li> 
+           <li><a href="/wiki/Celestial_mechanics" title="Celestial mechanics">Celestial</a></li> 
+           <li><a href="/wiki/Continuum_mechanics" title="Continuum mechanics">Continuum</a></li> 
+           <li><a class="mw-selflink selflink">Dynamics</a></li> 
+           <li><a href="/wiki/Kinematics" title="Kinematics">Kinematics</a></li> 
+           <li><a href="/wiki/Kinetics_(physics)" title="Kinetics (physics)">Kinetics</a></li> 
+           <li><a href="/wiki/Statics" title="Statics">Statics</a></li> 
+           <li><a href="/wiki/Statistical_mechanics" title="Statistical mechanics">Statistical</a></li>
+          </ul> 
+         </div>
+        </div>
+       </div></td> 
+     </tr>
+     <tr>
+      <td style="padding:0 0.1em 0.4em"> 
+       <div class="NavFrame collapsed" style="border:none;padding:0">
+        <div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;">
+         Fundamentals
+        </div>
+        <div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:0.35em;">
+         <div class="hlist"> 
+          <ul>
+           <li><a href="/wiki/Acceleration" title="Acceleration">Acceleration</a></li> 
+           <li><a href="/wiki/Angular_momentum" title="Angular momentum">Angular momentum</a></li> 
+           <li><a href="/wiki/Couple_(mechanics)" title="Couple (mechanics)">Couple</a></li> 
+           <li><a href="/wiki/D%27Alembert%27s_principle" title="D'Alembert's principle">D'Alembert's principle</a></li> 
+           <li><a href="/wiki/Energy" title="Energy">Energy</a> 
+            <ul>
+             <li><a href="/wiki/Kinetic_energy#Newtonian_kinetic_energy" title="Kinetic energy">kinetic</a></li> 
+             <li><a href="/wiki/Potential_energy" title="Potential energy">potential</a></li>
+            </ul></li> 
+           <li><a href="/wiki/Force" title="Force">Force</a></li> 
+           <li><a href="/wiki/Frame_of_reference" title="Frame of reference">Frame of reference</a></li> 
+           <li><a href="/wiki/Inertial_frame_of_reference" title="Inertial frame of reference">Inertial frame of reference</a></li> 
+           <li><a href="/wiki/Impulse_(physics)" title="Impulse (physics)">Impulse</a></li> 
+           <li><span class="nowrap"><a href="/wiki/Inertia" title="Inertia">Inertia</a>&nbsp;/ <a href="/wiki/Moment_of_inertia" title="Moment of inertia">Moment of inertia</a></span></li> 
+           <li><a href="/wiki/Mass" title="Mass">Mass</a></li> 
+           <li><br><a href="/wiki/Power_(physics)" title="Power (physics)">Mechanical power</a></li> 
+           <li><a href="/wiki/Work_(physics)" title="Work (physics)">Mechanical work</a></li> 
+           <li><br><a href="/wiki/Moment_(physics)" title="Moment (physics)">Moment</a></li> 
+           <li><a href="/wiki/Momentum" title="Momentum">Momentum</a></li> 
+           <li><a href="/wiki/Space" title="Space">Space</a></li> 
+           <li><a href="/wiki/Speed" title="Speed">Speed</a></li> 
+           <li><a href="/wiki/Time" title="Time">Time</a></li> 
+           <li><a href="/wiki/Torque" title="Torque">Torque</a></li> 
+           <li><a href="/wiki/Velocity" title="Velocity">Velocity</a></li> 
+           <li><a href="/wiki/Virtual_work" title="Virtual work">Virtual work</a></li>
+          </ul> 
+         </div>
+        </div>
+       </div></td> 
+     </tr>
+     <tr>
+      <td style="padding:0 0.1em 0.4em"> 
+       <div class="NavFrame collapsed" style="border:none;padding:0">
+        <div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;">
+         Formulations
+        </div>
+        <div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:0.35em;"> 
+         <ul>
+          <li>
+           <div style="padding:0.1em 0;line-height:1.2em;">
+            <b><a href="/wiki/Newton%27s_laws_of_motion" title="Newton's laws of motion">Newton's laws of motion</a></b>
+           </div></li> 
+          <li>
+           <div style="padding:0.1em 0;line-height:1.2em;">
+            <b><a href="/wiki/Analytical_mechanics" title="Analytical mechanics">Analytical mechanics</a></b> 
+            <div class="plainlist">
+             <ul>
+              <li><a href="/wiki/Lagrangian_mechanics" title="Lagrangian mechanics">Lagrangian mechanics</a></li>
+              <li><a href="/wiki/Hamiltonian_mechanics" title="Hamiltonian mechanics">Hamiltonian mechanics</a></li>
+              <li><a href="/wiki/Routhian_mechanics" title="Routhian mechanics">Routhian mechanics</a></li>
+              <li><a href="/wiki/Hamilton%E2%80%93Jacobi_equation" title="Hamilton–Jacobi equation">Hamilton–Jacobi equation</a></li>
+              <li><a href="/wiki/Appell%27s_equation_of_motion" title="Appell's equation of motion">Appell's equation of motion</a></li>
+              <li><a href="/wiki/Udwadia%E2%80%93Kalaba_equation" title="Udwadia–Kalaba equation">Udwadia–Kalaba equation</a></li>
+              <li><a href="/wiki/Koopman%E2%80%93von_Neumann_classical_mechanics" title="Koopman–von Neumann classical mechanics">Koopman–von Neumann mechanics</a></li>
+             </ul>
+            </div>
+           </div></li>
+         </ul>
+        </div>
+       </div></td> 
+     </tr>
+     <tr>
+      <td style="padding:0 0.1em 0.4em"> 
+       <div class="NavFrame collapsed" style="border:none;padding:0">
+        <div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;">
+         Core topics
+        </div>
+        <div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:0.35em;">
+         <div class="hlist"> 
+          <ul>
+           <li><a href="/wiki/Damping" class="mw-redirect" title="Damping">Damping</a>&nbsp;(<a href="/wiki/Damping_ratio" title="Damping ratio">ratio</a>)</li> 
+           <li><a href="/wiki/Displacement_(vector)" title="Displacement (vector)">Displacement</a></li> 
+           <li><a href="/wiki/Equations_of_motion" title="Equations of motion">Equations of motion</a></li> 
+           <li><a href="/wiki/Euler%27s_laws_of_motion" title="Euler's laws of motion"><span class="wrap">Euler's laws of motion</span></a></li> 
+           <li><a href="/wiki/Fictitious_force" title="Fictitious force">Fictitious force</a></li> 
+           <li><a href="/wiki/Friction" title="Friction">Friction</a></li> 
+           <li><a href="/wiki/Harmonic_oscillator" title="Harmonic oscillator">Harmonic oscillator</a></li>
+          </ul> 
+         </div> 
+         <ul>
+          <li><span class="nowrap"><a href="/wiki/Inertial_frame_of_reference" title="Inertial frame of reference">Inertial</a>&nbsp;/ <a href="/wiki/Non-inertial_reference_frame" title="Non-inertial reference frame">Non-inertial reference frame</a></span></li> 
+          <li><a href="/wiki/Mechanics_of_planar_particle_motion" title="Mechanics of planar particle motion">Mechanics of planar particle motion</a></li>
+         </ul> 
+         <div class="hlist"> 
+          <ul>
+           <li><a href="/wiki/Motion_(physics)" class="mw-redirect" title="Motion (physics)">Motion</a>&nbsp;(<a href="/wiki/Linear_motion" title="Linear motion">linear</a>)</li> 
+           <li><a href="/wiki/Newton%27s_law_of_universal_gravitation" title="Newton's law of universal gravitation"><span class="wrap">Newton's law of universal gravitation</span></a></li> 
+           <li><a href="/wiki/Newton%27s_laws_of_motion" title="Newton's laws of motion">Newton's laws of motion</a></li> 
+           <li><a href="/wiki/Relative_velocity" title="Relative velocity">Relative velocity</a></li> 
+           <li><a href="/wiki/Rigid_body" title="Rigid body">Rigid body</a> 
+            <ul>
+             <li><a href="/wiki/Rigid_body_dynamics" title="Rigid body dynamics">dynamics</a></li> 
+             <li><a href="/wiki/Euler%27s_equations_(rigid_body_dynamics)" title="Euler's equations (rigid body dynamics)">Euler's equations</a></li>
+            </ul></li> 
+           <li><a href="/wiki/Simple_harmonic_motion" title="Simple harmonic motion">Simple harmonic motion</a></li> 
+           <li><a href="/wiki/Vibration" title="Vibration">Vibration</a></li>
+          </ul> 
+         </div>
+        </div>
+       </div></td> 
+     </tr>
+     <tr>
+      <td style="padding:0 0.1em 0.4em"> 
+       <div class="NavFrame collapsed" style="border:none;padding:0">
+        <div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;">
+         <a href="/wiki/Rotation_around_a_fixed_axis" title="Rotation around a fixed axis">Rotation</a>
+        </div>
+        <div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:0.35em;">
+         <div class="hlist"> 
+          <ul>
+           <li><a href="/wiki/Circular_motion" title="Circular motion">Circular motion</a></li> 
+           <li><a href="/wiki/Rotating_reference_frame" title="Rotating reference frame">Rotating reference frame</a></li> 
+           <li><a href="/wiki/Centripetal_force" title="Centripetal force">Centripetal force</a></li> 
+           <li><a href="/wiki/Centrifugal_force" title="Centrifugal force">Centrifugal force</a> 
+            <ul>
+             <li><a href="/wiki/Reactive_centrifugal_force" title="Reactive centrifugal force">reactive</a></li>
+            </ul></li> 
+           <li><a href="/wiki/Coriolis_force" title="Coriolis force">Coriolis force</a></li> 
+           <li><a href="/wiki/Pendulum_(mathematics)" title="Pendulum (mathematics)">Pendulum</a></li> 
+           <li><a href="/wiki/Speed#Tangential_speed" title="Speed">Tangential speed</a></li> 
+           <li><a href="/wiki/Rotational_speed" title="Rotational speed">Rotational speed</a></li>
+          </ul> 
+         </div> 
+         <ul>
+          <li><a href="/wiki/Angular_acceleration" title="Angular acceleration">Angular acceleration</a>&nbsp;/ <a href="/wiki/Angular_displacement" title="Angular displacement">displacement</a>&nbsp;/ <a href="/wiki/Angular_frequency" title="Angular frequency">frequency</a>&nbsp;/ <a href="/wiki/Angular_velocity" title="Angular velocity">velocity</a></li>
+         </ul>
+        </div>
+       </div></td> 
+     </tr>
+     <tr>
+      <td style="padding:0 0.1em 0.4em"> 
+       <div class="NavFrame collapsed" style="border:none;padding:0">
+        <div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;">
+         Scientists
+        </div>
+        <div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:0.35em;">
+         <div class="hlist"> 
+          <ul>
+           <li><a href="/wiki/Galileo_Galilei" title="Galileo Galilei">Galileo</a></li> 
+           <li><a href="/wiki/Christiaan_Huygens" title="Christiaan Huygens">Huygens</a></li> 
+           <li><a href="/wiki/Isaac_Newton" title="Isaac Newton">Newton</a></li> 
+           <li><a href="/wiki/Johannes_Kepler" title="Johannes Kepler">Kepler</a></li> 
+           <li><a href="/wiki/Jeremiah_Horrocks" title="Jeremiah Horrocks">Horrocks</a></li> 
+           <li><a href="/wiki/Edmond_Halley" title="Edmond Halley">Halley</a></li> 
+           <li><a href="/wiki/Leonhard_Euler" title="Leonhard Euler">Euler</a></li> 
+           <li><a href="/wiki/Jean_le_Rond_d%27Alembert" title="Jean le Rond d'Alembert">d'Alembert</a></li> 
+           <li><a href="/wiki/Alexis_Clairaut" title="Alexis Clairaut">Clairaut</a></li> 
+           <li><a href="/wiki/Joseph-Louis_Lagrange" title="Joseph-Louis Lagrange">Lagrange</a></li> 
+           <li><a href="/wiki/Pierre-Simon_Laplace" title="Pierre-Simon Laplace">Laplace</a></li> 
+           <li><a href="/wiki/William_Rowan_Hamilton" title="William Rowan Hamilton">Hamilton</a></li> 
+           <li><a href="/wiki/Sim%C3%A9on_Denis_Poisson" title="Siméon Denis Poisson">Poisson</a></li> 
+           <li><a href="/wiki/Daniel_Bernoulli" title="Daniel Bernoulli">Daniel Bernoulli</a></li> 
+           <li><a href="/wiki/Johann_Bernoulli" title="Johann Bernoulli">Johann Bernoulli</a></li> 
+           <li><a href="/wiki/Augustin-Louis_Cauchy" title="Augustin-Louis Cauchy">Cauchy</a></li>
+          </ul> 
+         </div>
+        </div>
+       </div></td> 
+     </tr>
+     <tr>
+      <td style="text-align:right;font-size:115%;padding-top: 0.6em;padding-top:0.15em;">
+       <div class="plainlinks hlist navbar mini">
+        <ul>
+         <li class="nv-view"><a href="/wiki/Template:Classical_mechanics" title="Template:Classical mechanics"><abbr title="View this template">v</abbr></a></li>
+         <li class="nv-talk"><a href="/wiki/Template_talk:Classical_mechanics" title="Template talk:Classical mechanics"><abbr title="Discuss this template">t</abbr></a></li>
+         <li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Classical_mechanics&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+        </ul>
+       </div></td>
+     </tr>
+    </tbody>
+   </table> 
+   <p>In <a href="/wiki/Classical_mechanics" title="Classical mechanics">classical mechanics</a>, <b>analytical dynamics</b>, or more briefly <b>dynamics</b>, is concerned with the relationship between <a href="/wiki/Motion_(physics)" class="mw-redirect" title="Motion (physics)">motion</a> of bodies and its causes, namely the <a href="/wiki/Force_(physics)" class="mw-redirect" title="Force (physics)">forces</a> acting on the bodies and the properties of the bodies, particularly <a href="/wiki/Mass" title="Mass">mass</a> and <a href="/wiki/Moment_of_inertia" title="Moment of inertia">moment of inertia</a>. The foundation of modern-day dynamics is <a href="/wiki/Classical_mechanics" title="Classical mechanics">Newtonian mechanics</a> and its reformulation as <a href="/wiki/Lagrangian_mechanics" title="Lagrangian mechanics">Lagrangian mechanics</a> and <a href="/wiki/Hamiltonian_mechanics" title="Hamiltonian mechanics">Hamiltonian mechanics</a>.<sup id="cite_ref-Doran_1-0" class="reference"><a href="#cite_note-Doran-1">[1]</a></sup><sup id="cite_ref-Lanczos_2-0" class="reference"><a href="#cite_note-Lanczos-2">[2]</a></sup> </p> 
+   <div id="toc" class="toc">
+    <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+    <div class="toctitle" lang="en" dir="ltr">
+     <h2>Contents</h2>
+     <span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+    </div> 
+    <ul> 
+     <li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li> 
+     <li class="toclevel-1 tocsection-2"><a href="#Relationship_to_statics,_kinetics,_and_kinematics"><span class="tocnumber">2</span> <span class="toctext">Relationship to statics, kinetics, and kinematics</span></a> 
+      <ul> 
+       <li class="toclevel-2 tocsection-3"><a href="#Fundamental_importance_in_engineering,_diminishing_emphasis_in_physics"><span class="tocnumber">2.1</span> <span class="toctext">Fundamental importance in engineering, diminishing emphasis in physics</span></a></li> 
+      </ul> </li> 
+     <li class="toclevel-1 tocsection-4"><a href="#Axioms_and_mathematical_treatments"><span class="tocnumber">3</span> <span class="toctext">Axioms and mathematical treatments</span></a></li> 
+     <li class="toclevel-1 tocsection-5"><a href="#Related_engineering_branches"><span class="tocnumber">4</span> <span class="toctext">Related engineering branches</span></a> 
+      <ul> 
+       <li class="toclevel-2 tocsection-6"><a href="#Related_subjects"><span class="tocnumber">4.1</span> <span class="toctext">Related subjects</span></a></li> 
+      </ul> </li> 
+     <li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li> 
+    </ul> 
+   </div> 
+   <h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Analytical_dynamics&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <p>The field has a long and important history, as remarked by <a href="/wiki/William_Rowan_Hamilton" title="William Rowan Hamilton">Hamilton</a>: "The theoretical development of the laws of motion of bodies is a problem of such interest and importance that it has engaged the attention of all the eminent mathematicians since the invention of the dynamics as a mathematical science by <a href="/wiki/Galileo_Galilei" title="Galileo Galilei">Galileo</a>, and especially since the wonderful extension which was given to that science by <a href="/wiki/Isaac_Newton" title="Isaac Newton">Newton</a>." William Rowan Hamilton, 1834 (Transcribed in <i>Classical Mechanics</i> by J.R. Taylor, p.&nbsp;237<sup id="cite_ref-Taylor_3-0" class="reference"><a href="#cite_note-Taylor-3">[3]</a></sup>) </p>
+   <p>Some authors (for example, Taylor (2005)<sup id="cite_ref-Taylor_3-1" class="reference"><a href="#cite_note-Taylor-3">[3]</a></sup> and Greenwood (1997)<sup id="cite_ref-Greenwood_4-0" class="reference"><a href="#cite_note-Greenwood-4">[4]</a></sup>) include <a href="/wiki/Special_relativity" title="Special relativity">special relativity</a> within classical dynamics. </p> 
+   <h2><span id="Relationship_to_statics.2C_kinetics.2C_and_kinematics"></span><span class="mw-headline" id="Relationship_to_statics,_kinetics,_and_kinematics">Relationship to statics, kinetics, and kinematics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Analytical_dynamics&amp;action=edit&amp;section=2" title="Edit section: Relationship to statics, kinetics, and kinematics">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <p>Historically, there were three branches of <a href="/wiki/Classical_mechanics" title="Classical mechanics">classical mechanics</a>: </p> 
+   <ul>
+    <li>"<a href="/wiki/Statics" title="Statics">statics</a>" (the study of equilibrium and its relation to forces)</li> 
+    <li>"<a href="/wiki/Kinetics_(physics)" title="Kinetics (physics)">kinetics</a>" (the study of motion and its relation to forces).<sup id="cite_ref-Wright_5-0" class="reference"><a href="#cite_note-Wright-5">[5]</a></sup></li> 
+    <li>"<a href="/wiki/Kinematics" title="Kinematics">kinematics</a>" (dealing with the implications of observed motions without regard for circumstances causing them).<sup id="cite_ref-Whittaker1_6-0" class="reference"><a href="#cite_note-Whittaker1-6">[6]</a></sup></li>
+   </ul> 
+   <p>These three subjects have been connected to <i>dynamics</i> in several ways. One approach combined statics and kinetics under the name dynamics, which became the branch dealing with determination of the motion of bodies resulting from the action of specified forces;<sup id="cite_ref-MacGregor_7-0" class="reference"><a href="#cite_note-MacGregor-7">[7]</a></sup> another approach separated statics, and combined kinetics and kinematics under the rubric dynamics.<sup id="cite_ref-Timoshenko_8-0" class="reference"><a href="#cite_note-Timoshenko-8">[8]</a></sup><sup id="cite_ref-Rao1_9-0" class="reference"><a href="#cite_note-Rao1-9">[9]</a></sup> This approach is common in engineering books on mechanics, and is still in widespread use among mechanicians. </p> 
+   <h3><span id="Fundamental_importance_in_engineering.2C_diminishing_emphasis_in_physics"></span><span class="mw-headline" id="Fundamental_importance_in_engineering,_diminishing_emphasis_in_physics">Fundamental importance in engineering, diminishing emphasis in physics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Analytical_dynamics&amp;action=edit&amp;section=3" title="Edit section: Fundamental importance in engineering, diminishing emphasis in physics">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+   <p>Today, <i>dynamics</i> and <i>kinematics</i> continue to be considered the two pillars of classical mechanics. Dynamics is still included in mechanical, aerospace, and other engineering curricula because of its importance in machine design, the design of land, sea, air and space vehicles and other applications. However, few modern physicists concern themselves with an independent treatment of "dynamics" or "kinematics," nevermind "statics" or "kinetics." Instead, the entire undifferentiated subject is referred to as <i>classical mechanics</i>. In fact, many undergraduate and graduate text books since mid-20th century on "classical mechanics" lack chapters titled "dynamics" or "kinematics."<sup id="cite_ref-Taylor_3-2" class="reference"><a href="#cite_note-Taylor-3">[3]</a></sup><sup id="cite_ref-Hestenes_10-0" class="reference"><a href="#cite_note-Hestenes-10">[10]</a></sup><sup id="cite_ref-Gregory_11-0" class="reference"><a href="#cite_note-Gregory-11">[11]</a></sup><sup id="cite_ref-Landau_et_al._12-0" class="reference"><a href="#cite_note-Landau_et_al.-12">[12]</a></sup><sup id="cite_ref-Jose_et_al._13-0" class="reference"><a href="#cite_note-Jose_et_al.-13">[13]</a></sup><sup id="cite_ref-Kibble_et_al._14-0" class="reference"><a href="#cite_note-Kibble_et_al.-14">[14]</a></sup><sup id="cite_ref-Greiner_et_al._15-0" class="reference"><a href="#cite_note-Greiner_et_al.-15">[15]</a></sup><sup id="cite_ref-Sussman_16-0" class="reference"><a href="#cite_note-Sussman-16">[16]</a></sup><sup id="cite_ref-Iro_17-0" class="reference"><a href="#cite_note-Iro-17">[17]</a></sup> In these books, although the word "dynamics" is used when acceleration is ascribed to a force, the word "kinetics" is never mentioned. However, clear exceptions exist. Prominent examples include <i><a href="/wiki/The_Feynman_Lectures_on_Physics" title="The Feynman Lectures on Physics">The Feynman Lectures on Physics</a></i>.<sup id="cite_ref-Feynman_18-0" class="reference"><a href="#cite_note-Feynman-18">[18]</a></sup> </p> 
+   <dl>
+    <dt>
+     List of Fundamental Dynamics Principles
+    </dt>
+   </dl> 
+   <ul>
+    <li><a href="/wiki/Newton%27s_laws_of_motion" title="Newton's laws of motion">Newton's laws of motion</a> 
+     <ul>
+      <li><a href="/wiki/Inertia" title="Inertia">Inertia</a></li> 
+      <li><a href="/wiki/Acceleration" title="Acceleration">Acceleration</a></li> 
+      <li><a href="/wiki/Momentum" title="Momentum">Momentum</a></li> 
+      <li><a href="/wiki/Reaction_(physics)" title="Reaction (physics)">Reaction</a></li>
+     </ul></li> 
+    <li><a href="/wiki/Newton%27s_law_of_universal_gravitation" title="Newton's law of universal gravitation">Newton's law of universal gravitation</a></li> 
+    <li><a href="/wiki/Special_theory_of_relativity" class="mw-redirect" title="Special theory of relativity">Special theory of relativity</a></li>
+   </ul> 
+   <h2><span class="mw-headline" id="Axioms_and_mathematical_treatments">Axioms and mathematical treatments</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Analytical_dynamics&amp;action=edit&amp;section=4" title="Edit section: Axioms and mathematical treatments">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <ul>
+    <li><a href="/wiki/Variational_principle" title="Variational principle">Variational principles</a> and <a href="/wiki/Lagrangian_mechanics" title="Lagrangian mechanics">Lagrangian mechanics</a></li> 
+    <li><a href="/wiki/Hamiltonian_mechanics" title="Hamiltonian mechanics">Hamiltonian mechanics</a></li> 
+    <li><a href="/wiki/Canonical_transformation" title="Canonical transformation">Canonical transformations</a></li> 
+    <li><a href="/wiki/Hamilton%E2%80%93Jacobi_equation" title="Hamilton–Jacobi equation">Hamilton–Jacobi Theory</a></li>
+   </ul> 
+   <h2><span class="mw-headline" id="Related_engineering_branches">Related engineering branches</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Analytical_dynamics&amp;action=edit&amp;section=5" title="Edit section: Related engineering branches">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <ul>
+    <li>Particle dynamics</li> 
+    <li><a href="/wiki/Rigid_body_dynamics" title="Rigid body dynamics">Rigid body dynamics</a></li> 
+    <li><a href="/wiki/Deformation_(mechanics)" title="Deformation (mechanics)">Deformation mechanics</a></li> 
+    <li><a href="/wiki/Fluid_dynamics" title="Fluid dynamics">Fluid dynamics</a> 
+     <ul>
+      <li><a href="/wiki/Hydrodynamics" class="mw-redirect" title="Hydrodynamics">Hydrodynamics</a></li> 
+      <li><a href="/wiki/Gas_dynamics" class="mw-redirect" title="Gas dynamics">Gas dynamics</a></li> 
+      <li><a href="/wiki/Aerodynamics" title="Aerodynamics">Aerodynamics</a></li>
+     </ul></li>
+   </ul> 
+   <h3><span class="mw-headline" id="Related_subjects">Related subjects</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Analytical_dynamics&amp;action=edit&amp;section=6" title="Edit section: Related subjects">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+   <ul>
+    <li><a href="/wiki/Statics" title="Statics">Statics</a></li>
+   </ul> 
+   <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Analytical_dynamics&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;"> 
+    <ol class="references"> 
+     <li id="cite_note-Doran-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-Doran_1-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Chris Doran; Anthony N. Lasenby (2003). <a rel="nofollow" class="external text" href="https://books.google.com/?id=VW4yt0WHdjoC&amp;pg=PA54&amp;dq=classical+dynamics+-quantum+date:2002-2009"><i>Geometric Algebra for Physicists</i></a>. Cambridge University Press. p.&nbsp;54. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/0-521-48022-1" title="Special:BookSources/0-521-48022-1"><bdi>0-521-48022-1</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Geometric+Algebra+for+Physicists&amp;rft.pages=54&amp;rft.pub=Cambridge+University+Press&amp;rft.date=2003&amp;rft.isbn=0-521-48022-1&amp;rft.au=Chris+Doran&amp;rft.au=Anthony+N.+Lasenby&amp;rft_id=https%3A%2F%2Fbooks.google.com%2F%3Fid%3DVW4yt0WHdjoC%26pg%3DPA54%26dq%3Dclassical%2Bdynamics%2B-quantum%2Bdate%3A2002-2009&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnalytical+dynamics" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span> </li> 
+     <li id="cite_note-Lanczos-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-Lanczos_2-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Cornelius Lanczos (1986). <a rel="nofollow" class="external text" href="https://books.google.com/?id=ZWoYYr8wk2IC&amp;pg=PR4&amp;dq=isbn=0486650677"><i>The variational principles of mechanics</i></a> (Reprint of 4th Edition of 1970 ed.). Dover Publications Inc. pp.&nbsp;5–6. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/0-486-65067-7" title="Special:BookSources/0-486-65067-7"><bdi>0-486-65067-7</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+variational+principles+of+mechanics&amp;rft.pages=5-6&amp;rft.edition=Reprint+of+4th+Edition+of+1970&amp;rft.pub=Dover+Publications+Inc.&amp;rft.date=1986&amp;rft.isbn=0-486-65067-7&amp;rft.au=Cornelius+Lanczos&amp;rft_id=https%3A%2F%2Fbooks.google.com%2F%3Fid%3DZWoYYr8wk2IC%26pg%3DPR4%26dq%3Disbn%3D0486650677&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnalytical+dynamics" class="Z3988"></span>
+       <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+     <li id="cite_note-Taylor-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-Taylor_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Taylor_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Taylor_3-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">John Robert Taylor (2005). <a rel="nofollow" class="external text" href="https://books.google.com/?id=P1kCtNr-pJsC&amp;q=dynamics#search"><i>Classical Mechanics</i></a>. University Science Books. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-1-891389-22-1" title="Special:BookSources/978-1-891389-22-1"><bdi>978-1-891389-22-1</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Classical+Mechanics&amp;rft.pub=University+Science+Books&amp;rft.date=2005&amp;rft.isbn=978-1-891389-22-1&amp;rft.au=John+Robert+Taylor&amp;rft_id=https%3A%2F%2Fbooks.google.com%2F%3Fid%3DP1kCtNr-pJsC%26q%3Ddynamics%23search&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnalytical+dynamics" class="Z3988"></span>
+       <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+     <li id="cite_note-Greenwood-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-Greenwood_4-0">^</a></b></span> <span class="reference-text"> <cite class="citation book">Donald T Greenwood (1997). <a rel="nofollow" class="external text" href="https://books.google.com/?id=x7rj83I98yMC&amp;printsec=frontcover&amp;dq=classical+dynamics"><i>Classical Mechanics</i></a> (Reprint of 1977 ed.). Courier Dover Publications. p.&nbsp;1. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/0-486-69690-1" title="Special:BookSources/0-486-69690-1"><bdi>0-486-69690-1</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Classical+Mechanics&amp;rft.pages=1&amp;rft.edition=Reprint+of+1977&amp;rft.pub=Courier+Dover+Publications&amp;rft.date=1997&amp;rft.isbn=0-486-69690-1&amp;rft.au=Donald+T+Greenwood&amp;rft_id=https%3A%2F%2Fbooks.google.com%2F%3Fid%3Dx7rj83I98yMC%26printsec%3Dfrontcover%26dq%3Dclassical%2Bdynamics&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnalytical+dynamics" class="Z3988"></span>
+       <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+     <li id="cite_note-Wright-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-Wright_5-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Thomas Wallace Wright (1896). <a rel="nofollow" class="external text" href="https://books.google.com/?id=-LwLAAAAYAAJ&amp;printsec=frontcover&amp;dq=mechanics+kinetics"><i>Elements of Mechanics Including Kinematics, Kinetics and Statics: with applications</i></a>. E. and F. N. Spon. p.&nbsp;85.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Elements+of+Mechanics+Including+Kinematics%2C+Kinetics+and+Statics%3A+with+applications&amp;rft.pages=85&amp;rft.pub=E.+and+F.+N.+Spon&amp;rft.date=1896&amp;rft.au=Thomas+Wallace+Wright&amp;rft_id=https%3A%2F%2Fbooks.google.com%2F%3Fid%3D-LwLAAAAYAAJ%26printsec%3Dfrontcover%26dq%3Dmechanics%2Bkinetics&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnalytical+dynamics" class="Z3988"></span>
+       <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+     <li id="cite_note-Whittaker1-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-Whittaker1_6-0">^</a></b></span> <span class="reference-text"> <cite class="citation book">Edmund Taylor Whittaker (1988). <a rel="nofollow" class="external text" href="https://books.google.com/?id=epH1hCB7N2MC&amp;printsec=frontcover&amp;dq=inauthor:%22E+T+Whittaker%22"><i>A Treatise on the Analytical Dynamics of Particles and Rigid Bodies: With an Introduction to the Problem of Three Bodies</i></a> (Fourth edition of 1936 with foreword by Sir William McCrea ed.). Cambridge University Press. p.&nbsp;Chapter 1, p. 1. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/0-521-35883-3" title="Special:BookSources/0-521-35883-3"><bdi>0-521-35883-3</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A+Treatise+on+the+Analytical+Dynamics+of+Particles+and+Rigid+Bodies%3A+With+an+Introduction+to+the+Problem+of+Three+Bodies&amp;rft.pages=Chapter+1%2C+p.+1&amp;rft.edition=Fourth+edition+of+1936+with+foreword+by+Sir+William+McCrea&amp;rft.pub=Cambridge+University+Press&amp;rft.date=1988&amp;rft.isbn=0-521-35883-3&amp;rft.au=Edmund+Taylor+Whittaker&amp;rft_id=https%3A%2F%2Fbooks.google.com%2F%3Fid%3DepH1hCB7N2MC%26printsec%3Dfrontcover%26dq%3Dinauthor%3A%2522E%2BT%2BWhittaker%2522&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnalytical+dynamics" class="Z3988"></span>
+       <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+     <li id="cite_note-MacGregor-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-MacGregor_7-0">^</a></b></span> <span class="reference-text"><cite class="citation book">James Gordon MacGregor (1887). <a rel="nofollow" class="external text" href="https://books.google.com/?id=3yMQAAAAYAAJ&amp;printsec=frontcover&amp;dq=kinematics+dynamics"><i>An Elementary Treatise on Kinematics and Dynamics</i></a>. Macmillan. p.&nbsp;<i>v</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=An+Elementary+Treatise+on+Kinematics+and+Dynamics&amp;rft.pages=%27%27v%27%27&amp;rft.pub=Macmillan&amp;rft.date=1887&amp;rft.au=James+Gordon+MacGregor&amp;rft_id=https%3A%2F%2Fbooks.google.com%2F%3Fid%3D3yMQAAAAYAAJ%26printsec%3Dfrontcover%26dq%3Dkinematics%2Bdynamics&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnalytical+dynamics" class="Z3988"></span>
+       <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+     <li id="cite_note-Timoshenko-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-Timoshenko_8-0">^</a></b></span> <span class="reference-text"> <cite class="citation book">Stephen Timoshenko; Donovan Harold Young (1956). <a rel="nofollow" class="external text" href="https://books.google.com/?id=I548AAAAIAAJ&amp;q=engineering+mechanics+inauthor:Timoshenko&amp;dq=engineering+mechanics+inauthor:Timoshenko"><i>Engineering mechanics</i></a>. McGraw Hill.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Engineering+mechanics&amp;rft.pub=McGraw+Hill&amp;rft.date=1956&amp;rft.au=Stephen+Timoshenko&amp;rft.au=Donovan+Harold+Young&amp;rft_id=https%3A%2F%2Fbooks.google.com%2F%3Fid%3DI548AAAAIAAJ%26q%3Dengineering%2Bmechanics%2Binauthor%3ATimoshenko%26dq%3Dengineering%2Bmechanics%2Binauthor%3ATimoshenko&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnalytical+dynamics" class="Z3988"></span>
+       <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+     <li id="cite_note-Rao1-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-Rao1_9-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Lakshmana C. Rao; J. Lakshminarasimhan; Raju Sethuraman; Srinivasan M. Sivakumar (2004). <a rel="nofollow" class="external text" href="https://books.google.com/?id=F7gaa1ShPKIC&amp;printsec=frontcover&amp;dq=statics+dynamics"><i>Engineering mechanics</i></a>. PHI Learning Pvt. Ltd. p.&nbsp;<i>vi</i>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/81-203-2189-8" title="Special:BookSources/81-203-2189-8"><bdi>81-203-2189-8</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Engineering+mechanics&amp;rft.pages=%27%27vi%27%27&amp;rft.pub=PHI+Learning+Pvt.+Ltd.&amp;rft.date=2004&amp;rft.isbn=81-203-2189-8&amp;rft.au=Lakshmana+C.+Rao&amp;rft.au=J.+Lakshminarasimhan&amp;rft.au=Raju+Sethuraman&amp;rft.au=Srinivasan+M.+Sivakumar&amp;rft_id=https%3A%2F%2Fbooks.google.com%2F%3Fid%3DF7gaa1ShPKIC%26printsec%3Dfrontcover%26dq%3Dstatics%2Bdynamics&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnalytical+dynamics" class="Z3988"></span>
+       <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+     <li id="cite_note-Hestenes-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-Hestenes_10-0">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/David_Hestenes" title="David Hestenes">David Hestenes</a> (1999). <a rel="nofollow" class="external text" href="https://books.google.com/?id=eU2qm8wavRwC&amp;pg=PA198&amp;dq=dynamics+kinematics"><i>New Foundations for Classical Mechanics</i></a>. Springer. p.&nbsp;198. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/0-7923-5514-8" title="Special:BookSources/0-7923-5514-8"><bdi>0-7923-5514-8</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=New+Foundations+for+Classical+Mechanics&amp;rft.pages=198&amp;rft.pub=Springer&amp;rft.date=1999&amp;rft.isbn=0-7923-5514-8&amp;rft.au=David+Hestenes&amp;rft_id=https%3A%2F%2Fbooks.google.com%2F%3Fid%3DeU2qm8wavRwC%26pg%3DPA198%26dq%3Ddynamics%2Bkinematics&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnalytical+dynamics" class="Z3988"></span>
+       <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+     <li id="cite_note-Gregory-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-Gregory_11-0">^</a></b></span> <span class="reference-text"><cite class="citation book">R. Douglas Gregory (2006). <a rel="nofollow" class="external text" href="https://books.google.com/?id=uAfUQmQbzOkC&amp;q=dynamics#search"><i>Classical Mechanics: An Undergraduate Text</i></a>. Cambridge University Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-0-521-82678-5" title="Special:BookSources/978-0-521-82678-5"><bdi>978-0-521-82678-5</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Classical+Mechanics%3A+An+Undergraduate+Text&amp;rft.pub=Cambridge+University+Press&amp;rft.date=2006&amp;rft.isbn=978-0-521-82678-5&amp;rft.au=R.+Douglas+Gregory&amp;rft_id=https%3A%2F%2Fbooks.google.com%2F%3Fid%3DuAfUQmQbzOkC%26q%3Ddynamics%23search&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnalytical+dynamics" class="Z3988"></span>
+       <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+     <li id="cite_note-Landau_et_al.-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-Landau_et_al._12-0">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a href="/wiki/Lev_Landau" title="Lev Landau">Landau, L. D.</a>; <a href="/wiki/Evgeny_Lifshitz" title="Evgeny Lifshitz">Lifshitz, E. M.</a>; Sykes, J.B.; Bell, J. S. (1976). <a rel="nofollow" class="external text" href="https://books.google.com/?id=LmAV8q_OOOgC">"Mechanics"</a>. <b>1</b>. Butterworth-Heinemann. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-0-7506-2896-9" title="Special:BookSources/978-0-7506-2896-9"><bdi>978-0-7506-2896-9</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Mechanics&amp;rft.volume=1&amp;rft.date=1976&amp;rft.isbn=978-0-7506-2896-9&amp;rft.aulast=Landau&amp;rft.aufirst=L.+D.&amp;rft.au=Lifshitz%2C+E.+M.&amp;rft.au=Sykes%2C+J.B.&amp;rft.au=Bell%2C+J.+S.&amp;rft_id=https%3A%2F%2Fbooks.google.com%2F%3Fid%3DLmAV8q_OOOgC&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnalytical+dynamics" class="Z3988"></span>
+       <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+     <li id="cite_note-Jose_et_al.-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-Jose_et_al._13-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Jorge Valenzuela José; Eugene Jerome Saletan (1998). <a rel="nofollow" class="external text" href="https://books.google.com/?id=ZW0L5Xe9zhwC"><i>Classical Dynamics: A Contemporary Approach</i></a>. Cambridge University Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-0-7506-2896-9" title="Special:BookSources/978-0-7506-2896-9"><bdi>978-0-7506-2896-9</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Classical+Dynamics%3A+A+Contemporary+Approach&amp;rft.pub=Cambridge+University+Press&amp;rft.date=1998&amp;rft.isbn=978-0-7506-2896-9&amp;rft.au=Jorge+Valenzuela+Jos%C3%A9&amp;rft.au=Eugene+Jerome+Saletan&amp;rft_id=https%3A%2F%2Fbooks.google.com%2F%3Fid%3DZW0L5Xe9zhwC&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnalytical+dynamics" class="Z3988"></span>
+       <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+     <li id="cite_note-Kibble_et_al.-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-Kibble_et_al._14-0">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Tom_Kibble" title="Tom Kibble">T. W. B. Kibble</a>, Frank H. Berkshire (2004). <i><a href="/wiki/Classical_Mechanics_(Kibble_and_Berkshire)" class="mw-redirect" title="Classical Mechanics (Kibble and Berkshire)">Classical Mechanics</a></i>. Imperial College Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-1-86094-435-2" title="Special:BookSources/978-1-86094-435-2"><bdi>978-1-86094-435-2</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004

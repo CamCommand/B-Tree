@@ -1,0 +1,180 @@
+<div id="bodyContent" class="mw-body-content"> 
+ <div id="siteSub" class="noprint">
+  From Wikipedia, the free encyclopedia
+ </div> 
+ <div id="contentSub"></div> 
+ <div id="jump-to-nav"></div> 
+ <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> 
+ <a class="mw-jump-link" href="#p-search">Jump to search</a> 
+ <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+  <div class="mw-parser-output">
+   <div class="thumb tright">
+    <div class="thumbinner" style="width:352px;">
+     <a href="/wiki/File:Barber_on_the_sidewalk_of_a_street_in_Nishapur_4.JPG" class="image"><img alt="Fixing quotation marks" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Barber_on_the_sidewalk_of_a_street_in_Nishapur_4.JPG/350px-Barber_on_the_sidewalk_of_a_street_in_Nishapur_4.JPG" decoding="async" width="350" height="263" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Barber_on_the_sidewalk_of_a_street_in_Nishapur_4.JPG/525px-Barber_on_the_sidewalk_of_a_street_in_Nishapur_4.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Barber_on_the_sidewalk_of_a_street_in_Nishapur_4.JPG/700px-Barber_on_the_sidewalk_of_a_street_in_Nishapur_4.JPG 2x" data-file-width="4000" data-file-height="3000"></a> 
+     <div class="thumbcaption">
+      <div class="magnify">
+       <a href="/wiki/File:Barber_on_the_sidewalk_of_a_street_in_Nishapur_4.JPG" class="internal" title="Enlarge"></a>
+      </div>'Suppose you walk past a barber's shop one day, and see a sign that says:
+      <br> "Do you shave yourself?
+      <br> If not, please come in and I'll shave you!
+      <br> I shave anyone who does not shave himself,
+      <br> and no one else".
+      <br> So the question is: "Who shaves the barber?"'
+      <br> —the 
+      <a href="/wiki/Barber_paradox" title="Barber paradox">barber paradox</a>
+     </div>
+    </div>
+   </div>
+   <p>A <b>mathematical problem</b> is a problem that is amenable to being <a href="/wiki/Representation_(mathematics)" title="Representation (mathematics)">represented</a>, analyzed, and possibly solved, with the methods of <a href="/wiki/Mathematics" title="Mathematics">mathematics</a>. This can be a real-world problem, such as computing the <a href="/wiki/Orbit#Planetary_orbits" title="Orbit">orbits</a> of the planets in the solar system, or a problem of a more abstract nature, such as <a href="/wiki/Hilbert%27s_problems" title="Hilbert's problems">Hilbert's problems</a>.<br> </p>
+   <p>It can also be a problem referring to the <a href="/wiki/Foundations_of_mathematics" title="Foundations of mathematics">nature of mathematics</a> itself, such as <a href="/wiki/Russell%27s_Paradox" class="mw-redirect" title="Russell's Paradox">Russell's Paradox</a>. </p>
+   <p>The result of mathematical problem solved is <a href="/wiki/Mathematical_proof" title="Mathematical proof">demonstrated</a> and examined formally. </p> 
+   <div id="toc" class="toc">
+    <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+    <div class="toctitle" lang="en" dir="ltr">
+     <h2>Contents</h2>
+     <span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+    </div> 
+    <ul> 
+     <li class="toclevel-1 tocsection-1"><a href="#Real-world_problems"><span class="tocnumber">1</span> <span class="toctext">Real-world problems</span></a></li> 
+     <li class="toclevel-1 tocsection-2"><a href="#Abstract_problems"><span class="tocnumber">2</span> <span class="toctext">Abstract problems</span></a></li> 
+     <li class="toclevel-1 tocsection-3"><a href="#Degradation"><span class="tocnumber">3</span> <span class="toctext">Degradation</span></a></li> 
+     <li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li> 
+     <li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li> 
+     <li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li> 
+    </ul> 
+   </div> 
+   <h2><span class="mw-headline" id="Real-world_problems">Real-world problems</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mathematical_problem&amp;action=edit&amp;section=1" title="Edit section: Real-world problems">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <p>Informal "real-world" mathematical problems are questions related to a concrete setting, such as "Adam has five apples and gives John three. How many has he left?". Such questions are usually more difficult to solve than regular <a href="/wiki/Mathematical_exercise" class="mw-redirect" title="Mathematical exercise">mathematical exercises</a> like "5&nbsp;−&nbsp;3", even if one knows the mathematics required to solve the problem. Known as <a href="/wiki/Word_problem_(mathematics_education)" title="Word problem (mathematics education)">word problems</a>, they are used in <a href="/wiki/Mathematics_education" title="Mathematics education">mathematics education</a> to teach students to connect real-world situations to the abstract language of mathematics. </p>
+   <p>In general, to use mathematics for solving a real-world problem, the first step is to construct a <a href="/wiki/Mathematical_model" title="Mathematical model">mathematical model</a> of the problem. This involves abstraction from the details of the problem, and the modeller has to be careful not to lose essential aspects in translating the original problem into a mathematical one. After the problem has been solved in the world of mathematics, the <a href="/wiki/Solution_(mathematics)" class="mw-redirect" title="Solution (mathematics)">solution</a> must be translated back into the context of the original problem. </p>
+   <p>By outward seeing, there is various <a href="/wiki/Phenomenon" title="Phenomenon">phenomenon</a> from simple to <a href="/wiki/Complex_system" title="Complex system">complex</a> in the real world. The some of that have also the complex mechanism with microscopic observation whereas they have the simple outward look. It depend to the <a href="/wiki/Scale_(ratio)" title="Scale (ratio)">scale</a> of the observation and the <a href="https://en.wiktionary.org/wiki/stability" class="extiw" title="wikt:stability">stability</a> of the mechanism. There is not only the case that simple phenomenon explained by the simple model, but also the case that simple model might be able to explain the complex phenomenon. One of example model is a model by the <a href="/wiki/Chaos_theory" title="Chaos theory">chaos theory</a>. </p> 
+   <h2><span class="mw-headline" id="Abstract_problems">Abstract problems</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mathematical_problem&amp;action=edit&amp;section=2" title="Edit section: Abstract problems">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <p>Abstract mathematical problems arise in all fields of mathematics. While mathematicians usually study them for their own sake, by doing so results may be obtained that find application outside the realm of mathematics. <a href="/wiki/Theoretical_physics" title="Theoretical physics">Theoretical physics</a> has historically been, and remains, a rich source of <a href="/wiki/Artistic_inspiration" title="Artistic inspiration">inspiration</a>. </p>
+   <p>Some abstract problems have been rigorously proved to be unsolvable, such as <a href="/wiki/Squaring_the_circle" title="Squaring the circle">squaring the circle</a> and <a href="/wiki/Trisecting_the_angle" class="mw-redirect" title="Trisecting the angle">trisecting the angle</a> using only the <a href="/wiki/Compass_and_straightedge_constructions" class="mw-redirect" title="Compass and straightedge constructions">compass and straightedge constructions</a> of classical geometry, and solving the general <a href="/wiki/Quintic_equation" class="mw-redirect" title="Quintic equation">quintic equation</a> algebraically. Also provably unsolvable are so-called <a href="/wiki/Undecidable_problem" title="Undecidable problem">undecidable problems</a>, such as the <a href="/wiki/Halting_problem" title="Halting problem">halting problem</a> for <a href="/wiki/Turing_machine" title="Turing machine">Turing machines</a>. </p>
+   <p>Many abstract problems can be solved routinely, others have been solved with great effort, for some significant inroads have been made without having led yet to a full solution, and yet others have withstood all attempts, such as <a href="/wiki/Goldbach%27s_conjecture" title="Goldbach's conjecture">Goldbach's conjecture</a> and the <a href="/wiki/Collatz_conjecture" title="Collatz conjecture">Collatz conjecture</a>. Some well-known difficult abstract problems that have been solved relatively recently are the <a href="/wiki/Four-colour_theorem" class="mw-redirect" title="Four-colour theorem">four-colour theorem</a>, <a href="/wiki/Fermat%27s_Last_Theorem" title="Fermat's Last Theorem">Fermat's Last Theorem</a>, and the <a href="/wiki/Poincar%C3%A9_conjecture" title="Poincaré conjecture">Poincaré conjecture</a>. </p>
+   <p>The all of mathematical new ideas which develop a new horizon on our <a href="/wiki/Imagination" title="Imagination">imagination</a> not correspond to the real world. Science is a way of seeking only new mathematics, if all of that correspond.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> On the view of modern mathematics, It have thought that to solve a mathematical problem be able to reduced <a href="/wiki/Philosophy_of_mathematics#formalism" title="Philosophy of mathematics">formally</a> to an operation of symbol that restricted by the certain rules like <a href="/wiki/Chess" title="Chess">chess</a> (or <i><a href="/wiki/Shogi" title="Shogi">shogi</a></i>, or <i><a href="/wiki/Go_(game)" title="Go (game)">go</a></i>).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> On this meaning, <a href="/wiki/Ludwig_Wittgenstein" title="Ludwig Wittgenstein">Wittgenstein</a> interpret the mathematics to a <i><a href="/wiki/Language_game_(philosophy)" title="Language game (philosophy)">language game</a></i> (<a href="https://de.wikipedia.org/wiki/Sprachspiel" class="extiw" title="de:Sprachspiel">de:Sprachspiel</a>). So a mathematical problem that <i>not</i> relation to real problem is proposed or attempted to solve by mathematician. And it may be that <i>interest</i> of studying mathematics for the mathematician himself (or herself) made much than <a href="/wiki/Novelty" title="Novelty">newness</a> or <a href="/wiki/Difference_(philosophy)" title="Difference (philosophy)">difference</a> on the <a href="/wiki/Value_judgment" title="Value judgment">value judgment</a> of the mathematical work, if mathematics is a game. <a href="/wiki/Karl_Popper" title="Karl Popper">Popper</a> criticize such viewpoint that is able to accepted in the mathematics but not in other science subjects. </p>
+   <p><a href="/wiki/Computers" class="mw-redirect" title="Computers">Computers</a> do not need to have a sense of the motivations of mathematicians in order to do what they do.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-Heaton_4-0" class="reference"><a href="#cite_note-Heaton-4">[4]</a></sup> Formal definitions and computer-checkable <a href="/wiki/Deductive_reasoning" title="Deductive reasoning">deductions</a> are absolutely central to <a href="/wiki/Mathematical_science" class="mw-redirect" title="Mathematical science">mathematical science</a>. The vitality of computer-checkable, symbol-based methodologies is not inherent to the rules alone, but rather depends on our imagination.<sup id="cite_ref-Heaton_4-1" class="reference"><a href="#cite_note-Heaton-4">[4]</a></sup> </p> 
+   <div role="note" class="hatnote navigation-not-searchable">
+    See also: 
+    <a href="/wiki/Logical_positivism" title="Logical positivism">Logical positivism</a> and 
+    <a href="https://de.wikipedia.org/wiki/Falsifikationismus" class="extiw" title="de:Falsifikationismus">de:Falsifikationismus</a>
+   </div> 
+   <h2><span class="mw-headline" id="Degradation">Degradation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mathematical_problem&amp;action=edit&amp;section=3" title="Edit section: Degradation">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <p>Mathematics educators using <a href="/wiki/Problem_solving" title="Problem solving">problem solving</a> for evaluation have an issue phrased by Alan H. Schoenfeld: </p> 
+   <dl>
+    <dd>
+     How can one compare test scores from year to year, when very different problems are used? (If similar problems are used year after year, teachers and students will learn what they are, students will practice them: problems become 
+     <a href="/wiki/Exercise_(mathematics)" title="Exercise (mathematics)">exercises</a>, and the test no longer assesses problem solving).
+     <sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+    </dd>
+   </dl> 
+   <p>The same issue was faced by <a href="/wiki/Sylvestre_Lacroix" class="mw-redirect" title="Sylvestre Lacroix">Sylvestre Lacroix</a> almost two centuries earlier: </p> 
+   <dl>
+    <dd>
+     ... it is necessary to vary the questions that students might communicate with each other. Though they may fail the exam, they might pass later. Thus distribution of questions, the variety of topics, or the answers, risks losing the opportunity to compare, with precision, the candidates one-to-another.
+     <sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+    </dd>
+   </dl> 
+   <p>Such degradation of problems into exercises is characteristic of mathematics in history. For example, describing the preparations for the <a href="/wiki/Cambridge_Mathematical_Tripos" class="mw-redirect" title="Cambridge Mathematical Tripos">Cambridge Mathematical Tripos</a> in the 19th century, Andrew Warwick wrote: </p> 
+   <dl>
+    <dd>
+     ... many families of the then standard problems had originally taxed the abilities of the greatest mathematicians of the 18th century.
+     <sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+    </dd>
+   </dl> 
+   <h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mathematical_problem&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <ul>
+    <li><a href="/wiki/List_of_unsolved_problems_in_mathematics" title="List of unsolved problems in mathematics">List of unsolved problems in mathematics</a></li> 
+    <li><a href="/wiki/Problem_solving" title="Problem solving">Problem solving</a></li> 
+    <li><a href="/wiki/Mathematical_game" title="Mathematical game">Mathematical game</a></li> 
+    <li><a href="/wiki/List_of_mathematical_concepts_named_after_places" title="List of mathematical concepts named after places">List of mathematical concepts named after places</a></li>
+   </ul> 
+   <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mathematical_problem&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <div class="reflist" style="list-style-type: decimal;"> 
+    <div class="mw-references-wrap">
+     <ol class="references"> 
+      <li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation book">斉藤, 隆央 (2008-02-15). <i>超ひも理論を疑う：「見えない次元」はどこまで物理学か?</i> (in Japanese) (1st ed.). Tokyo: 早川書房. p.&nbsp;17. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-4-15-208892-5" title="Special:BookSources/978-4-15-208892-5"><bdi>978-4-15-208892-5</bdi></a>, translated from</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=%E8%B6%85%E3%81%B2%E3%82%82%E7%90%86%E8%AB%96%E3%82%92%E7%96%91%E3%81%86%EF%BC%9A%E3%80%8C%E8%A6%8B%E3%81%88%E3%81%AA%E3%81%84%E6%AC%A1%E5%85%83%E3%80%8D%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E7%89%A9%E7%90%86%E5%AD%A6%E3%81%8B%3F&amp;rft.place=Tokyo&amp;rft.pages=17&amp;rft.edition=1st&amp;rft.pub=%E6%97%A9%E5%B7%9D%E6%9B%B8%E6%88%BF&amp;rft.date=2008-02-15&amp;rft.isbn=978-4-15-208892-5&amp;rft.aulast=%E6%96%89%E8%97%A4&amp;rft.aufirst=%E9%9A%86%E5%A4%AE&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMathematical+problem" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style><br><cite class="citation book"><a href="/wiki/Lawrence_M._Krauss" title="Lawrence M. Krauss">Krauss, Lawrence M.</a> (2005). <i><a href="/wiki/Hiding_in_the_Mirror" title="Hiding in the Mirror">Hiding in the Mirror</a>: The Quest for Alternative Realities, from <a href="/wiki/Plato" title="Plato">Plato</a> to <a href="/wiki/String_Theory" class="mw-redirect" title="String Theory">String Theory</a> by way of <a href="/wiki/Alice_in_Wonderland" class="mw-redirect" title="Alice in Wonderland">Alice in Wonderland</a>, <a href="/wiki/Einstein" class="mw-redirect" title="Einstein">Einstein</a>, and <a href="/wiki/The_Twilight_Zone" title="The Twilight Zone">The Twilight Zone</a></i>. USA: <a href="/wiki/Penguin_Group" title="Penguin Group">Penguin Group</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Hiding+in+the+Mirror%3A+The+Quest+for+Alternative+Realities%2C+from+Plato+to+String+Theory+by+way+of+Alice+in+Wonderland%2C+Einstein%2C+and+The+Twilight+Zone&amp;rft.place=USA&amp;rft.pub=Penguin+Group&amp;rft.date=2005&amp;rft.aulast=Krauss&amp;rft.aufirst=Lawrence+M.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMathematical+problem" class="Z3988"></span>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+      <li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation book">前原, 昭二 (1968-09-30). <i>集合論1</i>. ブルバキ数学原論 (in Japanese) (1st. ed.). Tokyo: 東京図書. pp.&nbsp;1–4.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=%E9%9B%86%E5%90%88%E8%AB%961&amp;rft.place=Tokyo&amp;rft.series=%E3%83%96%E3%83%AB%E3%83%90%E3%82%AD%E6%95%B0%E5%AD%A6%E5%8E%9F%E8%AB%96&amp;rft.pages=1-4&amp;rft.edition=1st.&amp;rft.pub=%E6%9D%B1%E4%BA%AC%E5%9B%B3%E6%9B%B8&amp;rft.date=1968-09-30&amp;rft.aulast=%E5%89%8D%E5%8E%9F&amp;rft.aufirst=%E6%98%AD%E4%BA%8C&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMathematical+problem" class="Z3988"></span>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"> translated from<br><cite class="citation book"><a href="/wiki/Nicolas_Bourbaki" title="Nicolas Bourbaki">Bourbaki, Nicolas</a> (1966). <i>Théorie des ensembles</i>. ÉLÉMENTS DE MATHÉMATIQUE (3 ed.). Paris: Hermann.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Th%C3%A9orie+des+ensembles&amp;rft.place=Paris&amp;rft.series=%C3%89L%C3%89MENTS+DE+MATH%C3%89MATIQUE&amp;rft.edition=3&amp;rft.pub=Hermann&amp;rft.date=1966&amp;rft.aulast=Bourbaki&amp;rft.aufirst=Nicolas&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMathematical+problem" class="Z3988"></span>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+      <li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">(<a href="#CITEREFNewbyNewby2008">Newby &amp; Newby 2008</a>), "The second test is, that although such machines might execute many things with equal or perhaps greater perfection than any of us, they would, without doubt, fail in certain others from which it could be discovered that they did not act from <a href="/wiki/Awareness#self-awareness" title="Awareness">knowledge</a>, but solely from the disposition of their organs: for while <a href="/wiki/Reason" title="Reason">reason</a> is an universal instrument that is alike available on every occasion, these organs, on the contrary, need a particular arrangement for each particular action; whence it must be morally impossible that there should exist in any machine a diversity of organs sufficient to enable it to act in all the occurrences of life, in the way in which our reason enable us to act." translated from <br>(<a href="#CITEREFDescartes1637">Descartes 1637</a>), page =<a rel="nofollow" class="external text" href="https://gallica.bnf.fr/ark:/12148/btv1b86069594/f61.image">57</a>, "Et le second est que, bien qu'elles fissent plusieurs choses aussy bien, ou peutestre mieux qu'aucun de nois, ells manqueroient infalliblement en quelques autres, par lesquelles on découuriroit quelles n'agiroient pas par connoissance, mais seulement par la disposition de leurs organs. Car, au lieu que la raison est un instrument univeersel, qui peut seruir en toutes sortes de rencontres, ces organs ont besoin de quelque particliere disposition pour chaque action particuliere; d'oǜ vient qu'il est moralement impossible qu'il y en ait assez de diuers en une machine, pour la faire agir en toutes les occurrences de la vie, de mesme façon que nostre raison nous fait agir." </span> </li> 
+      <li id="cite_note-Heaton-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-Heaton_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Heaton_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Heaton, Luke (2015). "Lived Experience and the Nature of Facts". <i>A Brief History of Mathematical Thought</i>. Great Britain: Robinson. p.&nbsp;305. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-1-4721-1711-3" title="Special:BookSources/978-1-4721-1711-3"><bdi>978-1-4721-1711-3</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Lived+Experience+and+the+Nature+of+Facts&amp;rft.btitle=A+Brief+History+of+Mathematical+Thought&amp;rft.place=Great+Britain&amp;rft.pages=305&amp;rft.pub=Robinson&amp;rft.date=2015&amp;rft.isbn=978-1-4721-1711-3&amp;rft.aulast=Heaton&amp;rft.aufirst=Luke&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMathematical+problem" class="Z3988"></span>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+      <li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Alan H. Schoenfeld (editor) (2007) <i>Assessing mathematical proficiency</i>, preface pages x,xi, Mathematical Sciences Research Institute, <a href="/wiki/Cambridge_University_Press" title="Cambridge University Press">Cambridge University Press</a> 
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-0-521-87492-2" title="Special:BookSources/978-0-521-87492-2">978-0-521-87492-2</a></span> </li> 
+      <li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a href="/wiki/S._F._Lacroix" class="mw-redirect" title="S. F. Lacroix">S. F. Lacroix</a> (1816) <i>Essais sur l’enseignement en general, et sur celui des mathematiques en particulier</i>, page 201</span> </li> 
+      <li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Andrew Warwick (2003) <i>Masters of Theory: Cambridge and the Rise of Mathematical Physics</i>, page 145, <a href="/wiki/University_of_Chicago_Press" title="University of Chicago Press">University of Chicago Press</a> 
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/0-226-87375-7" title="Special:BookSources/0-226-87375-7">0-226-87375-7</a></span> </li> 
+     </ol>
+    </div>
+   </div> 
+   <ul>
+    <li><cite id="CITEREFNewbyNewby2008" class="citation web">Newby, Ilana; Newby, Greg (2008-07-01). <a rel="nofollow" class="external text" href="http://www.gutenberg.org/files/59/59-h/59-h.htm">"Discourse on the Method of rightly conducting the reason, and seeking truth in the sciences by Rene Descartes"</a>. <i><a href="/wiki/Project_Gutenberg" title="Project Gutenberg">Project Gutenberg</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">2019-02-13</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Project+Gutenberg&amp;rft.atitle=Discourse+on+the+Method+of+rightly+conducting+the+reason%2C+and+seeking+truth+in+the+sciences+by+Rene+Descartes&amp;rft.date=2008-07-01&amp;rft.aulast=Newby&amp;rft.aufirst=Ilana&amp;rft.au=Newby%2C+Greg&amp;rft_id=http%3A%2F%2Fwww.gutenberg.org%2Ffiles%2F59%2F59-h%2F59-h.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMathematical+problem" class="Z3988"></span>
+     <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088">, translated from<br> 
+     <ul>
+      <li><cite id="CITEREFRené1637" class="citation book"><a href="/wiki/Ren%C3%A9_Descartes" title="René Descartes">René, Descartes</a> (1637). <a rel="nofollow" class="external text" href="https://gallica.bnf.fr/ark:/12148/btv1b86069594/f5.image"><i>Discours de la méthode pour bien conduire sa raison et chercher la vérité dans les scienses, plus la dioptrique, les météores et la géométrie qui sont des essais de cette method</i></a>. <i>Gallica - The <a href="/wiki/BnF" class="mw-redirect" title="BnF">BnF</a> digital library</i> (in French).</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Discours+de+la+m%C3%A9thode+pour+bien+conduire+sa+raison+et+chercher+la+v%C3%A9rit%C3%A9+dans+les+scienses%2C+plus+la+dioptrique%2C+les+m%C3%A9t%C3%A9ores+et+la+g%C3%A9om%C3%A9trie+qui+sont+des+essais+de+cette+method&amp;rft.date=1637&amp;rft.aulast=Ren%C3%A9&amp;rft.aufirst=Descartes&amp;rft_id=https%3A%2F%2Fgallica.bnf.fr%2Fark%3A%2F12148%2Fbtv1b86069594%2Ff5.image&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMathematical+problem" class="Z3988"></span>
+       <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></li>
+     </ul></li>
+   </ul> 
+   <h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mathematical_problem&amp;action=edit&amp;section=6" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000"> 
+    <tbody>
+     <tr> 
+      <td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376"></td> 
+      <td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Mathematical_problems" class="extiw" title="commons:Category:Mathematical problems">Mathematical problems</a></b></i>.</td>
+     </tr>
+    </tbody>
+   </table> 
+   <ul>
+    <li><a rel="nofollow" class="external text" href="http://www.aplusclick.com/wordproblems.htm">Collection of Math Word Problems</a></li>
+   </ul> 
+   <!-- 
+NewPP limit report
+Parsed by mw1322
+Cached time: 20190504125301
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.260 seconds
+Real time usage: 0.358 seconds
+Preprocessor visited node count: 947/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 17270/2097152 bytes
+Template argument size: 1305/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 25175/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.139/10.000 seconds
+Lua memory usage: 3.54 MB/50 MB
+--> 
+   <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  316.834      1 -total
+ 67.91%  215.168      1 Template:Reflist
+ 42.57%  134.886      6 Template:Cite_book
+ 16.93%   53.642      1 Template:Commons_category
+ 15.52%   49.171      2 Template:Isbn
+  8.89%   28.169      1 Template:See_also
+  5.31%   16.839      2 Template:Harv
+  4.79%   15.166      1 Template:Commons
+  4.71%   14.932      2 Template:Catalog_lookup_link
+  4.46%   14.132      2 Template:Error-small
+--> 
+   <!-- Saved in parser cache with key enwiki:pcache:idhash:256700-0!canonical and timestamp 20190504125300 and revision id 889396577
+ --> 
+  </div>
+  <noscript>
+   <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+  </noscript>
+ </div> 
+ <div class="printfooter">
+  Retrieved from "
+  <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Mathematical_problem&amp;oldid=889396577">https://en.wikipedia.org/w/index.php?title=Mathematical_problem&amp;oldid=889396577</a>"
+ </div> 
+ <div id="catlinks" class="catlinks" data-mw="interface">
+  <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+   <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+   <ul>
+    <li><a href="/wiki/Category:Mathematics_education" title="Category:Mathematics education">Mathematics education</a></li>
+    <li><a href="/wiki/Category:Elementary_mathematics" title="Category:Elementary mathematics">Elementary mathemati

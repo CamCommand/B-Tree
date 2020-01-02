@@ -1,0 +1,727 @@
+<div id="bodyContent" class="mw-body-content"> 
+ <div id="siteSub" class="noprint">
+  From Wikipedia, the free encyclopedia
+ </div> 
+ <div id="contentSub"></div> 
+ <div id="jump-to-nav"></div> 
+ <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> 
+ <a class="mw-jump-link" href="#p-search">Jump to search</a> 
+ <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+  <div class="mw-parser-output">
+   <p><b>Athletics in Germany</b> is governed by <a href="/wiki/Deutscher_Leichtathletik-Verband" class="mw-redirect" title="Deutscher Leichtathletik-Verband">Deutscher Leichtathletik-Verband</a> founded on 29 January 1898.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> </p> 
+   <div id="toc" class="toc">
+    <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+    <div class="toctitle" lang="en" dir="ltr">
+     <h2>Contents</h2>
+     <span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+    </div> 
+    <ul> 
+     <li class="toclevel-1 tocsection-1"><a href="#All-time_top_lists"><span class="tocnumber">1</span> <span class="toctext">All-time top lists</span></a> 
+      <ul> 
+       <li class="toclevel-2 tocsection-2"><a href="#100_metres"><span class="tocnumber">1.1</span> <span class="toctext">100 metres</span></a></li> 
+       <li class="toclevel-2 tocsection-3"><a href="#200_metres"><span class="tocnumber">1.2</span> <span class="toctext">200 metres</span></a></li> 
+       <li class="toclevel-2 tocsection-4"><a href="#Pole_vault"><span class="tocnumber">1.3</span> <span class="toctext">Pole vault</span></a></li> 
+      </ul> </li> 
+     <li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">2</span> <span class="toctext">See also</span></a></li> 
+     <li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li> 
+     <li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li> 
+    </ul> 
+   </div> 
+   <h2><span class="mw-headline" id="All-time_top_lists">All-time top lists</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Athletics_in_Germany&amp;action=edit&amp;section=1" title="Edit section: All-time top lists">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <div role="note" class="hatnote navigation-not-searchable plainlinks">
+    This list is 
+    <a href="/wiki/Wikipedia:WikiProject_Lists#Incomplete_lists" title="Wikipedia:WikiProject Lists">incomplete</a>; you can help by 
+    <a class="external text" href="//en.wikipedia.org/w/index.php?title=Athletics_in_Germany&amp;action=edit">expanding it</a>.
+   </div> 
+   <p>The lists are updated as of February 22, 2013,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> and regard to the 21 individual <a href="/wiki/Athletics_at_the_Summer_Olympics" title="Athletics at the Summer Olympics">Olympic specialities</a>. For the <a href="/wiki/High_jump" title="High jump">high jump</a>, the <a href="/wiki/Pole_vault" title="Pole vault">pole vault</a>, the <a href="/wiki/Long_jump" title="Long jump">long jump</a>, the <a href="/wiki/Triple_jump" title="Triple jump">triple jump</a> and the <a href="/wiki/Shot_put" title="Shot put">shot put</a>, the performances also include the indoor competitions (measures are identified by (i) in the tables). </p> 
+   <div class="legend" style="-webkit-column-break-inside: avoid;page-break-inside: avoid;break-inside: avoid-column">
+    <span class="legend-color" style="display:inline-block; width:1.5em; height:1.5em; margin:1px 0; border:1px solid black; background-color: #FFC569; color:black; font-size:100%; text-align:center;">&nbsp;</span>&nbsp;Performance achieved in the current year
+   </div> 
+   <h3><span class="mw-headline" id="100_metres">100 metres</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Athletics_in_Germany&amp;action=edit&amp;section=2" title="Edit section: 100 metres">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+   <div> 
+    <table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;">
+     <tbody>
+      <tr> 
+       <td style="text-align: left; vertical-align: top;"> 
+        <dl>
+         <dt>
+          Men
+         </dt>
+        </dl> 
+        <table class="wikitable" width="100%" style="font-size:90%; text-align:center;"> 
+         <tbody>
+          <tr> 
+           <th>#</th> 
+           <th>Athlete</th> 
+           <th>Born</th> 
+           <th>Performance</th> 
+           <th>Venue</th> 
+           <th>Date </th>
+          </tr> 
+          <tr> 
+           <th>1 </th> 
+           <td align="left"><a href="/wiki/Julian_Reus" title="Julian Reus">Julian Reus</a></td> 
+           <td>1988</td> 
+           <td>10.01</td> 
+           <td align="left"><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600"></a></span> <a href="/wiki/Mannheim" title="Mannheim">Mannheim</a></td> 
+           <td>29 July 2016 </td>
+          </tr> 
+          <tr> 
+           <th>2 </th> 
+           <td align="left"><a href="/wiki/Frank_Emmelmann" title="Frank Emmelmann">Frank Emmelmann</a> (GDR)</td> 
+           <td>1961</td> 
+           <td>10.06</td> 
+           <td align="left"><span class="flagicon"><a href="/wiki/East_Germany" title="East Germany"><img alt="East Germany" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Flag_of_East_Germany.svg/23px-Flag_of_East_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Flag_of_East_Germany.svg/35px-Flag_of_East_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Flag_of_East_Germany.svg/46px-Flag_of_East_Germany.svg.png 2x" data-file-width="1000" data-file-height="600"></a></span> <a href="/wiki/Berlin" title="Berlin">Berlin</a></td> 
+           <td>22 September 1985 </td>
+          </tr> 
+          <tr> 
+           <th>3 </th> 
+           <td align="left"><a href="/wiki/Thomas_Schr%C3%B6der" title="Thomas Schröder">Thomas Schröder</a> (GDR)</td> 
+           <td>1962</td> 
+           <td>10.10</td> 
+           <td align="left"><span class="flagicon"><a href="/wiki/East_Germany" title="East Germany"><img alt="East Germany" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Flag_of_East_Germany.svg/23px-Flag_of_East_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Flag_of_East_Germany.svg/35px-Flag_of_East_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Flag_of_East_Germany.svg/46px-Flag_of_East_Germany.svg.png 2x" data-file-width="1000" data-file-height="600"></a></span> <a href="/wiki/Jena" title="Jena">Jena</a></td> 
+           <td>27 June 1986 </td>
+          </tr> 
+          <tr> 
+           <th>4 </th> 
+           <td align="left"><a href="/wiki/Sven_Matthes" title="Sven Matthes">Sven Matthes</a> (GDR)</td> 
+           <td>1969</td> 
+           <td>10.11</td> 
+           <td align="left"><span class="flagicon"><a href="/wiki/East_Germany" title="East Germany"><img alt="East Germany" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Flag_of_East_Germany.svg/23px-Flag_of_East_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Flag_of_East_Germany.svg/35px-Flag_of_East_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Flag_of_East_Germany.svg/46px-Flag_of_East_Germany.svg.png 2x" data-file-width="1000" data-file-height="600"></a></span> <a href="/wiki/Rostock" title="Rostock">Rostock</a></td> 
+           <td>22 June 1989 </td>
+          </tr> 
+          <tr> 
+           <th>5 </th> 
+           <td align="left"><a href="/wiki/Eugen_Ray" title="Eugen Ray">Eugen Ray</a> (GDR)</td> 
+           <td>1957</td> 
+           <td>10.12</td> 
+           <td align="left"><span class="flagicon"><a href="/wiki/East_Germany" title="East Germany"><img alt="East Germany" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Flag_of_East_Germany.svg/23px-Flag_of_East_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Flag_of_East_Germany.svg/35px-Flag_of_East_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Flag_of_East_Germany.svg/46px-Flag_of_East_Germany.svg.png 2x" data-file-width="1000" data-file-height="600"></a></span> <a href="/wiki/Jena" title="Jena">Jena</a></td> 
+           <td>27 June 1986 </td>
+          </tr> 
+          <tr> 
+           <th rowspan="2">6 </th> 
+           <td align="left"><a href="/wiki/Marc_Blume" title="Marc Blume">Marc Blume</a></td> 
+           <td>1973</td> 
+           <td>10.13</td> 
+           <td align="left"><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600"></a></span> <a href="/wiki/N%C3%BCrnberg" class="mw-redirect" title="Nürnberg">Nürnberg</a></td> 
+           <td>7 June 1996 </td>
+          </tr> 
+          <tr> 
+           <td align="left"><a href="/wiki/Steffen_Bringmann" title="Steffen Bringmann">Steffen Bringmann</a> (GDR)</td> 
+           <td>1964</td> 
+           <td>10.13</td> 
+           <td align="left"><span class="flagicon"><a href="/wiki/East_Germany" title="East Germany"><img alt="East Germany" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Flag_of_East_Germany.svg/23px-Flag_of_East_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Flag_of_East_Germany.svg/35px-Flag_of_East_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Flag_of_East_Germany.svg/46px-Flag_of_East_Germany.svg.png 2x" data-file-width="1000" data-file-height="600"></a></span> <a href="/wiki/Jena" title="Jena">Jena</a></td> 
+           <td>27 June 1986 </td>
+          </tr> 
+          <tr> 
+           <th rowspan="2">8 </th> 
+           <td align="left"><a href="/wiki/Tobias_Unger" title="Tobias Unger">Tobias Unger</a></td> 
+           <td>1979</td> 
+           <td>10.14</td> 
+           <td align="left"><span class="flagicon"><a href="/wiki/East_Germany" title="East Germany"><img alt="East Germany" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Flag_of_East_Germany.svg/23px-Flag_of_East_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Flag_of_East_Germany.svg/35px-Flag_of_East_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Flag_of_East_Germany.svg/46px-Flag_of_East_Germany.svg.png 2x" data-file-width="1000" data-file-height="600"></a></span> <a href="/wiki/Mannheim" title="Mannheim">Mannheim</a></td> 
+           <td>3 July 2010 </td>
+          </tr> 
+          <tr> 
+           <td align="left"><a href="/wiki/Alexander_Kosenkow" title="Alexander Kosenkow">Alexander Kosenkow</a></td> 
+           <td>1977</td> 
+           <td>10.14</td> 
+           <td align="left"><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600"></a></span> <a href="/wiki/Leverkusen" title="Leverkusen">Leverkusen</a></td> 
+           <td>3 August 2003 </td>
+          </tr> 
+          <tr> 
+           <th>10 </th> 
+           <td align="left"><a href="/wiki/Christian_Haas_(sprinter)" title="Christian Haas (sprinter)">Christian Haas</a> (FRG)</td> 
+           <td>1958</td> 
+           <td>10.16</td> 
+           <td align="left"><span class="flagicon"><a href="/wiki/West_Germany" title="West Germany"><img alt="West Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600"></a></span> <a href="/wiki/Bremen" title="Bremen">Bremen</a></td> 
+           <td>24 June 1983 </td>
+          </tr>
+         </tbody>
+        </table> <p> </p> </td> 
+       <td style="text-align: left; vertical-align: top;"> 
+        <dl>
+         <dt>
+          Women
+         </dt>
+        </dl> 
+        <table class="wikitable" width="100%" style="font-size:90%; text-align:center;"> 
+         <tbody>
+          <tr> 
+           <th>#</th> 
+           <th>Athlete</th> 
+           <th>Born</th> 
+           <th>Performance</th> 
+           <th>Venue</th> 
+           <th>Date </th>
+          </tr> 
+          <tr> 
+           <th>1 </th> 
+           <td align="left"><a href="/wiki/Marlies_G%C3%B6hr" title="Marlies Göhr">Marlies Göhr</a> (GDR)</td> 
+           <td>1958</td> 
+           <td>10.81</td> 
+           <td align="left"><span class="flagicon"><a href="/wiki/East_Germany" title="East Germany"><img alt="East Germany" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Flag_of_East_Germany.svg/23px-Flag_of_East_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Flag_of_East_Germany.svg/35px-Flag_of_East_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Flag_of_East_Germany.svg/46px-Flag_of_East_Germany.svg.png 2x" data-file-width="1000" data-file-height="600"></a></span> <a href="/wiki/Berlin" title="Berlin">Berlin</a></td> 
+           <td>8 August 1983 </td>
+          </tr> 
+          <tr> 
+           <th>2 </th> 
+           <td align="left"><a href="/wiki/Marita_Koch" title="Marita Koch">Marita Koch</a> (GDR)</td> 
+           <td>1957</td> 
+           <td>10.83</td> 
+           <td align="left"><span class="flagicon"><a href="/wiki/East_Germany" title="East Germany"><img alt="East Germany" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Flag_of_East_Germany.svg/23px-Flag_of_East_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Flag_of_East_Germany.svg/35px-Flag_of_East_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Flag_of_East_Germany.svg/46px-Flag_of_East_Germany.svg.png 2x" data-file-width="1000" data-file-height="600"></a></span> <a href="/wiki/Berlin" title="Berlin">Berlin</a></td> 
+           <td>8 August 1983 </td>
+          </tr> 
+          <tr> 
+           <th>3 </th> 
+           <td align="left"><a href="/wiki/Silke_M%C3%B6ller" title="Silke Möller">Silke Möller</a> (GDR)</td> 
+           <td>1964</td> 
+           <td>10.86</td> 
+           <td align="left"><span class="flagicon"><a href="/wiki/East_Germany" title="East Germany"><img alt="East Germany" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Flag_of_East_Germany.svg/23px-Flag_of_East_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Flag_of_East_Germany.svg/35px-Flag_of_East_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Flag_of_East_Germany.svg/46px-Flag_of_East_Germany.svg.png 2x" data-file-width="1000" data-file-height="600"></a></span> <a href="/wiki/Potsdam" title="Potsdam">Potsdam</a></td> 
+           <td>20 August 1987 </td>
+          </tr> 
+          <tr> 
+           <th>4 </th> 
+           <td align="left"><a href="/wiki/Katrin_Krabbe" title="Katrin Krabbe">Katrin Krabbe</a> (GDR)</td> 
+           <td>1969</td> 
+           <td>10.89</td> 
+           <td align="left"><span class="flagicon"><a href="/wiki/East_Germany" title="East Germany"><img alt="East Germany" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Flag_of_East_Germany.svg/23px-Flag_of_East_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Flag_of_East_Germany.svg/35px-Flag_of_East_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Flag_of_East_Germany.svg/46px-Flag_of_East_Germany.svg.png 2x" data-file-width="1000" data-file-height="600"></a></span> <a href="/wiki/Berlin" title="Berlin">Berlin</a></td> 
+           <td>20 July 1988 </td>
+          </tr> 
+          <tr> 
+           <th>5 </th> 
+           <td align="left"><a href="/wiki/Heike_Drechsler" title="Heike Drechsler">Heike Drechsler</a> (GDR)</td> 
+           <td>1964</td> 
+           <td>10.91</td> 
+           <td align="left"><span class="flagicon"><a href="/wiki/Soviet_Union" title="Soviet Union"><img alt="Soviet Union" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_Soviet_Union.svg/23px-Flag_of_the_Soviet_Union.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_Soviet_Union.svg/35px-Flag_of_the_Soviet_Union.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_Soviet_Union.svg/46px-Flag_of_the_Soviet_Union.svg.png 2x" data-file-width="1200" data-file-height="600"></a></span> <a href="/wiki/Moscow" title="Moscow">Moscow</a></td> 
+           <td>6 July 1986 </td>
+          </tr> 
+          <tr> 
+           <th>6 </th> 
+           <td align="left"><a href="/wiki/Gina_Luckenkemper" class="mw-redirect" title="Gina Luckenkemper">Gina Luckenkemper</a></td> 
+           <td>1996</td> 
+           <td>10.95</td> 
+           <td align="left"><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600"></a></span> <a href="/wiki/London" title="London">London</a></td> 
+           <td>5 August 2017 </td>
+          </tr> 
+          <tr> 
+           <th>= 6 </th> 
+           <td align="left"><a href="/wiki/B%C3%A4rbel_W%C3%B6ckel" title="Bärbel Wöckel">Bärbel Wöckel</a> (GDR)</td> 
+           <td>1955</td> 
+           <td>10.95</td> 
+           <td align="left"><span class="flagicon"><a href="/wiki/East_Germany" title="East Germany"><img alt="East Germany" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Flag_of_East_Germany.svg/23px-Flag_of_East_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Flag_of_East_Germany.svg/35px-Flag_of_East_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Flag_of_East_Germany.svg/46px-Flag_of_East_Germany.svg.png 2x" data-file-width="1000" data-file-height="600"></a></span> <a href="/wiki/Dresden" title="Dresden">Dresden</a></td> 
+           <td>1 July 1982 </td>
+          </tr> 
+          <tr> 
+           <th>8 </th> 
+           <td align="left"><a href="/wiki/Annegret_Richter" title="Annegret Richter">Annegret Richter</a> (FRG)</td> 
+           <td>1950</td> 
+           <td>11.01</td> 
+           <td align="left"><span class="flagicon"><a href="/wiki/Canada" title="Canada"><img alt="Canada" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/23px-Flag_of_Canada_%28Pantone%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/35px-Flag_of_Canada_%28Pantone%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/46px-Flag_of_Canada_%28Pantone%29.svg.png 2x" data-file-width="1200" data-file-height="600"></a></span> <a href="/wiki/Montreal" title="Montreal">Montreal</a></td> 
+           <td>25 July 1976 </td>
+          </tr> 
+          <tr> 
+           <th>9 </th> 
+           <td align="left"><a href="/wiki/Romy_M%C3%BCller" title="Romy Müller">Romy Müller</a> (GDR)</td> 
+           <td>1958</td> 
+           <td>11.02</td> 
+           <td align="left"><span class="flagicon"><a href="/wiki/East_Germany" title="East Germany"><img alt="East Germany" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Flag_of_East_Germany.svg/23px-Flag_of_East_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Flag_of_East_Germany.svg/35px-Flag_of_East_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Flag_of_East_Germany.svg/46px-Flag_of_East_Germany.svg.png 2x" data-file-width="1000" data-file-height="600"></a></span> <a href="/wiki/Dresden" title="Dresden">Dresden</a></td> 
+           <td>24 May 1980 </td>
+          </tr> 
+          <tr> 
+           <th>10 </th> 
+           <td align="left"><a href="/wiki/Monika_Hamann" title="Monika Hamann">Monika Hamann</a> (GDR)</td> 
+           <td>1954</td> 
+           <td>11.03</td> 
+           <td align="left"><span class="flagicon"><a href="/wiki/East_Germany" title="East Germany"><img alt="East Germany" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Flag_of_East_Germany.svg/23px-Flag_of_East_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Flag_of_East_Germany.svg/35px-Flag_of_East_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Flag_of_East_Germany.svg/46px-Flag_of_East_Germany.svg.png 2x" data-file-width="1000" data-file-height="600"></a></span> <a href="/wiki/Dresden" title="Dresden">Dresden</a></td> 
+           <td>1 July 1977 </td>
+          </tr> 
+          <tr> 
+           <th rowspan="3">11 </th> 
+           <td align="left"><a href="/wiki/Melanie_Paschke" title="Melanie Paschke">Melanie Paschke</a></td> 
+           <td>1970</td> 
+           <td>11.04</td> 
+           <td align="left"><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600"></a></span> <a href="/wiki/Bremen" title="Bremen">Bremen</a></td> 
+           <td>30 June 1995 </td>
+          </tr> 
+          <tr> 
+           <td align="left"><a href="/wiki/Ingrid_Auerswald" title="Ingrid Auerswald">Ingrid Auerswald</a> (GDR)</td> 
+           <td>1957</td> 
+           <td>11.04</td> 
+           <td align="left"><span class="flagicon"><a href="/wiki/Switzerland" title="Switzerland"><img alt="Switzerland" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Civil_Ensign_of_Switzerland.svg/23px-Civil_Ensign_of_Switzerland.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Civil_Ensign_of_Switzerland.svg/35px-Civil_Ensign_of_Switzerland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Civil_Ensign_of_Switzerland.svg/46px-Civil_Ensign_of_Switzerland.svg.png 2x" data-file-width="1500" data-file-height="1000"></a></span> <a href="/wiki/Z%C3%BCrich" title="Zürich">Zürich</a></td> 
+           <td>22 August 1984 </td>
+          </tr> 
+          <tr> 
+           <td align="left"><a href="/wiki/Inge_Helten" title="Inge Helten">Inge Helten</a> (FRG)</td> 
+           <td>1950</td> 
+           <td>11.04</td> 
+           <td align="left"><span class="flagicon"><a href="/wiki/West_Germany" title="West Germany"><img alt="West Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600"></a></span> <a href="/wiki/F%C3%BCrth" title="Fürth">Fürth</a></td> 
+           <td>13 June 1976 </td>
+          </tr>
+         </tbody>
+        </table> <p> </p> </td>
+      </tr>
+     </tbody>
+    </table>
+   </div> 
+   <h3><span class="mw-headline" id="200_metres">200 metres</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Athletics_in_Germany&amp;action=edit&amp;section=3" title="Edit section: 200 metres">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+   <div> 
+    <table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;">
+     <tbody>
+      <tr> 
+       <td style="text-align: left; vertical-align: top;"> 
+        <dl>
+         <dt>
+          Men
+         </dt>
+        </dl> 
+        <table class="wikitable" width="100%" style="font-size:90%; text-align:center;"> 
+         <tbody>
+          <tr> 
+           <th>#</th> 
+           <th>Athlete</th> 
+           <th>Born</th> 
+           <th>Performance</th> 
+           <th>Venue</th> 
+           <th>Date </th>
+          </tr> 
+          <tr> 
+           <th>1 </th> 
+           <td align="left"><a href="/wiki/Tobias_Unger" title="Tobias Unger">Tobias Unger</a></td> 
+           <td>1979</td> 
+           <td>20.20</td> 
+           <td align="left"><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600"></a></span> <a href="/wiki/Bochum" title="Bochum">Bochum</a></td> 
+           <td>03.7.2005 </td>
+          </tr> 
+          <tr> 
+           <th>2 </th> 
+           <td align="left"><a href="/wiki/Frank_Emmelmann" title="Frank Emmelmann">Frank Emmelmann</a> (GDR)</td> 
+           <td>1961</td> 
+           <td>20.23</td> 
+           <td align="left"><span class="flagicon"><a href="/wiki/Soviet_Union" title="Soviet Union"><img alt="Soviet Union" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_Soviet_Union.svg/23px-Flag_of_the_Soviet_Union.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_Soviet_Union.svg/35px-Flag_of_the_Soviet_Union.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_Soviet_Union.svg/46px-Flag_of_the_Soviet_Union.svg.png 2x" data-file-width="1200" data-file-height="600"></a></span> <a href="/wiki/Moscow" title="Moscow">Moscow</a></td> 
+           <td>18.8.1985 </td>
+          </tr> 
+          <tr> 
+           <th>3 </th> 
+           <td align="left"><a href="/wiki/Aleixo-Platini_Menga" title="Aleixo-Platini Menga">Aleixo-Platini Menga</a></td> 
+           <td>1987</td> 
+           <td>20.33</td> 
+           <td align="left"><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600"></a></span> <a href="/wiki/Mannheim" title="Mannheim">Mannheim</a></td> 
+           <td>09.06.2012 </td>
+          </tr> 
+          <tr> 
+           <th rowspan="4">4 </th> 
+           <td align="left"><a href="/wiki/Sebastian_Ernst" title="Sebastian Ernst">Sebastian Ernst</a></td> 
+           <td>1984</td> 
+           <td>20.37</td> 
+           <td align="left"><span class="flagicon"><a href="/wiki/Greece" title="Greece"><img alt="Greece" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/23px-Flag_of_Greece.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/35px-Flag_of_Greece.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/45px-Flag_of_Greece.svg.png 2x" data-file-width="600" data-file-height="400"></a></span> <a href="/wiki/Athens" title="Athens">Athens</a></td> 
+           <td>24.8.2004 </td>
+          </tr> 
+          <tr> 
+           <td align="left"><a href="/wiki/Eugen_Ray" title="Eugen Ray">Eugen Ray</a> (GDR)</td> 
+           <td>1957</td> 
+           <td>20.37</td> 
+           <td align="left"><span class="flagicon"><a href="/wiki/East_Germany" title="East Germany"><img alt="East Germany" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Flag_of_East_Germany.svg/23px-Flag_of_East_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Flag_of_East_Germany.svg/35px-Flag_of_East_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Flag_of_East_Germany.svg/46px-Flag_of_East_Germany.svg.png 2x" data-file-width="1000" data-file-height="600"></a></span> <a href="/wiki/Dresden" title="Dresden">Dresden</a></td> 
+           <td>07.8.1977 </td>
+          </tr> 
+          <tr> 
+           <td align="left"><a href="/wiki/J%C3%BCrgen_Evers" title="Jürgen Evers">Jürgen Evers</a> (FRG)</td> 
+           <td>1965</td> 
+           <td>20.37</td> 
+           <td align="left"><span class="flagicon"><a href="/wiki/Austria" title="Austria"><img alt="Austria" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/23px-Flag_of_Austria.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/35px-Flag_of_Austria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/45px-Flag_of_Austria.svg.png 2x" data-file-width="900" data-file-height="600"></a></span> <a href="/wiki/Schwechat" title="Schwechat">Schwechat</a></td> 
+           <td>28.8.1983 </td>
+          </tr> 
+          <tr> 
+           <td align="left"><a href="/wiki/Till_Helmke" title="Till Helmke">Till Helmke</a></td> 
+           <td>1984</td> 
+           <td>20.37</td> 
+           <td align="left"><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600"></a></span> <a href="/wiki/Wetzlar" title="Wetzlar">Wetzlar</a></td> 
+           <td>28.7.2007 </td>
+          </tr> 
+          <tr> 
+           <th>8 </th> 
+           <td align="left"><a href="/wiki/Ralf_L%C3%BCbke" title="Ralf Lübke">Ralf Lübke</a> (FRG)</td> 
+           <td>1965</td> 
+           <td>20.38</td> 
+           <td align="left"><span class="flagicon"><a href="/wiki/West_Germany" title="West Germany"><img alt="West Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600"></a></span> <a href="/wiki/Stuttgart" title="Stuttgart">Stuttgart</a></td> 
+           <td>04.8.1985 </td>
+          </tr> 
+          <tr> 
+           <th>9 </th> 
+           <td align="left"><a href="/wiki/Bernhard_Hoff" title="Bernhard Hoff">Bernhard Hoff</a> (GDR)</td> 
+           <td>1959</td> 
+           <td>20.39</td> 
+           <td align="left"><span class="flagicon"><a href="/wiki/East_Germany" title="East Germany"><img alt="East Germany" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Flag_of_East_Germany.svg/23px-Flag_of_East_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Flag_of_East_Germany.svg/35px-Flag_of_East_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Flag_of_East_Germany.svg/46px-Flag_of_East_Germany.svg.png 2x" data-file-width="1000" data-file-height="600"></a></span> <a href="/wiki/Cottbus" title="Cottbus">Cottbus</a></td> 
+           <td>18.7.1980 </td>
+          </tr> 
+          <tr> 
+           <th>10 </th> 
+           <td align="left"><a href="/wiki/Robert_Hering" title="Robert Hering">Robert Hering</a></td> 
+           <td>1990</td> 
+           <td>20.41</td> 
+           <td align="left"><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600"></a></span> <a href="/wiki/Ulm" title="Ulm">Ulm</a></td> 
+           <td>05.7.2009 </td>
+          </tr>
+         </tbody>
+        </table> <p> </p> </td> 
+       <td style="text-align: left; vertical-align: top;"> 
+        <dl>
+         <dt>
+          Women
+         </dt>
+        </dl> 
+        <table class="wikitable" width="100%" style="font-size:90%; text-align:center;"> 
+         <tbody>
+          <tr> 
+           <th>#</th> 
+           <th>Athlete</th> 
+           <th>Born</th> 
+           <th>Performance</th> 
+           <th>Venue</th> 
+           <th>Date </th>
+          </tr> 
+          <tr> 
+           <th rowspan="2">1 </th> 
+           <td align="left"><a href="/wiki/Heike_Drechsler" title="Heike Drechsler">Heike Drechsler</a> (GDR)</td> 
+           <td>1964</td> 
+           <td>21.71</td> 
+           <td align="left"><span class="flagicon"><a href="/wiki/East_Germany" title="East Germany"><img alt="East Germany" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Flag_of_East_Germany.svg/23px-Flag_of_East_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Flag_of_East_Germany.svg/35px-Flag_of_East_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Flag_of_East_Germany.svg/46px-Flag_of_East_Germany.svg.png 2x" data-file-width="1000" data-file-height="600"></a></span> <a href="/wiki/Jena" title="Jena">Jena</a></td> 
+           <td>27 June 1986 </td>
+          </tr> 
+          <tr> 
+           <td align="left"><a href="/wiki/Marita_Koch" title="Marita Koch">Marita Koch</a> (GDR)</td> 
+           <td>1957</td> 
+           <td>21.71</td> 
+           <td align="left"><span class="flagicon"><a href="/wiki/East_Germany" title="East Germany"><img alt="East Germany" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Flag_of_East_Germany.svg/23px-Flag_of_East_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Flag_of_East_Germany.svg/35px-Flag_of_East_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Flag_of_East_Germany.svg/46px-Flag_of_East_Germany.svg.png 2x" data-file-width="1000" data-file-height="600"></a></span> <a href="/wiki/Karl-Marx-Stadt" class="mw-redirect" title="Karl-Marx-Stadt">Karl-Marx-Stadt</a></td> 
+           <td>10 June 1979 </td>
+          </tr> 
+          <tr> 
+           <th rowspan="2">3 </th> 
+           <td align="left"><a href="/wiki/Marlies_G%C3%B6hr" title="Marlies Göhr">Marlies Göhr</a> (GDR)</td> 
+           <td>1958</td> 
+           <td>21.74</td> 
+           <td align="left"><span class="flagicon"><a href="/wiki/East_Germany" title="East Germany"><img alt="East Germany" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Flag_of_East_Germany.svg/23px-Flag_of_East_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Flag_of_East_Germany.svg/35px-Flag_of_East_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Flag_of_East_Germany.svg/46px-Flag_of_East_Germany.svg.png 2x" data-file-width="1000" data-file-height="600"></a></span> <a href="/wiki/Erfurt" title="Erfurt">Erfurt</a></td> 
+           <td>3 June 1984 </td>
+          </tr> 
+          <tr> 
+           <td align="left"><a href="/wiki/Silke_M%C3%B6ller" title="Silke Möller">Silke Möller</a> (GDR)</td> 
+           <td>1964</td> 
+           <td>21.74</td> 
+           <td align="left"><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000"></a></span> <a href="/wiki/Rome" title="Rome">Rome</a></td> 
+           <td>3 September 1987 </td>
+          </tr> 
+          <tr> 
+           <th>5 </th> 
+           <td align="left"><a href="/wiki/B%C3%A4rbel_W%C3%B6ckel" title="Bärbel Wöckel">Bärbel Wöckel</a> (GDR)</td> 
+           <td>1955</td> 
+           <td>21.85</td> 
+           <td align="left"><span class="flagicon"><a href="/wiki/East_Germany" title="East Germany"><img alt="East Germany" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Flag_of_East_Germany.svg/23px-Flag_of_East_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Flag_of_East_Germany.svg/35px-Flag_of_East_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Flag_of_East_Germany.svg/46px-Flag_of_East_Germany.svg.png 2x" data-file-width="1000" data-file-height="600"></a></span> <a href="/wiki/Potsdam" title="Potsdam">Potsdam</a></td> 
+           <td>21 July 1984 </td>
+          </tr> 
+          <tr> 
+           <th>6 </th> 
+           <td align="left"><a href="/wiki/Katrin_Krabbe" title="Katrin Krabbe">Katrin Krabbe</a> (GDR)</td> 
+           <td>1969</td> 
+           <td>21.95</td> 
+           <td align="left"><span class="flagicon"><a href="/wiki/Socialist_Federal_Republic_of_Yugoslavia" title="Socialist Federal Republic of Yugoslavia"><img alt="Socialist Federal Republic of Yugoslavia" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/Flag_of_Yugoslavia_%281946-1992%29.svg/23px-Flag_of_Yugoslavia_%281946-1992%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/Flag_of_Yugoslavia_%281946-1992%29.svg/35px-Flag_of_Yugoslavia_%281946-1992%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/61/Flag_of_Yugoslavia_%281946-1992%29.svg/46px-Flag_of_Yugoslavia_%281946-1992%29.svg.png 2x" data-file-width="900" data-file-height="450"></a></span> <a href="/wiki/Split,_Croatia" title="Split, Croatia">Split</a></td> 
+           <td>30 August 1990 </td>
+          </tr> 
+          <tr> 
+           <th>7 </th> 
+           <td align="left"><a href="/wiki/Gesine_Walther" title="Gesine Walther">Gesine Walther</a> (GDR)</td> 
+           <td>1962</td> 
+           <td>22.24</td> 
+           <td align="left"><span class="flagicon"><a href="/wiki/East_Germany" title="East Germany"><img alt="East Germany" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Flag_of_East_Germany.svg/23px-Flag_of_East_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Flag_of_East_Germany.svg/35px-Flag_of_East_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Flag_of_East_Germany.svg/46px-Flag_of_East_Germany.svg.png 2x" data-file-width="1000" data-file-height="600"></a></span> <a href="/wiki/Dresden" title="Dresden">Dresden</a></td> 
+           <td>3 July 1982 </td>
+          </tr> 
+          <tr> 
+           <th>8 </th> 
+           <td align="left"><a href="/wiki/Andrea_Philipp" title="Andrea Philipp">Andrea Philipp</a> (GDR)</td> 
+           <td>1971</td> 
+           <td>22.25</td> 
+           <td align="left"><span class="flagicon"><a href="/wiki/Spain" title="Spain"><img alt="Spain" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/45px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500"></a></span> <a href="/wiki/Sevilla" class="mw-redirect" title="Sevilla">Sevilla</a></td> 
+           <td>25 August 1999 </td>
+          </tr> 
+          <tr> 
+           <th>9 </th> 
+           <td align="left"><a href="/wiki/Silke-Beate_Knoll" title="Silke-Beate Knoll">Silke Knoll</a> (FRG)</td> 
+           <td>1967</td> 
+           <td>22.29</td> 
+           <td align="left"><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600"></a></span> <a href="/wiki/Ingolstadt" title="Ingolstadt">Ingolstadt</a></td> 
+           <td>19 July 1992 </td>
+          </tr> 
+          <tr> 
+           <th>10 </th> 
+           <td align="left"><a href="/wiki/Kerstin_Behrendt" title="Kerstin Behrendt">Kerstin Behrendt</a> (GDR)</td> 
+           <td>1967</td> 
+           <td>22.36</td> 
+           <td align="left"><span class="flagicon"><a href="/wiki/East_Germany" title="East Germany"><img alt="East Germany" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Flag_of_East_Germany.svg/23px-Flag_of_East_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Flag_of_East_Germany.svg/35px-Flag_of_East_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Flag_of_East_Germany.svg/46px-Flag_of_East_Germany.svg.png 2x" data-file-width="1000" data-file-height="600"></a></span> <a href="/wiki/Karl-Marx-Stadt" class="mw-redirect" title="Karl-Marx-Stadt">Karl-Marx-Stadt</a></td> 
+           <td>12 June 1988 </td>
+          </tr>
+         </tbody>
+        </table> <p> </p> </td>
+      </tr>
+     </tbody>
+    </table>
+   </div> 
+   <h3><span class="mw-headline" id="Pole_vault">Pole vault</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Athletics_in_Germany&amp;action=edit&amp;section=4" title="Edit section: Pole vault">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+   <div> 
+    <table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;">
+     <tbody>
+      <tr> 
+       <td style="text-align: left; vertical-align: top;"> 
+        <dl>
+         <dt>
+          Men
+         </dt>
+        </dl> 
+        <table class="wikitable" width="100%" style="font-size:90%; text-align:center;"> 
+         <tbody>
+          <tr> 
+           <th>#</th> 
+           <th>Athlete</th> 
+           <th>Born</th> 
+           <th>Performance</th> 
+           <th>Venue</th> 
+           <th>Date </th>
+          </tr> 
+          <tr> 
+           <th rowspan="2">1 </th> 
+           <td align="left"><a href="/wiki/Bj%C3%B6rn_Otto" title="Björn Otto">Björn Otto</a> </td> 
+           <td>1977 </td> 
+           <td>6.01 m </td> 
+           <td align="left"><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600"></a></span> <a href="/wiki/Aachen" title="Aachen">Aachen</a> </td> 
+           <td>5 September 2012 </td>
+          </tr> 
+          <tr> 
+           <td align="left"><a href="/wiki/Danny_Ecker" title="Danny Ecker">Danny Ecker</a> </td> 
+           <td>1977 </td> 
+           <td>6.01 m (i) </td> 
+           <td align="left"><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600"></a></span> <a href="/wiki/Dortmund" title="Dortmund">Dortmund</a> </td> 
+           <td>11 February 2001 </td>
+          </tr> 
+          <tr> 
+           <th>3 </th> 
+           <td align="left"><a href="/wiki/Tim_Lobinger" title="Tim Lobinger">Tim Lobinger</a> </td> 
+           <td>1972 </td> 
+           <td>6.00 m </td> 
+           <td align="left"><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600"></a></span> <a href="/wiki/Cologne" title="Cologne">Cologne</a> </td> 
+           <td>24 August 1997 </td>
+          </tr> 
+          <tr> 
+           <th rowspan="2">4 </th> 
+           <td align="left"><a href="/wiki/Michael_Stolle" title="Michael Stolle">Michael Stolle</a> </td> 
+           <td>1974 </td> 
+           <td>5.95 m </td> 
+           <td align="left"><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600"></a></span> <a href="/wiki/Munich" title="Munich">Munich</a> </td> 
+           <td>18 August 2000 </td>
+          </tr> 
+          <tr> 
+           <td align="left"><a href="/wiki/Andrej_Tiwontschik" class="mw-redirect" title="Andrej Tiwontschik">Andrej Tiwontschik</a> </td> 
+           <td>1970 </td> 
+           <td>5.95 m </td> 
+           <td align="left"><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600"></a></span> <a href="/wiki/Cologne" title="Cologne">Cologne</a> </td> 
+           <td>16 August 1996 </td>
+          </tr> 
+          <tr> 
+           <th rowspan="2">6 </th> 
+           <td align="left"><a href="/wiki/Raphael_Holzdeppe" title="Raphael Holzdeppe">Raphael Holzdeppe</a> </td> 
+           <td>1989 </td> 
+           <td>5.91 m </td> 
+           <td align="left"><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600"></a></span> <a href="/wiki/London" title="London">London</a> </td> 
+           <td>10 August 2012 </td>
+          </tr> 
+          <tr> 
+           <td align="left"><a href="/wiki/Malte_Mohr" title="Malte Mohr">Malte Mohr</a> </td> 
+           <td>1986 </td> 
+           <td>5.91 m </td> 
+           <td align="left"><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600"></a></span> <a href="/wiki/Ingolstadt" title="Ingolstadt">Ingolstadt</a> </td> 
+           <td>22 June 2012 </td>
+          </tr> 
+          <tr> 
+           <th rowspan="2">8 </th> 
+           <td align="left"><a href="/wiki/Lars_B%C3%B6rgeling" title="Lars Börgeling">Lars Börgeling</a> </td> 
+           <td>1977 </td> 
+           <td>5.85 m </td> 
+           <td align="left"><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600"></a></span> <a href="/wiki/Leverkusen" title="Leverkusen">Leverkusen</a> </td> 
+           <td>27 July 2002 </td>
+          </tr> 
+          <tr> 
+           <td align="left"><a href="/wiki/Richard_Spiegelburg" title="Richard Spiegelburg">Richard Spiegelburg</a> </td> 
+           <td>1977 </td> 
+           <td>5.85 m </td> 
+           <td align="left"><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600"></a></span> <a href="/wiki/Stuttgart" title="Stuttgart">Stuttgart</a> </td> 
+           <td>30 June 2001 </td>
+          </tr> 
+          <tr> 
+           <th>10 </th> 
+           <td align="left"><a href="/wiki/Fabian_Schulze" title="Fabian Schulze">Fabian Schulze</a> </td> 
+           <td>1984 </td> 
+           <td>5.83 m (i) </td> 
+           <td align="left"><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600"></a></span> <a href="/wiki/Stuttgart" title="Stuttgart">Stuttgart </a> </td> 
+           <td>3 February 2007 </td>
+          </tr>
+         </tbody>
+        </table> <p> </p> </td> 
+       <td style="text-align: left; vertical-align: top;"> 
+        <dl>
+         <dt>
+          Women
+         </dt>
+        </dl> 
+        <table class="wikitable" width="100%" style="font-size:90%; text-align:center;"> 
+         <tbody>
+          <tr> 
+           <th>#</th> 
+           <th>Athlete</th> 
+           <th>Born</th> 
+           <th>Performance</th> 
+           <th>Venue</th> 
+           <th>Date </th>
+          </tr> 
+          <tr> 
+           <th>1 </th> 
+           <td align="left"><a href="/wiki/Silke_Spiegelburg" title="Silke Spiegelburg">Silke Spiegelburg</a></td> 
+           <td>1986</td> 
+           <td>4.82 m</td> 
+           <td align="left"><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600"></a></span> <a href="/wiki/Munich" title="Munich">Munich</a></td> 
+           <td>20 July 2012 </td>
+          </tr> 
+          <tr> 
+           <th>2 </th> 
+           <td align="left"><a href="/wiki/Martina_Strutz" title="Martina Strutz">Martina Strutz</a></td> 
+           <td>1981</td> 
+           <td>4.80 m</td> 
+           <td align="left"><span class="flagicon"><a href="/wiki/South_Korea" title="South Korea"><img alt="South Korea" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/23px-Flag_of_South_Korea.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/35px-Flag_of_South_Korea.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/45px-Flag_of_South_Korea.svg.png 2x" data-file-width="900" data-file-height="600"></a></span> <a href="/wiki/Daegu" title="Daegu">Daegu</a></td> 
+           <td>30 August 2011 </td>
+          </tr> 
+          <tr> 
+           <th>3 </th> 
+           <td align="left"><a href="/wiki/Annika_Becker" title="Annika Becker">Annika Becker</a></td> 
+           <td>1981</td> 
+           <td>4.77 m</td> 
+           <td align="left"><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600"></a></span> <a href="/wiki/Bochum-Westenfeld" title="Bochum-Westenfeld">Bochum</a></td> 
+           <td>7 July 2002 </td>
+          </tr> 
+          <tr> 
+           <th>4 </th> 
+           <td align="left"><a href="/wiki/Carolin_Hingst" title="Carolin Hingst">Carolin Hingst</a></td> 
+           <td>1980</td> 
+           <td>4.72 m</td> 
+           <td align="left"><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600"></a></span> <a href="/wiki/Birenbach" title="Birenbach">Birenbach</a></td> 
+           <td>9 July 2010 </td>
+          </tr> 
+          <tr> 
+           <th>5 </th> 
+           <td align="left"><a href="/wiki/Balian_Buschbaum" title="Balian Buschbaum">Yvonne Buschbaum</a><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></td> 
+           <td>1980</td> 
+           <td>4.70 m</td> 
+           <td align="left"><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600"></a></span> <a href="/wiki/Ulm" title="Ulm">Ulm</a></td> 
+           <td>29 June 2003 </td>
+          </tr> 
+          <tr> 
+           <th>6 </th> 
+           <td align="left"><a href="/wiki/Anna_Battke" title="Anna Battke">Anna Battke</a></td> 
+           <td>1980</td> 
+           <td>4.68 m</td> 
+           <td align="left"><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600"></a></span> <a href="/wiki/Berlin" title="Berlin">Berlin</a></td> 
+           <td>14 June 2009 </td>
+          </tr> 
+          <tr> 
+           <th rowspan="2">7 </th> 
+           <td align="left"><a href="/wiki/Kristina_Gadschiew" title="Kristina Gadschiew">Kristina Gadschiew</a></td> 
+           <td>1984</td> 
+           <td>4.66 m (i)</td> 
+           <td align="left"><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600"></a></span> <a href="/wiki/Potsdam" title="Potsdam">Potsdam</a></td> 
+           <td>18 February 2011 </td>
+          </tr> 
+          <tr> 
+           <td align="left"><a href="/wiki/Christine_Adams_(athlete)" title="Christine Adams (athlete)">Christine Adams</a></td> 
+           <td>1974</td> 
+           <td>4.66 m (i)</td> 
+           <td align="left"><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600"></a></span> <a href="/wiki/Sindelfingen" title="Sindelfingen">Sindelfingen </a></td> 
+           <td>10 March 2002 </td>
+          </tr> 
+          <tr> 
+           <th>9 </th> 
+           <td align="left"><a href="/wiki/Lisa_Ryzih" title="Lisa Ryzih">Lisa Ryzih</a></td> 
+           <td>1988</td> 
+           <td>4.64 m</td> 
+           <td align="left"><span class="flagicon"><a href="/wiki/Spain" title="Spain"><img alt="Spain" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/45px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500"></a></span> <a href="/wiki/Barcelona" title="Barcelona">Barcelona</a></td> 
+           <td>30 July 2010 </td>
+          </tr> 
+          <tr> 
+           <th>10 </th> 
+           <td align="left"><a href="/wiki/Anastasija_Reiberger" title="Anastasija Reiberger">Nastja Ryshich</a></td> 
+           <td>1977</td> 
+           <td>4.63 m</td> 
+           <td align="left"><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600"></a></span> <a href="/wiki/N%C3%BCrnberg" class="mw-redirect" title="Nürnberg">Nürnberg</a></td> 
+           <td>29 July 2006 </td>
+          </tr>
+         </tbody>
+        </table> <p> </p> </td>
+      </tr>
+     </tbody>
+    </table>
+   </div> 
+   <h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Athletics_in_Germany&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <ul>
+    <li><a href="/wiki/Deutscher_Leichtathletik-Verband" class="mw-redirect" title="Deutscher Leichtathletik-Verband">Deutscher Leichtathletik-Verband</a></li> 
+    <li><a href="/wiki/German_records_in_athletics" class="mw-redirect" title="German records in athletics">German records in athletics</a></li> 
+    <li><a href="/wiki/East_Germany_national_athletics_team" title="East Germany national athletics team">East Germany national athletics team</a></li>
+   </ul> 
+   <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Athletics_in_Germany&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <div class="reflist" style="list-style-type: decimal;"> 
+    <div class="mw-references-wrap">
+     <ol class="references"> 
+      <li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.deutscher-leichtathletik-verband.de/index.php?SiteID=128">"DLV - Museum"</a> (in German). deutscher-leichtathletik-verband.de<span class="reference-accessdate">. Retrieved <span class="nowrap">23 February</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=DLV+-+Museum&amp;rft.pub=deutscher-leichtathletik-verband.de&amp;rft_id=http%3A%2F%2Fwww.deutscher-leichtathletik-verband.de%2Findex.php%3FSiteID%3D128&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAthletics+in+Germany" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span> </li> 
+      <li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20131224115534/http://www.leichtathletik.de/image.php?AID=9315">"„Ewige" Bestenliste der deutschen Leichtathletik"</a>. leichtathletik.de. 27 September 2012. Archived from <a rel="nofollow" class="external text" href="http://www.leichtathletik.de/image.php?AID=9315">the original</a> on 24 December 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">24 February</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=%E2%80%9EEwige%E2%80%9C+Bestenliste+der+deutschen+Leichtathletik&amp;rft.pub=leichtathletik.de&amp;rft.date=2012-09-27&amp;rft_id=http%3A%2F%2Fwww.leichtathletik.de%2Fimage.php%3FAID%3D9315&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAthletics+in+Germany" class="Z3988"></span>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+      <li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.apulanta.fi/matti/yu/nrs/GER_Men.html">"National Lists of Germany (Men)"</a>. apulanta.fi<span class="reference-accessdate">. Retrieved <span class="nowrap">24 February</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=National+Lists+of+Germany+%28Men%29&amp;rft.pub=apulanta.fi&amp;rft_id=http%3A%2F%2Fwww.apulanta.fi%2Fmatti%2Fyu%2Fnrs%2FGER_Men.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAthletics+in+Germany" class="Z3988"></span>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+      <li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.alltime-athletics.com/index.html">"Track and Field all-time"</a>. alltime-athletics.com<span class="reference-accessdate">. Retrieved <span class="nowrap">24 February</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Track+and+Field+all-time&amp;rft.pub=alltime-athletics.com&amp;rft_id=http%3A%2F%2Fwww.alltime-athletics.com%2Findex.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAthletics+in+Germany" class="Z3988"></span>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+      <li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Has since undergone gender reassignment surgery, now known as <a href="/wiki/Balian_Buschbaum" title="Balian Buschbaum">Balian Buschbaum</a>.</span> </li> 
+     </ol>
+    </div>
+   </div> 
+   <h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Athletics_in_Germany&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+   <ul>
+    <li><a rel="nofollow" class="external text" href="http://www.deutscher-leichtathletik-verband.de">Deutscher Leichtathletik-Verband</a> official site</li> 
+    <li><a rel="nofollow" class="external text" href="http://www.apulanta.fi/matti/yu/nrs/GER_Men.html">National Lists of Germany (Men)</a></li> 
+    <li><a rel="nofollow" class="external text" href="http://www.apulanta.fi/matti/yu/nrs/GER_Women.html">National Lists of Germany (Women)</a></li>
+   </ul> 
+   <!-- 
+NewPP limit report
+Parsed by mw1239
+Cached time: 20190423224722
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.328 seconds
+Real time usage: 0.455 seconds
+Preprocessor visited node count: 6657/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 37946/2097152 bytes
+Template argument size: 5575/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 11716/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.067/10.000 seconds
+Lua memory usage: 2.46 MB/50 MB
+--> 
+   <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  306.894      1 -total
+ 43.65%  133.971     63 Template:Flagicon
+ 35.13%  107.818      1 Template:Reflist
+ 29.57%   90.740      4 Template:Cite_web
+ 14.41%   44.225      1 Template:Expand_list
+  8.83%   27.114      1 Template:Hatnote
+  7.11%   21.825     63 Template:Yesno-no
+  6.56%   20.142     63 Template:Flagicon/core
+  6.35%   19.501     27 Template:Country_data_GER
+  6.02%   18.463      1 Template:TDMCA
+--> 
+   <!-- Saved in parser cache with key enwiki:pcache:idhash:38615626-0!canonical and timestamp 20190423224721 and revision id 889557453
+ --> 
+  </div
