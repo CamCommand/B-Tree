@@ -56,7 +56,7 @@ public class BTree<Key extends Comparable<Key>, Value> {
         return null;
     }
 
-    //Inserts the key-value pair into the symbol table, overwriting the old value
+    // Inserts the key-value pair into the symbol table, overwriting the old value
     //  with the new value if the key is already in the symbol table
     public void put(Key key, Value val) {
         if (key == null) throw new IllegalArgumentException("argument key to put() is null");
@@ -113,7 +113,7 @@ public class BTree<Key extends Comparable<Key>, Value> {
         return t;
     }
 
-   //check for me dont worry
+   // check for me dont worry
     public String toString() {
         return toString(root, height, "") + "\n";
     }
@@ -160,7 +160,7 @@ public class BTree<Key extends Comparable<Key>, Value> {
     private static class Entry {
         private final Object val;
         private Comparable key;
-        private Node next;//helper field to iterate over array entries
+        private Node next;                         //helper field to iterate over array entries
 
         public Entry(Comparable key, Object val, Node next) {
             this.key = key;
